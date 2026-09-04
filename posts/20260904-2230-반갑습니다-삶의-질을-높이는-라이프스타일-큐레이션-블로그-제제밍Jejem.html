@@ -86,5 +86,32 @@
     <p>© 2026 제제밍 (Jejeming). All rights reserved.</p>
     <p style="font-size:12px; color:#94a3b8; margin-top:6px;">도메인: jejeming.co.uk | Cloudflare Pages 초고속 호스팅</p>
   </footer>
+<script>
+(function() {
+  var TRACK_URL = 'https://inspection-grade-statement-accordance.trycloudflare.com/api/analytics/track';
+  function sendTrack(type, extra) {
+    try {
+      var payload = JSON.stringify(Object.assign({
+        event_type: type,
+        target_slug: window.location.pathname.replace(/^\/posts\//, '').replace(/\.html$/, '') || 'home',
+        target_title: document.title.split(' - ')[0] || '',
+        referrer: document.referrer || 'direct'
+      }, extra || {}));
+      if (navigator.sendBeacon) {
+        navigator.sendBeacon(TRACK_URL, payload);
+      } else {
+        fetch(TRACK_URL, { method: 'POST', body: payload, headers: {'Content-Type': 'application/json'}, keepalive: true }).catch(function(){});
+      }
+    } catch(e) {}
+  }
+  sendTrack('pageview');
+  document.addEventListener('click', function(e) {
+    var btn = e.target.closest('.btn-coupang, .btn-coupang-big, a[href*="coupang.com"]');
+    if (btn) {
+      sendTrack('click', { target_title: (btn.innerText || '').trim() || document.title });
+    }
+  });
+})();
+</script>
 </body>
 </html>
