@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jejeming.co.uk/sitemap.xml
+Sitemap: https://blog.jejeming.co.uk/sitemap.xml
