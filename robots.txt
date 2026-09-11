@@ -2,4 +2,3 @@ User-agent: *
 Allow: /
 
 Sitemap: https://blog.jejeming.co.uk/sitemap.xml
-Sitemap: https://blog.jejeming.co.uk/rss.xml
