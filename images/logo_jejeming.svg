@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240">
+  <defs>
+    <!-- Outer background gradient: subtle luxurious rose/peach -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFF1F2"/>
+      <stop offset="50%" stop-color="#FFE4E6"/>
+      <stop offset="100%" stop-color="#FECDD3"/>
+    </linearGradient>
+
+    <!-- Ring gradient -->
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FB7185"/>
+      <stop offset="50%" stop-color="#F43F5E"/>
+      <stop offset="100%" stop-color="#FDA4AF"/>
+    </linearGradient>
+
+    <!-- Text gradient: vibrant chic rose-pink -->
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E11D48"/>
+      <stop offset="60%" stop-color="#BE123C"/>
+      <stop offset="100%" stop-color="#9F1239"/>
+    </linearGradient>
+
+    <!-- Shadow filter -->
+    <filter id="softShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#F43F5E" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+
+  <!-- Outer Ring with Gradient -->
+  <circle cx="120" cy="120" r="114" fill="none" stroke="url(#ringGrad)" stroke-width="3.5" opacity="0.85"/>
+  <circle cx="120" cy="120" r="106" fill="url(#bgGrad)" filter="url(#softShadow)"/>
+
+  <!-- Inner subtle decorative dashed ring -->
+  <circle cx="120" cy="120" r="98" fill="none" stroke="#FDA4AF" stroke-width="1.2" stroke-dasharray="3 4" opacity="0.6"/>
+
+  <!-- Top Ribbon Icon / Sparkle -->
+  <g transform="translate(120, 52) scale(0.9)">
+    <!-- Small star sparkle -->
+    <path d="M0 -12 Q0 -2 10 0 Q0 2 0 12 Q0 2 -10 0 Q0 -2 0 -12 Z" fill="#F43F5E"/>
+    <circle cx="-16" cy="-4" r="2" fill="#FB7185" opacity="0.7"/>
+    <circle cx="16" cy="-4" r="2" fill="#FB7185" opacity="0.7"/>
+  </g>
+
+  <!-- Main Text "제제밍" -->
+  <text 
+    x="120" 
+    y="132" 
+    text-anchor="middle" 
+    fill="url(#textGrad)" 
+    font-family="'Pretendard', 'Apple SD Gothic Neo', -apple-system, sans-serif" 
+    font-size="44" 
+    font-weight="900" 
+    letter-spacing="-0.03em"
+  >제제밍</text>
+
+  <!-- Subtitle "JEJEMING CURATION" -->
+  <text 
+    x="120" 
+    y="160" 
+    text-anchor="middle" 
+    fill="#9F1239" 
+    font-family="'Pretendard', -apple-system, sans-serif" 
+    font-size="11" 
+    font-weight="800" 
+    letter-spacing="0.22em" 
+    opacity="0.8"
+  >JEJEMING</text>
+
+  <!-- Bottom mini dot accent -->
+  <circle cx="120" cy="178" r="2.5" fill="#F43F5E" opacity="0.75"/>
+</svg>
