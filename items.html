@@ -183,14 +183,14 @@
     </div>
 
     <!-- 쿠팡 실시간 가격 안내 배너 -->
-    <div class="w-full mt-6 mb-2 p-4 rounded-2xl bg-amber-50/70 border border-amber-200/60 text-amber-900 text-xs leading-relaxed space-y-1 shadow-sm">
-      <div class="font-bold flex items-center gap-1.5 text-amber-800 text-xs">
+    <div class="w-full mt-6 mb-2 p-4 rounded-2xl bg-slate-100/80 border border-slate-200/80 text-slate-700 text-xs leading-relaxed space-y-1 shadow-sm">
+      <div class="font-bold flex items-center gap-1.5 text-slate-800 text-xs">
         <span>💡</span>
-        <span>쿠팡 실시간 할인 혜택가 안내</span>
+        <span>쿠팡 실시간 특가 혜택 안내</span>
       </div>
-      <p class="text-[11px] text-amber-700 leading-normal">
-        • 본 큐레이션의 가격은 쿠팡 파트너스 공식 데이터와 <strong>와우회원 전용 할인 / 즉시할인 쿠폰</strong>이 적용된 최대 혜택가 기준입니다.<br/>
-        • 쿠팡의 실시간 가격 변동 알고리즘(다이내믹 프라이싱)에 따라 실제 쿠팡 앱/웹 결제창 진입 시 가격이 추가 할인되거나 변동될 수 있습니다.
+      <p class="text-[11px] text-slate-600 leading-normal">
+        • 각 상품의 실시간 특가 및 와우회원 전용 할인 혜택은 [쿠팡 최저가 확인 🚀] 버튼을 통해 쿠팡 공식 페이지에서 실시간으로 확인하실 수 있습니다.<br/>
+        • 쿠팡의 실시간 가격 변동 알고리즘 및 맞춤 혜택에 따라 가장 유리한 조건으로 구매하실 수 있습니다.
       </p>
     </div>
 
@@ -225,16 +225,9 @@
             <span class="text-[10px] text-amber-500 font-bold">⭐ 4.9 만족도</span>
           </div>
           <h3 id="modalTitle" class="text-xs font-bold text-slate-900 leading-snug line-clamp-2">상품명</h3>
-          <div class="mt-1">
-            <div class="flex items-baseline gap-1.5 flex-wrap">
-              <span id="modalOrigPrice" class="text-[11px] text-slate-400 line-through font-normal"></span>
-              <span id="modalDiscountRate" class="text-[11px] font-black text-rose-500"></span>
-              <span id="modalPrice" class="text-sm font-black text-rose-600">8,900원</span>
-            </div>
-            <div class="flex items-center gap-1 mt-0.5">
-              <span class="text-[9px] font-bold text-rose-600 bg-rose-50 border border-rose-200/80 px-1 py-0.5 rounded">🏷️ 와우·쿠폰 할인가</span>
-              <span class="text-[9px] font-bold text-sky-600 bg-sky-50 border border-sky-100 px-1 py-0.5 rounded">🚀 로켓배송</span>
-            </div>
+          <div class="flex items-center gap-1.5 mt-2">
+            <span class="text-[10px] font-bold text-rose-600 bg-rose-50 border border-rose-200/80 px-2 py-0.5 rounded-md">⚡ 실시간 특가 혜택</span>
+            <span class="text-[9px] font-bold text-sky-600 bg-sky-50 border border-sky-100 px-1.5 py-0.5 rounded">🚀 로켓배송</span>
           </div>
         </div>
       </div>
@@ -265,9 +258,9 @@
         </div>
       </div>
 
-      <div class="mb-4 p-2.5 bg-amber-50/80 border border-amber-200/60 rounded-xl text-[11px] text-amber-900 leading-snug flex items-start gap-1.5">
-        <span class="text-xs">💡</span>
-        <span><strong>할인 꿀팁:</strong> 와우회원 즉시할인 또는 결제 페이지 다운로드 쿠폰 적용 시 위 가격보다 더 저렴하게 구매하실 수 있습니다!</span>
+      <div class="mb-4 p-2.5 bg-rose-50/80 border border-rose-200/60 rounded-xl text-[11px] text-rose-900 leading-snug flex items-start gap-1.5">
+        <span class="text-xs">🏷️</span>
+        <span><strong>실시간 가격 확인:</strong> 쿠팡 실시간 와우 혜택 및 추가 할인가는 아래 버튼을 통해 바로 확인하실 수 있습니다.</span>
       </div>
 
       <a 
@@ -357,10 +350,7 @@
         var imgUrl = it.image_url || "https://images.unsplash.com/photo-1584438784894-089d6a62b8fa?w=600";
         var coupangUrl = it.coupang_url || "#";
         var cat = escapeHtml(it.category || "생활꿀템");
-        var origPrice = it.original_price;
-        var discountRate = it.discount_rate;
-        var origPriceFormatted = origPrice ? Number(origPrice).toLocaleString() + '원' : '';
-        var priceFormatted = it.price ? Number(it.price).toLocaleString() + '원' : '쿠팡 최저가';
+
 
         var cro = it.cro || {};
         var beforeText = escapeHtml(cro.before || "매번 반복되는 귀찮고 번거로운 일상 스트레스...");
@@ -395,16 +385,9 @@
                     '<div class="flex-1 min-w-0">' +
                       '<h2 class="text-sm font-bold text-slate-900 leading-snug line-clamp-2">' + title + '</h2>' +
                       (summary ? '<p class="text-xs text-slate-500 mt-1 line-clamp-2 leading-relaxed">' + summary + '</p>' : '') +
-                      '<div class="mt-2">' +
-                        '<div class="flex items-baseline gap-1.5 flex-wrap">' +
-                          (origPriceFormatted ? '<span class="text-xs text-slate-400 line-through font-normal">' + origPriceFormatted + '</span>' : '') +
-                          (discountRate ? '<span class="text-xs font-black text-rose-500">' + discountRate + '%↓</span>' : '') +
-                          '<span class="text-sm font-black text-slate-900">' + priceFormatted + '</span>' +
-                        '</div>' +
-                        '<div class="flex items-center gap-1.5 mt-1">' +
-                          '<span class="text-[10px] font-bold text-rose-600 bg-rose-50 border border-rose-200/80 px-1.5 py-0.5 rounded-md">🏷️ 와우·쿠폰 할인가</span>' +
-                          '<span class="text-[9px] font-bold text-sky-600 bg-sky-50 border border-sky-100 px-1 py-0.5 rounded">🚀 로켓배송</span>' +
-                        '</div>' +
+                      '<div class="flex items-center gap-1.5 mt-2.5">' +
+                        '<span class="text-[10px] font-bold text-rose-600 bg-rose-50 border border-rose-200/80 px-2 py-0.5 rounded-md">⚡ 실시간 특가 확인</span>' +
+                        '<span class="text-[9px] font-bold text-sky-600 bg-sky-50 border border-sky-100 px-1.5 py-0.5 rounded">🚀 로켓배송</span>' +
                       '</div>' +
                     '</div>' +
                   '</div>' +
@@ -493,18 +476,11 @@
       if (!item) return;
 
       var cro = item.cro || {};
-      var origPrice = item.original_price;
-      var discountRate = item.discount_rate;
-      var origPriceFormatted = origPrice ? Number(origPrice).toLocaleString() + '원' : '';
-      var priceFormatted = item.price ? Number(item.price).toLocaleString() + '원' : '쿠팡 최저가';
       var numStr = itemNum < 10 ? '0' + itemNum : itemNum;
 
       document.getElementById('modalNoBadge').innerText = 'No.' + numStr;
       document.getElementById('modalCat').innerText = item.category || '생활꿀템';
       document.getElementById('modalTitle').innerText = item.title || '';
-      document.getElementById('modalOrigPrice').innerText = origPriceFormatted;
-      document.getElementById('modalDiscountRate').innerText = discountRate ? discountRate + '%↓' : '';
-      document.getElementById('modalPrice').innerText = priceFormatted;
       document.getElementById('modalImg').src = item.image_url || '';
       
       document.getElementById('modalWhyBuy').innerText = cro.why_buy || '매일 겪는 일상의 사소한 불편함을 단 1초 만에 해결해 드립니다.';
