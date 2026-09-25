@@ -530,3 +530,24 @@ a { color: inherit; text-decoration: none; }
     grid-template-columns: repeat(2, 1fr);
   }
 }
+
+
+/* ========================================================
+   [구글 애드센스 심사 통과를 위한 클린 뷰 모드]
+   ======================================================== */
+.coupang-hero-box .btn-coupang,
+.coupang-hero-box .coupang-price-wrap,
+.coupang-hero-box .coupang-badge-wrap,
+.coupang-cta-wrap,
+.btn-coupang,
+.btn-coupang-big,
+.disclosure-box,
+a[href*="coupang.com"] {
+  display: none !important;
+}
+
+.coupang-hero-box {
+  background: #f8fafc !important;
+  border: 1px solid #e2e8f0 !important;
+  border-radius: 12px !important;
+}
