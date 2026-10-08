@@ -1248,11 +1248,11 @@
     let currentResultData = null;
     let generatedImageDataUrl = null;
 
-    // 카카오 SDK 초기화 (앱 키 등록 지원)
-    const KAKAO_JAVASCRIPT_KEY = '53ceba7b55f7bc865d83cfa5e2d1d0ab'; // 카카오 디벨로퍼스 JS 앱키
-    if (window.Kakao && !window.Kakao.isInitialized() && KAKAO_JAVASCRIPT_KEY && KAKAO_JAVASCRIPT_KEY !== 'YOUR_KAKAO_JS_KEY') {
+    // 카카오 SDK 초기화 (카카오 디벨로퍼스 등록 키가 있을 때만 초기화)
+    const KAKAO_JAVASCRIPT_KEY = ''; // 카카오 디벨로퍼스(developers.kakao.com) JavaScript 키 등록 시 피드형 공유 활성화
+    if (window.Kakao && !window.Kakao.isInitialized() && KAKAO_JAVASCRIPT_KEY && KAKAO_JAVASCRIPT_KEY.trim() !== '') {
       try {
-        window.Kakao.init(KAKAO_JAVASCRIPT_KEY);
+        window.Kakao.init(KAKAO_JAVASCRIPT_KEY.trim());
       } catch (e) {
         console.warn('Kakao init error:', e);
       }
