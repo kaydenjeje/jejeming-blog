@@ -29,12 +29,15 @@
   <link rel="stylesheet" href="/css/style.css?v=20261008">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
 
+  <!-- 카카오톡 공식 공유 JavaScript SDK -->
+  <script src="https://t1.kakaocdn.net/kakao_js_sdk/2.7.4/kakao.min.js"></script>
+
   <!-- Google AdSense -->
   <meta name="google-adsense-account" content="ca-pub-8409950194188154">
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8409950194188154" crossorigin="anonymous"></script>
 
   <!-- 동적 심리테스트 데이터베이스 로드 -->
-  <script src="/test/tests_data.js?v=20261008_2"></script>
+  <script src="/test/tests_data.js?v=20261008_3"></script>
 
   <style>
     :root {
@@ -884,27 +887,33 @@
     }
 
     .btn-kakao {
-      background: #fee500;
-      color: #000000;
+      background: #FEE500;
+      color: #191919;
       border: none;
-      padding: 15px;
+      padding: 15px 20px;
       border-radius: 14px;
-      font-size: 15px;
+      font-size: 15.5px;
       font-weight: 800;
       display: flex;
       align-items: center;
       justify-content: center;
-      gap: 8px;
+      gap: 10px;
       cursor: pointer;
-      box-shadow: 0 4px 12px rgba(254, 229, 0, 0.3);
-      transition: all 0.2s;
+      box-shadow: 0 4px 14px rgba(254, 229, 0, 0.45);
+      transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
     }
 
-    .btn-capture {
+    .btn-kakao:hover {
+      background: #fada0a;
+      transform: translateY(-2px);
+      box-shadow: 0 6px 18px rgba(254, 229, 0, 0.55);
+    }
+
+    .btn-copy-link {
       background: #ffffff;
-      color: #1e293b;
-      border: 2px solid #e2e8f0;
-      padding: 14px;
+      color: #334155;
+      border: 1.5px solid #cbd5e1;
+      padding: 14px 18px;
       border-radius: 14px;
       font-size: 14.5px;
       font-weight: 800;
@@ -916,11 +925,37 @@
       transition: all 0.2s;
     }
 
+    .btn-copy-link:hover {
+      background: #f8fafc;
+      border-color: #94a3b8;
+    }
+
+    .btn-capture {
+      background: #ffffff;
+      color: #1e293b;
+      border: 2px solid #e2e8f0;
+      padding: 14px 18px;
+      border-radius: 14px;
+      font-size: 14.5px;
+      font-weight: 800;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .btn-capture:hover {
+      background: #f8fafc;
+      border-color: #cbd5e1;
+    }
+
     .btn-other-tests {
       background: linear-gradient(135deg, #4f46e5 0%, #6366f1 100%);
       color: #ffffff;
       border: none;
-      padding: 15px;
+      padding: 15px 20px;
       border-radius: 14px;
       font-size: 15px;
       font-weight: 800;
@@ -930,6 +965,12 @@
       gap: 8px;
       cursor: pointer;
       box-shadow: 0 4px 12px rgba(79, 70, 229, 0.25);
+      transition: all 0.2s;
+    }
+
+    .btn-other-tests:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 18px rgba(79, 70, 229, 0.35);
     }
 
     /* 이미지 모달 */
@@ -1082,14 +1123,14 @@
       </div>
 
       <!-- 4. 로딩 화면 (SCREEN-LOADING) -->
-      <div class="screen" id="screen-loading">
+      <div class="screen loading-screen" id="screen-loading">
         <div class="pulse-heart">🔮</div>
         <div class="loading-text">답변을 분석하는 중입니다...</div>
         <div class="loading-sub">당신의 심리 지표와 맞춤 힐링 처방전을 준비하고 있어요</div>
       </div>
 
       <!-- 5. 결과 화면 (SCREEN-RESULT) -->
-      <div class="screen" id="screen-result">
+      <div class="screen result-screen" id="screen-result">
         <!-- 캡처 및 공유용 카드 영역 -->
         <div class="capture-container" id="capture-card">
           <div class="capture-header-brand">
@@ -1149,14 +1190,29 @@
 
         <!-- 액션 버튼 그룹 -->
         <div class="action-btn-group">
+          <!-- 1. 카카오톡으로 바로 공유하기 (공식 옐로우 버튼) -->
           <button class="btn-kakao" onclick="shareKakao()">
-            💬 결과 친구들에게 공유하기
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="#191919">
+              <path d="M12 3C6.477 3 2 6.477 2 10.767c0 2.766 1.879 5.187 4.707 6.518-.21.758-.767 2.76-.88 3.193-.14.542.197.535.416.39.172-.114 2.684-1.82 3.754-2.553.647.094 1.319.144 2.003.144 5.523 0 10-3.477 10-7.767C22 6.477 17.523 3 12 3z"/>
+            </svg>
+            <span>카카오톡으로 바로 공유하기</span>
           </button>
+
+          <!-- 2. 링크 복사하기 -->
+          <button class="btn-copy-link" onclick="copyResultLink(false)">
+            <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z"/></svg>
+            <span>결과 링크 복사하기</span>
+          </button>
+
+          <!-- 3. 고화질 이미지 저장하기 -->
           <button class="btn-capture" id="btn-capture-share" onclick="captureAndShareResult()">
-            📸 결과 카드 이미지 저장하기
+            <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
+            <span>결과 카드 이미지 저장하기</span>
           </button>
+
+          <!-- 4. 다른 테스트 목록으로 돌아가기 -->
           <button class="btn-other-tests" onclick="showHub()">
-            🧠 다른 심리테스트 더보기 →
+            <span>🧠 다른 심리테스트 더보기 →</span>
           </button>
         </div>
       </div>
@@ -1191,6 +1247,16 @@
     const userAnswers = [];
     let currentResultData = null;
     let generatedImageDataUrl = null;
+
+    // 카카오 SDK 초기화 (앱 키 등록 지원)
+    const KAKAO_JAVASCRIPT_KEY = '53ceba7b55f7bc865d83cfa5e2d1d0ab'; // 카카오 디벨로퍼스 JS 앱키
+    if (window.Kakao && !window.Kakao.isInitialized() && KAKAO_JAVASCRIPT_KEY && KAKAO_JAVASCRIPT_KEY !== 'YOUR_KAKAO_JS_KEY') {
+      try {
+        window.Kakao.init(KAKAO_JAVASCRIPT_KEY);
+      } catch (e) {
+        console.warn('Kakao init error:', e);
+      }
+    }
 
     window.addEventListener('DOMContentLoaded', () => {
       renderHubCards('all');
@@ -1410,7 +1476,7 @@
     }
 
     /* ========================================================
-       공유 및 이미지 캡처
+       카카오톡 및 SNS 바로 공유 기능
     ======================================================== */
     function getShareUrl() {
       return "https://blog.jejeming.co.uk/test/?t=" + currentTestKey;
@@ -1418,22 +1484,79 @@
 
     function shareKakao() {
       const shareUrl = getShareUrl();
-      const title = `[심리테스트 결과] 나의 유형은 '${currentResultData.name}'!`;
-      const desc = `"${currentResultData.headline}"\n\n내 마음의 심리 지표는 몇 점일까? 2분 만에 무료로 진단해보세요 🌸`;
+      const test = TESTS[currentTestKey] || {};
+      const resName = currentResultData ? currentResultData.name : '심리테스트';
+      const resHeadline = currentResultData ? currentResultData.headline : '';
+      const title = `[2026 무료 심리테스트] 나의 유형은 '${resName}'!`;
+      const desc = `"${resHeadline}"\n\n내 마음의 심리 지표는 몇 점일까? 2분 만에 무료로 진단해보세요 🌸`;
+      const imageUrl = "https://blog.jejeming.co.uk/images/og_mind_weather.jpg";
 
+      // 1. 카카오 공식 SDK 연동 (카카오톡 직접 실행 & 대형 피드 카드 전송)
+      if (window.Kakao && window.Kakao.isInitialized()) {
+        try {
+          window.Kakao.Share.sendDefault({
+            objectType: 'feed',
+            content: {
+              title: title,
+              description: desc,
+              imageUrl: imageUrl,
+              link: {
+                mobileWebUrl: shareUrl,
+                webUrl: shareUrl,
+              },
+            },
+            buttons: [
+              {
+                title: '나도 테스트 해보기 🧠',
+                link: {
+                  mobileWebUrl: shareUrl,
+                  webUrl: shareUrl,
+                },
+              },
+              {
+                title: '제제밍 블로그 구경하기 ✨',
+                link: {
+                  mobileWebUrl: 'https://blog.jejeming.co.uk/',
+                  webUrl: 'https://blog.jejeming.co.uk/',
+                },
+              },
+            ],
+          });
+          return;
+        } catch (err) {
+          console.warn('Kakao Share SDK execution error:', err);
+        }
+      }
+
+      // 2. 모바일 브라우저의 OS Native Share (카카오톡 앱 바로 선택 가능)
       if (navigator.share) {
-        navigator.share({ title: title, text: desc, url: shareUrl }).catch(() => {});
+        navigator.share({
+          title: title,
+          text: desc,
+          url: shareUrl
+        }).catch(() => {
+          copyResultLink(true);
+        });
       } else {
-        copyResultLink();
+        // 3. PC 환경 / 미지원 환경: 카톡 붙여넣기용 클립보드 안내
+        copyResultLink(true);
       }
     }
 
-    function copyResultLink() {
+    function copyResultLink(forKakao = false) {
       const shareUrl = getShareUrl();
-      navigator.clipboard.writeText(shareUrl).then(() => {
-        alert('테스트 링크가 복사되었습니다!\n친구들에게 링크를 공유해보세요:\n' + shareUrl);
+      const resName = currentResultData ? currentResultData.name : '심리테스트';
+      const resHeadline = currentResultData ? currentResultData.headline : '';
+      const shareText = `[2026 무료 심리테스트 결과]\n나의 유형: ${resName}\n"${resHeadline}"\n\n👉 나도 2분 만에 무료 진단해보기:\n${shareUrl}`;
+
+      navigator.clipboard.writeText(shareText).then(() => {
+        if (forKakao) {
+          alert('카카오톡 대화방에 바로 붙여넣기(Ctrl+V) 하실 수 있도록\n테스트 결과와 링크가 클립보드에 복사되었습니다! 💬\n\n카카오톡 친구에게 지금 바로 전달해보세요!');
+        } else {
+          alert('테스트 링크가 클립보드에 복사되었습니다! ✨\n원하는 곳에 붙여넣어 공유해보세요:\n\n' + shareUrl);
+        }
       }).catch(() => {
-        alert('주소창의 링크를 복사하여 공유해주세요:\n' + shareUrl);
+        alert('아래 링크를 복사하여 공유해주세요:\n' + shareUrl);
       });
     }
 
