@@ -1,1 +1,4 @@
 https://items.jejeming.co.uk/ /items 200
+/mind-weather-test /test/?t=weather 301
+/mind-weather-test/* /test/?t=weather 301
+/tests /test/ 301
