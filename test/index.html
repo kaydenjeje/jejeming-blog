@@ -1347,12 +1347,45 @@
       }
     }
 
+    // ── 실시간 분석 트래킹 비콘 (유입 및 전환 추적) ──
+    const TRACK_URL = 'https://blog-dash.jejeming.co.uk/api/analytics/track';
+    function sendTestTrack(type, extra) {
+      try {
+        const payload = JSON.stringify(Object.assign({
+          event_type: type,
+          target_slug: 'test/' + (currentTestKey || 'hub'),
+          target_title: (currentResultData ? currentResultData.name : (TESTS[currentTestKey]?.title || '심리테스트 허브')),
+          referrer: document.referrer || 'direct'
+        }, extra || {}));
+        if (navigator.sendBeacon) {
+          navigator.sendBeacon(TRACK_URL, payload);
+        } else {
+          fetch(TRACK_URL, { method: 'POST', body: payload, headers: {'Content-Type': 'application/json'}, keepalive: true }).catch(()=>{});
+        }
+      } catch(e) {}
+    }
+
+    // 초기 페이지뷰 전송
+    document.addEventListener('DOMContentLoaded', () => {
+      sendTestTrack('pageview');
+    });
+
+    // 쿠팡 맞춤 추천 아이템 클릭 트래킹
+    document.addEventListener('click', function(e) {
+      const rxCard = e.target.closest('.rx-item-card, a[href*="coupang.com"]');
+      if (rxCard) {
+        const titleEl = rxCard.querySelector('.rx-item-name');
+        sendTestTrack('click', { target_title: '[심리검사처방] ' + (titleEl ? titleEl.innerText.trim() : rxCard.innerText.trim()) });
+      }
+    });
+
     function startCurrentQuiz() {
       currentStep = 0;
       userAnswers.length = 0;
       switchScreen('screen-quiz');
       renderQuestion();
       window.scrollTo({ top: 0, behavior: 'smooth' });
+      sendTestTrack('test_start');
     }
 
     function renderQuestion() {
@@ -1473,6 +1506,9 @@
           </a>
         `).join('');
       }
+
+      // ── 테스트 완료 이벤트 전송 ──
+      sendTestTrack('test_complete', { target_title: res.name });
     }
 
     /* ========================================================
@@ -1486,6 +1522,7 @@
       const shareUrl = getShareUrl();
       const test = TESTS[currentTestKey] || {};
       const resName = currentResultData ? currentResultData.name : '심리테스트';
+      sendTestTrack('test_share_kakao', { target_title: resName });
       const resHeadline = currentResultData ? currentResultData.headline : '';
       const title = `[2026 무료 심리테스트] 나의 유형은 '${resName}'!`;
       const desc = `"${resHeadline}"\n\n내 마음의 심리 지표는 몇 점일까? 2분 만에 무료로 진단해보세요 🌸`;
@@ -1544,6 +1581,7 @@
     }
 
     function copyResultLink(forKakao = false) {
+      sendTestTrack(forKakao ? 'test_share_kakao' : 'test_share_link');
       const shareUrl = getShareUrl();
       const resName = currentResultData ? currentResultData.name : '심리테스트';
       const resHeadline = currentResultData ? currentResultData.headline : '';
