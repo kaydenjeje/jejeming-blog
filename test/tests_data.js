@@ -1203,5 +1203,209 @@ window.TESTS_DATABASE = [
     ],
     "participants": 177205,
     "created_at": "2026-10-08 22:03"
+  },
+  {
+    "id": "impostor_perfectionism_check",
+    "category": "직장/성장",
+    "title": "내가 혹시 가면을 쓰고 일하나? 직장인 가면 증후군 & 완벽주의 지수",
+    "subTitle": "일은 잘 해내는데 <span>언제 밑천 드러날까 봐</span> 늘 불안하다면?",
+    "desc": "칭찬을 들어도 '운이 좋았을 뿐'이라며 손사래 치고 계신가요?\n남몰래 유능한 척 연기하느라 방전된 직장인을 위한 현실 공감 가면 진단 테스트!",
+    "emoji": "🎭",
+    "tag": "가면증후군·완벽주의",
+    "viralBadge": "🔥 누적 184,300명이 뼈맞고 공유함",
+    "metricLabels": [
+      "가면 착용도",
+      "완벽주의 집착",
+      "자기의심 지수",
+      "방전 위험도"
+    ],
+    "questions": [
+      {
+        "category": "👏 칭찬 피드백",
+        "question": "상사가 전체 회의에서 '이번 프로젝트, OO 님이 하드캐리했어!'라며 극찬했을 때 내 속마음은?",
+        "a": "'아 망했다... 다음엔 기대치 감당 못 할 텐데 어쩌지? 뽀록난 기분이다.'",
+        "b": "'오예! 고생한 보람 있네 ㅎㅎ 오늘 저녁은 맛있는 거 먹어야지!'",
+        "score": 1
+      },
+      {
+        "category": "📄 오타 및 실수",
+        "question": "임원 보고서 제출 직후, 사소한 숫자 오타 하나를 뒤늦게 발견했을 때 내 반응은?",
+        "a": "심장이 쿵 내려앉고 손에 땀이 나며 '난 기본도 안 된 사람인가' 자책 모드 돌입",
+        "b": "'아차 싶지만 대세에 지장 없으니 다음 수정본 때 슬쩍 고쳐야지' 하고 털어냄",
+        "score": 1
+      },
+      {
+        "category": "💬 퇴근 후 슬랙",
+        "question": "퇴근 후 저녁 8시, 업무 메신저에 'OO 님, 내일 출근해서 얘기 좀 해요' 알림이 떴다면?",
+        "a": "'나 뭐 잘못했나? 계약 파기됐나?' 등골이 서늘해져 밤새 온갖 시나리오를 씀",
+        "b": "'내일 출근해서 확인하면 되지 뭐~' 하고 알림 끄고 넷플릭스 봄",
+        "score": 1
+      },
+      {
+        "category": "⏰ 마감 직전 퀄리티",
+        "question": "기획안이 90% 완성되었고 마감 시간이 3시간 남았을 때 나의 행동은?",
+        "a": "폰트, 줄 간격, 단어 하나까지 밤새 뜯어고치며 100%가 될 때까지 못 넘김",
+        "b": "85~90% 수준이면 일단 피드백 받을 겸 초안으로 쿨하게 공유함",
+        "score": 1
+      },
+      {
+        "category": "🚀 새로운 R&R",
+        "question": "한 번도 해본 적 없는 규모가 큰 신규 프로젝트의 메인 담당자로 지정되었다면?",
+        "a": "'나 무능한 사기꾼인 거 들통나면 어쩌지? 날 너무 과대평가했네' 극심한 압박감",
+        "b": "'오 나를 믿어주네? 모르는 건 구글링하고 물어보면서 부딪쳐보자!'",
+        "score": 1
+      },
+      {
+        "category": "👥 동료의 멋진 성과",
+        "question": "동기가 임원들 앞에서 화려한 말솜씨와 피피티로 기립 박수를 받을 때 드는 생각은?",
+        "a": "'저 사람은 진짜 프로페셔널이다... 저 사이에 낀 나는 왜 이 모양이지?' 위축됨",
+        "b": "'오 발표 폼 미쳤다! 저 장표 스킬 나중에 내 발표 때 써먹어야겠다.'",
+        "score": 1
+      },
+      {
+        "category": "🆘 도움 요청하기",
+        "question": "혼자서는 도저히 풀리지 않는 난관에 부딪혔을 때 나의 대처법은?",
+        "a": "'물어보면 내 무능함이 탄로 날 텐데...' 혼자 끙끙 앓으며 야근으로 해결하려 함",
+        "b": "'선배님 혹시 5분만 시간 되실까요?' 즉시 도움을 구하고 빠르게 해결함",
+        "score": 1
+      },
+      {
+        "category": "🏖️ 연차 쓴 날",
+        "question": "연차 내고 평일 낮 햇살 받으며 카페에 앉아있을 때 문득 드는 기분은?",
+        "a": "팀원들이 내 몫까지 일하고 있을까 봐 묘하게 찝찝하고 죄책감이 스멀스멀 올라옴",
+        "b": "'이게 사는 거지! 회사 불타도 오늘은 내 알 바 아니다' 온전히 휴식을 즐김",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "유리멘탈 페르소나형 🎭",
+        "headline": "뽀록날까 봐 24시간 에이스를 연기 중인 숨은 능력자",
+        "emoji": "🎭",
+        "tag": "가면증후군 MAX",
+        "hashtags": [
+          "#가면증후군",
+          "#칭찬알레르기",
+          "#퇴근후방전",
+          "#프로의연기자"
+        ],
+        "bars": [
+          95,
+          92,
+          88,
+          90
+        ],
+        "summary": "남들은 당신을 일 잘하는 능력자로 보지만, 정작 본인은 '언제 내 밑천이 드러날지 모른다'는 불안감에 살얼음판을 걷고 있습니다. 성공은 전부 운이나 주변 도움 덕분이고, 사소한 실수는 100% 내 역량 부족이라며 스스로를 채찍질하느라 바쁩니다. 겉으로는 완벽한 프로의 모습을 유지하려 애쓰느라 퇴근만 하면 에너지가 완전히 방전되어 버립니다.",
+        "trap": "높아진 주변 기대치를 맞추려다 번아웃이 오기 쉽고, 완벽하지 못할 바엔 시작조차 두려워하는 회피 기제에 빠질 수 있습니다.",
+        "advice": "당신의 성공은 절대 요행이 아니라 치열하게 쌓아온 실력입니다. '완벽한 미완성보다 80점짜리 완성이 낫다'는 말을 기억하고, 칭찬을 들었을 땐 변명 대신 담백하게 '감사합니다'를 외쳐보세요.",
+        "rx_keywords": [
+          "마음 챙김 감정 일기장",
+          "숙면 아로마 롤온"
+        ],
+        "prescriptions": [
+          {
+            "title": "감정일기 감정다이어리 마음일기 마음기록 감사일기 감정일기장 감사노트 한달감정일기 마음챙김 자존감 일기 다이어리",
+            "tag": "맞춤 케어 · 마음 챙김 감정 일기장",
+            "reason": "마음 챙김 감정 일기장 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/pHPl0zuFlzWXot9hpP6rQsWPvDjSzvYf3JgpAiLmFhwEGVb5_1y_a2lDkfqABc__mwzEoOiqp83wnTXn0_q-j9fP06VekKzgv5pKe_n-z7tysKQGigMCZqSsWBALIjZewerHWY2AinlpHe_xnbY4nQNY8Y646AbHUgzgMMJYc7Mv7mPF88oL0pdIoQcdqIRsZSGlXkrsNfClKxpn0dMnclfNtjaHk1GA0EyHjEWZ6ETQpxEnbmHL1__sR6kGhE1DFBceqMTiHnHJsiD3t-qv6NolHz4r991It7bzhaobe9pZ5CozTYQ0scmwUAdxGuMGyfjkP4Q06zzqDJlO9YStI1as5RZaKVyFjIAKVADbrVZxmkBNWGZeaMCTlwEotB8ESnu9jA3LgF8ImzgqIK_rXA8iLwUClzFwcPR9QILqXUr79WKj9Tshh5owNbtpkiI8McGIm9iJ18Zi8gj2CHHaT_EVevkNMhm0IfQUsHycNyqejbLFKFFfJY0Y7jO2odI4sn1k7XqZ2JPBnr39D_s9hFi8DRCYldKgeK84-TWYqTI=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9080712063&itemId=26676004894&vendorItemId=93648254084&traceid=V0-153-8d839b0d02c2a8e6&requestid=20261009145257171259151084&token=31850C%7CGM&pt=0&slot=1"
+          },
+          {
+            "title": "카오코탈라이푸 아로마 테라피 오일 롤온 굿슬립, 10ml, 1개",
+            "tag": "맞춤 케어 · 숙면 아로마 롤온",
+            "reason": "숙면 아로마 롤온 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/Vhyqj47Tx-ssx9QJVhfxnzImg239-8pdKEFRT8G8I_qE8ToRLEB2R6LGZojvNTImQ6bymj5mgvldYrADeOYPLj3J3u8GqAqOWis4vupayNY4JFC0ZkfqT6lnwGotoz6nkMlJ6o17wlX3a3mVXmiwg2kp-dPFDOh6bSOLudDgLQJ1BQLcmpNGJs38ck1HH-XSvwYx4oMbRF_o42o0b7Ke0ziJ5MvujaKwBG6fe9V0kK8nF-fgxbsOEfkh7C1ILpQLx_e3lySukoq2LjN_aqzu2JLz6l6zFOAKGGEnZg2A8Beg9oG3rVytWejn4T4ZJz_T4Hr6h5x5cT4tKtcKW8FgMGjduYAeAW-ILie6WjAswiIGGFYF0X-_fqMOEP5kU154FTs2cHOMwB7zlXWm5r9lheJuWfznu2NrPUoMvCpUffavFRgEY_P_D7KV5gITU0AyEP1bz2b0AGDysd_h5bLmQ4MpeB2yVJn5-a2qRcbEslcFywQKr8baFONbTHgs2x6tYc4nLrj4DPg=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9325893414&itemId=27644680639&vendorItemId=94607262174&traceid=V0-153-0e1a596580898ffa&clickBeacon=adb13cd0-c3a5-11f1-8ffa-ccf9f5d1a672%7E3&requestid=20261009145257548003859025&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "눈치 빠른 외줄타기형 🎪",
+        "headline": "잘하고 싶은 욕심과 쿨한 척 사이의 아슬아슬한 줄타기",
+        "emoji": "🎪",
+        "tag": "선택적 완벽주의",
+        "hashtags": [
+          "#선택적완벽주의",
+          "#겉바속촉멘탈",
+          "#내적갈등폭발",
+          "#사회생활만렙"
+        ],
+        "bars": [
+          65,
+          70,
+          58,
+          62
+        ],
+        "summary": "대외적으로는 '뭐 대충 하죠~' 하며 털털하고 유연한 척하지만, 마음속 특정 영역에서는 지독한 완벽주의가 꿈틀거립니다. 남들의 시선을 꽤 신경 쓰면서도 '너무 피곤하게 살지 말자'며 스스로 브레이크를 밟으려 애쓰는 현실 직장인의 모습입니다. 열심히 달리며 성과를 내다가도, 불현듯 '내가 지금 누구를 위해 이렇게까지 하지?'라는 현타가 찾아오곤 합니다.",
+        "trap": "남들 눈에는 늘 멀쩡하고 씩씩해 보여서 힘든 내색을 못 하다가, 혼자 속으로 삭이며 갑작스러운 무기력증을 겪을 수 있습니다.",
+        "advice": "모든 업무에서 100점을 맞을 필요는 없습니다. 내 에너지를 쏟을 핵심 1순위에만 힘을 주고, 나머지는 과감하게 '적당히' 버튼을 눌러보세요. 당신은 이미 충분히 밥값 이상을 해내고 있습니다.",
+        "rx_keywords": [
+          "노이즈 캔슬링 이어폰",
+          "스트레스 해소 릴리즈볼"
+        ],
+        "prescriptions": [
+          {
+            "title": "브리츠 무선 액티브 노이즈캔슬링 블루투스 이어폰, 화이트, MUSEPOP3",
+            "tag": "맞춤 케어 · 노이즈 캔슬링 이어폰",
+            "reason": "노이즈 캔슬링 이어폰 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/PoCoUulf6PLLFC40PjrrtbxNkAUQZnCWXWRqy6SJOWTv9bDKF_GY_9_rSpgr6f5sF-B9_OkLFbyJnZ9BWn4W2s_NVzClfy7N8cEh9e3v5DPmGT1U-7m9ySjS0ibk5RqaAtLvxDewLJtdY-h4mepCoWq7VEC_xNHBLSdi-l6VCvZiKoAvbBNVvkF32mZSkCm0FoF0ibuPNz7gy6gw-Z2O7f2zF6BIOOyldLOFlwhRHJVkHZDPJbzWwLMqSCegB02psXcEjIbN7z7qhVNB9BZkGMfUwDPjOmwNGI0Oyrjm8zb2c-yXnRi98I2TRkTF2kRQ2mmCLtcjw02n2FTrfNy-F7lhP4dQvJcnBHZe0zWMmn6xksz3kDq5gF0CxbHU9Pb3VLAVIVWniVI6uXDfqffSs_ixsq9QGdC3UcaIi1RLDR4Am-pPG2vCFhJBFx9Uv8Wb05uPKaEPM0kcHCjM46yLXZ7tPFFAVbeUqgwttzeLBNan5q2CHnavXFHV_nbB0NubAdYwf6S5tQ==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9715435848&itemId=29070814706&vendorItemId=95996986847&traceid=V0-153-a66f166808fb7cc1&clickBeacon=add2f5a0-c3a5-11f1-aaed-71230232e496%7E3&requestid=20261009145257771004461341&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "모아젤 로제 말랑 집중력 향상 스트레스볼 - 무소음 스퀴시 젤리볼, 1개, 265g, 파랑(Blue)",
+            "tag": "맞춤 케어 · 스트레스 해소 릴리즈볼",
+            "reason": "스트레스 해소 릴리즈볼 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/PIDpJE4ONvkmFRGaPKiFSEIbxS_m4_c5rxQ6AAH4U9i1u7QtcoEHD0KuAiqLALK4D6rq7F7l8jylmvrQgd_XYppPsKA6h-ZhDVmrpIK1Ixst8ZODtPNHy2OldTAWQKX7sajlUMATIY-GM_-T-03fKz2fdU3dAA2HFkRwbPJCHZr2eas7Xo-rVcSxMNmTpIJ7XDgQcTo3lioAzhY_wgXDz1C7RthrDykR6MJba4F1mrtw3I1jwRAzzfFuthxByxErFBRT7QwO8bM0484KNFXXjW36-FqdP1bxoXb6Z4QKApdfRXnHy4bkYjuBCO7NDasxP7xXm3NjjcY3YoV_xW7ULmtPiS6k74Mp-SCzzHtp2E011THhifcJg_3_DPvxsLukiM-XZKpR_hFspvZKrcTz4Fi9imtC4dJVHAfVV_b5ac2t9EA7dzgp5GboEZ1O6KnGVXQLJcD8uZn-dOozYadJ004s9_cySomRq_VcOGUqMXWUrG3bRaUDHpyv9iiVRRIpumAGDmaHWiSG4ISFec3l7GWUIrwYtLIz",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8793489574&itemId=25596816693&vendorItemId=95724341895&traceid=V0-153-6e08137168df5f21&clickBeacon=adf21660-c3a5-11f1-b901-d05246e5fcf6%7E3&requestid=20261009145257983246674313&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "강철 멘탈 프로 갓생러 🛡️",
+        "headline": "남의 시선은 쿨패스, 내 페이스대로 달리는 멘탈 금수저",
+        "emoji": "🛡️",
+        "tag": "자존감 만렙",
+        "hashtags": [
+          "#강철멘탈",
+          "#회복탄력성",
+          "#마이웨이",
+          "#직장인해탈경지"
+        ],
+        "bars": [
+          20,
+          25,
+          15,
+          18
+        ],
+        "summary": "실수는 단지 과정일 뿐 내 가치와는 무관하다는 건강한 분리 능력을 갖춘 멘탈 금수저입니다. 칭찬을 받으면 '맞아, 나 잘했지!'라며 뿌듯함을 온전히 흡수하고, 모르는 게 생겨도 부끄러워하기보다는 당당하게 물어봅니다. 타인과 나를 비교하며 갉아먹기보다 어제의 나보다 한 걸음 나아가는 것에 집중하며 일과 삶의 온오프 스위치가 확실합니다.",
+        "trap": "스스로의 기준이 편안하다 보니, 주변 완벽주의 동료들이 느끼는 특유의 불안이나 긴장감을 깊이 공감하지 못해 자칫 무심하게 비칠 수 있습니다.",
+        "advice": "지금의 건강한 회복탄력성을 꾸준히 지켜나가세요! 불안에 떨며 스스로를 의심하는 동료가 곁에 있다면, 당신의 덤덤하고 따뜻한 '별거 아니야, 잘하고 있어' 한마디가 최고의 구원투수가 됩니다.",
+        "rx_keywords": [
+          "프리미엄 릴랙스 티 세트",
+          "감성 데스크 오거나이저"
+        ],
+        "prescriptions": [
+          {
+            "title": "여성 중년 운동복 상하세트 인견 릴렉스 후드 셋업 엄마옷 스판원단 반팔티 밴딩팬츠",
+            "tag": "맞춤 케어 · 프리미엄 릴랙스 티 세트",
+            "reason": "프리미엄 릴랙스 티 세트 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/etSMK1bn_oZEzNTqerdEDT2kdNjvH-3f-Tn7HurRiG1qoAVrEEjbkNjg53wHzbmjatU4sAHxQdPg7WshIUn_6SpQIlfKFaSd1aT-ePNwJnmk0fPo6qFFahJZsgSf3QayKampRjzKZ6PNtpwxC3FQieHcnoj5W7RNq0H6WxEWn8qlHb6GYMBbfd3xj4FoVGH3LcdQxNhBeFYfWssSs5jainbVDAcA3ART0H0tho8bsjfeoc2oMU-rD4UhTMKCwt-KQjCrO6NMaiSIxW5mEsC3E7KSsTHnwaJAVuQbBmV0XxmYfnppg4pF1w8mq9jmtDTVEa8Gk2pQv93UGkkqoYQFvtsMvbIcITZ5CEThANIF5PrE9DhH4aR6IM1_JEhUk90ltWGAavlDKJytfVmmcbxWEKvVqwZWKCS8kx0LjflX458n0dWyMA2XpZJY83T7oOv4akVj-hJN4vNYyODqBJngEP6OQM97IOvLUnaFgHI5KZMl8EjJg03aWaZtbr30vNXJBYMNWkFvsw2iHoQgjJ7TM4GQY9qc0Q5JJDvyfqqZ9iU=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=7939894419&itemId=21865805048&vendorItemId=88913991872&traceid=V0-153-f757b1c0efa993ba&requestid=20261009145258297159950282&token=31850C%7CGM&pt=0&slot=1"
+          },
+          {
+            "title": "그리트 데스크 수납서랍 오거나이저, 화이트, 1개",
+            "tag": "맞춤 케어 · 감성 데스크 오거나이저",
+            "reason": "감성 데스크 오거나이저 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/D2jqPh487m7miMc0D5d9-GHfrzOuNxcoALaYi84uoxkiPmiK1L2aRDRWhWr9aaKA5b_axYauipRnKcFVU91DTnG63Oc1JnxWmmriClqSS83lKxm6YQn9XG3s7kPPfVs6TTuWg_FzTjbiRojUSrBnph3jfORbaMDEtBymMifANWEYfYCIKb50P9FlzuPRx1Cop4k8ho3FUhkeJWUkBv4UIFz4xmH6t7R6WVHj3yiiw_CiKmvRYONaoLvnmpQlx9r5TjvioILq5Wl-UyD76UBO9pL02VTb_sK2s7Sm1CMKFRo9XAVpC108nx2Mw-MTk5JPuhy4R6o_U4FVbYRtpK63lMMIp5qs3qIt2GD2kr9B7Kma35w3qflXdPtgHnmK4Z9Q7oc2fUv3EBpNegdfeVbwul3cfaC4HhJV25pYrLl_tfae-WyrdQqjLPis7v3OjU0dGSOMzSTZqVJfi-qUTD0KRvF3D10D-UoYd2vaE3yA7Dz4Wrhjar__APQYiPhKePpEgff-mZorwgCP",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8777698326&itemId=25537245060&vendorItemId=92528879913&traceid=V0-153-79c86ce8e45b5a39&clickBeacon=ae4da3e0-c3a5-11f1-9488-eddeadce5d0d%7E3&requestid=20261009145258591223628683&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 140627,
+    "created_at": "2026-10-09 14:52"
   }
 ];
