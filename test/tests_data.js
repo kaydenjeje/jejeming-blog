@@ -1611,5 +1611,209 @@ window.TESTS_DATABASE = [
     ],
     "participants": 157710,
     "created_at": "2026-10-10 02:52"
+  },
+  {
+    "id": "money_mbti_flex_vs_save",
+    "category": "소비/재테크",
+    "title": "짠테크 절약러 vs 감성 플렉스러! 나의 머니 MBTI 성향",
+    "subTitle": "내 통장은 <span>도파민 충전소</span>일까, <span>철벽 금고</span>일까?",
+    "desc": "오늘도 기분 따라 결제 버튼을 누르셨나요? 아니면 10원 단위 캐시백까지 챙기셨나요? 일상 속 8가지 선택으로 알아보는 나의 찐 머니 성향 테스트!",
+    "emoji": "💳",
+    "tag": "소비성향·머니MBTI",
+    "viralBadge": "🔥 누적 213,490명이 통장 진단 완료!",
+    "metricLabels": [
+      "감성 도파민력",
+      "즉흥 소비지수",
+      "통장 방어력",
+      "가성비 집착도"
+    ],
+    "questions": [
+      {
+        "category": "🛵 배달앱 주문 순간",
+        "question": "퇴근 후 떡볶이가 당기는데, 최소주문금액 부족에 배달비가 4,500원이다. 당신의 선택은?",
+        "a": "스트레스 풀려고 먹는 건데! 사이드 메뉴 팍팍 추가해서 바로 주문한다.",
+        "b": "배달비 4천 원은 선 넘었지. 옷 갈아입고 포장해 오거나 냉장고를 턴다.",
+        "score": 1
+      },
+      {
+        "category": "🔥 영혼 탈곡 퇴근길",
+        "question": "역대급 진상과 야근으로 멘탈이 털린 금요일 저녁, 지하철역 앞을 지나갈 때?",
+        "a": "\"오늘 하루 고생한 나를 위해!\" 백화점 들러 평소 봐둔 위시템을 지른다.",
+        "b": "\"내일 늦잠 자는 게 최고의 보약이다.\" 집 가서 라면 끓여 먹고 눕는다.",
+        "score": 1
+      },
+      {
+        "category": "☕ 핫플 카페 방문",
+        "question": "SNS에서 난리 난 신상 감성 카페, 아메리카노 한 잔에 8,500원이라면?",
+        "a": "공간 인테리어와 감성 사진값 포함이지! 시그니처 디저트까지 주문한다.",
+        "b": "커피 한 잔에 국밥 한 그릇 가격? 인스타 사진만 구경하고 저가 커피로 간다.",
+        "score": 1
+      },
+      {
+        "category": "⏳ 타임딜 카운트다운",
+        "question": "쇼핑몰 앱에서 '마감 임박 70% 할인! 남은 시간 10분' 팝업이 떴다. 내 행동은?",
+        "a": "\"이건 지금 안 사면 무조건 손해야!\" 일단 결제창부터 띄운다.",
+        "b": "\"내가 원래 필요했던 물건인가?\" 장바구니에 넣어두고 쿨하게 창을 닫는다.",
+        "score": 1
+      },
+      {
+        "category": "🚕 피곤한 출근길",
+        "question": "조금 늦잠을 자서 지하철을 타면 경보로 뛰어야 하고, 택시를 타면 만 원이 나온다.",
+        "a": "\"내 체력과 정신 건강이 만 원보단 소중해!\" 빛의 속도로 택시를 호출한다.",
+        "b": "\"택시비 만 원이면 점심값인데!\" 신발 끈 꽉 매고 지하철역으로 전력 질주한다.",
+        "score": 1
+      },
+      {
+        "category": "🎁 월급날 아침",
+        "question": "기다리고 기다리던 월급 입금 알림이 '띵동' 울렸을 때 가장 먼저 하는 일은?",
+        "a": "한 달 동안 장바구니에 고이 모셔둔 위시리스트 결제부터 털어버린다.",
+        "b": "적금 자동이체, 공과금 빠져나간 내역 확인하고 남은 가용 예산을 계산한다.",
+        "score": 1
+      },
+      {
+        "category": "🏷️ 오프라인 쇼핑",
+        "question": "지나가다 쇼윈도에서 마음에 쏙 드는 옷을 발견했다. 가격표를 보니 예산 초과일 때?",
+        "a": "\"핏이 이렇게 찰떡인데 안 사면 꿈에 나와!\" 무이자 할부 찬스를 쓴다.",
+        "b": "\"품번 기억해 뒀다가 인터넷 최저가 검색해 보고 3일 뒤에도 생각나면 사야지.\"",
+        "score": 1
+      },
+      {
+        "category": "🍻 친구들과의 모임",
+        "question": "오랜만에 친구들과 신나게 밥 먹고 2차까지 마셨다. 계산할 때 당신의 스타일은?",
+        "a": "\"분위기 좋은데 내가 쏠게!\" 혹은 1~2천 원 단위 귀찮아서 쿨하게 더 낸다.",
+        "b": "\"영수증 줘봐!\" 페이앱 정산하기 기능으로 100원 단위까지 깔끔하게 n분의 1 한다.",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "도파민 풀충전 감성 플렉스러 💸",
+        "headline": "기분이 태도가 되지 말랬는데, 기분이 통장 잔고가 되어버렸습니다.",
+        "emoji": "💸",
+        "tag": "탕진잼·감성소비",
+        "hashtags": [
+          "#월급로그아웃",
+          "#시발비용마스터",
+          "#기분파소비",
+          "#내일의내가갚겠지"
+        ],
+        "bars": [
+          95,
+          90,
+          20,
+          15
+        ],
+        "summary": "스트레스를 결제 알림음으로 해소하는 전형적인 '도파민 쇼퍼'입니다.\n'나를 위한 선물'이라는 명분 아래 위시리스트가 매주 갱신되며, 감정 기복에 따라 카드값이 널뛰기합니다.\n하지만 덕분에 트렌드에 가장 밝고 주변 사람들에게 아낌없이 베풀 줄 아는 분위기 메이커이기도 합니다.",
+        "trap": "'소확행'이라며 긁은 자잘한 1~2만 원이 모여 월말에 거대한 눈덩이가 되어 통장을 강타합니다.",
+        "advice": "결제 버튼을 누르기 전 딱 24시간만 장바구니에 묵혀두는 '장바구니 쿨링타임 룰'을 만들어보세요. 반은 안 사도 괜찮아집니다.",
+        "rx_keywords": [
+          "가계부 다이어리",
+          "아로마 롤온"
+        ],
+        "prescriptions": [
+          {
+            "title": "모트모트 쓰기 쉬운 머니 큐브 트래커 가계부, 혼합색상, 1개",
+            "tag": "맞춤 케어 · 가계부 다이어리",
+            "reason": "가계부 다이어리 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/mq5Tjf2Qn93l_KYcmjxglTKHhypyKjjdVi_ngfMdFVh4VxZdR_z_b-w79kLOufw7HkM4ZnDLGlWNmKJppaGmevJXepumEgM1XBAqmZqYhlm-jH46bG8U2d2_eulSn9niVwasbaAW2U1yptNO_HrXLQ6i-PHfw4HzFil3E4mjA8x7aFCj7zRZW7xzPjvoBVsb7bfrbpTsxWvxkSzYoiK-8vBXotOP5gsW5hTxrnlBD4vDFQd64TszXF94z6RCSm0t0vw6oFjqPzXQsULyZc_irzgle9e8m7iR9W0mSQNe-U2BXnQDGkHQ5yN5WGZ9w5Q6VtwAbAEBehqqnXTKA2BpdeufwytlXzS4xGR0Q60DQCudzOquXrnJ9RcdlPYMXxiWAHUZnBvm1cPRldIZyge44iawUN19isGkb6rhHodg2wQptJoIJTNEMOVpALW4nPGS4k9HIWlQiZZeapwivB67GV2NNx28RV0kea2yxMJ2QbCw_XpVpf9itpUNKZZURIIdsEMzrleDiw==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8457461897&itemId=24463359702&vendorItemId=91477006426&traceid=V0-153-ff48e77e5632cf80&clickBeacon=62f9fd10-c4d3-11f1-9555-b8d9d5a42d50%7E3&requestid=20261011025240180111704623&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "카오코탈라이푸 아로마 테라피 오일 롤온 굿슬립, 10ml, 1개",
+            "tag": "맞춤 케어 · 아로마 롤온",
+            "reason": "아로마 롤온 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/MxzfmzFJhiB6naJbM4veL2IvUKYdItXMMkrXSw3ocuLhA07lsRt038_zQUtZKSu1m9VLcNBXL2eCyGKi_2Edk3c86nJfA8dPqbb7P2orFR8-KhIYG2vuuUVE_pZamwTiIB2o-SIIpNLWjNQANXz71zbU69nGqjYeO6Mndmbhy5Zdpx87ITGeytxATYYFyEW0QAgj7NAG0T8L1s7sBxIETjZVMNq7VDjB6vGB4-JFc6LXR8fGRjR36obxSiKSp-xF1SL83oAhfffY2rgQhOFhyG99AIQpyWw2R_2Lgis6Y6ZX7diybWGCU_O3SkMQX3p7y916Lk164fPIiL2ASRJgcRYPejcRXX2xw1GUKNGnS2qZlS6R7PTpoaTHLiEKf5NqLQuXdDjVrvvtIulicaYn8cNh6UxWvNqN81foN2coUtPZm4Hbfu91KqWQelNw0iO1Rt6B0UCyvAbNndx-64o-Oc3nD1jRoGHJZ9MSiRVzF3XQBUeVB0SXAYhcT0NGJWLOov6-EjHPRrc=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9325893414&itemId=27644680639&vendorItemId=94607262174&traceid=V0-153-0e1a596580898ffa&clickBeacon=631218f0-c4d3-11f1-92de-f654fc22c5ec%7E3&requestid=20261011025240388127132737&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "쓸땐쓰고 아낄땐아끼는 줄타기 밸런스러 ⚖️",
+        "headline": "평일엔 무지출 챌린지, 주말엔 핫플 플렉스! 영리한 생존형 소비자.",
+        "emoji": "⚖️",
+        "tag": "현실타협·스마트컨슈머",
+        "hashtags": [
+          "#선택적절약",
+          "#평일자린고비",
+          "#주말플렉스",
+          "#가성비와가심비사이"
+        ],
+        "bars": [
+          60,
+          50,
+          65,
+          70
+        ],
+        "summary": "평소엔 커피 쿠폰과 편의점 1+1을 야무지게 챙기지만, 꽂히는 취미나 맛집 앞에서는 지갑을 활짝 엽니다.\n무조건 참는 짠테크는 숨 막히고, 무지성 플렉스는 죄책감이 들어 나름의 마지노선을 지키며 살아갑니다.\n소비와 절약 사이에서 매달 밀당을 벌이지만, 결정적인 순간엔 항상 이성을 되찾는 실속파입니다.",
+        "trap": "평일에 열심히 아껴둔 돈을 주말 한 번의 보상 심리로 원상복구시켜 버리는 요요 현상을 조심하세요.",
+        "advice": "스스로에게 허용하는 '합법적 플렉스 예산'을 통장에 따로 떼어두세요. 죄책감 없이 행복하게 쓸 수 있습니다.",
+        "rx_keywords": [
+          "통장 쪼개기 바인더",
+          "디지털 타이머"
+        ],
+        "prescriptions": [
+          {
+            "title": "루베이 무샤 스타일 현금 바인더 저축 다이어리 대용량 수납 방수 측면 오픈 가계부/재테크/저금통, 녹색, 1개",
+            "tag": "맞춤 케어 · 통장 쪼개기 바인더",
+            "reason": "통장 쪼개기 바인더 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/DCnn3zCadUZmw6oRDJj6NwxRikIk_OzNhCWSTnz_usverjvIGEktiqIQhfUSgH8pkyXFGMMthb_SM2XQUVgy_3qfsEBRrzbciPl1u1uuYtjGwWS6gw_JfJORyFsDXyxGKYgO3xWcdwf8hldDk6d4zQvhgHIJ3vUW7Eo7EHZyoplJtNd1-9-vJ1jjuWjg75eMTWsouoWYulUGCFI5MG9q1fznkuY41wzQiW1SIvPnStN_aCvmbzqKPjxcZq3jw_PbEmhQNEquD9MBM_X_Ju_8AN6Wn8SCv8gX9ZDm2At8SojAQIdhF3C83OcedWy5y3frrZFKM1NkjHRYW0uLXUTn1GX3ZPU5V6JKo3JnN1N7po11in3RWbBxNQkq3FliDrJhQqHmtsBP9iAFBCunfg_9JEfrekwklKFv6SGE9O9fTrSLm1J2z2CAFdjNi8kFHVV1x4PsKrMp7MkweWRfwLr97f2Vut49eAStGL0nd_gZ8J71_gkD0sCuNP1-0QGKDYl38BqTKIzZ77lhI5UtMThhrtOi",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9470447843&itemId=28187730750&vendorItemId=94881783298&traceid=V0-153-24fa0de2c5cf327c&clickBeacon=632be280-c4d3-11f1-8583-da67f5c3de37%7E3&requestid=20261011025240556119620021&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "랩앤툴스 디지털 타이머",
+            "tag": "맞춤 케어 · 디지털 타이머",
+            "reason": "디지털 타이머 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/0cZReXnzzAthLjVb0XpdoIxK89vgpxQE43-oG_Gm4Jxxc6kbhTNUuzOAEKZUN0SyyhEta6pJaM_uLGfajXyEk4JhC_Hn0q4PQ5-46Ddzb0-0bPn3hTJyw52pf4XfB75eix0svLtNE-xg3BMs6QuRRXZ9rEJLJTWdyahyeFZF-tTpFL7EG6qdMPR0-CguYCEdlqdBCsCVuwJe_Ish3BSynl4cap79ac9TzIVl4sr9Kl4mfG75_1WTOkHWntYZ43nRi00BiKBmIIGUK-rB1yfyXDaEhckd-boygy41yPMJiZo9EUwWlxxeO_Ih6Sk2KY4cDQnIuhhkWfpyDS5sa-hIX0CLReNFBgXq60JhbFHACY3D1FR43WsLb5lGRjshXjEkjP3b0nOL_-chwZbSfZTfQR_7qSJs_mP01NxowzNDiz_YBjJt0W_N82fc-a7lfFisqPOpmBGOOhUO_bsyUSwuyHRgZ5-IGMGf8gB1kfqR_hOBZbCxyzecilNG_fxCJkKwTcAWPakxpH-UdtxUSsvWagkIYa_WRY89RaWFFhfvBEJqbAhdkHclGVMdxbs=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8584501482&itemId=24885700184&vendorItemId=79811509976&traceid=V0-153-4b173b5f625b12f1&requestid=20261011025240725111704807&token=31850C%7CMIXED&pt=0&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "10원도 지켜내는 철벽 요새 짠테크 마스터 🛡️",
+        "headline": "소비가 주는 찰나의 도파민보다, 불어나는 통장 잔고가 100배 더 짜릿합니다.",
+        "emoji": "🛡️",
+        "tag": "금융치료·자린고비",
+        "hashtags": [
+          "#잔고수호신",
+          "#앱테크만렙",
+          "#소비디톡스",
+          "#미래의건물주"
+        ],
+        "bars": [
+          15,
+          10,
+          98,
+          95
+        ],
+        "summary": "배달비 4천 원은 세상에서 제일 아깝고, 충동구매라는 단어는 당신의 사전에 존재하지 않습니다.\n가격 비교 사이트 최저가 검색은 기본, 카드사 혜택과 포인트 적립까지 완벽하게 설계하는 재테크 브레인입니다.\n어려운 경제 상황 속에서도 흔들리지 않고 자산을 착실히 모아가는 가장 든든한 현실주의자입니다.",
+        "trap": "가끔은 지나친 절약 강박 때문에 소중한 시간과 인간관계, 현재의 소소한 행복을 놓칠 수 있습니다.",
+        "advice": "가끔은 가성비 계산기 대신 '낭만'을 사보세요. 사랑하는 사람과의 맛있는 한 끼는 절대 낭비가 아니니까요.",
+        "rx_keywords": [
+          "고급 핸드크림",
+          "홈카페 티세트"
+        ],
+        "prescriptions": [
+          {
+            "title": "록시땅 시어 버터 핸드 크림",
+            "tag": "맞춤 케어 · 고급 핸드크림",
+            "reason": "고급 핸드크림 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/7JJkOYIe7RcIL2pK7D8qhWGeA0qh-wUfrEMtiO8rwnb03Dv3LrS8TM_L1lcsKT5e1c2OdwSpP7PmzCWdxWE02-cnWznHpRkOy2HEQguclR9QRuxCRQnUcLqzSpGH9LIuwNt4Cymw4azM5bi89PNEo4efgwAhrnBXm5MJMvzXbpxTFWoF3OUuyFtAktv7M3Sb6VE57Y_hTxDqpTZfCira1u087b_cH_f1v5sEmAEq0b7ruwGCHV9xr2lCKA-ehWKkFbTzELGfTjNue8cDIP0npbGQ-mhFQQDwe6I2gpaEGct15peB6Gdp6dMVxfAINTP1xc1nL54mSqpon4jybSL923WjtOZCo7A7eLyHoXLEC77PTx5BdPDdyvbvN-sN6FDfIF22n9APInPdwZqn5ZrWIJjaMn-YXMA1LcHMsL9sejZ2v4Bc18xdzl9C7in0y_oWsWYa2TR1UUOgmmwfpr42mRUJ-AVcwVhQpBHQKHYYs1pchJZHBjZA06LiVgjJQMjJshfpc5qUQWEpRJOX-MF3jPBBxLHavSJbG91gymGaFBXnQ_6l",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9692109987&itemId=88346322&vendorItemId=96011528107&traceid=V0-153-1ea762c9f6bfe888&requestid=20261011025240918180474217&token=31850C%7CMIXED&pt=0&slot=1"
+          },
+          {
+            "title": "레트로 뉴욕 커피잔 빈티지 홈카페 라떼잔 에스프레소 잔받침세트, 1세트, 플랫커피 그린",
+            "tag": "맞춤 케어 · 홈카페 티세트",
+            "reason": "홈카페 티세트 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/7Ff4mdtCdYdvZhAK7MHW7Nwo6MwcZqONQjSYGkpeAua4k3MzG8bwUlw0VO9qZhz9X0LZyhI9q18mMOjz9w13cVlp9UALm11ly4F1wbafkxfgwme6n58SRiac2FqD8dAcBnzPgeukMYSc7kH8wEGTKR_STMTaeXmfwZbCXMBkza5xBF9WIxGlb1VCfBbvZG_48LQqxkgAqlUyLAJf4IkZLU652D-i-WdtxfMaPNWblNniFehqysxswuRhmBrd8ge3HAjp2vNMjzr578zFmGJycwL5pNR-0zg1Q53xeNxW-Ztg9F13HNbgimNJliyoJKoLp6xGlf6x6gG-E2csHL1nw6dW7Xgm0Ru-c0NvgRGAYKcqz8zRW-FMOVkw064bYCQMzpb2GbGQdrUb920ifjNKL_vyCLBPWNqN2s3OwDGSytjXWMk6MrxuD99lMsVOeVguimNmTtBwVZJRSosejCUkr2gvgvwu-YV1rbLTvznEaF9Qi6B0gKZlPqr-wnTVDDsyblMBakJlcK2bTz8J9lXcyPaoayFskRol",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8473908041&itemId=24520254261&vendorItemId=91533001811&traceid=V0-153-83e336df109fa232&clickBeacon=6391f750-c4d3-11f1-8971-935009eb0fb1%7E3&requestid=20261011025241201119620276&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 164423,
+    "created_at": "2026-10-11 02:52"
   }
 ];
