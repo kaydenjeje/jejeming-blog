@@ -1815,5 +1815,209 @@ window.TESTS_DATABASE = [
     ],
     "participants": 164423,
     "created_at": "2026-10-11 02:52"
+  },
+  {
+    "id": "some_or_fishpond",
+    "category": "연애/관계",
+    "title": "이거 썸일까 어장일까? 1분 만에 끝내는 상대방 마음 판독기",
+    "subTitle": "헷갈리는 그 카톡, <span>진심</span>일까 <span>어장</span>일까?",
+    "desc": "매일 밤 나 혼자만 머리 쥐어뜯는 카톡 해석은 이제 그만!\n상대방의 애매한 플러팅 뒤에 숨겨진 진짜 의도를 팩트 폭격으로 판독해 드립니다.",
+    "emoji": "🎣",
+    "tag": "썸·어장판독",
+    "viralBadge": "🔥 누적 213,840명이 마음을 확인했어요",
+    "metricLabels": [
+      "어장 위험도",
+      "희망고문 지수",
+      "쌍방 확신도",
+      "멘탈 소모량"
+    ],
+    "questions": [
+      {
+        "category": "📱 카톡 답장 패턴",
+        "question": "낮엔 몇 시간씩 사라지더니, 밤 11시 넘어 '자니?' 혹은 일상 톡이 툭 왔다.",
+        "a": "바빴겠지 위안 삼으며 '안 자!' 칼답하고 새벽까지 티키타카를 이어간다.",
+        "b": "자기 심심할 때만 찾는 패턴이 뻔히 보여서 다음 날 아침에 답장한다.",
+        "score": 1
+      },
+      {
+        "category": "☕ 주말 약속 잡기",
+        "question": "\"주말에 맛있는 거 먹으러 가자!\"고 먼저 말해놓고 구체적인 날짜를 안 잡을 때?",
+        "a": "내가 먼저 '토요일 1시 어때?'라고 떠먹여주듯 일정을 맞추려 든다.",
+        "b": "\"언제 갈 건데? 날짜 정해지면 말해~\" 하고 내 개인 일정부터 잡는다.",
+        "score": 1
+      },
+      {
+        "category": "💬 대화의 주제",
+        "question": "둘이 나누는 대화의 80%를 차지하는 주된 내용은?",
+        "a": "상대방의 일상 한탄, 감정 쓰레기통, 혹은 은근한 야행성 플러팅.",
+        "b": "서로의 가치관, 최근 관심사, 다음 만남에 대한 진지한 이야기.",
+        "score": 1
+      },
+      {
+        "category": "👀 SNS와 다른 이성",
+        "question": "내 연락은 안 보면서 인스타 스토리는 실시간으로 올리고 다른 이성 댓글도 보인다.",
+        "a": "'친구겠지...' 속으로 합리화하면서도 그 사람의 팔로잉 목록을 뒤적인다.",
+        "b": "'아, 우선순위에서 밀렸구나' 단칼에 파악하고 내 할 일에 집중한다.",
+        "score": 1
+      },
+      {
+        "category": "💸 더치페이와 매너",
+        "question": "만났을 때 밥값이나 데이트 비용을 내는 상대방의 태도는?",
+        "a": "계산할 때 은근슬쩍 신발끈 묶거나 내가 사는 걸 당연하게 여긴다.",
+        "b": "내가 밥을 사면 자연스럽게 커피나 디저트를 먼저 기분 좋게 결제한다.",
+        "score": 1
+      },
+      {
+        "category": "👥 지인 공개 여부",
+        "question": "길에서 우연히 상대방의 친구를 마주쳤을 때, 나를 소개하는 방식은?",
+        "a": "\"아 그냥 아는 사이야\"라며 어색하게 말을 돌리거나 당황해한다.",
+        "b": "\"내가 요즘 자주 만나는 분이야\"라며 정중하고 또렷하게 소개해준다.",
+        "score": 1
+      },
+      {
+        "category": "🎯 관계의 정의",
+        "question": "\"우리 무슨 사이야?\"라고 넌지시 뉘앙스를 던졌을 때 상대의 반응은?",
+        "a": "\"난 지금 누구 진지하게 만날 여유가 없어... 근데 넌 진짜 좋아\"",
+        "b": "\"나도 확실하게 말하고 싶었어\"라며 관계를 진전시키려 한다.",
+        "score": 1
+      },
+      {
+        "category": "💔 만남 후 내 감정",
+        "question": "데이트를 마치고 집에 돌아와 혼자 침대에 누웠을 때 드는 진짜 감정은?",
+        "a": "설렘은 잠깐이고 '나만 진심인가?' 싶은 불안감과 공허함이 더 크다.",
+        "b": "오늘 하루가 너무 즐거웠고 다음 만남이 자연스럽게 기대되며 편안하다.",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "어장 속 1급수 참치형 🐟",
+        "headline": "상대는 낚싯대를 쥐고 있고, 당신은 파닥거리는 중!",
+        "emoji": "🎣",
+        "tag": "어장탈출시급",
+        "hashtags": [
+          "#희망고문중단",
+          "#어장탈출",
+          "#자존감지키기",
+          "#손절이답"
+        ],
+        "bars": [
+          95,
+          90,
+          15,
+          88
+        ],
+        "summary": "상대방의 사소한 '다정함 한 스푼'에 의미 부여하느라 하루 종일 핸드폰만 붙잡고 계시군요. 심심할 땐 찾고 아쉬울 땐 잠수 타는 전형적인 어장관리 패턴에 완벽히 말려들었습니다. 당신이 주는 무조건적인 애정과 반응을 공짜 도파민으로 소비하고 있을 확률이 매우 높습니다.",
+        "trap": "'내가 조금만 더 잘해주면 진심을 알아주겠지'라는 근거 없는 구원자 콤플렉스에 빠지기 쉽습니다.",
+        "advice": "지금 당장 칼답을 멈추고 연락의 주도권을 회수하세요. 좋아하는 사람은 당신을 결코 헷갈리게 만들지 않습니다.",
+        "rx_keywords": [
+          "디지털 디톡스 타이머",
+          "자존감 필사 노트"
+        ],
+        "prescriptions": [
+          {
+            "title": "[KAIST 박사 개발] 뇌를 깨우는 Dr.Lee 뽀모도로 타이머 무소음 중력식 90분 집중력타이머 F-1 2세대, 블랙, 1개",
+            "tag": "맞춤 케어 · 디지털 디톡스 타이머",
+            "reason": "디지털 디톡스 타이머 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/h9dRrN4WwnNAXt7kh3sZH5ygGbHtZde02zsfWat1n0mz0NvnO2TEN6un1ju-SmV41EBGHlND8e4TtUkxqsQyHwYrtV6tjIpSmPbBnVbRVpxREWJRH1zD8nowcL3uEE8tRlTceas20gVb5pTM4NaDMKxrBQ5QkPNfrFayyCFKBkWrI5Wt5eK81mIy3KAt4odx2Bl5SHqzU99e_LpqpkjxuPT61KzDyTD8WMZsrbMjOYyplKdcAC28IGE2bDxk33Msx2SkxWqitmfSTh_hUnbbGmMn9rVG__Mp3VeUtvycTvhYSy0hLIL5NsnZQ1h1IceRp76fRCfD6mrNX9kctkYt8JJGo_HGVNLaO-AsR6qiXyswWfZ3uHt5bY-hHVhg_4P9Q4egaTbSncNS0eUiqHPjj2KAvpFiVhLFROnl_LDwlqqi5QOl61qxExmuwfvZur27hBaoxuHt1TwfzBqc3fJSQPFJ6cCKmGV4xNGUhCH42SsFjOwdyuBhJj9Lo7BE6pxqwL971Yj-XwCwLK9TvynCC1jZGjf-Hj4=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8667726630&itemId=25426608441&vendorItemId=92419685115&traceid=V0-153-ae0f9d8cf69b9717&clickBeacon=8f9df5a0-c59c-11f1-b165-8d86d4894f77%7E3&requestid=20261012025243954092265706&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "고정욱의 마인드 리셋 필사 수업 - 자존감은 UP 마음 근육은 탄탄 - 표현과 전달하기 4",
+            "tag": "맞춤 케어 · 자존감 필사 노트",
+            "reason": "자존감 필사 노트 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/cwnpIv4WCTz-3jYAc5QWOBZ8uWPr6ZG4hUbv69DEfphJkFn4uQfDhK9l2RbcoYRqpCU6e0lkVeUBaTT4_zS4XFz3iM2tZmPMtE2FD3pgZbmBHC3dPlP2KFiNyWM1KWwlJUK4qjwhJeYyWeMrh1FrOQ4LAJillF6NuLJCz58QPadI6yau_oxtzy6GnZPlKQ4j3GeQGaJLWGr2d-G8ZcncgorucEvMAnmGbPyy4qzIdxod8qBaQQRus-3HRRiuRuqxuPpZSXQV2x0I5-nRtc9s1sOWZPTc6MuqxkcDP-FTP-lVN-Uz3peHZGCxtk8KbJPzwofqchXMiq_bBK-GHG0BF8mETSp6EZYLdpVylphsIjpTGt1rmiPpKopUyRYTeRRtq8vXBv5WpQoF_6VyKcE3UURK0m9uu8PTIQRLNcXfqB6JOiAwHwe8WVZ9svbBM_mcWpre8SMW_6JeGD3AS_GL9BSb34mGKc6yItjKSC4yIxRoWukKRps0-5bwMtSoEsAXpqxQggOXc_6DPF_kI_gFcVTQyofbYgbVAvExpH9wQA==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8325500941&itemId=24033494585&vendorItemId=91053841752&traceid=V0-153-7fe79f27e2babb9f&requestid=20261012025244499127133194&token=31850C%7CGM&pt=0&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "안갯속 간보기 줄타기형 🌫️",
+        "headline": "호감은 분명 있는데, 서로 눈치만 보며 재는 중!",
+        "emoji": "⚖️",
+        "tag": "눈치싸움중",
+        "hashtags": [
+          "#밀당의늪",
+          "#간보기금지",
+          "#확신이필요해",
+          "#팩트체크"
+        ],
+        "bars": [
+          55,
+          60,
+          50,
+          65
+        ],
+        "summary": "상대방도 당신에게 관심은 있지만, 아직 리스크를 감수할 만큼의 확신이나 용기는 없는 상태입니다. '상처받기 싫어서' 혹은 '더 나은 선택지가 있을까 봐' 서로의 패를 까보지 않고 미적지근한 온도를 유지하고 있네요. 길어지면 썸도 식고 지치기만 합니다.",
+        "trap": "상대의 떠보기에 휘말려 똑같이 애매한 태도로 일관하다가 골든타임을 영영 놓칠 수 있습니다.",
+        "advice": "애매한 태도에는 쿨한 직진이 최고의 돌파구입니다. 주말 낮 약속을 먼저 제안해 보고 반응을 똑똑히 확인해 보세요.",
+        "rx_keywords": [
+          "감정 정리 다이어리",
+          "아로마 롤온 오일"
+        ],
+        "prescriptions": [
+          {
+            "title": "소담픽 방수 가죽 만년 다이어리 줄노트, 1개, 블랙",
+            "tag": "맞춤 케어 · 감정 정리 다이어리",
+            "reason": "감정 정리 다이어리 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/Vp_COM5lgxxxBM14VpAkRdXe8D7412kLiiE0aZV3ev2iOeFjlsPNF1Gjyc40G1pFu1iD-5djYSujJS9KOBVO4AlKaPP6h6oopiZFDns96sSQIGFdxP0o_9ElZPo5T8ACcXsrWa9NorS2bMIDUosG3e4oVSYDZY7FqUdxcsmVbORlV11SOj_Yn95KjOZt9tijG2AheQXeISZ3udKm3VfpbkA9uJQUfo8n-wnQUAZJJHQBw2Da3-pMIxOE-TGa8tvOSU9OaEfLodKFv5VEEKpJhZhjeTNHP-QySOXYAPg8-msK4br54bGvCibD0VgI3lySB9ul8oVEaquTg5k1I-_CZZw5IqG_i8cAxMVaRYV1oTCz-QyJ4_XkmMgSeljbSCuaNPI7nRmEY9E6_Y10khdv6-D7ame-xf73vqcPM72XpLesg31Lp_4hH02-PBN6npmByuIyDyxI692kqEfhTZLbHXOc3i9d8ON56EEQXSlgYMpq1xvFQ4Z9uCVFgwnFpca0ftj0AyuHlF0M2udw9hWl_EcSG2b0ny9P",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9597982822&itemId=28652298453&vendorItemId=95594698193&traceid=V0-153-c73d0aa79c4d507b&clickBeacon=900e1c90-c59c-11f1-9513-79647be989a6%7E3&requestid=20261012025244698206592608&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "카오코탈라이푸 아로마 테라피 오일 롤온 굿슬립, 10ml, 1개",
+            "tag": "맞춤 케어 · 아로마 롤온 오일",
+            "reason": "아로마 롤온 오일 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/o218Bz0w5m-culvVo7XeiPu3WR7e8kPNSrkPkJ_EfPTKxCpTAQyrPfivqCh1PoMZj-9RKelV4ZTv-KSBUWW5S2wqr7OrdF9ziLF9thwkH6jdT1J9EZFY002qHiTpEXOmx2y0v1oYVOIALqo-ZkM-VAxqhDx_JZHX_p9-5aXo767JlnGzAKwkjTBn0jm37Ve6_mekHrhCMngbdJX8JZR2Y-P3Taje7cCLaOlk1Fbhc2ouQSZG-ULC7q8sgKxKWvOsArestWXDRaFfvQBqkmM8jbuY8zOZ9miJ2ETpT3FBMzpmdzzPz_rohfA1BiHCdk8Xmk7pWH5o22bbPED_TYEhQO61qM-zzesOcQGkXg9O60aD4EgI3a1V6E5zug3XcrY93cbZBzYCHsv4TEM5VGkpIV3v-AbZ9Cd7yy4r9pNvCYPuSQhpycSezFzYE-W49ZZF_RPf7RsbHWPaHzjkxNzBlXUE_r9YpqVj3cOeGW1AWRefqeBCsf_4fAVYbJ5sy85SwCdjFKVyVAQ=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9325893414&itemId=27644680639&vendorItemId=94607262174&traceid=V0-153-0e1a596580898ffa&clickBeacon=90379d90-c59c-11f1-b831-641ee5926cd4%7E3&requestid=20261012025244969111709138&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "초록불 직진 찐썸러 💚",
+        "headline": "의심할 여지 없는 쌍방 확신! 고백 디데이만 남았다",
+        "emoji": "🚦",
+        "tag": "그린라이트",
+        "hashtags": [
+          "#쌍방직진",
+          "#안정적썸",
+          "#연애임박",
+          "#고백각"
+        ],
+        "bars": [
+          10,
+          15,
+          95,
+          20
+        ],
+        "summary": "축하합니다! 이 테스트를 굳이 안 해도 될 만큼 상대방은 온몸과 행동으로 진심을 표현하고 있습니다. 헷갈리게 하는 연락 텀도 없고, 만나면 서로에게 온전히 집중하며 미래를 이야기하고 있네요. 어장을 의심하는 건 상대방에 대한 과도한 방어기제일 뿐입니다.",
+        "trap": "과거 연애의 상처 때문에 눈앞에 찾아온 맑고 건강한 인연까지 의심의 눈초리로 바라보는 실수.",
+        "advice": "더 이상 머리 굴리며 계산하지 마세요. 상대방의 다정함을 온전히 누리고, 마음에 드는 타이밍에 먼저 손을 잡아보세요.",
+        "rx_keywords": [
+          "커플 디데이 캘린더",
+          "핸드크림 기프트세트"
+        ],
+        "prescriptions": [
+          {
+            "title": "셀플리 달력 디데이 캘린더 출산 다이어트 결혼 만년, 셀플리 블랙, 1개",
+            "tag": "맞춤 케어 · 커플 디데이 캘린더",
+            "reason": "커플 디데이 캘린더 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/sy72m_AeBnJxSjU9s8JLsEZOQC0qAOwrA-2btyd1HAKGjBMnGBF-FGIB9bD10D3ZXudrpTU_XJEz-a11ezwMAVZUvP54_ziJm2YPcA_IcsTKxMEe3u0lR_oTs6IrliCGwPvSZDGMEgNqFkT0VVgQrPEu-CWXq9Z8Ye9X6IdVlpYjE5doSUQgBagV0dikFyKBXgbjz0RGf89eHdSFy7wyR0Vex9FQlYZvIkyXJqA8qwhVcwMcMod1NRHEHGTqmtdm6z-ecP65VDthFT7w9eqDyAOE_5-UYLf8jGvxrecIFTu6kAgH8ncrepcpf-q6M7jpxugcIx3yKf1hdTajC58Lk_D6Y1U80kJc_LA4QiugObJhONJ0EoFzknWuz9vQYW6bITGzrFBuJVlsrbrSI5A7azinEqENrUdvsS1qTYq6ZDbJOcOPAP_dHnJzB9OQX_6GHUY0tPq23akIqLtop_wsHcp1vbfupubu2gVw7-javJTH4PDOvmsT2-U5KBVGB3LlACJDxKOag0Q0QIF791S3DS8S62pkSZZzow==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9094276135&itemId=26728177003&vendorItemId=95839213800&traceid=V0-153-71e8acbc766ddac1&clickBeacon=905cd8d0-c59c-11f1-8d42-59af0eef0376%7E3&requestid=20261012025245200195872325&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "핸드크림 선물세트 핸드풋크림 보습 건조방지 답례품 손발케어 박스세트",
+            "tag": "맞춤 케어 · 핸드크림 기프트세트",
+            "reason": "핸드크림 기프트세트 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/hznjG1BEIlKTtoi8h9mCqWtrpegtYi7-E_NnVV0D9gVtqJAlpC6lwoBWktWibLGg5f0vBEcNKHthp8MAD211LEsM5BiBIzow56Yci72zPuK12VFXpWkXl7wb-us90aXZBzkrYPccDJ-YnT_gKm433-NR4ahO6ZO9N-VaPupxTv_JI7qVfaiFs5zVF_mS8P3lGNAEtgLLT325mi9w34hBSpSorsn8eN-fuDohUJbzw6VPzrXDqIGt9kksuXVH1mp76Ob4gTUit6Tu4rR45QTCIIJ94UyeFiSyPQGNt8mDmb4A72an6A4TkOl3sucRqd316RiJuXzR6xkBZK-G7-XPqcstrP7D079jIOm2fSRHKc0zy407uuZ0nvWRouDgOPZAjIkouE-0f_OD8qXqZ9v7v_sZ5cY4iZo7j5UvOYmIKReM3hCUXsIjfHkvlgf84EfBa9pvy_W68qq7HqAbRpCJQRm7d9W-ipbLpnOAApsjM0gBSQmeO1DybWCZZCwVqbi4LdLjbPsC0xgh8_26vlQCXJTCHft0zXdUEWu57fML543p78SR",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9745522946&itemId=29174160988&vendorItemId=96095537511&traceid=V0-153-df17f4d5166e92af&requestid=20261012025245428206592933&token=31850C%7CMIXED&pt=0&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 98586,
+    "created_at": "2026-10-12 02:52"
   }
 ];
