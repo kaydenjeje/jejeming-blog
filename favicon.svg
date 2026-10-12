@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366F1" />
+      <stop offset="50%" stop-color="#4F46E5" />
+      <stop offset="100%" stop-color="#4338CA" />
+    </linearGradient>
+    <linearGradient id="sparkleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FDE047" />
+      <stop offset="100%" stop-color="#F59E0B" />
+    </linearGradient>
+    <filter id="subtleShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#1E1B4B" flood-opacity="0.3" />
+    </filter>
+  </defs>
+
+  <!-- Squircle Rounded Container -->
+  <rect x="24" y="24" width="464" height="464" rx="108" fill="url(#bgGrad)" filter="url(#subtleShadow)" />
+  
+  <!-- Subtle Inner Border Highlight -->
+  <rect x="25" y="25" width="462" height="462" rx="107" fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="3" />
+
+  <!-- Bold Minimalist 'J' Symbol for Jejeming -->
+  <path d="M 285 140 
+           L 345 140 
+           L 345 285 
+           C 345 355 295 400 220 400 
+           C 155 400 115 365 115 315 
+           L 175 315 
+           C 175 338 192 348 220 348 
+           C 255 348 285 330 285 285 
+           Z" 
+        fill="#FFFFFF" />
+
+  <!-- Sparkling Star Top-Right (✨ Brand Identity) -->
+  <path d="M 375 90 
+           C 375 125 390 140 425 140 
+           C 390 140 375 155 375 190 
+           C 375 155 360 140 325 140 
+           C 360 140 375 125 375 90 Z" 
+        fill="url(#sparkleGrad)" />
+
+  <!-- Tiny Accent Star Top-Left -->
+  <path d="M 180 120 
+           C 180 135 186 142 202 142 
+           C 186 142 180 149 180 164 
+           C 180 149 174 142 158 142 
+           C 174 142 180 135 180 120 Z" 
+        fill="#FEF08A" opacity="0.85" />
+</svg>
