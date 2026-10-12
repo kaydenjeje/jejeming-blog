@@ -3317,6 +3317,24 @@
     });
 
     renderItems();
+
+    // URL 파라미터(?id=77 or ?q=77 or #77) 감지 시 자동 검색 및 3초 팩트체크 모달 즉시 오픈
+    try {
+      var urlParams = new URLSearchParams(window.location.search);
+      var targetId = urlParams.get('id') || urlParams.get('q') || urlParams.get('no') || (window.location.hash ? window.location.hash.replace('#', '') : null);
+      if (targetId) {
+        var num = parseInt(targetId, 10);
+        if (!isNaN(num)) {
+          searchInput.value = num;
+          currentQuery = String(num);
+          clearBtn.classList.remove('hidden');
+          renderItems();
+          setTimeout(function() {
+            openFactCheckModal(num);
+          }, 300);
+        }
+      }
+    } catch (e) {}
   </script>
 </body>
 </html>
