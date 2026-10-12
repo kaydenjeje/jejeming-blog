@@ -939,11 +939,11 @@
       display: flex;
       align-items: center;
       gap: 8px;
-      margin-bottom: 12px;
+      margin-bottom: 6px;
     }
 
     .rx-title {
-      font-size: 16px;
+      font-size: 15.5px;
       font-weight: 900;
       color: #92400e;
     }
@@ -955,6 +955,14 @@
       color: #ffffff;
       padding: 2px 8px;
       border-radius: 999px;
+      white-space: nowrap;
+    }
+
+    .rx-subdesc {
+      font-size: 12px;
+      color: #78350f;
+      line-height: 1.45;
+      margin: 0 0 14px 0;
     }
 
     .prescription-items-list {
@@ -1007,7 +1015,7 @@
     .rx-item-name {
       font-size: 13.5px;
       font-weight: 800;
-      color: #1e293b;
+      color: #0f172a;
       line-height: 1.35;
       margin-bottom: 4px;
     }
@@ -1025,7 +1033,19 @@
       font-size: 11.5px;
       font-weight: 800;
       color: #0284c7;
-      margin-top: 4px;
+      background: #f0f9ff;
+      border: 1px solid #bae6fd;
+      padding: 4px 10px;
+      border-radius: 6px;
+      margin-top: 6px;
+      width: fit-content;
+      transition: all 0.15s ease;
+    }
+
+    .rx-item-card:hover .rx-cta {
+      background: #0284c7;
+      color: #ffffff;
+      border-color: #0284c7;
     }
 
     .rx-notice {
@@ -1355,14 +1375,17 @@
         <!-- 쿠팡 파트너스 맞춤 힐링 처방전 박스 -->
         <div class="prescription-wrapper">
           <div class="rx-header">
-            <span class="rx-title">💊 오늘 당신을 위한 힐링 처방전</span>
-            <span class="rx-badge">맞춤 솔루션</span>
+            <span class="rx-badge">🌿 연구소 맞춤 처방</span>
+            <span class="rx-title">💊 이 유형의 89%가 선택한 내면 케어 솔루션</span>
           </div>
+          <p class="rx-subdesc">
+            분석된 심리 지표를 바탕으로 마음의 긴장을 완화하고 일상 밸런스를 되찾아주는 맞춤형 솔루션입니다.
+          </p>
           <div class="prescription-items-list" id="prescription-items-list">
             <!-- 동적 처방 아이템 -->
           </div>
           <div class="rx-notice">
-            ※ 이 추천은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받을 수 있습니다.
+            ※ 본 추천은 파트너스 활동의 일환으로 일정 수수료를 제공받을 수 있으며, 구매자에게 추가 비용은 전혀 발생하지 않습니다.
           </div>
         </div>
 
@@ -1703,7 +1726,7 @@
               <span class="rx-item-tag">💊 ${item.tag || '맞춤 힐링템'}</span>
               <div class="rx-item-name">${item.title}</div>
               <div class="rx-item-reason">${item.reason}</div>
-              <span class="rx-cta">최저가 및 리뷰 확인하기 →</span>
+              <span class="rx-cta">👉 쿠팡 최저가 &amp; 솔직 후기 보러가기 🚀</span>
             </div>
           </a>
         `).join('');
