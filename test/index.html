@@ -333,15 +333,24 @@
       gap: 4px;
       font-size: 12.5px;
       font-weight: 800;
-      color: #4f46e5;
-      background: #eef2ff;
-      padding: 6px 12px;
-      border-radius: 8px;
+      color: #ffffff;
+      background: linear-gradient(135deg, #4f46e5 0%, #6366f1 100%);
+      padding: 6px 14px;
+      border-radius: 999px;
+      border: none;
+      cursor: pointer;
+      box-shadow: 0 2px 8px rgba(79, 70, 229, 0.25);
+      transition: all 0.15s ease;
     }
 
-    /* 4. INTRO SCREEN */
+    .test-card-btn:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 4px 12px rgba(79, 70, 229, 0.35);
+    }
+
+    /* 4. INTRO SCREEN (모바일 초밀착 최적화: 스크롤 없는 첫 화면 시작) */
     #screen-intro {
-      padding: 30px 24px;
+      padding: 20px 18px 24px;
       text-align: center;
     }
 
@@ -353,29 +362,29 @@
       color: #ef4444;
       font-size: 12px;
       font-weight: 800;
-      padding: 6px 14px;
+      padding: 5px 12px;
       border-radius: 999px;
-      margin-bottom: 16px;
+      margin-bottom: 10px;
       border: 1px solid #fee2e2;
     }
 
     .hero-emoji {
-      font-size: 56px;
-      margin-bottom: 12px;
+      font-size: 46px;
+      margin-bottom: 8px;
       animation: floatEmoji 3s ease-in-out infinite;
     }
 
     @keyframes floatEmoji {
       0%, 100% { transform: translateY(0); }
-      50% { transform: translateY(-8px); }
+      50% { transform: translateY(-6px); }
     }
 
     .intro-title {
-      font-size: 24px;
+      font-size: 22px;
       font-weight: 900;
       color: #0f172a;
       line-height: 1.35;
-      margin-bottom: 12px;
+      margin-bottom: 8px;
       letter-spacing: -0.5px;
     }
 
@@ -386,34 +395,31 @@
     }
 
     .intro-desc {
-      font-size: 15px;
+      font-size: 14px;
       color: var(--test-text-sub);
-      line-height: 1.6;
-      margin-bottom: 24px;
+      line-height: 1.5;
+      margin-bottom: 16px;
     }
 
-    .intro-stats {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
+    .intro-meta-tags {
+      display: flex;
+      justify-content: center;
       gap: 8px;
-      background: #f8fafc;
-      border-radius: 16px;
-      padding: 16px 10px;
-      margin-bottom: 24px;
+      margin-bottom: 20px;
+      flex-wrap: wrap;
+    }
+
+    .intro-meta-pill {
+      font-size: 12px;
+      font-weight: 700;
+      color: #475569;
+      background: #f1f5f9;
+      padding: 5px 12px;
+      border-radius: 20px;
       border: 1px solid #e2e8f0;
-    }
-
-    .stat-num {
-      font-size: 18px;
-      font-weight: 900;
-      color: var(--test-primary-dark);
-      margin-bottom: 2px;
-    }
-
-    .stat-label {
-      font-size: 11px;
-      color: var(--test-text-sub);
-      font-weight: 600;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
     }
 
     .btn-main {
@@ -437,6 +443,35 @@
     .btn-main:hover {
       transform: translateY(-2px);
       box-shadow: 0 6px 20px rgba(79, 70, 229, 0.45);
+    }
+
+    /* 펄스 애니메이션 (클릭 유도) */
+    .pulse-btn {
+      animation: pulseGlow 2.2s infinite;
+    }
+
+    @keyframes pulseGlow {
+      0% {
+        box-shadow: 0 0 0 0 rgba(79, 70, 229, 0.6);
+      }
+      70% {
+        box-shadow: 0 0 0 12px rgba(79, 70, 229, 0);
+      }
+      100% {
+        box-shadow: 0 0 0 0 rgba(79, 70, 229, 0);
+      }
+    }
+
+    .intro-trust-bar {
+      margin-top: 14px;
+      font-size: 12px;
+      color: #64748b;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      letter-spacing: -0.2px;
     }
 
     /* 5. QUIZ SCREEN */
@@ -1075,7 +1110,7 @@
       <!-- 2. 인트로 화면 (SCREEN-INTRO) -->
       <div class="screen" id="screen-intro">
         <div class="badge-viral" id="intro-viral-badge">
-          <span>🔥</span> 누적 254,820명이 참여함
+          <span>🔥</span> 실시간 120+명 참여 중 · 100% 무료
         </div>
 
         <div class="intro-hero">
@@ -1088,25 +1123,24 @@
           </p>
         </div>
 
-        <div class="intro-stats">
-          <div class="stat-item">
-            <div class="stat-num" id="stat-q-count">10문항</div>
-            <div class="stat-label">선택형 질문</div>
-          </div>
-          <div class="stat-item">
-            <div class="stat-num">약 2분</div>
-            <div class="stat-label">소요 시간</div>
-          </div>
-          <div class="stat-item">
-            <div class="stat-num">100%</div>
-            <div class="stat-label">무료 자가진단</div>
-          </div>
+        <div class="intro-meta-tags">
+          <span class="intro-meta-pill">⏱️ 약 2분 소요</span>
+          <span class="intro-meta-pill" id="stat-q-count">📝 10문항</span>
+          <span class="intro-meta-pill">⚡ 즉시 결과 확인</span>
         </div>
 
-        <button class="btn-main" onclick="startCurrentQuiz()">
-          <span>테스트 시작하기</span>
+        <button class="btn-main pulse-btn" onclick="startCurrentQuiz()">
+          <span>2분 만에 무료 진단 시작하기 ⚡</span>
           <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
         </button>
+
+        <div class="intro-trust-bar">
+          <span>🔒 회원가입 NO</span>
+          <span>•</span>
+          <span>⚡ 즉시 확인</span>
+          <span>•</span>
+          <span>📊 100% 무료</span>
+        </div>
       </div>
 
       <!-- 3. 퀴즈 진행 화면 (SCREEN-QUIZ) -->
@@ -1328,7 +1362,7 @@
           <p class="test-card-desc">${(t.desc || '').replace(/<br\s*\/?>/gi, ' ')}</p>
           <div class="test-card-footer">
             <span class="test-card-meta">⏱️ 약 2분 · ${t.questions.length}문항</span>
-            <span class="test-card-btn">시작하기 →</span>
+            <button class="test-card-btn" onclick="event.stopPropagation(); startDirectTest('${t.id}')">바로 시작 ⚡</button>
           </div>
         </div>
       `).join('');
@@ -1337,6 +1371,12 @@
     /* ========================================================
        테스트 플레이어 로직
     ======================================================== */
+    function startDirectTest(testKey) {
+      if (!TESTS[testKey]) return;
+      openTest(testKey);
+      startCurrentQuiz();
+    }
+
     function openTest(testKey) {
       if (!TESTS[testKey]) return;
       currentTestKey = testKey;
@@ -1348,11 +1388,11 @@
       window.history.pushState({ test: testKey }, '', '/test/?t=' + testKey);
 
       // 인트로 화면 데이터 바인딩
-      document.getElementById('intro-viral-badge').innerHTML = `<span>🔥</span> ${data.viralBadge || '무료 자가진단 심리테스트'}`;
+      document.getElementById('intro-viral-badge').innerHTML = `<span>🔥</span> ${data.viralBadge || '실시간 120+명 참여 중 · 100% 무료'}`;
       document.getElementById('intro-hero-emoji').textContent = data.emoji || '🔮';
       document.getElementById('intro-title').innerHTML = data.subTitle || data.title;
       document.getElementById('intro-desc').innerHTML = data.desc || '';
-      document.getElementById('stat-q-count').textContent = `${data.questions.length}문항`;
+      document.getElementById('stat-q-count').textContent = `📝 ${data.questions.length}문항`;
 
       switchScreen('screen-intro');
       window.scrollTo({ top: 0, behavior: 'smooth' });
