@@ -204,7 +204,9 @@ window.TESTS_DATABASE = [
           }
         ]
       }
-    ]
+    ],
+    "framework": "정서 조절 곤란(Emotion Dysregulation) & 애착 스펙트럼 이론",
+    "frameworkDetail": "존 볼비(John Bowlby)의 발달 애착 모델 및 마샤 리네한(M. Linehan)의 인지행동(DBT) 정서조절 메커니즘을 기반으로 일상 감정 반응성을 분석합니다."
   },
   {
     "id": "burnout",
@@ -396,7 +398,9 @@ window.TESTS_DATABASE = [
           }
         ]
       }
-    ]
+    ],
+    "framework": "WHO 만성 스트레스 지침 & Maslach 소진 척도(MBI)",
+    "frameworkDetail": "크리스티나 마슬락(C. Maslach) 교수의 직무 소진 3요인 및 WHO 가이드라인에 따른 4대 에너지 고갈 징후를 다각도로 평가합니다."
   },
   {
     "id": "attachment",
@@ -590,7 +594,9 @@ window.TESTS_DATABASE = [
           }
         ]
       }
-    ]
+    ],
+    "framework": "성인 애착 이론(Adult Attachment Theory) & ECR 관계 평가 모델",
+    "frameworkDetail": "존 볼비 & 메리 에인스워스의 성인 애착 모델 및 ECR-R 관계 심리 평가 척도를 바탕으로 연애 갈등 대처 방식을 진단합니다."
   },
   {
     "id": "room_clean_vibe_check",
@@ -794,7 +800,9 @@ window.TESTS_DATABASE = [
       }
     ],
     "participants": 129144,
-    "created_at": "2026-10-08 21:43"
+    "created_at": "2026-10-08 21:43",
+    "framework": "환경 심리학(Environmental Psychology) & 성격 5요인(Big 5)",
+    "frameworkDetail": "시각적 인지 부하 이론 및 Big 5 모델의 성실성/개방성 지표를 바탕으로 주거 공간 정리 성향과 심리적 여유를 분석합니다."
   },
   {
     "id": "digital_dopamine_detox",
@@ -998,7 +1006,9 @@ window.TESTS_DATABASE = [
       }
     ],
     "participants": 173496,
-    "created_at": "2026-10-08 22:02"
+    "created_at": "2026-10-08 22:02",
+    "framework": "행동 중독 이론 & 도파민 보상 회로 모델(RPE)",
+    "frameworkDetail": "디지털 미디어 과의존 평가 기준 및 보상 예측 오차(RPE) 이론을 토대로 스마트폰 자극 반응성과 집중력 회복도를 진단합니다."
   },
   {
     "id": "solo_survival_master",
@@ -1202,7 +1212,9 @@ window.TESTS_DATABASE = [
       }
     ],
     "participants": 177205,
-    "created_at": "2026-10-08 22:03"
+    "created_at": "2026-10-08 22:03",
+    "framework": "자기결정이론(Self-Determination Theory) & 자율성 지표",
+    "frameworkDetail": "데시와 라이언(Deci & Ryan)의 자기결정이론 중 자율성(Autonomy) 및 유능성 척도를 바탕으로 일상 자립 및 생존 실행력을 측정합니다."
   },
   {
     "id": "impostor_perfectionism_check",
@@ -1406,7 +1418,9 @@ window.TESTS_DATABASE = [
       }
     ],
     "participants": 140627,
-    "created_at": "2026-10-09 14:52"
+    "created_at": "2026-10-09 14:52",
+    "framework": "클랜스 가면 척도(CIPS) & 다차원 완벽주의 이론",
+    "frameworkDetail": "폴린 클랜스(Pauline Clance) 박사의 가면 현상(Impostor Phenomenon) 이론 및 프로스트 다차원 완벽주의 척도를 토대로 자기효능감을 평가합니다."
   },
   {
     "id": "wealth_mindset_2026",
@@ -1610,7 +1624,9 @@ window.TESTS_DATABASE = [
       }
     ],
     "participants": 157710,
-    "created_at": "2026-10-10 02:52"
+    "created_at": "2026-10-10 02:52",
+    "framework": "행동경제학(Behavioral Economics) & 금융 의사결정 모델",
+    "frameworkDetail": "대니얼 카너먼(D. Kahneman)의 전망 이론(Prospect Theory) 및 시간선호도 모델을 바탕으로 재무 의사결정 습관과 금융 마인드셋을 분석합니다."
   },
   {
     "id": "money_mbti_flex_vs_save",
@@ -1814,7 +1830,9 @@ window.TESTS_DATABASE = [
       }
     ],
     "participants": 164423,
-    "created_at": "2026-10-11 02:52"
+    "created_at": "2026-10-11 02:52",
+    "framework": "소비 심리학 & 심리적 회계(Mental Accounting) 이론",
+    "frameworkDetail": "리처드 탈러(R. Thaler)의 심리적 회계 이론 및 위험 회피 성향 모델을 바탕으로 지출과 저축의 심리적 패턴을 분류합니다."
   },
   {
     "id": "some_or_fishpond",
@@ -2018,6 +2036,8 @@ window.TESTS_DATABASE = [
       }
     ],
     "participants": 98586,
-    "created_at": "2026-10-12 02:52"
+    "created_at": "2026-10-12 02:52",
+    "framework": "사회 심리학(Social Psychology) 대인 매력 및 상호작용 이론",
+    "frameworkDetail": "사회 교환 이론(Social Exchange Theory) 및 비언어적 호감 시그널 연구를 토대로 상대방의 상호작용 의도를 객관적으로 판독합니다."
   }
 ];

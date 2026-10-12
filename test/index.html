@@ -474,6 +474,110 @@
       letter-spacing: -0.2px;
     }
 
+    /* 학술 프레임워크 권위 카드 */
+    .framework-card {
+      background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
+      border: 1px solid #e2e8f0;
+      border-radius: 12px;
+      padding: 10px 14px;
+      margin-bottom: 14px;
+      text-align: left;
+    }
+
+    .framework-header {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      margin-bottom: 4px;
+    }
+
+    .framework-badge-tag {
+      font-size: 10.5px;
+      font-weight: 800;
+      color: #2563eb;
+      background: #eff6ff;
+      border: 1px solid #dbeafe;
+      padding: 2px 7px;
+      border-radius: 999px;
+      display: inline-flex;
+      align-items: center;
+      gap: 3px;
+    }
+
+    .framework-name {
+      font-size: 12px;
+      font-weight: 800;
+      color: #1e293b;
+      letter-spacing: -0.3px;
+    }
+
+    .framework-desc {
+      font-size: 11.5px;
+      color: #64748b;
+      line-height: 1.45;
+      margin: 0;
+      letter-spacing: -0.2px;
+    }
+
+    .intro-disclaimer-note {
+      margin-top: 10px;
+      font-size: 11px;
+      color: #94a3b8;
+      text-align: center;
+      letter-spacing: -0.2px;
+    }
+
+    .test-card-framework {
+      font-size: 11px;
+      font-weight: 700;
+      color: #2563eb;
+      background: #eff6ff;
+      border: 1px solid #dbeafe;
+      padding: 3px 8px;
+      border-radius: 6px;
+      margin-top: 6px;
+      margin-bottom: 8px;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      width: fit-content;
+    }
+
+    .result-framework-box {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      background: #f8fafc;
+      border: 1px solid #e2e8f0;
+      border-radius: 10px;
+      padding: 8px 12px;
+      font-size: 11.5px;
+      color: #475569;
+      margin-bottom: 14px;
+      text-align: left;
+    }
+
+    .result-framework-box strong {
+      color: #1e293b;
+      font-weight: 700;
+    }
+
+    .test-academic-footer {
+      margin-top: 24px;
+      padding: 14px 16px;
+      background: #f8fafc;
+      border-radius: 12px;
+      border: 1px solid #e2e8f0;
+      text-align: center;
+      font-size: 11.5px;
+      color: #64748b;
+      line-height: 1.5;
+    }
+
+    .test-academic-footer strong {
+      color: #334155;
+    }
+
     /* 5. QUIZ SCREEN */
     #screen-quiz {
       padding: 24px 20px;
@@ -1123,6 +1227,17 @@
           </p>
         </div>
 
+        <!-- 학술 연구 기반 권위 안내 카드 -->
+        <div class="framework-card">
+          <div class="framework-header">
+            <span class="framework-badge-tag">🔬 학술 연구 기반</span>
+            <span class="framework-name" id="intro-framework-name">정서 조절 & 애착 이론 모델</span>
+          </div>
+          <p class="framework-desc" id="intro-framework-desc">
+            존 볼비(John Bowlby)의 발달 애착 모델 및 인지행동(DBT) 정서조절 메커니즘을 토대로 감정 반응성을 분석합니다.
+          </p>
+        </div>
+
         <div class="intro-meta-tags">
           <span class="intro-meta-pill">⏱️ 약 2분 소요</span>
           <span class="intro-meta-pill" id="stat-q-count">📝 10문항</span>
@@ -1140,6 +1255,10 @@
           <span>⚡ 즉시 확인</span>
           <span>•</span>
           <span>📊 100% 무료</span>
+        </div>
+
+        <div class="intro-disclaimer-note">
+          ※ 공인 심리학 학술 연구 모델 기반 자가 스크리닝 도구 (비임상 자기이해 목적)
         </div>
       </div>
 
@@ -1197,6 +1316,12 @@
             <h3 class="result-persona-name" id="res-name">유형 타이틀</h3>
             <div class="result-headline" id="res-headline">"한 줄 요약 슬로건"</div>
             <div class="hashtags" id="res-hashtags"></div>
+          </div>
+
+          <!-- 학술 프레임워크 분석 지표 배지 -->
+          <div class="result-framework-box">
+            <span class="rf-icon">🔬</span>
+            <span class="rf-text">분석 기준: <strong id="res-framework-label">정서 조절 & 애착 이론 모델</strong> 4축 스펙트럼 분석</span>
           </div>
 
           <!-- 지표 스펙트럼 바 -->
@@ -1267,6 +1392,12 @@
           <button class="btn-other-tests" onclick="showHub()">
             <span>🧠 다른 심리테스트 더보기 →</span>
           </button>
+        </div>
+
+        <!-- 법적/학술 신뢰도 안내 푸터 -->
+        <div class="test-academic-footer">
+          <span>⚖️ <strong>연구 기반 자가진단 및 면책 안내</strong></span>
+          <p>본 테스트는 공인된 심리학 학술 연구 이론을 기반으로 자기이해를 돕기 위해 제작된 스크리닝 도구이며, 정신건강의학과의 임상적 진단이나 의료 행위를 대신하지 않습니다.</p>
         </div>
       </div>
 
@@ -1360,6 +1491,7 @@
           </div>
           <h3 class="test-card-title">${t.title}</h3>
           <p class="test-card-desc">${(t.desc || '').replace(/<br\s*\/?>/gi, ' ')}</p>
+          <div class="test-card-framework">🔬 ${t.framework || '심리학 이론 기반'}</div>
           <div class="test-card-footer">
             <span class="test-card-meta">⏱️ 약 2분 · ${t.questions.length}문항</span>
             <button class="test-card-btn" onclick="event.stopPropagation(); startDirectTest('${t.id}')">바로 시작 ⚡</button>
@@ -1392,6 +1524,8 @@
       document.getElementById('intro-hero-emoji').textContent = data.emoji || '🔮';
       document.getElementById('intro-title').innerHTML = data.subTitle || data.title;
       document.getElementById('intro-desc').innerHTML = data.desc || '';
+      document.getElementById('intro-framework-name').textContent = data.framework || '심리학 연구 모델 기반';
+      document.getElementById('intro-framework-desc').textContent = data.frameworkDetail || '검증된 심리학 연구 이론 및 행동과학 분석 모델을 토대로 감정 반응성을 분석합니다.';
       document.getElementById('stat-q-count').textContent = `📝 ${data.questions.length}문항`;
 
       switchScreen('screen-intro');
@@ -1528,6 +1662,11 @@
       document.getElementById('res-emoji').textContent = res.emoji || test.emoji || '✨';
       document.getElementById('res-name').textContent = res.name;
       document.getElementById('res-headline').textContent = `"${res.headline}"`;
+
+      const resFrameworkEl = document.getElementById('res-framework-label');
+      if (resFrameworkEl) {
+        resFrameworkEl.textContent = test.framework || '심리학 학술 모델';
+      }
 
       // 해시태그
       const hashtagsHtml = (res.hashtags || []).map(t => `<span class="tag-item">${t}</span>`).join('');
