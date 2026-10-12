@@ -204,9 +204,7 @@ window.TESTS_DATABASE = [
           }
         ]
       }
-    ],
-    "framework": "정서 조절 곤란(Emotion Dysregulation) & 애착 스펙트럼 이론",
-    "frameworkDetail": "존 볼비(John Bowlby)의 발달 애착 모델 및 마샤 리네한(M. Linehan)의 인지행동(DBT) 정서조절 메커니즘을 기반으로 일상 감정 반응성을 분석합니다."
+    ]
   },
   {
     "id": "burnout",
@@ -398,9 +396,7 @@ window.TESTS_DATABASE = [
           }
         ]
       }
-    ],
-    "framework": "WHO 만성 스트레스 지침 & Maslach 소진 척도(MBI)",
-    "frameworkDetail": "크리스티나 마슬락(C. Maslach) 교수의 직무 소진 3요인 및 WHO 가이드라인에 따른 4대 에너지 고갈 징후를 다각도로 평가합니다."
+    ]
   },
   {
     "id": "attachment",
@@ -594,9 +590,7 @@ window.TESTS_DATABASE = [
           }
         ]
       }
-    ],
-    "framework": "성인 애착 이론(Adult Attachment Theory) & ECR 관계 평가 모델",
-    "frameworkDetail": "존 볼비 & 메리 에인스워스의 성인 애착 모델 및 ECR-R 관계 심리 평가 척도를 바탕으로 연애 갈등 대처 방식을 진단합니다."
+    ]
   },
   {
     "id": "room_clean_vibe_check",
@@ -800,9 +794,7 @@ window.TESTS_DATABASE = [
       }
     ],
     "participants": 129144,
-    "created_at": "2026-10-08 21:43",
-    "framework": "환경 심리학(Environmental Psychology) & 성격 5요인(Big 5)",
-    "frameworkDetail": "시각적 인지 부하 이론 및 Big 5 모델의 성실성/개방성 지표를 바탕으로 주거 공간 정리 성향과 심리적 여유를 분석합니다."
+    "created_at": "2026-10-08 21:43"
   },
   {
     "id": "digital_dopamine_detox",
@@ -1006,9 +998,7 @@ window.TESTS_DATABASE = [
       }
     ],
     "participants": 173496,
-    "created_at": "2026-10-08 22:02",
-    "framework": "행동 중독 이론 & 도파민 보상 회로 모델(RPE)",
-    "frameworkDetail": "디지털 미디어 과의존 평가 기준 및 보상 예측 오차(RPE) 이론을 토대로 스마트폰 자극 반응성과 집중력 회복도를 진단합니다."
+    "created_at": "2026-10-08 22:02"
   },
   {
     "id": "solo_survival_master",
@@ -1212,9 +1202,7 @@ window.TESTS_DATABASE = [
       }
     ],
     "participants": 177205,
-    "created_at": "2026-10-08 22:03",
-    "framework": "자기결정이론(Self-Determination Theory) & 자율성 지표",
-    "frameworkDetail": "데시와 라이언(Deci & Ryan)의 자기결정이론 중 자율성(Autonomy) 및 유능성 척도를 바탕으로 일상 자립 및 생존 실행력을 측정합니다."
+    "created_at": "2026-10-08 22:03"
   },
   {
     "id": "impostor_perfectionism_check",
@@ -1418,9 +1406,7 @@ window.TESTS_DATABASE = [
       }
     ],
     "participants": 140627,
-    "created_at": "2026-10-09 14:52",
-    "framework": "클랜스 가면 척도(CIPS) & 다차원 완벽주의 이론",
-    "frameworkDetail": "폴린 클랜스(Pauline Clance) 박사의 가면 현상(Impostor Phenomenon) 이론 및 프로스트 다차원 완벽주의 척도를 토대로 자기효능감을 평가합니다."
+    "created_at": "2026-10-09 14:52"
   },
   {
     "id": "wealth_mindset_2026",
@@ -1535,14 +1521,6 @@ window.TESTS_DATABASE = [
             "reason": "경제학 도서 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
             "image": "https://ads-partners.coupang.com/image1/SDqKnjk7cDIff96cSFnkUhnnIOnoY-4Vy3Wv7PFYeZXifNzcyyZVOswFlfqsTw1OLP5UWKH7sA-BQCNKk9vR5jVfdYNI-ddkCSsxcVHm-1F6iQqDXjHPP9uuBhTg4X7nXFVMAK96XBFCoMDd3t3_MT99cHbRjY01Qsp5ll4cGTOQWfTRWaCv9TUIPy-_Z6VFlyI9aJIkjT2Q7za1xWJiPwP0E8olFV0WG5B8psCBURAeDjQuLRL7wbeUB2idugn0eoFGvbX-mDt5Qb5gaNljrZD7NZSV3QWzcM4Pf6X9ABbd7KGJW1Jon1sExF9mNGjUqBPCK4KK2Ph6twdD2At9HujKD5psARKGSOiMWOo6lp7OLNlW5rMYfvdW6B-gRpJzUCeZ-z4LrhSiujP2hvQfuvWSkf7H3JxmVDFGPbZjoDvoxZemR8hFu6gqaE8qJIsx9JutUR9eTgPxrNopVfCMAhP7pJStnGV0bi3NwanuYM5k-UI3Y1EpykgbGNigl7FpmhM3aQSyUvCHblDNrfuM_LJMf8nORoGB",
             "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9581661926&itemId=28601527876&vendorItemId=95049833471&traceid=V0-153-7b7a4d7773a1368d&clickBeacon=3a5fa5e0-c40a-11f1-b082-ddb276be4da9%7E3&requestid=20261010025243278166870091&token=31850C%7CMIXED&pt=1&slot=1"
-          },
-          {
-            "title": "쇼핑하면서 돈 버는 슬기로운 앱테크 (애드픽 쇼핑메이트 무료 가입)",
-            "tag": "🎁 [무료 앱테크] 연구소 추천 솔루션",
-            "reason": "가계부 작성과 함께 쓰면 재테크 시너지 2배! 일상적인 쇼핑 링크 공유 및 구매로 쏠쏠하게 포인트를 모으는 스마트 재테크 필수 앱입니다.",
-            "image": "https://d4jzqlmz11rgq.cloudfront.net/2020/939eb596f96176b2c54778939fa09f431586418837.png",
-            "url": "https://deg.kr/76d82fc",
-            "isCpa": true
           }
         ]
       },
@@ -1585,14 +1563,6 @@ window.TESTS_DATABASE = [
             "reason": "앱테크 캘린더 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
             "image": "https://ads-partners.coupang.com/image1/eBeMtowjK6HddDYLePa1AH4I00lsKOY94kWv_bEEg88qi1a5sUUTv1wTjGp8qXryLlzn_su4XLobq5ez3eo7EIMGrp5e9d0MCOUfP0nXI8lliiej5Sv6PurrbGdUH-PzfhT9lw_Lc91_ATikVqmyUIJV9Iu2AhSXFevDQdpZrZY1x_zlQ8_kks9NEEwyAV8WHmdm-L1eiw5nzHrq1VrvupayPj4MJM-W9fojY71U37i7RTI0OVyXdgpl3fRc8OldXOdOQtgDVkInzoSi7AW4TWoGFc4fBG-a2iT-x-aZcBDxUalk5ONA1xMUbjQAEbd0AW4jWQAYUyPE4E5eb_B8NZtc6msPXsGC_4iW_UU9k_C-8jcYQGxHXmd6Q2SEqOhi5Itmz_-oJNRK1xXCp1QihEvvzB1R7GCRLik73-GXfpfEgf6Q777BuXLK021Mt23briK32WYyUHtmI9gu6XDGBH2CdOzBb2R440vA5oq1P_yPkNndMs_jqfwHttnA22HKkmaIRB3PFi0e1Zbx1vMVKy_tcus6cVIf",
             "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=7675425696&itemId=20486749971&vendorItemId=87565461240&traceid=V0-153-3158f5bbea9e7119&clickBeacon=3aa73630-c40a-11f1-9951-386e4464db60%7E3&requestid=20261010025243729212625073&token=31850C%7CMIXED&pt=1&slot=1"
-          },
-          {
-            "title": "쇼핑하면서 돈 버는 슬기로운 앱테크 (애드픽 쇼핑메이트 무료 가입)",
-            "tag": "🎁 [무료 앱테크] 연구소 추천 솔루션",
-            "reason": "가계부 작성과 함께 쓰면 재테크 시너지 2배! 일상적인 쇼핑 링크 공유 및 구매로 쏠쏠하게 포인트를 모으는 스마트 재테크 필수 앱입니다.",
-            "image": "https://d4jzqlmz11rgq.cloudfront.net/2020/939eb596f96176b2c54778939fa09f431586418837.png",
-            "url": "https://deg.kr/76d82fc",
-            "isCpa": true
           }
         ]
       },
@@ -1635,22 +1605,12 @@ window.TESTS_DATABASE = [
             "reason": "가계부 어플 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
             "image": "https://ads-partners.coupang.com/image1/xkCiSdiQxcc5BzqRxkT97u3hFt3IaPLydoLWZKPNnCa5pH4o3cGr6gdjzOuKTEluryBfU5azOWBKM3Y0j83S1vIY7EVXvr93BOEq_82bPitFQH9kwoeA2SD077H3god-qluStwp1EtBdDyKn7e8ec_X33u3A5eNq30ZiO4GhpqjqdSyaKd69x8tBgYQaHJnSC5QROj5QHSbsxpO70TokhTwudrz8nA01FjMZzenVcbHRWS4PUtu6T9Fhjb1g5V3oWddFkVTfcNRDc8E_OmGo9Usf8LvWa2g9lydcYdDqdt1GHVgdGBZNR5DKtowtrnLlfhP_Qd2nxxXv9MC__r5jj0_JfPijJYGAaf0LVDkFPKuyDxkQZTOehOMHdQSVyCysPrv4ri-ckRJMuXawshICrt06ZYYVbQwbRSjI3w9caJVuKYFZj57AcqCyhBGZfyO32aPZX-oUPtkMoqnuBz3ZiSnHH4NBZ5uMsvGwhRWrVaN3lycXG570HW0CMIhfwHqvDXGfGggKOuc=",
             "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9304866229&itemId=27566539835&vendorItemId=94532043253&traceid=V0-153-842f37112938aa19&clickBeacon=3ad9b7e0-c40a-11f1-917e-345e1c9aea53%7E3&requestid=20261010025244054293860402&token=31850C%7CMIXED&pt=1&slot=1"
-          },
-          {
-            "title": "쇼핑하면서 돈 버는 슬기로운 앱테크 (애드픽 쇼핑메이트 무료 가입)",
-            "tag": "🎁 [무료 앱테크] 연구소 추천 솔루션",
-            "reason": "가계부 작성과 함께 쓰면 재테크 시너지 2배! 일상적인 쇼핑 링크 공유 및 구매로 쏠쏠하게 포인트를 모으는 스마트 재테크 필수 앱입니다.",
-            "image": "https://d4jzqlmz11rgq.cloudfront.net/2020/939eb596f96176b2c54778939fa09f431586418837.png",
-            "url": "https://deg.kr/76d82fc",
-            "isCpa": true
           }
         ]
       }
     ],
     "participants": 157710,
-    "created_at": "2026-10-10 02:52",
-    "framework": "행동경제학(Behavioral Economics) & 금융 의사결정 모델",
-    "frameworkDetail": "대니얼 카너먼(D. Kahneman)의 전망 이론(Prospect Theory) 및 시간선호도 모델을 바탕으로 재무 의사결정 습관과 금융 마인드셋을 분석합니다."
+    "created_at": "2026-10-10 02:52"
   },
   {
     "id": "money_mbti_flex_vs_save",
@@ -1765,14 +1725,6 @@ window.TESTS_DATABASE = [
             "reason": "아로마 롤온 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
             "image": "https://ads-partners.coupang.com/image1/MxzfmzFJhiB6naJbM4veL2IvUKYdItXMMkrXSw3ocuLhA07lsRt038_zQUtZKSu1m9VLcNBXL2eCyGKi_2Edk3c86nJfA8dPqbb7P2orFR8-KhIYG2vuuUVE_pZamwTiIB2o-SIIpNLWjNQANXz71zbU69nGqjYeO6Mndmbhy5Zdpx87ITGeytxATYYFyEW0QAgj7NAG0T8L1s7sBxIETjZVMNq7VDjB6vGB4-JFc6LXR8fGRjR36obxSiKSp-xF1SL83oAhfffY2rgQhOFhyG99AIQpyWw2R_2Lgis6Y6ZX7diybWGCU_O3SkMQX3p7y916Lk164fPIiL2ASRJgcRYPejcRXX2xw1GUKNGnS2qZlS6R7PTpoaTHLiEKf5NqLQuXdDjVrvvtIulicaYn8cNh6UxWvNqN81foN2coUtPZm4Hbfu91KqWQelNw0iO1Rt6B0UCyvAbNndx-64o-Oc3nD1jRoGHJZ9MSiRVzF3XQBUeVB0SXAYhcT0NGJWLOov6-EjHPRrc=",
             "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9325893414&itemId=27644680639&vendorItemId=94607262174&traceid=V0-153-0e1a596580898ffa&clickBeacon=631218f0-c4d3-11f1-92de-f654fc22c5ec%7E3&requestid=20261011025240388127132737&token=31850C%7CMIXED&pt=1&slot=1"
-          },
-          {
-            "title": "쇼핑하면서 돈 버는 슬기로운 앱테크 (애드픽 쇼핑메이트 무료 가입)",
-            "tag": "🎁 [무료 앱테크] 연구소 추천 솔루션",
-            "reason": "가계부 작성과 함께 쓰면 재테크 시너지 2배! 일상적인 쇼핑 링크 공유 및 구매로 쏠쏠하게 포인트를 모으는 스마트 재테크 필수 앱입니다.",
-            "image": "https://d4jzqlmz11rgq.cloudfront.net/2020/939eb596f96176b2c54778939fa09f431586418837.png",
-            "url": "https://deg.kr/76d82fc",
-            "isCpa": true
           }
         ]
       },
@@ -1815,14 +1767,6 @@ window.TESTS_DATABASE = [
             "reason": "디지털 타이머 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
             "image": "https://ads-partners.coupang.com/image1/0cZReXnzzAthLjVb0XpdoIxK89vgpxQE43-oG_Gm4Jxxc6kbhTNUuzOAEKZUN0SyyhEta6pJaM_uLGfajXyEk4JhC_Hn0q4PQ5-46Ddzb0-0bPn3hTJyw52pf4XfB75eix0svLtNE-xg3BMs6QuRRXZ9rEJLJTWdyahyeFZF-tTpFL7EG6qdMPR0-CguYCEdlqdBCsCVuwJe_Ish3BSynl4cap79ac9TzIVl4sr9Kl4mfG75_1WTOkHWntYZ43nRi00BiKBmIIGUK-rB1yfyXDaEhckd-boygy41yPMJiZo9EUwWlxxeO_Ih6Sk2KY4cDQnIuhhkWfpyDS5sa-hIX0CLReNFBgXq60JhbFHACY3D1FR43WsLb5lGRjshXjEkjP3b0nOL_-chwZbSfZTfQR_7qSJs_mP01NxowzNDiz_YBjJt0W_N82fc-a7lfFisqPOpmBGOOhUO_bsyUSwuyHRgZ5-IGMGf8gB1kfqR_hOBZbCxyzecilNG_fxCJkKwTcAWPakxpH-UdtxUSsvWagkIYa_WRY89RaWFFhfvBEJqbAhdkHclGVMdxbs=",
             "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8584501482&itemId=24885700184&vendorItemId=79811509976&traceid=V0-153-4b173b5f625b12f1&requestid=20261011025240725111704807&token=31850C%7CMIXED&pt=0&slot=1"
-          },
-          {
-            "title": "쇼핑하면서 돈 버는 슬기로운 앱테크 (애드픽 쇼핑메이트 무료 가입)",
-            "tag": "🎁 [무료 앱테크] 연구소 추천 솔루션",
-            "reason": "가계부 작성과 함께 쓰면 재테크 시너지 2배! 일상적인 쇼핑 링크 공유 및 구매로 쏠쏠하게 포인트를 모으는 스마트 재테크 필수 앱입니다.",
-            "image": "https://d4jzqlmz11rgq.cloudfront.net/2020/939eb596f96176b2c54778939fa09f431586418837.png",
-            "url": "https://deg.kr/76d82fc",
-            "isCpa": true
           }
         ]
       },
@@ -1865,22 +1809,12 @@ window.TESTS_DATABASE = [
             "reason": "홈카페 티세트 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
             "image": "https://ads-partners.coupang.com/image1/7Ff4mdtCdYdvZhAK7MHW7Nwo6MwcZqONQjSYGkpeAua4k3MzG8bwUlw0VO9qZhz9X0LZyhI9q18mMOjz9w13cVlp9UALm11ly4F1wbafkxfgwme6n58SRiac2FqD8dAcBnzPgeukMYSc7kH8wEGTKR_STMTaeXmfwZbCXMBkza5xBF9WIxGlb1VCfBbvZG_48LQqxkgAqlUyLAJf4IkZLU652D-i-WdtxfMaPNWblNniFehqysxswuRhmBrd8ge3HAjp2vNMjzr578zFmGJycwL5pNR-0zg1Q53xeNxW-Ztg9F13HNbgimNJliyoJKoLp6xGlf6x6gG-E2csHL1nw6dW7Xgm0Ru-c0NvgRGAYKcqz8zRW-FMOVkw064bYCQMzpb2GbGQdrUb920ifjNKL_vyCLBPWNqN2s3OwDGSytjXWMk6MrxuD99lMsVOeVguimNmTtBwVZJRSosejCUkr2gvgvwu-YV1rbLTvznEaF9Qi6B0gKZlPqr-wnTVDDsyblMBakJlcK2bTz8J9lXcyPaoayFskRol",
             "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8473908041&itemId=24520254261&vendorItemId=91533001811&traceid=V0-153-83e336df109fa232&clickBeacon=6391f750-c4d3-11f1-8971-935009eb0fb1%7E3&requestid=20261011025241201119620276&token=31850C%7CMIXED&pt=1&slot=1"
-          },
-          {
-            "title": "쇼핑하면서 돈 버는 슬기로운 앱테크 (애드픽 쇼핑메이트 무료 가입)",
-            "tag": "🎁 [무료 앱테크] 연구소 추천 솔루션",
-            "reason": "가계부 작성과 함께 쓰면 재테크 시너지 2배! 일상적인 쇼핑 링크 공유 및 구매로 쏠쏠하게 포인트를 모으는 스마트 재테크 필수 앱입니다.",
-            "image": "https://d4jzqlmz11rgq.cloudfront.net/2020/939eb596f96176b2c54778939fa09f431586418837.png",
-            "url": "https://deg.kr/76d82fc",
-            "isCpa": true
           }
         ]
       }
     ],
     "participants": 164423,
-    "created_at": "2026-10-11 02:52",
-    "framework": "소비 심리학 & 심리적 회계(Mental Accounting) 이론",
-    "frameworkDetail": "리처드 탈러(R. Thaler)의 심리적 회계 이론 및 위험 회피 성향 모델을 바탕으로 지출과 저축의 심리적 패턴을 분류합니다."
+    "created_at": "2026-10-11 02:52"
   },
   {
     "id": "some_or_fishpond",
@@ -2084,8 +2018,210 @@ window.TESTS_DATABASE = [
       }
     ],
     "participants": 98586,
-    "created_at": "2026-10-12 02:52",
-    "framework": "사회 심리학(Social Psychology) 대인 매력 및 상호작용 이론",
-    "frameworkDetail": "사회 교환 이론(Social Exchange Theory) 및 비언어적 호감 시그널 연구를 토대로 상대방의 상호작용 의도를 객관적으로 판독합니다."
+    "created_at": "2026-10-12 02:52"
+  },
+  {
+    "id": "homebody_level_test",
+    "category": "라이프",
+    "title": "주말에 집 밖을 안 나가요! 나의 집순이/집돌이 칩거 레벨 테스트",
+    "subTitle": "금요일 퇴근 후 월요일 출근까지, <span>내 칩거력은 몇 레벨?</span>",
+    "desc": "금요일 밤 현관문 닫히는 순간이 일주일 중 가장 짜릿한 당신! 이불 밖은 위험하다고 느끼는 내 진정한 칩거 내공과 방구석 힐링 지수를 지금 확인해보세요.",
+    "emoji": "🛋️",
+    "tag": "방구석·칩거력",
+    "viralBadge": "🔥 누적 213,840명이 이불 속에서 참여함",
+    "metricLabels": [
+      "이불 결속력",
+      "사회적 거리감",
+      "배달 의존도",
+      "방구석 충전율"
+    ],
+    "questions": [
+      {
+        "category": "🚪 금요일 퇴근길",
+        "question": "금요일 저녁, 친구가 '오늘 급 번개 콜?'하고 카톡을 보냈다. 나의 반응은?",
+        "a": "'나 오늘 약속 있어(집 침대와의 약속)' 빛의 속도로 핑계 대고 집으로 튄다.",
+        "b": "불금인데 한잔할까? 나쁘지 않다며 일단 시간과 장소를 묻는다.",
+        "score": 1
+      },
+      {
+        "category": "👕 홈웨어 철학",
+        "question": "금요일 밤 샤워 후 입은 잠옷, 토요일과 일요일 나의 착장은?",
+        "a": "월요일 아침 출근 준비할 때까지 단 한 번의 환복 없이 물아일체 상태를 유지한다.",
+        "b": "집에 있어도 낮에는 가벼운 홈웨어로 갈아입거나 잠옷을 바꿔 입는다.",
+        "score": 1
+      },
+      {
+        "category": "📱 주말 메신저 알림",
+        "question": "주말 내내 울리는 단톡방과 지인들의 카톡 알림, 나의 대처법은?",
+        "a": "미리보기로 훑고 '읽씹' 혹은 '안읽씹'. 내 주말의 평화를 침범당하고 싶지 않다.",
+        "b": "궁금해서 바로바로 확인하고 소소하게 답장하며 실시간 수다를 떤다.",
+        "score": 1
+      },
+      {
+        "category": "🍕 식사 해결 방식",
+        "question": "주말 점심, 배가 고파지기 시작했을 때 나의 행동 패턴은?",
+        "a": "배달앱을 켜고 요청사항에 '문 앞에 두고 벨 눌러주세요'를 체크한 뒤 문틈으로 픽업한다.",
+        "b": "가볍게 모자 눌러쓰고 동네 맛집에 다녀오거나 직접 마트에서 장을 봐서 요리한다.",
+        "score": 1
+      },
+      {
+        "category": "🌤️ 날씨와 외출 유혹",
+        "question": "창밖을 보니 미세먼지 하나 없이 완벽하게 화창한 봄날씨다. 이때 드는 생각은?",
+        "a": "'와 날씨 미쳤다! 환기 딱 5분만 시키고 암막커튼 쳐야지.' 넷플릭스를 켠다.",
+        "b": "'이 날씨에 집에만 있는 건 죄악이다.' 당장 산책이나 카페 갈 약속을 잡는다.",
+        "score": 1
+      },
+      {
+        "category": "🚨 주말 갑작스러운 약속 취소",
+        "question": "토요일 오후 약속 2시간 전, 상대방이 '오늘 사정이 생겨서 미뤄야 할 것 같아'라고 했다.",
+        "a": "겉으로는 '아쉽다ㅠㅠ' 답장하지만 속으로는 로또 맞은 듯 환호성을 지른다.",
+        "b": "메이크업도 다 했는데 허탈하고 아쉬워서 다른 만날 사람을 급히 찾아본다.",
+        "score": 1
+      },
+      {
+        "category": "👣 주말 걸음 수 측정",
+        "question": "일요일 밤 자기 전 스마트폰 건강 앱의 일일 걸음 수를 확인했다. 내 걸음 수는?",
+        "a": "150걸음 미만. 침대-화장실-냉장고 삼각형 동선 외에는 이동하지 않았다.",
+        "b": "최소 3,000걸음 이상. 산책이든 볼일이든 바깥 공기는 쐬고 왔다.",
+        "score": 1
+      },
+      {
+        "category": "🔋 일요일 밤의 에너지",
+        "question": "주말 내내 한 발자국도 안 나가고 방구석에만 머물렀을 때, 일요일 밤 나의 기분은?",
+        "a": "세상의 모든 피로가 씻겨 나간 듯 배터리가 100% 완충되어 극락을 맛본다.",
+        "b": "하루가 통째로 날아간 것 같아 답답하고 무기력하며 약간의 자괴감이 든다.",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "방구석 화석 칩거 만렙러 🗿",
+        "headline": "현관문 손잡이 잡는 순간 체력 80% 감소, 침대와 영혼의 결계 합체!",
+        "emoji": "🛏️",
+        "tag": "방구석장인",
+        "hashtags": [
+          "#이불밖은위험해",
+          "#암막커튼동굴",
+          "#약속취소극락",
+          "#배터리풀충전"
+        ],
+        "bars": [
+          98,
+          92,
+          95,
+          99
+        ],
+        "summary": "금요일 밤부터 월요일 출근 전까지 현관문 센서등조차 켜지지 않는 진정한 방구석 고수입니다. 사람을 만나면 기가 빨리고, 온전히 혼자 이불 속에 파묻혀 넷플릭스를 정주행할 때 비로소 영혼이 치유됩니다. 주말 약속 취소 통보를 받았을 때 느끼는 도파민은 그 어떤 페스티벌보다 짜릿합니다.",
+        "trap": "월요일 아침 햇빛을 보면 드라큘라처럼 눈이 부시고, 며칠 동안 한 마디도 안 해서 첫 통화 때 목소리가 잠겨 삑사리가 날 수 있습니다.",
+        "advice": "완벽한 고립은 최고의 힐링이지만, 햇빛을 너무 안 보면 세로토닌이 부족해질 수 있어요. 창문 열고 10분 광합성 스트레칭을 잊지 마세요!",
+        "rx_keywords": [
+          "침대용 스마트폰 거치대",
+          "극세사 바디필로우"
+        ],
+        "prescriptions": [
+          {
+            "title": "VANKIN 접이식 침대용 휴대폰 거치대 침대용 태블릿 거치대 높이 폭 조절 가능 듀얼 헤드 라이브 스탠드, 화이트, 1개, 거치대 풀세트",
+            "tag": "맞춤 케어 · 침대용 스마트폰 거치대",
+            "reason": "침대용 스마트폰 거치대 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/h4f8TIk9Y70OU9EPh5wn9I0tVDnTQ3P3Za09ATcP6mM6FjN_Pce84HdpPI_btzffQr_qQ0os8pLUIQM8OyuxPVeR0bRtD1hj2uoZQtbuUWLVc8aSvJNKzv8DYdIGj_q2L0ab5MyiEESr20-kHHyyGxVMmXsJgeU1T_uPBYzIkHMHKkKQt3DAma4GMT16RetRw112njmHTXso84aNm8HX5udeVTv_OPfA3QRreySNG3wsrjp6ZDtrxnnm0-WM4pFMce0w0HRiswVboR0CesJbigSJVtbl8VL9OPld5l1PHJeKxPw4W9ue6ieySwKBE15T9pxQ2qPNxAn3ljBxrTnKKhbOPB5lwM4lcYj3w-wB19P6RaE71TUn8ei2hAL1ATKssmCTSnACZgfwyzhJDhygeieX7NE7SOS5kkTRhdY4taV1Jb5E8_DIfnx_PdN1ZB-XkO_FXlJR1gd92LUAW1M-ehck-Lud8MbJWvp_dIZEY2NVvqnmSdOCVxQG6j4dSWcsfyoNRizPSx1XbIe3HsXH615Pm341CZuV",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9125046091&itemId=26844907232&vendorItemId=93814054822&traceid=V0-153-6be315104cc0d042&clickBeacon=c4d31380-c665-11f1-8890-73ae9a65b201%7E3&requestid=20261013025302066268682085&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "조우니 뭉찌 극세사 바디필로우 커버 + 솜",
+            "tag": "맞춤 케어 · 극세사 바디필로우",
+            "reason": "극세사 바디필로우 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/7Nx15EQibw4esA137DdAo5oQrX-zVU7OyFLn2Sq8C23ykKa-RPnFdAPoPvGvf34oGBLIwgoQmfTJzIab4w_JrFowjQui9ED5CyK-i98hiM6FaUk7CW84EModwGrvRyR4pgll_dUDWZoZTYYb78aKO0h2_m5g-i140zlc8AfZihr2tnl1ExPVVwqNji7gRKOF5B4Kz-TrAomD57VBjxSspyf7R7UpkNg0wuf_XpKHYrsNf8iBkiMnsOMmxfDcMkW5JEVxvYOQf69yvTcoBqGt9pkgWRxr-zSAYUtYhnhKkavDrUDOXBVZRX_Ye7WnI0wxIZSQIVRi-eJzotGEjn5n1j1iRFt8PaTAfIsCuKkNHALgeesuFizvIDB7WLSCFPu2INr32xlfT_VBSq3vV_Xp4dEZe8FIMU4ePFzk_puCHuulLgEUf1Ni-u9sgY4MX__9oIDQY37Ac3FCQl9V-t9wMc-TirCoGE5hNu7yBR9zIppibtvW2ozsFlIQYTSXeRtxRzgra69iMXHECnEJ1Sax3JPnenTYpoc0nmuk6H4BaDEMrXHGXeg4tgmXGQc=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=1375988353&itemId=2409264932&vendorItemId=70403826064&traceid=V0-153-996fde77ab3c5dd7&requestid=20261013025302377009451750&token=31850C%7CMIXED&pt=0&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "외출 밸런스 밀당러 🤹",
+        "headline": "나가는 것도 좋은데 집이 더 좋아! 내적 갈등 500배 선택적 집순이",
+        "emoji": "☕",
+        "tag": "반집순이",
+        "hashtags": [
+          "#선택적집순이",
+          "#동네카페까지만",
+          "#주1회외출제한",
+          "#홈카페장인"
+        ],
+        "bars": [
+          65,
+          55,
+          60,
+          70
+        ],
+        "summary": "하루 종일 집에만 있으면 살짝이 찌뿌둥하고, 그렇다고 주말 내내 밖에 있으면 월요일에 방전되는 밸런스형 집돌이/집순이입니다. 주말 이틀 중 딱 하루, 혹은 집 근처 감성 카페에서 커피 한 잔 테이크아웃하는 2시간 코스가 가장 이상적입니다. 집의 안락함과 바깥세상의 소음을 적절히 조율할 줄 아는 평화주의자입니다.",
+        "trap": "친구들의 인스타 스토리를 보며 '나도 나갈 걸 그랬나?' 하다가, 막상 나가면 2시간 만에 '집 가고 싶다'를 속으로 외치는 뫼비우스의 띠에 갇힙니다.",
+        "advice": "나가고 싶을 땐 망설이지 말고 딱 1시간 동네 산책만 하고 오세요. 그 짧은 환기가 방구석 휴식의 질을 200% 올려줍니다.",
+        "rx_keywords": [
+          "아로마 디퓨저",
+          "캡슐 커피 머신"
+        ],
+        "prescriptions": [
+          {
+            "title": "스미어티 프리미엄 실속형 500ML 대용량 실내디퓨저+유리병 2개+ 섬유스틱 10p 실내방향제 집들이선물 집 화장실 방향제",
+            "tag": "맞춤 케어 · 아로마 디퓨저",
+            "reason": "아로마 디퓨저 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/LJldCxGyHaRcXxDNLLakO8WoZXJIwGZ04_J9G5S0m2V-z909exeMcowdWehj06utXwlNnW5AxHDQJeaeJcncCMtvo0vJivM2d0UShgJvzT0qgBLOK1Hk_MEC4g9KBUSvBdWGST1x2rrHP5paa-6WMJFJ8en1ZnXd84UAbko8q63CXW8HDAclYlF9U9Wt1u2jlK8uBRTaBlGMgnzBU1R14n-QyyHQ_1OSZg3DYu2j6mJSxDULgHVXaYkNVfoighJRUSdVfvNjWN0Zv_Xr5qy2DgFLBb0C5G50kEfBEmJkfcYIDNVBowzYn8AGx_l09fSR3K8V-WHFYBMMGwP5yNB3hc9WYxfHxy6XfSFdt4bwYG3-PFq25fzxGfnS25fAEmmejvO-DFbr6ObscZNlj4jPfRMo9I46lPLIxYSSkMkCwUoBQzNjxgP4f0MUEmhSe33hSyubxPOs9vUgQo8lxquN7TDkxDWDS-3GbuGYnrAZKJFcAahrCwLe3NwQGaSh2HZuPru_i01_Tm5vE7EJ20Q9-2wTFFdMNfgMy9wX7rGEr6os",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8493757692&itemId=24594613712&vendorItemId=95904892503&traceid=V0-153-1045b96282bcffb8&requestid=20261013025302544191172058&token=31850C%7CGM&pt=0&slot=1"
+          },
+          {
+            "title": "돌체구스토 지니오S 캡슐 커피머신 스타벅스 앳홈 팩, 1161, 쉐어모카",
+            "tag": "맞춤 케어 · 캡슐 커피 머신",
+            "reason": "캡슐 커피 머신 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/_QCuaGd1A52_Siae_TDTtfVO7Xd_juamzWxynRfUP05cbR9KEVUxkj1YJ7TJLT0t55qZX0uutFTFFYUdM6t4Y6w5VWaWEWEHmp_0BmNCUBXWynAq12YTHE7bnwowQ_9gNnxIvPmwFRLtKXL38TixtLZjLuhwUJBgLguaIe3kA-cZfxpsdS13BjoVc4MBVuFooXEVXi7Nu2h1oeuxqu1eqrpBUCOHOHD8XtMsm5ciIzDdFT73b1cv_TzCa7t5uGO3_rB4UE0UW39wuTI7qeunjeIa2BvM2wZCPhimH89dQPv8boh20gflI4ac92aOczqKeBTNoQQhUKxss8AgQudPRTFPh0Pz8bb2-1xQST8DxrmzbNcGFCWbOgdZm2aI_yNZ0y5SFiLjOKdzxEasZVnYL9YKaba10eim7ISpZqtj5fLZuOaq0QE1rV93N5LIeuQTv52Cq2f8YVwBSQvkEle6LuiUmhp0b_3vm2mljm6zGk6c-PGB3gBUY4aPe38DGbFcakq5O_xWb18=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=7496138686&itemId=26234478443&vendorItemId=86971288634&traceid=V0-153-6195fe7e8a98938b&clickBeacon=c52be1e0-c665-11f1-8b41-640ec5cc10d5%7E3&requestid=20261013025302665009451873&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "태양 에너지 충전형 야외러 🏃",
+        "headline": "집에 가만히 있으면 병나요! 주말마다 밖으로 튀어나가는 역마살러",
+        "emoji": "☀️",
+        "tag": "프로외출러",
+        "hashtags": [
+          "#주말완전정복",
+          "#약속풀세팅",
+          "#광합성러버",
+          "#역마살폭발"
+        ],
+        "bars": [
+          20,
+          15,
+          25,
+          30
+        ],
+        "summary": "집은 그저 잠만 자는 베이스캠프일 뿐! 주말에 눈뜨자마자 '오늘 뭐 하지?' 고민하며 어디로든 발걸음을 옮겨야 직성이 풀리는 사람입니다. 사람들과 맛있는 음식을 먹고 야외 활동을 즐기며 새로운 자극을 받아야 비로소 에너지가 완충됩니다. 침대에 누워만 있는 시간은 인생의 낭비라고 느끼는 진정한 행동파입니다.",
+        "trap": "몸의 피로를 잊은 채 매주 약속을 풀가동하다가, 월요일 아침 면역력 저하와 함께 만성 피로 폭탄을 맞을 수 있습니다.",
+        "advice": "가끔은 스마트폰도 내려놓고 반나절 정도는 아무 계획 없이 침대에서 멍때리는 '진짜 쉼'을 내 몸에 선물해보세요.",
+        "rx_keywords": [
+          "온열 안대",
+          "마사지건"
+        ],
+        "prescriptions": [
+          {
+            "title": "해피스팀 온열 안대 눈 찜질팩 스팀 아이마스크 무향",
+            "tag": "맞춤 케어 · 온열 안대",
+            "reason": "온열 안대 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/eUfmv7Hh7iJMuL93ecIekd7bsPMfYRaDn0DL4HflcGyut3p-MiTOjXHbeicr_JGM6jEmFdSrAEczJX57mNVYDoRxFBcASYzwP547CV3fG4Q5hL1__mhHwqfEyEVg-y69rmS80qzUt6N9QCpdzsh6QcCIgJYdXwRvueuDq4iFc-0bPLlj83Q_x4o3lwWiD12OxJ6lrmMWfKj4GfnWHPuZlPFP68u_uTzOk9UHNZUjIPyPzmzPYQFOQeTmO0nAaFniruNNYgGyt2MwIUSyrG6EU4vf5AJ3ubT98fSap1io2FdMkxwfbRxMxR9m_l6WJP28vNvH0t1UNVw0GZu4RmYc2mcbqb5xUqrQAHwtqGPP9HySYrLcckwS7E0hlGU-_dthSHVEjCwdxIUJyxvSC7xWzODeuuosUJXpAovlhyqyharo4JRPgmJoXI3zrNXtrGGhGvanJJfein_-3dFefv71TT121JTBRcMeI2zAZPEvY_rUDO1Irtx4apeVLtmKefOb0hVzfp35KNM2g0IpGpthmqQj5hUY4Tm0WvExyQBJBTthY-w=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=7525139111&itemId=29014265740&vendorItemId=95157717118&traceid=V0-153-b0e6c7595fd382be&requestid=20261013025302806103290920&token=31850C%7CMIXED&pt=0&slot=1"
+          },
+          {
+            "title": "마사지건 무선 복부 배 마사지기 진동 롤링 마사지기계 뱃살 운동기구 저소음 7헤드 6단계 강도",
+            "tag": "맞춤 케어 · 마사지건",
+            "reason": "마사지건 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/KpoxUatMDTh1CJ6SKtAS9bZOryjdzTng8E5WhXRRZy5kv8bEXjH4iQULesNEL0kAsOk9N6J39TnwCfSSi0_c2LGgFoeHTlJGSaXOZspB5SklZjJo5zBdQUMRZ34jaXgxlHr-dZEms9TouUijaF0oLgt6e_SJ98s7uWlQtRJqxxSFWm6h5QGiT8jK1dUquFMP_lc9DuuOaSelgUa0dweD9umQfCyZvJdS1nsNVtrrQ53yt2LdHyqvUocLpxmJoDIA321zNgTWRLt4v47sM5nVQTPPVwpYGt9YQrMqQUjm0c4IpOcwbqGR2RpGiJLwaud2YtZAgXhF861QHdvE5g5gllmMnwSIOr48mF06G403Cc2DDlVPkzM81VQ1j9uA29G5rDl4TKX45kCbwBm7vheiXoOT23L8fBSd2sMrlG3o8yfROtC6gZSL7_P0r59T71auEYQMMQwy0bXnll_AWyf1-UQrUYcOtXezZrUjiQKecQgKLi4oh9GwPo2nmqkgijIOByHaAMPf8baoPOU06DgZP-pg-Zw8udYehFU5zSJkMIi6nPvU",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9597962571&itemId=28652229002&vendorItemId=95822490978&traceid=V0-153-fd0a5be66fbb162f&requestid=20261013025302956191172205&token=31850C%7CMIXED&pt=0&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 92196,
+    "created_at": "2026-10-13 02:53"
   }
 ];
