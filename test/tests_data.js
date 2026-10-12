@@ -1535,6 +1535,14 @@ window.TESTS_DATABASE = [
             "reason": "경제학 도서 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
             "image": "https://ads-partners.coupang.com/image1/SDqKnjk7cDIff96cSFnkUhnnIOnoY-4Vy3Wv7PFYeZXifNzcyyZVOswFlfqsTw1OLP5UWKH7sA-BQCNKk9vR5jVfdYNI-ddkCSsxcVHm-1F6iQqDXjHPP9uuBhTg4X7nXFVMAK96XBFCoMDd3t3_MT99cHbRjY01Qsp5ll4cGTOQWfTRWaCv9TUIPy-_Z6VFlyI9aJIkjT2Q7za1xWJiPwP0E8olFV0WG5B8psCBURAeDjQuLRL7wbeUB2idugn0eoFGvbX-mDt5Qb5gaNljrZD7NZSV3QWzcM4Pf6X9ABbd7KGJW1Jon1sExF9mNGjUqBPCK4KK2Ph6twdD2At9HujKD5psARKGSOiMWOo6lp7OLNlW5rMYfvdW6B-gRpJzUCeZ-z4LrhSiujP2hvQfuvWSkf7H3JxmVDFGPbZjoDvoxZemR8hFu6gqaE8qJIsx9JutUR9eTgPxrNopVfCMAhP7pJStnGV0bi3NwanuYM5k-UI3Y1EpykgbGNigl7FpmhM3aQSyUvCHblDNrfuM_LJMf8nORoGB",
             "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9581661926&itemId=28601527876&vendorItemId=95049833471&traceid=V0-153-7b7a4d7773a1368d&clickBeacon=3a5fa5e0-c40a-11f1-b082-ddb276be4da9%7E3&requestid=20261010025243278166870091&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "쇼핑하면서 돈 버는 슬기로운 앱테크 (애드픽 쇼핑메이트 무료 가입)",
+            "tag": "🎁 [무료 앱테크] 연구소 추천 솔루션",
+            "reason": "가계부 작성과 함께 쓰면 재테크 시너지 2배! 일상적인 쇼핑 링크 공유 및 구매로 쏠쏠하게 포인트를 모으는 스마트 재테크 필수 앱입니다.",
+            "image": "https://d4jzqlmz11rgq.cloudfront.net/2020/939eb596f96176b2c54778939fa09f431586418837.png",
+            "url": "https://deg.kr/76d82fc",
+            "isCpa": true
           }
         ]
       },
@@ -1577,6 +1585,14 @@ window.TESTS_DATABASE = [
             "reason": "앱테크 캘린더 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
             "image": "https://ads-partners.coupang.com/image1/eBeMtowjK6HddDYLePa1AH4I00lsKOY94kWv_bEEg88qi1a5sUUTv1wTjGp8qXryLlzn_su4XLobq5ez3eo7EIMGrp5e9d0MCOUfP0nXI8lliiej5Sv6PurrbGdUH-PzfhT9lw_Lc91_ATikVqmyUIJV9Iu2AhSXFevDQdpZrZY1x_zlQ8_kks9NEEwyAV8WHmdm-L1eiw5nzHrq1VrvupayPj4MJM-W9fojY71U37i7RTI0OVyXdgpl3fRc8OldXOdOQtgDVkInzoSi7AW4TWoGFc4fBG-a2iT-x-aZcBDxUalk5ONA1xMUbjQAEbd0AW4jWQAYUyPE4E5eb_B8NZtc6msPXsGC_4iW_UU9k_C-8jcYQGxHXmd6Q2SEqOhi5Itmz_-oJNRK1xXCp1QihEvvzB1R7GCRLik73-GXfpfEgf6Q777BuXLK021Mt23briK32WYyUHtmI9gu6XDGBH2CdOzBb2R440vA5oq1P_yPkNndMs_jqfwHttnA22HKkmaIRB3PFi0e1Zbx1vMVKy_tcus6cVIf",
             "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=7675425696&itemId=20486749971&vendorItemId=87565461240&traceid=V0-153-3158f5bbea9e7119&clickBeacon=3aa73630-c40a-11f1-9951-386e4464db60%7E3&requestid=20261010025243729212625073&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "쇼핑하면서 돈 버는 슬기로운 앱테크 (애드픽 쇼핑메이트 무료 가입)",
+            "tag": "🎁 [무료 앱테크] 연구소 추천 솔루션",
+            "reason": "가계부 작성과 함께 쓰면 재테크 시너지 2배! 일상적인 쇼핑 링크 공유 및 구매로 쏠쏠하게 포인트를 모으는 스마트 재테크 필수 앱입니다.",
+            "image": "https://d4jzqlmz11rgq.cloudfront.net/2020/939eb596f96176b2c54778939fa09f431586418837.png",
+            "url": "https://deg.kr/76d82fc",
+            "isCpa": true
           }
         ]
       },
@@ -1619,6 +1635,14 @@ window.TESTS_DATABASE = [
             "reason": "가계부 어플 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
             "image": "https://ads-partners.coupang.com/image1/xkCiSdiQxcc5BzqRxkT97u3hFt3IaPLydoLWZKPNnCa5pH4o3cGr6gdjzOuKTEluryBfU5azOWBKM3Y0j83S1vIY7EVXvr93BOEq_82bPitFQH9kwoeA2SD077H3god-qluStwp1EtBdDyKn7e8ec_X33u3A5eNq30ZiO4GhpqjqdSyaKd69x8tBgYQaHJnSC5QROj5QHSbsxpO70TokhTwudrz8nA01FjMZzenVcbHRWS4PUtu6T9Fhjb1g5V3oWddFkVTfcNRDc8E_OmGo9Usf8LvWa2g9lydcYdDqdt1GHVgdGBZNR5DKtowtrnLlfhP_Qd2nxxXv9MC__r5jj0_JfPijJYGAaf0LVDkFPKuyDxkQZTOehOMHdQSVyCysPrv4ri-ckRJMuXawshICrt06ZYYVbQwbRSjI3w9caJVuKYFZj57AcqCyhBGZfyO32aPZX-oUPtkMoqnuBz3ZiSnHH4NBZ5uMsvGwhRWrVaN3lycXG570HW0CMIhfwHqvDXGfGggKOuc=",
             "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9304866229&itemId=27566539835&vendorItemId=94532043253&traceid=V0-153-842f37112938aa19&clickBeacon=3ad9b7e0-c40a-11f1-917e-345e1c9aea53%7E3&requestid=20261010025244054293860402&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "쇼핑하면서 돈 버는 슬기로운 앱테크 (애드픽 쇼핑메이트 무료 가입)",
+            "tag": "🎁 [무료 앱테크] 연구소 추천 솔루션",
+            "reason": "가계부 작성과 함께 쓰면 재테크 시너지 2배! 일상적인 쇼핑 링크 공유 및 구매로 쏠쏠하게 포인트를 모으는 스마트 재테크 필수 앱입니다.",
+            "image": "https://d4jzqlmz11rgq.cloudfront.net/2020/939eb596f96176b2c54778939fa09f431586418837.png",
+            "url": "https://deg.kr/76d82fc",
+            "isCpa": true
           }
         ]
       }
@@ -1741,6 +1765,14 @@ window.TESTS_DATABASE = [
             "reason": "아로마 롤온 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
             "image": "https://ads-partners.coupang.com/image1/MxzfmzFJhiB6naJbM4veL2IvUKYdItXMMkrXSw3ocuLhA07lsRt038_zQUtZKSu1m9VLcNBXL2eCyGKi_2Edk3c86nJfA8dPqbb7P2orFR8-KhIYG2vuuUVE_pZamwTiIB2o-SIIpNLWjNQANXz71zbU69nGqjYeO6Mndmbhy5Zdpx87ITGeytxATYYFyEW0QAgj7NAG0T8L1s7sBxIETjZVMNq7VDjB6vGB4-JFc6LXR8fGRjR36obxSiKSp-xF1SL83oAhfffY2rgQhOFhyG99AIQpyWw2R_2Lgis6Y6ZX7diybWGCU_O3SkMQX3p7y916Lk164fPIiL2ASRJgcRYPejcRXX2xw1GUKNGnS2qZlS6R7PTpoaTHLiEKf5NqLQuXdDjVrvvtIulicaYn8cNh6UxWvNqN81foN2coUtPZm4Hbfu91KqWQelNw0iO1Rt6B0UCyvAbNndx-64o-Oc3nD1jRoGHJZ9MSiRVzF3XQBUeVB0SXAYhcT0NGJWLOov6-EjHPRrc=",
             "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9325893414&itemId=27644680639&vendorItemId=94607262174&traceid=V0-153-0e1a596580898ffa&clickBeacon=631218f0-c4d3-11f1-92de-f654fc22c5ec%7E3&requestid=20261011025240388127132737&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "쇼핑하면서 돈 버는 슬기로운 앱테크 (애드픽 쇼핑메이트 무료 가입)",
+            "tag": "🎁 [무료 앱테크] 연구소 추천 솔루션",
+            "reason": "가계부 작성과 함께 쓰면 재테크 시너지 2배! 일상적인 쇼핑 링크 공유 및 구매로 쏠쏠하게 포인트를 모으는 스마트 재테크 필수 앱입니다.",
+            "image": "https://d4jzqlmz11rgq.cloudfront.net/2020/939eb596f96176b2c54778939fa09f431586418837.png",
+            "url": "https://deg.kr/76d82fc",
+            "isCpa": true
           }
         ]
       },
@@ -1783,6 +1815,14 @@ window.TESTS_DATABASE = [
             "reason": "디지털 타이머 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
             "image": "https://ads-partners.coupang.com/image1/0cZReXnzzAthLjVb0XpdoIxK89vgpxQE43-oG_Gm4Jxxc6kbhTNUuzOAEKZUN0SyyhEta6pJaM_uLGfajXyEk4JhC_Hn0q4PQ5-46Ddzb0-0bPn3hTJyw52pf4XfB75eix0svLtNE-xg3BMs6QuRRXZ9rEJLJTWdyahyeFZF-tTpFL7EG6qdMPR0-CguYCEdlqdBCsCVuwJe_Ish3BSynl4cap79ac9TzIVl4sr9Kl4mfG75_1WTOkHWntYZ43nRi00BiKBmIIGUK-rB1yfyXDaEhckd-boygy41yPMJiZo9EUwWlxxeO_Ih6Sk2KY4cDQnIuhhkWfpyDS5sa-hIX0CLReNFBgXq60JhbFHACY3D1FR43WsLb5lGRjshXjEkjP3b0nOL_-chwZbSfZTfQR_7qSJs_mP01NxowzNDiz_YBjJt0W_N82fc-a7lfFisqPOpmBGOOhUO_bsyUSwuyHRgZ5-IGMGf8gB1kfqR_hOBZbCxyzecilNG_fxCJkKwTcAWPakxpH-UdtxUSsvWagkIYa_WRY89RaWFFhfvBEJqbAhdkHclGVMdxbs=",
             "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8584501482&itemId=24885700184&vendorItemId=79811509976&traceid=V0-153-4b173b5f625b12f1&requestid=20261011025240725111704807&token=31850C%7CMIXED&pt=0&slot=1"
+          },
+          {
+            "title": "쇼핑하면서 돈 버는 슬기로운 앱테크 (애드픽 쇼핑메이트 무료 가입)",
+            "tag": "🎁 [무료 앱테크] 연구소 추천 솔루션",
+            "reason": "가계부 작성과 함께 쓰면 재테크 시너지 2배! 일상적인 쇼핑 링크 공유 및 구매로 쏠쏠하게 포인트를 모으는 스마트 재테크 필수 앱입니다.",
+            "image": "https://d4jzqlmz11rgq.cloudfront.net/2020/939eb596f96176b2c54778939fa09f431586418837.png",
+            "url": "https://deg.kr/76d82fc",
+            "isCpa": true
           }
         ]
       },
@@ -1825,6 +1865,14 @@ window.TESTS_DATABASE = [
             "reason": "홈카페 티세트 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
             "image": "https://ads-partners.coupang.com/image1/7Ff4mdtCdYdvZhAK7MHW7Nwo6MwcZqONQjSYGkpeAua4k3MzG8bwUlw0VO9qZhz9X0LZyhI9q18mMOjz9w13cVlp9UALm11ly4F1wbafkxfgwme6n58SRiac2FqD8dAcBnzPgeukMYSc7kH8wEGTKR_STMTaeXmfwZbCXMBkza5xBF9WIxGlb1VCfBbvZG_48LQqxkgAqlUyLAJf4IkZLU652D-i-WdtxfMaPNWblNniFehqysxswuRhmBrd8ge3HAjp2vNMjzr578zFmGJycwL5pNR-0zg1Q53xeNxW-Ztg9F13HNbgimNJliyoJKoLp6xGlf6x6gG-E2csHL1nw6dW7Xgm0Ru-c0NvgRGAYKcqz8zRW-FMOVkw064bYCQMzpb2GbGQdrUb920ifjNKL_vyCLBPWNqN2s3OwDGSytjXWMk6MrxuD99lMsVOeVguimNmTtBwVZJRSosejCUkr2gvgvwu-YV1rbLTvznEaF9Qi6B0gKZlPqr-wnTVDDsyblMBakJlcK2bTz8J9lXcyPaoayFskRol",
             "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8473908041&itemId=24520254261&vendorItemId=91533001811&traceid=V0-153-83e336df109fa232&clickBeacon=6391f750-c4d3-11f1-8971-935009eb0fb1%7E3&requestid=20261011025241201119620276&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "쇼핑하면서 돈 버는 슬기로운 앱테크 (애드픽 쇼핑메이트 무료 가입)",
+            "tag": "🎁 [무료 앱테크] 연구소 추천 솔루션",
+            "reason": "가계부 작성과 함께 쓰면 재테크 시너지 2배! 일상적인 쇼핑 링크 공유 및 구매로 쏠쏠하게 포인트를 모으는 스마트 재테크 필수 앱입니다.",
+            "image": "https://d4jzqlmz11rgq.cloudfront.net/2020/939eb596f96176b2c54778939fa09f431586418837.png",
+            "url": "https://deg.kr/76d82fc",
+            "isCpa": true
           }
         ]
       }

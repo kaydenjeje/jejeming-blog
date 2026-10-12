@@ -1048,6 +1048,34 @@
       border-color: #0284c7;
     }
 
+    /* 애드픽 CPA 카드 전용 민트 스타일 */
+    .rx-item-card.cpa-card {
+      border: 1.5px solid #a7f3d0;
+      background: linear-gradient(135deg, #ffffff 0%, #f0fdf4 100%);
+    }
+
+    .rx-item-card.cpa-card:hover {
+      border-color: #34d399;
+      box-shadow: 0 4px 14px rgba(16, 185, 129, 0.2);
+    }
+
+    .rx-item-card.cpa-card .rx-item-tag {
+      color: #059669;
+      font-weight: 800;
+    }
+
+    .rx-cta.cpa-cta {
+      color: #059669;
+      background: #ecfdf5;
+      border: 1px solid #a7f3d0;
+    }
+
+    .rx-item-card.cpa-card:hover .rx-cta.cpa-cta {
+      background: #059669;
+      color: #ffffff;
+      border-color: #059669;
+    }
+
     .rx-notice {
       font-size: 11px;
       color: #b45309;
@@ -1586,12 +1614,12 @@
       sendTestTrack('pageview');
     });
 
-    // 쿠팡 맞춤 추천 아이템 클릭 트래킹
+    // 쿠팡 및 제휴 맞춤 추천 아이템 클릭 트래킹
     document.addEventListener('click', function(e) {
-      const rxCard = e.target.closest('.rx-item-card, a[href*="coupang.com"]');
+      const rxCard = e.target.closest('.rx-item-card, a[href*="coupang.com"], a[href*="deg.kr"]');
       if (rxCard) {
         const titleEl = rxCard.querySelector('.rx-item-name');
-        sendTestTrack('click', { target_title: '[심리검사처방] ' + (titleEl ? titleEl.innerText.trim() : rxCard.innerText.trim()) });
+        sendTestTrack('click', { target_title: '[제휴추천처방] ' + (titleEl ? titleEl.innerText.trim() : rxCard.innerText.trim()) });
       }
     });
 
@@ -1716,17 +1744,17 @@
       document.getElementById('res-trap').textContent = res.trap || '';
       document.getElementById('res-advice').textContent = res.advice || '';
 
-      // 쿠팡 파트너스 처방전
+      // 쿠팡 및 CPA 제휴 맞춤 처방전
       const rxContainer = document.getElementById('prescription-items-list');
       if (rxContainer && res.prescriptions) {
         rxContainer.innerHTML = res.prescriptions.map(item => `
-          <a href="${item.url || '#'}" target="_blank" rel="noopener noreferrer" class="rx-item-card">
+          <a href="${item.url || '#'}" target="_blank" rel="noopener noreferrer" class="rx-item-card ${item.isCpa ? 'cpa-card' : ''}">
             <img src="${item.image || 'https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600'}" alt="${item.title}" class="rx-item-thumb">
             <div class="rx-item-content">
-              <span class="rx-item-tag">💊 ${item.tag || '맞춤 힐링템'}</span>
+              <span class="rx-item-tag">${item.tag || '💊 맞춤 힐링템'}</span>
               <div class="rx-item-name">${item.title}</div>
               <div class="rx-item-reason">${item.reason}</div>
-              <span class="rx-cta">👉 쿠팡 최저가 &amp; 솔직 후기 보러가기 🚀</span>
+              <span class="rx-cta ${item.isCpa ? 'cpa-cta' : ''}">${item.isCpa ? '🎁 1분 무료 시작 &amp; 포인트 받기 →' : '👉 쿠팡 최저가 &amp; 솔직 후기 보러가기 🚀'}</span>
             </div>
           </a>
         `).join('');
