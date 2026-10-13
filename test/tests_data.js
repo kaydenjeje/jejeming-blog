@@ -2223,5 +2223,209 @@ window.TESTS_DATABASE = [
     ],
     "participants": 92196,
     "created_at": "2026-10-13 02:53"
+  },
+  {
+    "id": "night_owl_anxiety_check",
+    "category": "힐링/멘탈",
+    "title": "밤마다 뒤척이는 이유! 나의 수면 패턴 & 마음 긴장도 자가진단",
+    "subTitle": "오늘 밤도 <span>잠들지 못하는 당신</span>, 뇌는 이미 풀가동 중?",
+    "desc": "침대에만 누우면 머릿속에서 파노라마처럼 펼쳐지는 잡생각들! 당신의 수면 방해 요인과 마음의 긴장도를 지금 바로 확인해 보세요.",
+    "emoji": "🌙",
+    "tag": "수면·멘탈",
+    "viralBadge": "🔥 누적 215,300명이 참여함",
+    "metricLabels": [
+      "뇌 과부하",
+      "불안 민감도",
+      "감정 과몰입",
+      "휴식 필요도"
+    ],
+    "questions": [
+      {
+        "category": "잠들기 직전",
+        "question": "자기 전 스마트폰, 어떤 걸 보느라 시간을 보내나요?",
+        "a": "오늘 못한 일이나 내일 할 일을 생각하며 관련 정보 검색하기",
+        "b": "아무 생각 없이 재밌는 릴스나 짧은 영상 보며 멍 때리기",
+        "score": 1
+      },
+      {
+        "category": "마음의 소리",
+        "question": "오늘 하루, 누군가와 있었던 미묘한 감정 싸움이 떠오른다면?",
+        "a": "그때 왜 그런 말을 했을까, 다시 시뮬레이션을 돌리느라 꼬리에 꼬리를 문다",
+        "b": "이미 지나간 일! '뭐 어쩌겠어' 하며 훌훌 털고 잔다",
+        "score": 1
+      },
+      {
+        "category": "보상 심리",
+        "question": "퇴근 후 또는 하교 후, 나만의 '자유 시간'이 너무 짧게 느껴질 때의 행동은?",
+        "a": "1분 1초가 아까워 잠을 줄여서라도 나만의 시간을 더 보낸다",
+        "b": "내일을 위해 조금 아쉽더라도 계획된 시간에 잠자리에 든다",
+        "score": 1
+      },
+      {
+        "category": "환경 민감도",
+        "question": "잠자리에 누웠을 때, 시계 초침 소리나 미세한 빛이 신경 쓰이나요?",
+        "a": "정말 거슬린다. 예민해서 작은 자극에도 잠이 확 달아난다",
+        "b": "거의 신경 안 쓴다. 피곤하면 머리만 대도 기절한다",
+        "score": 1
+      },
+      {
+        "category": "계획 강박",
+        "question": "내일 중요한 일정(회의, 시험, 여행)이 있다면?",
+        "a": "혹시 늦을까 봐, 준비물 빠뜨릴까 봐 몇 번이고 확인하며 긴장한다",
+        "b": "알람을 맞춰두고 최대한 마음 편하게 가지려 노력한다",
+        "score": 1
+      },
+      {
+        "category": "감정 조절",
+        "question": "힘든 일이 있을 때, 당신의 해결 방식은?",
+        "a": "혼자 방에서 곰곰이 생각하며 감정을 완전히 소화해야 한다",
+        "b": "친구나 가족에게 바로 이야기하거나 술/운동으로 즉각 분출한다",
+        "score": 1
+      },
+      {
+        "category": "뇌 정지",
+        "question": "침대에 누웠을 때, 머릿속은 보통 어떤 상태인가요?",
+        "a": "오늘의 실수, 미래의 불안, 알 수 없는 걱정들이 쉴 새 없이 떠오른다",
+        "b": "딱히 생각나는 게 없다. 그냥 피곤해서 얼른 자고 싶다",
+        "score": 1
+      },
+      {
+        "category": "루틴 확인",
+        "question": "평소 수면 중 당신의 상태는?",
+        "a": "자다 깨다를 반복하거나 꿈을 자주 꾸며 얕게 잔다",
+        "b": "한 번 잠들면 세상 모르고 푹 잔다",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "24시간 뇌 풀가동 중인 '과몰입러' 🧠",
+        "headline": "침대에선 누워있지만 뇌는 사무실 출근 중!",
+        "emoji": "⚡",
+        "tag": "번아웃 주의",
+        "hashtags": [
+          "#생각꼬리무는중",
+          "#수면부족",
+          "#뇌휴식시급",
+          "#오늘도밤샘각"
+        ],
+        "bars": [
+          95,
+          90,
+          85,
+          95
+        ],
+        "summary": "완벽주의 성향이 강해 뇌가 쉴 틈을 주지 않는 당신. 낮에 쓴 에너지를 밤에도 계속 소모하고 있어요. 지금 당신의 뇌는 과열 직전입니다.",
+        "trap": "중요한 일을 끝내도 다음 일을 걱정하느라 '성취감'을 느낄 여유가 없음.",
+        "advice": "잠들기 1시간 전, 머릿속 생각을 종이에 다 적어보세요. 뇌에게 '이건 내일 할 일이야'라고 안심시켜주는 것이 핵심입니다.",
+        "rx_keywords": [
+          "암막 커튼",
+          "라벤더 오일"
+        ],
+        "prescriptions": [
+          {
+            "title": "홈포밍 붙이는 암막커튼 무타공 창문",
+            "tag": "맞춤 케어 · 암막 커튼",
+            "reason": "암막 커튼 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/AyOl9MFCU1BokfAdA4xuZwmnvDP_JeQEQtsJ77G-dPtZ-djpsbFV2xVbzOK69yOhk9jYnnUk4-KKxmO8CnOLKjjqeCB0BvPcMxJbTaCX_twrDIUk15xZc3gfNg038SYQ_Kj7vWovVW7bsdQsD83S9c66X7pqqbH0zGEHg39HVFJx4OzJYGlfsVwZXU-ArLoDFnk2Oe2QZT3eHAb95orIIy_zI1ePOffgDqrFsmu4MCmJBfufMLeB1HsSbXL6qUg7e1dFdNgeRH-UWYHozj57DfQyRPlMWOGpJk3_LX_EVwhSG9yt8tKDC-eVTOz6iXzAmnruQx6ZVbd7XKxz4IIBUHTSNtTaznUxTQtnb59PGmpOcJbweinMUgcwX2zRKGt-j15KUxXwUNSQyZAkrM8n6uygbngMkrYsTwKg3s_ThYf3sdt5tDq-34_toxOY073U1uZhUNFF5ZbjSl8pddY-2020vpkKrOAPf3rQg-vqmnodeZ85NATKbDgyHsNDtW00NoEvkcA_NM6az_f0mNOz9feExT6g8Ts=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9447380830&itemId=28498708485&vendorItemId=95448567307&traceid=V0-153-c3fabe0a51862d11&clickBeacon=f0724640-c72e-11f1-b126-439418109886%7E3&requestid=20261014025303994009457900&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "카오코탈라이푸 아로마 100% 에센셜오일 원액, 라벤더, 10ml, 1개",
+            "tag": "맞춤 케어 · 라벤더 오일",
+            "reason": "라벤더 오일 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/5ox7HmSpKRHwZUe45tybHcLgskvv2JC6F3F-tzpawx6btDrJVDCQfqpjWYbi2a4kecjnTvMdb3FuaYo9ZabBumBzO-ssco7z__PShY0vUw96xtqXS2Uo8Xj3QzCqFXvW2N8k-jQ8ZKol5OwwqfAOyiDaRuBFYUiaDUmwTzUT42h_6kpA3eNUThd3CJsGcj-EhzbwXzr0i0i3gBfG4sX69fkXxmrWgPOYTq2lkljze13QfDImdsG8VolLn9wnTnDnGQ0pzuReyarLp1YNe3BEhHwjWDkrM1t6aKG7UwNQyr3STyMdBXA7idSbNwNVfzg9Q5sRrbXcG7ZUaO2XQUkFmODhhBx_zHZlq9kWr2fgw5dt-YVom-9H-6DBi6hkUlbWI7rQTqjVuyKbsq2i-oW6ghX_1Wa5ahh13lYgbNLp_wySVEiyckK1XsXcWmX_rTh9O5r-57sxtBUqoIDF-_k3jpnpohHilDAPV0lLAGOu7VQndi89STOKOukxqFcvyJ29Qc5wqx87Jg4=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=6702207939&itemId=15528289303&vendorItemId=4046211372&traceid=V0-153-09a05cef01abc697&clickBeacon=f08cd320-c72e-11f1-bbc3-7e9747d7a175%7E3&requestid=20261014025304221184749993&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "보상 심리 폭발한 '짠한 야행성 인간' 🌙",
+        "headline": "자고 일어나면 내일이 온다는 게 싫은 당신",
+        "emoji": "🥤",
+        "tag": "보상심리형",
+        "hashtags": [
+          "#나만의시간",
+          "#내일이오는게싫어",
+          "#미라클모닝은먼나라",
+          "#짠내폭발"
+        ],
+        "bars": [
+          60,
+          50,
+          70,
+          65
+        ],
+        "summary": "낮 동안 빼앗긴 주도권을 밤에 되찾으려다 보니 수면 패턴이 망가진 상태. '나를 위한 시간'은 소중하지만, 그 대가가 너무 가혹해요.",
+        "trap": "밤에 하는 유튜브 시청은 도파민을 주지만, 장기적으로는 나를 더 지치게 함.",
+        "advice": "밤에 몰아서 하는 보상을 낮 시간대로 15분씩 옮겨보세요. 점심시간 15분 산책이 밤의 허무함을 줄여줄 거예요.",
+        "rx_keywords": [
+          "수면 안대",
+          "블루라이트 차단 안경"
+        ],
+        "prescriptions": [
+          {
+            "title": "컴포럽 프리미엄 암막 수면안대",
+            "tag": "맞춤 케어 · 수면 안대",
+            "reason": "수면 안대 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/IVfJQ3STDwYqshtyIVoFUGWIGT7KnGy1ZQJGJ4pRPdgRLVEKT5XtMTcEU3VU9iUTyTscayht2gx1DVhUS9uf5-7bIZ2_gCPM-0aeUScnJlkgLxxk4tM2It-QeO7uC5BJSyKbagM7-QKCT8gaZAykVioD_d_pVsxnSBgO3kMngXnQK0SJs3rmgupWOaAglSQ6cF4w0rZtv_j-u7yVRR657lpi0R6bTQSSlO-W4edoaDODTruqd92joXoNsy8phNy7XLnrAnQyqq5JVDCdxUGL94VaNn01U6UdKMFSrwhlAWVdo94-ZeQcD3f3fMhtlcDPK0mn8Na65zkP759dKlMp3YiRqMkbw3b5ztG_hyN6HsVoXQ9As6z8LIAaT-9FDFquZE-6gkHzK4YxDGzymldMlfgqSgRcxO5EcdasCe37GAvkNQFxX8TDwvbUGa7NvlpsGhj5SWTKr6LfMfhUoa8mWklHEXuLoaxpK3M1N56mkoZIZweH0_Z3ou5xpSEvHaJWwyhpjKwoIVjY",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=5071236307&itemId=6862847936&vendorItemId=78103972659&traceid=V0-153-96f053e4a50c95de&clickBeacon=f0ad5370-c72e-11f1-89fc-4ad5ad0e0b09%7E3&requestid=20261014025304459194858784&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "레무로 블루라이트 100%차단 안경 멜라토닌 4배 효과 수면유도안경",
+            "tag": "맞춤 케어 · 블루라이트 차단 안경",
+            "reason": "블루라이트 차단 안경 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/X2GnBJ8NIwBWpJXCX2iRW8eq6ePmXNgeNZNF1EPmnlhKA_L29OlVrh581djoGGJL6xYnTJLm79zc67WRQlSTvSTE-OxZQfr5D2jIlZ6ZbpAcRtPw5An2AXzV8WXC8MaoK8AOmYzjN-N7NbguZ7KDvwebBbd3eEll_B0Y9e9kbyflnTsZOeQQSsAjF0fn8RPyfQvOEzmyrup9ZHRyHQ-atOowmx1Jy7tobgEG5fYrqBxm-cpT4V9FVkhxciDbk7-L2RvUj65XXw6Z-6Ri-DZKvS07obpfqvHqjSvh46iogeJCUTnvFsD1XjjfXO9qWBdeTak9oHpmvx8lX42XMPvg9NjVnKk1iY4v_SCRe7hpzJymo9YwrsJFI56tGu_41X2e4JxPnJCjI6KVY7DuvEf43o_ZfwPHheeAfHrBj7iAdL2KXsaW2SffQiaHwcLOcgq2l9DcahvrDADiSN-RVch16El4VAXsHNnQzOtftnh1ULX5rbWo11yS0i8WxAq03YL3pFphfmcWTosYutLoH-VQQx-DoTuaKiY=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8733441444&itemId=25378213934&vendorItemId=93342082706&traceid=V0-153-542fc67a4958a7bb&clickBeacon=f0c8f1c0-c72e-11f1-9cd0-bc5a869cf74d%7E3&requestid=20261014025304616052428133&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "머리만 대면 기절하는 '천사 같은 숙면러' 😴",
+        "headline": "고민은 배송 문제일 뿐, 꿀잠 자는 당신이 부러워!",
+        "emoji": "💤",
+        "tag": "갓생 마인드",
+        "hashtags": [
+          "#기절베개필요없음",
+          "#꿈도안꿈",
+          "#꿀잠요정",
+          "#멘탈갑"
+        ],
+        "bars": [
+          20,
+          15,
+          20,
+          10
+        ],
+        "summary": "불안보다는 현재에 집중하는 능력이 탁월한 당신. 멘탈 관리가 아주 잘 되고 있으며, 수면의 질이 곧 당신의 에너지가 됩니다.",
+        "trap": "너무 건강해서 가끔 주변 사람들의 예민함을 이해하지 못할 때가 있음.",
+        "advice": "지금처럼 긍정적인 루틴을 유지하세요. 다만, 몸이 보내는 작은 신호(피로감)를 너무 무시하지 말고 가끔은 쉬어가도 괜찮아요.",
+        "rx_keywords": [
+          "메모리폼 베개",
+          "포근한 이불"
+        ],
+        "prescriptions": [
+          {
+            "title": "밀리포어 프리미엄 메모리폼 경추 수면 베개, 2개, 화이트",
+            "tag": "맞춤 케어 · 메모리폼 베개",
+            "reason": "메모리폼 베개 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/Hp57r_tM4f-JaIJjHqwqA0AXC6JN9ZbmjKojXYnHWMYiVzh65PDZVXh8C6rzZvSoKElOmHO2KrMUqHKUI5unMFTLcOEgPkbymVKzNqtc0NCe6v3-FqX0H2WHYSJzG4ojFhUR49rJOPWRaU8VaQ2Bwc34edN8ZcMFkBfG4Pbo5tzHkWSp-GEtnw3EqnffSE2RqXmmONpWi2uXIHRgZ-2ebWUt5GG-RN4xY822td2mRwZFOVAAtDwd_rC4kRiopoj54ehboMvO65ugkcD39n_G98C6zhMiX1HjpADY8tmLh7Di6zAT03ca9IjZb7KdEdDyV7KfxZrBWNnSdNz1IuksBIpl_Vrhioyhdxglq8tA3QwxzqBCypIsK4nT616ApgAuuIzQuwyPmqXpvaEtQVjAf18oZzZ45P6PQ9wcrpkMfBe_h7KMjP6briY-xjMicjeGT3sAb29ynhK4TOjjdU45hFb_3pbM3tBxDJC5-FwPCIbCekne1PsyieAlAcT1VVLFJtDIGTcpsld7O9cOHOVeXndyrksSs2uv",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9412348605&itemId=29013963089&vendorItemId=95942177991&traceid=V0-153-7d516360589b3a43&clickBeacon=f0e33080-c72e-11f1-af0e-6975a199ac86%7E3&requestid=20261014025304799052428161&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "국내생산 에그룸 시그니처 모달이불 실크 촉감 모달100% 차렵 침구 호텔 이불 4color",
+            "tag": "맞춤 케어 · 포근한 이불",
+            "reason": "포근한 이불 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/SxblkwrX6jDztRd6S6cML4HKKmavix9tlJmgy9CiwYUDySSJig_ajPozzkDqFGjD2Z8KHATk976LAmmP1K_cdQvlw5hBZvfA0aHcmkG-U6nq_x8EMNDZFhsNCGsgLMPfT0pAkVOMq32Fd8gm16cJOYXBYBuQLDBeOUn6-VnHpFddhBozhkNYk2s_-dV2SXp-FfN7dDIWgg4xoa-c8pXkd5vezwWAJsHWS3_WpwdyazVOYQBAmsuA12uWPJCcHUXOTHMgtXhO9QNwDnS0QRRr3jJAARkb7oXU8qIHiOO7tvC2LkFUKa5rPTgwWHu1u66NQo9Xs5RDZ6BPwQQ7GIsRkekPKulHhCeF0EbN67_4H0f8qSpwLAb7aR6qQatXaK6KQUOhKNC7uL32eh0AviUYE5NBOAx-sEEYlYWEpGCsk1dbm4r0CwSfdfFbhh1-6gDRuPSWcJPckQxJYMyFSETUHmONC1gMI4jjO_8XEiAcnQL4CO4BTp8fL0VTjc6glAI9obd5lyPs33H2NXK70BLR5DResmxywJboag==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=7919374597&itemId=21752132455&vendorItemId=89525655646&traceid=V0-153-0df5d9504e0b361d&clickBeacon=f10621d0-c72e-11f1-bb06-6ec445a4bbb2%7E3&requestid=20261014025304998187451612&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 144779,
+    "created_at": "2026-10-14 02:53"
   }
 ];
