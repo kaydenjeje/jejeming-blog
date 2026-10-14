@@ -2427,5 +2427,209 @@ window.TESTS_DATABASE = [
     ],
     "participants": 144779,
     "created_at": "2026-10-14 02:53"
+  },
+  {
+    "id": "dopamine_shopping",
+    "category": "소비/재테크",
+    "title": "나의 도파민 쇼핑 중독도 & 충동구매 방어력 자가진단",
+    "subTitle": "내 통장은 안전할까? <span>도파민 결제 본능</span> 테스트",
+    "desc": "힘든 하루의 보상이 항상 '결제 완료' 알림이었나요?\n내 안의 도파민 소비 지수와 텅장 방어력을 1분 만에 확인해보세요!",
+    "emoji": "💳",
+    "tag": "쇼핑·도파민",
+    "viralBadge": "🔥 누적 214,890명이 뼈맞음",
+    "metricLabels": [
+      "도파민 중독도",
+      "스트레스 소비율",
+      "충동구매 방어력",
+      "현실 자각력"
+    ],
+    "questions": [
+      {
+        "category": "📱 침대 속 탐색전",
+        "question": "잠들기 전 불 꺼진 방, 인스타 알고리즘이 기가 막힌 꿀템 광고를 띄웠을 때 나는?",
+        "a": "홀린 듯 링크 타고 들어가 리뷰 보다가 이미 결제 창에서 지문 인식 중이다.",
+        "b": "'오 신박하네' 하고 장바구니에만 넣어둔 채 쿨하게 폰 끄고 잔다.",
+        "score": 1
+      },
+      {
+        "category": "🛵 배달앱의 유혹",
+        "question": "분명 밥 먹었는데 밤 11시, 입이 심심해서 배달앱을 켰을 때 무료배달 최소주문금액이 5천 원 부족하다면?",
+        "a": "사이드 메뉴나 음료 2개를 더 추가해서 기어코 최소금액을 채워 주문한다.",
+        "b": "배보다 배꼽이 더 크네 싶어서 조용히 냉장고를 뒤져 귤이나 집어먹는다.",
+        "score": 1
+      },
+      {
+        "category": "🏷️ 마법의 단어",
+        "question": "평소 전혀 관심 없던 브랜드에서 '오늘 밤 자정 종료! 전 품목 80% 마감 세일' 카톡 플친 알림이 왔다.",
+        "a": "'안 사면 80% 손해 아닌가?' 일단 들어가서 살 게 없는지 열심히 뒤적인다.",
+        "b": "'안 사면 100% 할인이다' 생각하며 미련 없이 카톡 알림을 지운다.",
+        "score": 1
+      },
+      {
+        "category": "🏢 월요병 극약처방",
+        "question": "회사에서 상사한테 탈탈 털리고 멘탈이 바사삭 깨진 퇴근길, 나의 셀프 위로법은?",
+        "a": "'이러려고 돈 버는데!' 나를 위한 선물이라며 평소 벼르던 걸 결제해 기분을 푼다.",
+        "b": "돈 쓰는 것도 기운 빠진다. 집에 가서 매운 떡볶이 먹으며 넷플릭스나 정주행한다.",
+        "score": 1
+      },
+      {
+        "category": "📦 택배 언박싱",
+        "question": "문 앞에 쌓인 택배 상자들을 마주했을 때 나의 솔직한 상태는?",
+        "a": "택배 뜯을 때가 하루 중 제일 짜릿함! (근데 내용물 확인하면 흥미 급하락)",
+        "b": "필요해서 산 거라 차분하게 뜯어 정리하고 분리수거까지 깔끔히 끝낸다.",
+        "score": 1
+      },
+      {
+        "category": "🛒 장바구니 미학",
+        "question": "쇼핑몰에서 '3만 원 이상 무료배송'인데 현재 담은 상품 금액이 2만 7천 원일 때 나는?",
+        "a": "배송비 3천 원 내는 건 절대 용납 못 해! 5천 원짜리 양말이라도 하나 더 담는다.",
+        "b": "불필요한 지출이 더 크다고 판단해 그냥 쿨하게 배송비 3천 원을 낸다.",
+        "score": 1
+      },
+      {
+        "category": "☕ 소소한 사치",
+        "question": "길 가다가 예쁜 소품샵이나 신상 굿즈 팝업스토어를 발견했을 때 나는?",
+        "a": "'귀여운 게 세상을 구한다!' 쓸모는 없지만 보기만 해도 행복하니 일단 결제한다.",
+        "b": "귀엽다고 눈으로 감상하고 사진만 몇 장 찍은 뒤 빈손으로 유유히 나온다.",
+        "score": 1
+      },
+      {
+        "category": "📊 카드값 고지서",
+        "question": "매달 카드값 명세서 알림 톡이 울렸을 때 나의 반응은?",
+        "a": "'내가 뭘 이렇게 많이 썼지? 카드사 오류 아냐?' 떨리는 손으로 내역을 확인한다.",
+        "b": "대략 예상했던 금액 범위 안이라 담담하게 확인하고 넘어간다.",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "손가락이 뇌를 지배한 도파민 불나방 💸",
+        "headline": "\"택배 뜯는 순간만 살아있음을 느껴요... 통장은 이미 사망\"",
+        "emoji": "💸",
+        "tag": "도파민 풀악셀러",
+        "hashtags": [
+          "#도파민폭발",
+          "#월급삭제마술사",
+          "#금융치료중독",
+          "#장바구니폭주"
+        ],
+        "bars": [
+          96,
+          88,
+          15,
+          20
+        ],
+        "summary": "결제 버튼을 누르는 찰나의 쾌감에 중독되어 스트레스를 쇼핑으로 푸는 전형적인 도파민 헌터입니다. '오늘 하루 고생한 나를 위한 보상'이라는 합리화 장인이지만, 택배 상자를 뜯고 나면 거짓말처럼 허무함이 밀려오곤 합니다. 통장은 이미 '로그아웃' 상태인데 손가락은 여전히 다음 결제 거리를 탐색하고 있네요.",
+        "trap": "스트레스와 감정적 결핍을 소비로 채우려다 보면, 남는 건 카드값 청구서와 더 큰 자괴감뿐입니다.",
+        "advice": "사고 싶은 물건이 생기면 장바구니에 넣고 딱 '72시간 결제 유예 룰'을 지켜보세요. 간편결제에 등록된 카드 정보를 삭제해 결제 허들을 높이는 것도 긴급 처방입니다.",
+        "rx_keywords": [
+          "디지털 디톡스 타이머",
+          "무지출 챌린지 가계부"
+        ],
+        "prescriptions": [
+          {
+            "title": "[KAIST 박사 개발] 뇌를 깨우는 Dr.Lee 뽀모도로 타이머 무소음 중력식 90분 집중력타이머 F-1 2세대, 블랙, 1개",
+            "tag": "맞춤 케어 · 디지털 디톡스 타이머",
+            "reason": "디지털 디톡스 타이머 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/1a0iV61PwWZF0Oud1fNcqfjyBsycgaqgQm8vZrhXxU1in_doZmM6VJxTqilxJEpc7PxL05vTGP-xKiNAF020J_PGZzKcL55gMjOMYRL3stCin3Taw4wAovHuKomJ_NYXqVWhXqF4GkHRm7M65D26yEt-Vir9vsFw6asPQ_sR0C0zHAI1AOwNbyjMLRQhtoe9VY5huRsMAhDaYtwBOTCE6x5xYy4RzcFQwOgogDqFHApdI6ZAmDNJOlST6P47gL4OSL-H6X82BgSmKqgao-ywetm2YlVUCCODj7A9iV-_Zr96rOXO2CWQ4w3dPH8G8bOaEMvxb13GbtpEiz7Hank8lDz3Sc3nL6kEAzaDAYL7JvkPgNZ1mImwnW_6hAHbNFOe1XXtkCYyOKEwpwev5HK5kbf4coINgXI_BiA0Ef8p4_W36aCldqlYxcjJVIPqmuehi52ITSvk1N97IGogpYUtua4eq6MShkQIuvQGn4uk3dZ9kQHtpFlOyZyo9vAZyAjcVS7a2JA2VHujQhv_owYWsld4kJWut52E",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8667726630&itemId=25426608441&vendorItemId=92419685115&traceid=V0-153-ae0f9d8cf69b9717&clickBeacon=881bc100-c799-11f1-9995-b5109e76781a%7E3&requestid=20261014153605178284255960&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "만년가계부 캐시북 다이어리 금전출납부 스프링 제본, 아이보리, 1개",
+            "tag": "맞춤 케어 · 무지출 챌린지 가계부",
+            "reason": "무지출 챌린지 가계부 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/hrsm4dqGXYAPK5BUhrMybfAXmRf0M1iwzvuPstC-Ni0IeuGVJ0RhqkBEDT7sfORcIcXJAC2256K2zRfIy7yAA-0kpD0ezaZpG56FreoaQ2y3r07pcldenIcAtFuazs5qdq9SRTShiON_wZV85stn61_dGZx9SzbCey93ePNAF2Gg9GXcbZdNJyhUGXR3l-sAMvCyQhApz7fEwq6sEPquMqz3C4_xRBP-15QXP3JRTVqeoGdmMVrQI9zw4UT4QnnY1A26YL7Dre1lgkqVhnlnUXFJRu_igHQgVdswblU4FgWtK6AA3d5TBnH4RXQOwsvmCV2sb5ut8_KcLjCv6XDc9ilr83FxnVUyzHGNonOUXaiODAl1S61N0Gn01EwqPIlTraCIndz3m-wKIXd71fdHSD6FOmMiNMr0TlstzAYJQOMOM1WAE49llYsfF33EN29oAjZnJ7H5hEcIpMKyIxGb-HOcYTxsdColMfQ4fYxSsVC-I973uY-ybqf71O6e0D36NijhW_j4ytOeW4AFeJB50pAg1l_NUFY=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9609052061&itemId=28687620626&vendorItemId=92174229979&traceid=V0-153-9bd200e6d8b66866&clickBeacon=8845de40-c799-11f1-ba9b-3499aa2858e3%7E3&requestid=20261014153605421006371563&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "가성비 찾다 가산 탕진하는 합리화 장인 🛒",
+        "headline": "\"할인과 무료배송 앞에선 한없이 무너지는 선택적 짠돌이\"",
+        "emoji": "🛒",
+        "tag": "알뜰살뜰 과소비러",
+        "hashtags": [
+          "#무료배송노예",
+          "#세일못참아",
+          "#가성비함정",
+          "#선택적절약"
+        ],
+        "bars": [
+          65,
+          55,
+          50,
+          60
+        ],
+        "summary": "평소엔 100원 단위 최저가를 검색하며 똑똑하게 소비하는 것 같지만, 결정적인 순간에 '할인율'의 덫에 걸립니다. 3천 원 배송비를 아끼려고 1만 원짜리 물건을 더 사고, 50% 세일이라는 이유로 계획에 없던 물건을 품에 안습니다. 안 사면 100% 할인이라는 진리를 알면서도 묘하게 설득당하는 타입입니다.",
+        "trap": "'이건 어차피 쓸 거니까'라는 자기합리화가 쌓여 통장 잔고를 서서히 갉아먹고 있습니다.",
+        "advice": "물건을 살 때 '얼마나 할인하는가' 대신 '정가여도 지금 당장 내 돈 주고 살 것인가'를 스스로에게 질문해보세요.",
+        "rx_keywords": [
+          "장바구니 쿨다운 메모패드",
+          "라벤더 롤온 아로마"
+        ],
+        "prescriptions": [
+          {
+            "title": "에어프렌즈 캠핑 냉감 패드 -8도씨 코오롱 포르페 쿨링 쿨 아이스, 쿨매트 쿨링시트, 여름냉감이불, 화이트",
+            "tag": "맞춤 케어 · 장바구니 쿨다운 메모패드",
+            "reason": "장바구니 쿨다운 메모패드 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/HGoZBqUKwRxbS_rsHI_-JPDY-BPdEJVr-thkpfr6BqNipve5SGjiGnUdEorc2v5nm-oGHsUY6LPqptFP_tcSol5nOrC7eHV34Ivnwi5IvZGBPlIYgIeRjQirdNYJTuvCynmwnDcEeMbj9csxPRwbJjGEAr7yWTjMnF4VkDF6QNR3W3XOcQ2icXlje8wTa2NZ_qg26i8R9KeuADHRNNEEkX4JcmLIOOMph1bvAsYfeRc9BM8LuQSaz-Ct1za-QY9noIr3_iC7lT9DZC4eMgmx21sX4-iHt2LysvHTPYiR5y0ZgEsk3meg8_pFm6EZqlFstnpB05l3KWZGTgz9BG2-xnWVcqdawANHHzeRh3ELu0EcDSlOULKBOhR8X6iqxAMeWs056judEr9oyiksGJ8JvHBbbR5Wvmmk_RQc8dMORBHiFN8b4PcQQZIs1mF45si77h51THAx_u9tsQGmvHJDaYHBOwKdY883XMRbw5EKW38oTDJmvRhL2YnOekzPeL6xUvBBNN3pDL6wDDWYa5EKO7YjkTXa_U_AlgcfWg88qSB2TsNoxsc5X1Fcsp01yLx99X2bqA==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9481398381&itemId=28230163319&vendorItemId=95183919574&traceid=V0-153-434e49013a67c8af&clickBeacon=88746850-c799-11f1-bd86-686b4db3104d%7E3&requestid=20261014153605758237539214&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "편안함을 담은 라벤더 롤온, 2개, 8ml",
+            "tag": "맞춤 케어 · 라벤더 롤온 아로마",
+            "reason": "라벤더 롤온 아로마 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/4KCXuaxE1_8CotcF4IDiOOta7XdZTIoqXbjdbej4QeX2Jq4-0sqUzHJBk5WvjdV0AIdI6CnR3LmZcICAtoAbWnf0h91P1a-_lkmj0-Tb_tRokSINZ3Pr0eYEao033LXbXhrPJPDtqRgcoEy_vchil7ScGgV3IXATs0VLtKOo_-EgYodgv1Gv9dpZbc0s8WHUzSJcj5w5k6QcnmWh_AK-LEQ1Ywuq1FLM-O0FmBjB0yC4mhPs1VuW54FxWzr3KE2ytBV2uyfGS3fcCi41mjDSGZFLBsW0bVZQcM3EdNGhrdyZ26iVFfQkKckvgSvaa2LIXSeyb_7rQmTRzkvTM-kQvG-mzUlS2QsCmKhd_RXDDHrQ22wgQev0JO6m5eH-_RS7qRd8uXLxa7By8TnKYPQcdp5EzPOoxSXcvt6pxjVxHpPsmOiJcgbySIc8-eDV-Ow37PzG0Jxk97idKME6jIAuHbhaMxuT28gSlydASfNkbc_pYKWX2vwq23oCotqfCG0cOyHx3n7ib5XJcyCgXpzZOcz-dYEzo9s=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9592444912&itemId=28391214483&vendorItemId=95342694300&traceid=V0-153-3ee5ff91dc12d599&clickBeacon=8893d730-c799-11f1-8d63-a38c2fa88a57%7E3&requestid=20261014153605976283687969&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "도파민 면역력 만렙! 에베레스트 철벽러 🛡️",
+        "headline": "\"광고야 유혹해 봐라, 내가 결제하나... 통장 요새의 수호신\"",
+        "emoji": "🛡️",
+        "tag": "강철 멘탈 수호자",
+        "hashtags": [
+          "#도파민면역자",
+          "#철벽소비",
+          "#통장잔고안전",
+          "#자본주의탈출"
+        ],
+        "bars": [
+          15,
+          20,
+          95,
+          90
+        ],
+        "summary": "화려한 타임 세일 팝업과 자극적인 인스타 알고리즘 광고도 당신의 지갑 앞에서는 무력화됩니다. 스트레스를 받을 때 쇼핑 대신 잠을 자거나 취미 생활로 푸는 건강한 멘탈 방어기제를 갖추고 있습니다. 물건을 소유하는 기쁨보다 잔고가 든든하게 유지되는 안정감에서 더 큰 도파민을 얻는 현명한 자산가 타입입니다.",
+        "trap": "지나친 절약 강박으로 인해 나를 위한 진정한 휴식과 필수적인 투자까지 아끼게 될 수 있습니다.",
+        "advice": "가끔은 열심히 살아가는 나 자신을 위해 죄책감 없는 '작은 사치' 한 스푼을 선물해 인생의 활력을 충전하세요.",
+        "rx_keywords": [
+          "프리미엄 바디워시",
+          "호텔식 티백 세트"
+        ],
+        "prescriptions": [
+          {
+            "title": "아데나루체 프리미엄 바디워시 로즈향, 1개, 750ml",
+            "tag": "맞춤 케어 · 프리미엄 바디워시",
+            "reason": "프리미엄 바디워시 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/FA_4Uf537xYDaxT6FL5q68shYNBsPk74h2abf_9i5-sO0ydhxDV0c4hmzkPDq1iA8mPvE9d7KDizaIFrRoGPxYLyaVuHIdpoHWUK4P2jEGX4rWT2ijc_yX5ZXDeUuEl-aNuVYzRFoJ3iTe3s83ytxgbS1_fCQV8SQpH6Q83Vg25n_8eQ10RaCcC9yN_tY0hpAOy6clxBMYyF67UmVVpbfk-r3yEaSb0h63z3ysFoTjewWVI66cF0ZNtfS2wKl2mE1QUDvRBBZGSwWsCdqTcQdSyG4y0mc3m09trmQkUaKfDNUvg3WcsbFPoGCn3KBaBjIcHIXmH-ZfNDHGDuRs6llLrW594eu85zmdTWNgWb1u8MZh4GG7Ogk4yQFb8gTBoX0aheN88oIyvxOsDMcuDGO4oo49YSHjU702LpRBQyARWx9lfTaaNjVtvhsxuhMUXnVnlGuP8l4Qpc9Crk4rieNyxZfrQg3BfSNkXKkwGYUzZ1VWzshkgYOXFm0TRylNYAELaMDzsn5_-bUtSCilpcggRI-5lB5a0=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8753705339&itemId=25448609229&vendorItemId=92441396470&traceid=V0-153-0b4cf666d412c168&clickBeacon=88d23fc0-c799-11f1-a812-f675934f2ecc%7E3&requestid=20261014153606361247937090&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "프리미어스 티백 에디션 선물세트, 티백 18종 + 쇼핑백, 6세트",
+            "tag": "맞춤 케어 · 호텔식 티백 세트",
+            "reason": "호텔식 티백 세트 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/vIqEOysdNLQ0HisRvI9dQe4rYBW5NSeKQX0H7HLOVQCqm-AG_oH8RmhHBNvcOQQHyBqPj6rQn1ak31MQm8gHlGp0Q21gLetUlolnzoWj6yUmIQg5ZNvbSuHB6jEVYWqMEQxuLPCAP3teUOisonIwKmW82XOBYCEmiguMFvRBEa4RX1IPsACyrS-YuQNhcI1TQns9iGSRkN1KXXd1x5xy5kosyg9FQxFcbvMy7-aR2F3_fruH2s9-SXvP4Ye3LRN_I-YU4Aj2KtvssGejT1ElZzyGOBbkM_vUZvugCg3mxskL3vb2IsYnGhdEBAg3KYnEQ9BooQkhcHyO2ERcB7YDXtX-pCJ_KHlEOrklb-eq2Kx_KvFpUwhM_k1IqoqnEOQIrwKFaRhufuj116-IbEe-qRwxT_U5tzPPBARwwvvCJEbfgaRufTn0M8ePg4Wc2thEd1IgWaxARsYdNT0m64Y2HNjH6mi0WFXU2kMhX2if7msBT2fWd1xwLZNGtHW0OBc54gvqEMkqC-kVv3Cp",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=6320248388&itemId=29197530805&vendorItemId=96118052891&traceid=V0-153-2fa693d09e19a7cd&clickBeacon=88f1d5b0-c799-11f1-9c04-bf27bf4327a3%7E3&requestid=20261014153606593286886037&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 200588,
+    "created_at": "2026-10-14 15:36"
   }
 ];
