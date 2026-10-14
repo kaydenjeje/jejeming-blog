@@ -2631,5 +2631,251 @@ window.TESTS_DATABASE = [
     ],
     "participants": 200588,
     "created_at": "2026-10-14 15:36"
+  },
+  {
+    "id": "office_resignation_meter",
+    "category": "직장/성장",
+    "title": "출근길 발걸음이 무겁다면? 직장인 퇴사 충동 지수 진단",
+    "subTitle": "내 가슴속 사직서, <span>언제 던져야 할까?</span> 퇴사 충동 측정기",
+    "desc": "지하철역 출구만 봐도 한숨이 푹푹 나오시나요? 단순 월요병인지, 아니면 탈출이 시급한 위험 신호인지 지금 바로 내 퇴사 충동 지수를 확인해보세요.",
+    "emoji": "💼",
+    "tag": "퇴사·번아웃",
+    "viralBadge": "🔥 누적 238,400명이 탈출각 재는 중",
+    "metricLabels": [
+      "퇴사 충동",
+      "번아웃 게이지",
+      "금융치료 내성",
+      "영혼 가출도"
+    ],
+    "questions": [
+      {
+        "category": "⏰ 아침 기상",
+        "question": "월요일 아침 6시 30분, 요란하게 알람이 울릴 때 드는 솔직한 생각은?",
+        "a": "차라리 어디 살짝 삐어서 합법적으로 병가 내고 싶다...",
+        "b": "아 진짜 피곤하다... 그래도 일단 씻으러 몸을 일으킨다.",
+        "score": 1
+      },
+      {
+        "category": "🚇 출근길 지하철",
+        "question": "만원 지하철 유리창에 비친 내 퀭한 얼굴을 마주했을 때",
+        "a": "'내가 대체 무슨 부귀영화를 누리겠다고 이러고 사나' 현타가 밀려온다.",
+        "b": "'사람 진짜 많네' 생각하며 팟캐스트나 음악을 들으며 버틴다.",
+        "score": 1
+      },
+      {
+        "category": "💬 슬랙·메신저 알림",
+        "question": "출근하자마자 메신저로 'OO님, 지금 잠깐 통화 가능하세요?' 톡이 떴다.",
+        "a": "심장이 철렁 내려앉고 순간 퇴직금 계산기가 머릿속을 스쳐 지나간다.",
+        "b": "'또 무슨 일이지?' 담담하게 확인하고 바로 답장을 보낸다.",
+        "score": 1
+      },
+      {
+        "category": "🍱 점심시간 토크",
+        "question": "동기들과의 점심 식사 자리, 가장 주된 대화 주제는?",
+        "a": "이직 사이트 공고 현황, 자영업 시뮬레이션, 이번 주 로또 당첨 기원.",
+        "b": "지난 주말에 본 넷플릭스 신작, 요즘 핫한 맛집이나 소소한 일상 이야기.",
+        "score": 1
+      },
+      {
+        "category": "📑 뫼비우스 회의",
+        "question": "결론도 없이 1시간 넘게 핑퐁만 치는 무의미한 회의에 갇혔을 때",
+        "a": "노트 구석에 몰래 사직서 양식을 그리거나 이직 포트폴리오 구상을 한다.",
+        "b": "영혼은 분리되었지만 고개는 기계처럼 끄덕이며 회의록 쓰는 척한다.",
+        "score": 1
+      },
+      {
+        "category": "💣 퇴근 10분 전",
+        "question": "퇴근 10분 전, 상사가 '내일 아침 일찍 봐야 하니 이것 좀…'이라며 일을 던질 때",
+        "a": "'오늘이 내 마지막 날이다' 속으로 사직서를 백만 번 장전한다.",
+        "b": "속으로 깊은 한숨 한번 쉬고 내일 아침에 빠르게 쳐낼 각을 잰다.",
+        "score": 1
+      },
+      {
+        "category": "🌙 퇴근 후 침대",
+        "question": "녹초가 되어 침대에 누웠지만 새벽 1시가 넘도록 잠들지 못하는 이유는?",
+        "a": "잠들면 바로 출근이라는 생각에 억울해서 어떻게든 자유시간을 쥐어짜는 중.",
+        "b": "오늘 하루도 고생 많았다며 유튜브 조금 보다가 스르륵 잠에 든다.",
+        "score": 1
+      },
+      {
+        "category": "💸 통장 월급날",
+        "question": "손꼽아 기다리던 월급날! 통장에 숫자가 찍힌 순간 든 생각은?",
+        "a": "내 영혼과 건강을 갈아 넣은 대가가 고작 이거라니, 탈출 욕구 급상승.",
+        "b": "카드값으로 쏜살같이 빠져나가겠지만 일단 한 달 또 버텨낼 연료 충전 완료.",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 7,
+        "name": "사직서 품은 시한폭탄 💣",
+        "headline": "지금 건드리면 바로 터집니다! 퇴사율 99.9% 초위험군",
+        "emoji": "💣",
+        "tag": "탈출시급·폭발직전",
+        "hashtags": [
+          "#사직서장전",
+          "#자유를찾아서",
+          "#퇴사마렵다",
+          "#탈출각1순위"
+        ],
+        "bars": [
+          98,
+          95,
+          20,
+          92
+        ],
+        "summary": "출근길마다 '차라리 오늘 회사가 사라졌으면' 하는 상상을 매일 합니다.\n이미 마음은 퇴사 처리가 완료되어 책상 앞에는 육체만 껍데기처럼 남아있습니다.\n더 이상 월급으로도 멘탈이 치유되지 않는, 위험 수위 최고조의 상태입니다.",
+        "trap": "감정이 극에 달해 이직 준비나 대책 없이 충동적으로 사표를 던져버릴 수 있습니다.",
+        "advice": "지금 당장 연차를 몰아 쓰고 최소 3일간 회사 메신저와 완벽히 단절된 쉼을 가지세요. 이직 준비는 냉정하게, 탈출은 치밀하게 계획해야 후회가 없습니다.",
+        "rx_keywords": [
+          "노이즈캔슬링 헤드폰",
+          "이직 자기소개서 컨설팅"
+        ],
+        "prescriptions": [
+          {
+            "title": "브리츠 노이즈 캔슬링 무선 블루투스 헤드폰, MAX30BT, 메탈릭 실버, 70시간, 메탈릭 실버, MAX30BT",
+            "tag": "맞춤 케어 · 노이즈캔슬링 헤드폰",
+            "reason": "노이즈캔슬링 헤드폰 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/_SkgQzMauEgM4Bjx_Tvg7dg6Mmzc5JEEmKeDM5kBB1oWi57IMfNIn6EKslqTBAzoxeUMJs7i9Keyxf2qJ5Hv9vHhp6NX73p3Cy6uVp9c9dO9I7Xyi3aS1H-nGv0p7wdU2DnzPrUia6AN5YK3jqyBcfTyjL5YeDcSKgnUFUI0lcLxiIDG5dVSki-iRTSYHu10RBeR2c27QM8QuAEfAfB-lh8R0w6Wr2ZGOzDfdb1jktvs580GhJZLgD3Vf9EGJ0uv3fh3lffIREjId8Ap-XVLsJP8mNp0mAj3OEFfKjc6j725j6Soa6qYF8vkdw-JcKFkCC9gJEs5TXbIxyun4tMHcJNtCQHAs5Kny5UFzKL1_GsQB_U4CzDU22dR-Cd7jbsdRSxE1_8-oc_it4miln7_atEhUAG5EjpmKy8LLObiDsA7QUzxaEcJa5I6yoFoSQvCULOASZynu6tDCWj0mSbB0xXmJwuP5gmd6JaZp8jd96LG98IYIi_8dF66q9mkbMyB4gUWmNFAYL4=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9268189650&itemId=27428421626&vendorItemId=94432944813&traceid=V0-153-cb69a9a7989c222a&clickBeacon=2a1cb0e0-c7fe-11f1-ac48-3cd2b12c1d2f%7E3&requestid=20261015033626670104880586&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "연금 ETF 공격과 수비:feat. 절세의 기술, 좋은습관연구소, 김수한",
+            "tag": "맞춤 케어 · 이직 자기소개서 컨설팅",
+            "reason": "이직 자기소개서 컨설팅 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/tp5KeM9fhY16bfmwtnSfMSNlBcARGY7Mvymjy4cg-rRRVAJOPorn_ew0bU_7vpTUdMp4osUmh4Y9EegTgnLJW1-5i0qiPWEWg-AQRs-5mfKl0S3OMMegaXXJUZzWovt3oeVRPK7h8Kjxz146mJVAonvROIOa8X36miaZXp3361vDgXLCpTNInH3ACuXQ2rIRqWC6saR2CAfcLbAwL6ip1R04mMdIEzbe4Ao9xNttHjQntUfmcrcvxDeE7BU-DwGwwYW3Cy-JlKVzjqQ2EZ6mFd8MDyASIWkFzEi07_yQtqegECtagnQMtghQMnWM-D6-qA3wkk2di65LMUY1sT_7qhoXNO2ZYDEuQQ-lVqY-Va3cCUa23mYQrfFdDQDwQhd4n5nUdBPs63pYBIwMS8lW8GGGgr4ShKF7PTzMVUNP0Vp3zeOldk_L4pD4_p5VWlezxnmMcCWaa9PSwbUATCE2nXZsStLiPhw9yV6FVcdWSpO1284dPzBWy4dBXto3SsMRh2tm5lvySvEO4umcv_gngy5QWBBfMP0=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9680394315&itemId=28946975143&vendorItemId=95912707743&traceid=V0-153-c93dd02d819b57a8&clickBeacon=2a3282d0-c7fe-11f1-9c24-9fb912e35dd1%7E3&requestid=20261015033626821068771607&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 5,
+        "name": "영혼 탈곡된 프로 좀비러 🧟",
+        "headline": "몸은 출근했지만 영혼은 이미 침대에 누워있습니다",
+        "emoji": "🧟",
+        "tag": "만성피로·영혼가출",
+        "hashtags": [
+          "#영혼로그아웃",
+          "#월요병만성화",
+          "#퇴근바라기",
+          "#존버한계치"
+        ],
+        "bars": [
+          75,
+          85,
+          45,
+          88
+        ],
+        "summary": "모니터를 멍하니 응시하며 '내가 여기서 뭘 하고 있지?'라는 말을 하루 수십 번 되뇝니다.\n업무 효율은 바닥나고 카페인과 도파민 숏폼으로 하루를 간신히 버텨냅니다.\n퇴사하고 싶지만 이직 준비할 기력조차 남아있지 않아 좀비처럼 출근 도장을 찍고 있습니다.",
+        "trap": "무기력감에 젖어 불평만 하다가 소중한 커리어 골든타임을 그냥 흘려보낼 수 있습니다.",
+        "advice": "일단 퇴근 후 회사 생각을 원천 차단하는 마인드 분리 연습이 필요합니다. 거창한 이직 준비 대신 이력서 경력란 한 줄 정리부터 가볍게 시작해보세요.",
+        "rx_keywords": [
+          "고함량 비타민B",
+          "암막 수면안대"
+        ],
+        "prescriptions": [
+          {
+            "title": "메가도스 B 비타민 컴플렉스 51g",
+            "tag": "맞춤 케어 · 고함량 비타민B",
+            "reason": "고함량 비타민B 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/ofa-Ko6BZ8jqQGL3oYzLu7i-KZ9sumieXcIlIjvNa5Lcre3vhpMipZu3WTL5V5b4w9lgOaHokvnFftuP9zXGEvbRiNsx8Tl21p08YwNp13qlwWftKV9_gjwpnycKL4UIlM0Vj_kfeV00ElxvEMaDprFpSPy3uyKKyZp8Ki5sIK5RyGmNNhhu3wqQC21_gg3XtoqZIeDLEG-mFsazqxgFUzah1_Dhma6Gx7U_BbkSRLO7BYCXSCWGH9XsWHEGxF5CZNSNnr-1uaKRvj6QJWTj-uxdvVckeloEVyeXIYGz6DKjFazXFBJ45h9nfJmP2EX96U1DOWjFTQ0ACyuQzZskS5nDfqEBLk0cIGW1eGmhYUOojoSS0dnfme3OZ6wlcvXa9COd6_LAhngRJPhPqrP-w7lG4nuuok36Ehudm8NQJgBvNq2znpx8lHN3V7TsYjseNOILaDX1VWVkhAcuf5gQkld8CfUfShxbYgJ2xeqZPxLEq31hI_BjNCwWYK999EShRJhF3JQnVjEd9Eae26XSUKMssVDLBQnzCzB8eaZTuvq1-w==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8289158533&itemId=18169956995&vendorItemId=84910700916&traceid=V0-153-f9740a75ee92bb75&requestid=20261015033626943199331708&token=31850C%7CMIXED&pt=0&slot=1"
+          },
+          {
+            "title": "컴포럽 프리미엄 암막 수면안대",
+            "tag": "맞춤 케어 · 암막 수면안대",
+            "reason": "암막 수면안대 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/RUym2csR3vXawcCjRX_sYczbNkL7HVv29tQW1eGswaOGvN9zQNRGTz_1H_XX4s3_i4iOAKRyy0wstyXuEoNKH1CY3d24g2R_FDf8i1EXV-6H1oBL1NDzRZ_NMOBMWPJXmFEToZJFp7p1iP8hnt2j_fhRw8Xa6LKOCyhsxNppfT4Gn3jLAlAM19suKlaqLLmSqOwiml7HhF_Oa3K-t3_o8D5xU2lQsqQJAWqfMW5Wv5V6wODE_thY5pGyTXeK52DhMUkwv5Uernm6mA4jDNZBWVc-sexvI6uKSvd4E576JRnIPv5OVdiNT9hhJEciTOkIjK60wOonXyqcKl3pIhFcWZnAUD_XPBxfLw8CHxKhUGaZG8UMjU4E5iz8FDw8XGDF_FkHtgDMncG9uz94-eZwQiN3A0Pp9D9jO68niJH2odK0xHJjNuQ1pMlm3plt6NoWU5lExzeaJe8BXrEuJoloG_rb75IA8-a9xMCy0y7cX8DETsOVoxR9xqPfWEN-yR7cB1AzhPb-agyF",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=5071236307&itemId=6862847936&vendorItemId=78103972659&traceid=V0-153-96f053e4a50c95de&clickBeacon=2a700100-c7fe-11f1-8211-2966cd1b9195%7E3&requestid=20261015033627181321295368&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "금융치료형 현실 존버러 🗿",
+        "headline": "퇴사 충동은 스쳐 지나갈 뿐, 통장이 나를 움직입니다",
+        "emoji": "🗿",
+        "tag": "금융치료·현실타협",
+        "hashtags": [
+          "#월급이치료제",
+          "#프로존버러",
+          "#가늘고길게",
+          "#금융치료완료"
+        ],
+        "bars": [
+          45,
+          50,
+          85,
+          40
+        ],
+        "summary": "상사가 열받게 해도 '그래도 25일엔 월급 들어오니까'라며 쿨하게 넘기는 현실주의자입니다.\n가끔 욱하는 퇴사 충동이 오지만 장바구니와 카드 명세서를 보며 빠르게 이성을 되찾습니다.\n적당한 요령과 스트레스 분산 스킬을 갖춰 회사 생활에 제법 최적화되어 있습니다.",
+        "trap": "안정적인 현실에 안주하다가 문득 자신의 성장이 멈췄다는 생각에 뒤늦은 번아웃이 올 수 있습니다.",
+        "advice": "회사 밖에서 온전한 내 성취감을 채워줄 수 있는 사이드 프로젝트나 취미 생활을 시작해보세요. 버티는 힘이 두 배로 단단해집니다.",
+        "rx_keywords": [
+          "호캉스 숙박권",
+          "마사지건"
+        ],
+        "prescriptions": [
+          {
+            "title": "베리어프리 더블룸",
+            "tag": "맞춤 케어 · 호캉스 숙박권",
+            "reason": "호캉스 숙박권 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/E-2kiTHGqMsOYDPjEzTuTR6AGmUN4QAEoYKWXjptvhaaRaDERxoBrhqMdJYdlRkq4cfA9qf4BYH_EhzwnJnNSGxFzcQolW9T3bNntLY1ibRIwHdf4KjwNBW_NFl45TGxe04GqIvgZ4BS1_pZNaIdyU8mwHJTeqfNA1cc5dpd_hAOnAAYBUO_ru1noe7axP1Q_nVP2hL6469oOrTi7-3XlEyL3faZW4nOaXVNHowVhGl2WrpUOcP2M1uaonIFvg-osUCeiSKfSaZ9_QgJMCezNCQ9qa0jcNTym0asVihioZ3WnBd9cKUpxPW2BcPxHfuReoTDwvsS0BZN1gl69PAG0KPxOaMpKHi0h8tbazRc1Q2acIA4WqJq2w20U_kZbJHnAoDnIqDqHi75bEVzuj4gPO1JVHP0BhhZmqbAGcyS7EgQ4K5hiMW9afYgkGdXxcoOhuWYHH1aPRbFFC2HZr6K0ILc75hjhZ85TImzPT-JG1h4UElK1FvOIvePptDSAD5LV7OHifRq3wR5VG6KRJcNHR56c4E7pB5FwTp2Bpay_HnH4yuA",
+            "url": "https://link.coupang.com/re/AFFTDP?lptag=AF2740494&pageKey=10000002395460&vendorItemId=70000283539097&itemId=20002206147108&traceid=V0-153-248a71749922e0c0&requestid=20261015033627365104880693&token=31850C%7CGM&pt=0&slot=1"
+          },
+          {
+            "title": "홈플래닛 미니 무선 전동 마사지건",
+            "tag": "맞춤 케어 · 마사지건",
+            "reason": "마사지건 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/UvjyLPigaoJVjjanUhLGkaMlbVKpX6Rxb7rELBy_xYQONoCg82n9En13uG8pgo0QTREn3m-A8g3IhR0hYUkfwdGSq6ZmS2flTcb-6e1dqu4VBOc7rXcqCgBkRvNX7hO6Rbfiu2GNH-yjTKwXthPUrMKbmVh26tA2y1CFDNjph3L7tETSSvwFwqKcJqFHIdi8_9D56soew_0ZrIWFIyp8aFbc1Nq9zyHxH5ae5jI_KUc3ija_PF1yzvq9KuQa0pix9JYdPKbSNOjGLbopMH_MCuILMJr8OdCoF3gKzHS5XC35J8JIz6Sgms4lQef0BhCw8eIgp-aiE5mwrgSZ8o3jZ9uSGQgk0KMpoS4mZmOJai3QZpMZv2z7cEAcphzVux8OqJ4tfRj-5ZUBuoQXIuzsAK7JRSKarE85IZsw2BPlQb1ai2NVZMp_U0O1CBvRiL-nSq3fbpKBcRbbNxqOPggT5sQBb_8lY0IJud9PLYQ6TFrrqXDjxWO2iNvG4O-LIfgJ9DqJkKZYKqCwyWEALD_k",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=1831898177&itemId=3115822229&vendorItemId=71103549420&traceid=V0-153-84d067976e37dae5&requestid=20261015033627449135790891&token=31850C%7CGM&pt=0&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "멘탈 철벽의 직장 현자 🧘",
+        "headline": "일은 일이고 나는 나! 퇴사 충동 제로의 평화주의자",
+        "emoji": "🧘",
+        "tag": "멘탈갑·워라밸마스터",
+        "hashtags": [
+          "#퇴사생각없음",
+          "#멘탈철벽",
+          "#워라밸신",
+          "#직장평화주의"
+        ],
+        "bars": [
+          15,
+          20,
+          95,
+          10
+        ],
+        "summary": "회사의 불합리나 스트레스가 내 내면의 평화를 침범하지 못하도록 방화벽을 완벽히 쳤습니다.\n출근은 밥벌이의 수단일 뿐, 내 자아와 회사를 철저히 분리할 줄 아는 진정한 멘탈 고수입니다.\n주변 동료들이 퇴사각을 잴 때 흔들리지 않고 묵묵히 제 몫을 해냅니다.",
+        "trap": "때로는 주변 동료들의 격한 감정 공감 요구에 무심하다는 오해를 살 수 있습니다.",
+        "advice": "지금의 건강한 마인드셋을 꾸준히 유지하세요! 지친 동료들에게 당신의 평온한 멘탈 관리 팁을 살짝 공유해 주는 여유를 보여줘도 좋습니다.",
+        "rx_keywords": [
+          "아로마 디퓨저",
+          "인체공학 허리쿠션"
+        ],
+        "prescriptions": [
+          {
+            "title": "코코도르 시그니처 디퓨저",
+            "tag": "맞춤 케어 · 아로마 디퓨저",
+            "reason": "아로마 디퓨저 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/Q2cqI_atNG4bxtmaQ8Dfg4Ogfs0QcB5xicDSE4dBedxBmNHJY-Ja57SWTwezm_kEd9Nt6__naT_BAHG_N6kTuKC5GhlUf3UyhtA3KpMFJNWCjqfRrhC_ROQeFIEDJanagR5iZQTYS82vENSmlMqtglSC__bceDpNw1t0Gz4NhuajTOhXAhyjmimNy4x6SyLsHylXbr8a14groY1wl3rK5YmfTboDwprjLCFWeMrBNGrJQY_9f27nH1YwSdPAHmi2bOqhUIn5C4_zSMF2VxiBIwdFLRUJIR4Tu_hoy7Ydv7z-A5Beo4wTUqLk4Mx8snkwfypLBpAotES-mAJe9KfNMyfac2RQcxWx0gMwwDoY2PVvw8ynK_kX69J7vLzJkIPtPUB6BEnnvEwXcGY3fdxXNt05vT6hNcIK_jfoZ6HLhyjGcvk0YQHNTXUr5GH20r6q0GTYJgnjqW0kW9c3xb3j19FKidq9cSfYeHLU6dXKKdhWND6AB6PL2jdI6JG2IGHrgn198T0BKXywGWG36K28j20e",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=7154449918&itemId=13178955488&vendorItemId=80437565113&traceid=V0-153-82b69182b9f6a844&requestid=20261015033627590006371491&token=31850C%7CMIXED&pt=0&slot=1"
+          },
+          {
+            "title": "AL컴퍼니 프리미엄 메모리폼 허리 등받이 쿠션 차량용 의자용, 1개, 블랙",
+            "tag": "맞춤 케어 · 인체공학 허리쿠션",
+            "reason": "인체공학 허리쿠션 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/VA2ji9K0vwCPBCVlVGZ9b0xaJPxlau4ibqkqf1AzfHY6A5gRowaivc1RfbyOAcPCec50NEHuYXhIRg4k4wyc4q_44jve33URXJNTh8eRz7RSttgD_SO58GJzDErda7c9pqnXxdVEFv0ozLmX3PJ82ASd21FDTEpFNRlnr93LNQ1oNyCv0gYkFjZVEZzve5b6OqYWKFiGIHG4BU_e2iVdJlMCnYsJv-aR9IGEjBHspE37e9wyYvWTHYqYn4EMlM0vMxpnbRgohfDhFwmPUvlDuGK8tRMXV1LObCapEMwMLqxEd48s4sKlfnHTSJ5KOIhCmz-PXy-HNq-peNUOCokZWC6KIxP60caz0uLe2yn-X3seVAR-lTRBhTmQNux6NPXQLbp4cKlHDElZ9UD0bwNWKKeSf6eeO1fdVvttBcXCT_SdXBQuogBbzBN4ElvpOQ-CdASavbcfjw7T_KXzahRblgukuJ9x0y-xtOuOQlS-aEMKIIZr8op_A5GD0ddUNpe7-Wo19-uUhrerR_kbHCDS0_eyqqetUV__",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8882634609&itemId=26323465890&vendorItemId=95086764231&traceid=V0-153-abe1c62c8fbb4b8f&clickBeacon=2acc03b0-c7fe-11f1-ae93-33b630484445%7E3&requestid=20261015033627820117645636&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 112802,
+    "created_at": "2026-10-15 03:36"
   }
 ];
