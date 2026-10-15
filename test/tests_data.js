@@ -3123,5 +3123,251 @@ window.TESTS_DATABASE = [
     ],
     "participants": 278685,
     "created_at": "2026-10-15 15:36"
+  },
+  {
+    "id": "relationship_cutoff_meter",
+    "category": "연애/관계",
+    "title": "선 넘는 사람 바로 차단! 나의 인간관계 손절 임계치 테스트",
+    "subTitle": "내 마음의 <span>손절 버튼</span>은 몇 도에서 폭발할까?",
+    "desc": "참는 것도 한두 번이지, 선 넘는 사람 때문에 스트레스받고 계신가요?\n일상의 8가지 현실 상황을 통해 나의 손절 임계치와 관계 대처 유형을 확인해보세요.",
+    "emoji": "✂️",
+    "tag": "인간관계·손절력",
+    "viralBadge": "🔥 누적 213,850명이 테스트함",
+    "metricLabels": [
+      "손절 결단력",
+      "경계선 방어력",
+      "내면 회복 탄력성",
+      "타인 포용력"
+    ],
+    "questions": [
+      {
+        "category": "⏰ 상습 지각러",
+        "question": "오늘도 30분 넘게 늦으면서 '거의 다 옴!' 카톡 하나 띡 보낸 친구. 나의 반응은?",
+        "a": "이미 정나미 뚝 떨어짐. 오늘 약속 끝나면 당분간 먼저 연락할 일 없다.",
+        "b": "짜증은 나지만 '카페에서 음료 네가 사!' 하고 쿨하게 넘긴다.",
+        "score": 1
+      },
+      {
+        "category": "👀 사생활 침해",
+        "question": "별로 안 친한 지인이 '요즘 월급 얼마 받아? 연애는 왜 안 해?'라며 꼬치꼬치 캘 때 나는?",
+        "a": "'선 씨게 넘으시네...' 표정 싹 굳히며 단답으로 대화 원천 차단한다.",
+        "b": "'그냥 입에 풀칠하죠 뭐~' 하고 능글맞게 웃으며 화제를 돌린다.",
+        "score": 1
+      },
+      {
+        "category": "🗑️ 감정 쓰레기통",
+        "question": "새벽마다 자기 힘든 얘기만 쏟아붓고, 정작 내 얘기엔 '아 그래? 암튼 나는...'이라며 끊는 지인에게 나는?",
+        "a": "안읽씹 후 서서히 답장 간격을 늘리다가 조용히 알림을 끄거나 차단한다.",
+        "b": "피곤하긴 해도 '얼마나 힘들면 이럴까' 싶어서 적당히 리액션해준다.",
+        "score": 1
+      },
+      {
+        "category": "💸 돈 & 물건 거래",
+        "question": "소액이라지만 빌려간 2만 원을 두 달째 감감무소식으로 안 갚는 친구. 나의 심정은?",
+        "a": "돈 액수가 문제가 아니라 양심과 태도 문제임. 신뢰 깨져서 마음속 손절 완료.",
+        "b": "'야 저번에 밥값 정산 깜빡했지?' 하고 장난스럽게 바로 달라고 한다.",
+        "score": 1
+      },
+      {
+        "category": "📉 은근한 후려치기",
+        "question": "내가 좋은 곳으로 이직하거나 시험에 붙었을 때 '거기 요즘 별로라던데 운 좋았네?'라며 후려치는 친구에게 나는?",
+        "a": "'열등감 투명하네' 속으로 비웃으며 이 사람과의 관계 카운트다운을 시작한다.",
+        "b": "'배 아픈가 보다~' 생각하며 대수롭지 않게 넘기고 내 행복을 즐긴다.",
+        "score": 1
+      },
+      {
+        "category": "🤫 뒷담화 폭격기",
+        "question": "친한 다른 친구의 비밀이나 험담을 나한테 와서 흥미진진하게 떠벌리는 지인을 볼 때 나는?",
+        "a": "'얘 내 얘기도 어디 가서 저러겠네' 소름 돋아서 바로 비밀번호 걸고 거리 둔다.",
+        "b": "불편하지만 '아 진짜? 몰랐네' 하며 맞장구는 치지 않고 들어만 준다.",
+        "score": 1
+      },
+      {
+        "category": "🎁 호의를 권리로",
+        "question": "몇 번 베풀어준 호의를 당연한 권리처럼 여기며 무리한 부탁을 계속 요구할 때 나는?",
+        "a": "'내가 네 호구냐?' 단호박으로 거절하고 더 이상 아무런 호의도 베풀지 않는다.",
+        "b": "거절하기 민망해서 핑계를 대며 이번 한 번만 둘러대며 빠져나간다.",
+        "score": 1
+      },
+      {
+        "category": "🚫 차단 버튼의 무게",
+        "question": "도저히 나랑 안 맞고 스트레스만 주는 사람의 SNS나 카톡을 발견했을 때 나의 행동은?",
+        "a": "내 정신건강이 1순위! 망설임 없이 '숨김' 또는 '차단' 버튼을 누른다.",
+        "b": "혹시 마주칠까 봐, 좁은 인간관계 눈치 보여서 그냥 알림만 꺼둔다.",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 7,
+        "name": "칼손절 레이저 차단러 🚫",
+        "headline": "내 인생에 무임승차는 사절! 선 넘으면 가차 없이 컷오프",
+        "emoji": "✂️",
+        "tag": "단호박급행열차",
+        "hashtags": [
+          "#칼손절장인",
+          "#인생청정구역",
+          "#기회는단한번",
+          "#에너지낭비금지"
+        ],
+        "bars": [
+          98,
+          92,
+          85,
+          20
+        ],
+        "summary": "타인의 무례함을 견디는 인내심이 0에 수렴하며, 내 평화로운 바운더리를 침범당하는 순간 즉각 경보가 울립니다.\n한번 '아웃' 판정이 내려진 사람은 아무리 매달려도 절대 이전의 온도로 돌아갈 수 없습니다.\n인간관계 다이어트가 완벽해 주변에 진국만 남지만, 가끔은 상대방이 해명할 틈조차 주지 않고 마음을 닫아버리기도 합니다.",
+        "trap": "작은 오해나 일회성 실수마저 차단해버려 오랜 인연을 한순간에 잃어버릴 수 있습니다.",
+        "advice": "당신의 단호함은 훌륭한 방패지만, 가끔은 옐로카드 한 장쯤 꺼내어 상대에게 솔직한 불편함을 말해주는 여유를 가져보세요.",
+        "rx_keywords": [
+          "노이즈 캔슬링 이어폰",
+          "아로마 룸스프레이"
+        ],
+        "prescriptions": [
+          {
+            "title": "KONLI 노이즈 캔슬링 커널형 무선 블루투스 이어폰  방수",
+            "tag": "맞춤 케어 · 노이즈 캔슬링 이어폰",
+            "reason": "노이즈 캔슬링 이어폰 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/pshYxR7qvrt9Wdk9pqPa7UmVBa_YIqCpJO1oLvE8unLvOc-z2Pvi13Jxf2Mads1IJEnwbd6qM5f6RuImI6pIwUDrX6DyGhwOgI3MAPa27nCFfaFby5jLw4AaiHRo7QlaAe1AChSaCeg71OlJgiRoqlUSu977LUoP8MdPCnt6zry3hfN13iqNrQSGs4eO6RJqsugrHOvHx2ctVBPUSH8jOTSnBK238z-Qxq0mQoJ5UG41fET1DznsOFZaNiOmilaRuTCQtM1irGgBqFfCzGib_fKlpTojbssn7j4wX5r6B0pY6YKd9y7YeNvnkWEPSOYOeusdmU73qHWfzEDnYNCcnE7OmWz0j5YkX_mEFr0i9mvtDuMkInNcRBa5YGjKiYCIKIW4lhCEnafEMG_pjkhrWcN4iTxY3y5m5yLqtr8JIKPiE1QdxkDPxtage5AXlO8y-kaHBqR2-J0gWFY_nHfuRBPYaQvlHp_ISTSl2MQv52YgQiFDxyO8VKB8AB1_hELExn9KPBxZwigkubJg-YhRjKLPeh6Z5nv5uw7-CVwu01ad2A==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8082654809&itemId=28798747378&vendorItemId=96061958174&traceid=V0-153-ccaa071f34b54039&requestid=20261016003029533254307776&token=31850C%7CMIXED&pt=0&slot=1"
+          },
+          {
+            "title": "정신과의사조향 수면 안정 천연 아로마 룸스프레이 이유즈 필로우 미스트 공간 스프레이, 1개, 100ml",
+            "tag": "맞춤 케어 · 아로마 룸스프레이",
+            "reason": "아로마 룸스프레이 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/K5VIbJKn6OC8q5sIKwItP9-TooaCCYx49bTQs6FgxVG3fN5RqOtkv0pOZ7WvEN_PgZoBrSOFsCsT8XRh_aAinIJCm61ShROAqW3CuGIAQOSmHAO2iAIejTA-YVhJj0qzkrXycAm39vJuPOxayfIKlggZb78KdBMDRGeC5jHWKBTMvgjwCBa_ZoTEp3MicqL5nHATZZS6ChTFGIvoK3osuXocL7lMcJCjgcCscrze-8UYB-YUEY62C_J3vTu1qVH2nXeiuWp2tIGghJQGdQoOp_pMAouvbme762OODOLG1FtCOXsLf4FtMuBR8uXbH-YpBiSPW5T9BYQLo_mGLv_oJlWJKTqBqc-VdYICQ8B_4MgJ6QpyRdZnIqm1X1YnN-AMhdP_c9nvcWQa64gAGU-E2ms_bEs7oMCJPgS7EtI1NlFB5L9rhRK0ZK8UySJDzi3fsridFHb_RwfgIFEmzs6zX4bZJxjH8blwr6-NVD2ZNRzQOHdHOwkNmTr66VBfkt5m_D5qn05VuUOqeqlxAdXjh2Fay3CWsbmv",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8374181928&itemId=21282011964&vendorItemId=88354452362&traceid=V0-153-6ed2fb2ea5d4c793&clickBeacon=5a78ce40-c8ad-11f1-8a84-8b2b9e384f4d%7E3&requestid=20261016003029712026379362&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 5,
+        "name": "3진 아웃 침묵의 손절러 ⏱️",
+        "headline": "티 안 나게 웃고 있지만 속으로는 이미 데스노트 작성 중",
+        "emoji": "🧊",
+        "tag": "서서히멀어지기",
+        "hashtags": [
+          "#침묵의손절",
+          "#티안내고거리두기",
+          "#3진아웃제",
+          "#은은한단호함"
+        ],
+        "bars": [
+          80,
+          85,
+          70,
+          45
+        ],
+        "summary": "대놓고 싸우거나 갈등을 일으키는 건 피곤해서 피하지만, 머릿속으로는 정확한 스코어보드를 켜두고 있습니다.\n첫 번째와 두 번째 선을 넘을 때는 조용히 참아주지만, 마음속 적립 한도가 차면 소리 소문 없이 사라집니다.\n상대방 입장에서는 '갑자기 쟤 왜 저러지?' 싶겠지만, 당신은 이미 수없이 많은 기회를 준 뒤입니다.",
+        "trap": "불만을 속으로 삭이다가 혼자 관계를 정리해버려 상대방이 왜 손절당했는지조차 모르는 답답한 결말이 생길 수 있습니다.",
+        "advice": "참다가 곪아 터지기 전에, '나 사실 이건 좀 불편해'라고 가볍게 경계선을 먼저 짚어주는 연습을 해보세요.",
+        "rx_keywords": [
+          "마음 챙김 필사노트",
+          "허브 블렌딩 티"
+        ],
+        "prescriptions": [
+          {
+            "title": "하루 한 장, 단단한 삶을 위한 고전 필사 노트:생각은 많은데 늘 흔들리는 어른을 위한 120편의 문장 처방, 현대지성, 김선영",
+            "tag": "맞춤 케어 · 마음 챙김 필사노트",
+            "reason": "마음 챙김 필사노트 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/VTaeY0YnAtqWoNL-VSjYeZ29y2u7zZ8fO_1iIOJj6wRQTPB8Gr8j6gNI3PqgtKct83Vpfb2nQmpaChF2yVyJkDZ2ufIE3llWh72HdaAi60dnWA_hcMEw2iCxIk7cPYfcdHUFarqE-jFQe6BF5QnzEX2ZGq5GbREr6bGvQ6uP5Z1EbkN4NB_GgAAP0ybMivQm5pegJFKsLrCERKRv5kFmERsbiPQcoB6qYEtaozlFSNBQIqLz1EVbkFNS-oMUJcfYWtcXNHaQ3QcboS1dfGgaZ5QC-dBaD-3Cvzn37IIRAZpbvTVeHWNm6HxUJQ6FLxMvE9yvm6ZB_TPGaUpYVfGAZMh4ptcQ3FRin7cg8jUtvmzJyhXVFWCzLGN4ZyVQFUvURwXU3ete_FTS3CspZXn-eXK8ZCqEZ1uYF8oonMC8oCOD71oONVYIodQf2nDiiE6ikKEf8am6_A5dsRr3M_8nGOt2ZqfJBN-v4UfW_nfOYZ4ni84GeyZDYspOkyIq3osu7E8saB29XR82liW4UTgD6cnA_qWtweUW",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9484823585&itemId=28243462450&vendorItemId=95198020955&traceid=V0-153-21a4ebeac9707e50&clickBeacon=5a90ea20-c8ad-11f1-97a3-64f04ef34a98%7E3&requestid=20261016003029893243660238&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "제임스티스푼 애플티, 1개, 30개입, 2.5g",
+            "tag": "맞춤 케어 · 허브 블렌딩 티",
+            "reason": "허브 블렌딩 티 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/DXN6LR2kewLwc-T-DTBBepcf7ol7f6bycpI6vFpYXxvo3-Yie1lSbeFBhtSD6rWIpgUqa-5Z1gXKR2za2SDJ_fsYBxIqWEv1Id3LSpyWFTmw0F9wTCfgcVSZqfxqSPGQuF4RDMvOjXSXBwX3IdSw6dFEdoNhyJI2N9f4yywTjD0Z3diQmB8bAjVVhyDiveA8GdUg1kOtQqXROzQ5UCbzsZSY0Xb-3CVLOcRchsMyRKma5wveDXb7vh_iTrd5uohl5yyT3veJLAOtwBk7IeHRA57ltwtuFnB809kcVursYDxGvazPvbS4eFWqwM5jvr_Tcllc7q5TqZ2OMYYnOcaK_pkKFox2aW24ylttxvo9vJe_SKR4m49-fhp-yZJUi84HGqpv4gGrRAk4YI2fiJbZLnb-gYZ0XqjjA52A4e9R9zRi_0g-gqsrLaDUXbIQO9No62upEwXP19hjm1kQG63Il4HKXweWxPRr9PuXkvFySciI_27BC3fIPXwfS8jV5P8w",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8512677572&itemId=27467831584&vendorItemId=94433059242&traceid=V0-153-1a0f19f2765a04b5&clickBeacon=5ab40280-c8ad-11f1-acb0-257eb4a249a6%7E3&requestid=20261016003030099135791826&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "한숨 푹푹 기회봇 평화주의자 🕊️",
+        "headline": "손절 버튼 누르려다 '그래도 옛정을 봐서...' 취소 연타",
+        "emoji": "🥺",
+        "tag": "미련과인내사이",
+        "hashtags": [
+          "#마음약한프로참러",
+          "#손절실패자",
+          "#좋았던추억소환",
+          "#평화유지군"
+        ],
+        "bars": [
+          40,
+          50,
+          60,
+          75
+        ],
+        "summary": "상대방의 무례함에 속이 뒤집히고 머리로는 '차단해야지' 결심하지만, 손가락이 차마 버튼을 누르지 못합니다.\n'그 친구도 사정이 있었겠지', '내가 너무 예민했나?'라며 스스로를 검열하고 남의 잘못을 대신 합리화해줍니다.\n갈등을 피하려다 내 정신건강이 갉아먹히고, 선을 넘는 사람들에게 은근슬쩍 만만한 타깃이 되기도 합니다.",
+        "trap": "선을 넘는 사람에게 계속 관용을 베풀다 보면 호의가 권리인 줄 아는 나르시시스트들의 감정 쓰레기통이 될 위험이 큽니다.",
+        "advice": "모두에게 착한 사람이 될 필요는 전혀 없습니다. 내 마음의 문에 튼튼한 도어록을 달고 불청객을 걸러내세요.",
+        "rx_keywords": [
+          "자존감 회복 에세이",
+          "온열 눈 마사지기"
+        ],
+        "prescriptions": [
+          {
+            "title": "여자의 모든 인생은 20대에 결정된다 + 자존감 (2권세트)(해냄)",
+            "tag": "맞춤 케어 · 자존감 회복 에세이",
+            "reason": "자존감 회복 에세이 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/YbB2enDeIW_29nZqYVU1bwk0ivwFkRryDpznW36U2T1G7ufsfS-3sGlaMul-hJE7H9cGlJMLRBktI5ZhaF912Z7Vmu1tbbUjTsSyoQ325txlmCyaH2YdvIwgWy1wf-x0_7fME0J6gLAJQqN5BNiskcj1dUzBwcDx0p6inodWI9ZQNUttyWvxuClwpCKIjcXReJDtozfCPujDCyMGGXq93GqoIePdBNAbHyF4q55_sahIYK2MxgUEpyetqlgMzbtv9iK9xsb5qfl8tNIx8LPItcPityAWZ9E2CPmNBheYeMqSSFd0jxuCCEG3g9cOm2eU0eUSSaY0m34ZM6nKp-6GUEY9xZ5Lx_SXO5sFep1SYeqMaMf9UEpVaE3DghdPYDZ29Yg0TBrNVHnZ2OfNpMOiXjdV-ttwR6VXRkHecOv-I26w0L2GNf4nv7i6PdMTsekWpkRYqkSB6OWTCqjuVyn2sRJ3vcwjjJsmNjrPAA1a-u8c2nRgRKEUuq_LEx-btvyfVLT0OLT8M3A48r03OQ6U7iffZt5uK7BC",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9032077112&itemId=26494332520&vendorItemId=93469145304&traceid=V0-153-b92f4256e0d7c472&clickBeacon=5b068f50-c8ad-11f1-a589-3aa87f5881fd%7E3&requestid=20261016003030655068776117&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "LOMESO 눈 마사지기  5가지 찜질 모드 온열/진동/기압  180도 접이식  휴대 간편 무선 뮤직 음성 안내",
+            "tag": "맞춤 케어 · 온열 눈 마사지기",
+            "reason": "온열 눈 마사지기 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/AACO-Ju96DKQ-y7LAEL8HRa05slOvqkch3-YaBefX9qx9nYtZAA4TAf13uERIhM5YQjvGsZng1dpdF2TdyTxfD5BLU9rn3IZx5Ng_GwyqNHVD_y7Dx-LXIKfkXH5GFMPEnFzK-XcM80jkTRWikkzoy5tKdr28qpkCY9Xe2LV7DIoiCetNBjQlvyuSqNmMPYpIdUqgWbNNE7KxwTQdSnisW6U8_GEvSEBM6xOfWGd6yKb4JxfqF5_bpnYavSDj3SRzrcSzeJ5D5ZWaKoy29SXWU7iRRnlogoL25HHBMIr25UrN7NTiCQ3vcT6yq3Y7y-alloQazE-9RNQdFKUy2foJR8PHkn0lZqMiTiAPtot537aZABck0rGO5xM2Y6XiyGXji0_lIHRABmEDOpme2si9c_xm_96PSkPxbK21tflDP0PJpZf55icZ-gdjltoeqK_SGSYI9yKZjc73wecvXvBX0eKueQvfLSsst3CoCfGAQiIE24jTXuGNf_pV3UODy1bfMpjqS6RNu99jMnQF68AlWiZJBUUH8CjzqrulBKSYUel21tI",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9153881427&itemId=26957592773&vendorItemId=96066656057&traceid=V0-153-a21333dc5bba65c8&requestid=20261016003030828243660624&token=31850C%7CMIXED&pt=0&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "호구와 대인배 사이 태평양 품쟁이 🌊",
+        "headline": "손절이 뭐죠? 웬만해선 화도 안 나는 영혼의 템플스테이",
+        "emoji": "🧘",
+        "tag": "무한긍정보살",
+        "hashtags": [
+          "#살아있는부처",
+          "#태평양하트",
+          "#손절면역자",
+          "#쿨내진동"
+        ],
+        "bars": [
+          15,
+          25,
+          88,
+          95
+        ],
+        "summary": "웬만한 무례나 실수는 '그럴 수도 있지~' 한마디로 바다처럼 넓은 마음으로 흘려보내는 멘탈 갑입니다.\n남들의 평가나 참견에 타격을 거의 받지 않아서 굳이 에너지를 들여 손절할 필요성 자체를 못 느낍니다.\n정말 쿨하고 편안한 성격이지만, 주변에서 볼 때는 '저러다 사기당하는 거 아니야?' 하고 발을 동동 구르게 만듭니다.",
+        "trap": "진짜 악의를 가진 빌런조차 포용하려다 크게 뒤통수를 맞거나 금전적·감정적 피해를 고스란히 떠안을 수 있습니다.",
+        "advice": "포용력과 방치는 다릅니다. 최소한 나를 존중하지 않는 사람에게는 따끔한 경고 한마디를 날릴 줄 알아야 합니다.",
+        "rx_keywords": [
+          "스트레스 해소 펀칭백",
+          "차량용 비상 탈출망치"
+        ],
+        "prescriptions": [
+          {
+            "title": "고양이 펀칭백 장난감 티저 장난감과 권투 글러브가 있는 장난감 실내 고양이 선물과 호환되는 고양이 펀칭백 장난감, 검정색",
+            "tag": "맞춤 케어 · 스트레스 해소 펀칭백",
+            "reason": "스트레스 해소 펀칭백 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/tImn4HTGamMmbnNHtOXC4AasiicEt9_APTRXdVpTlj2tAHHWjlMmvWA6i_jF4pyS1idfmXQ9B2H9oQZGIBl4gw0fXcDRYBgYkl3t-ZPKn1OjC5EZwfACLXtDt5P8lYh2-Ce6arWBWC4LPYjVPEpE3BXW3HgK_ic6nAbbpLEVr7MwUCk0LBpeRSLNspeS5dEyeF91VUgS6QABxqYRCSbbbFoeWh7SPiBinKcKG3FxU6Riaz7ed3nmYAP-CKlcebZdHuHQ9158Ved2oKq1LR8Y6r0w_6g_-8v8vLerCdP_jaFy6rhWCQ48VzokTiZ-aUrhk4R58hzoG8pJjX4Stm6gb8G-g2DxMLRGbm5SYft47ydT7Ob9K-MjR0wrZGoZWd02BeZEh6d3GaYBjVNSDNAUkzry-sOWZPPVKBUdzFsMdXAvHkvibpVVTJadEVC4eJVVbkaYQI-IF-8yIvP496ezAIFsMb6J1_u-nQtQcIAe6gtlwZVcLfvJfzZtv2lFGaYaQ7nabO4d1qWE19G0oH5NRomJdR9RyaI-9v0NsHQrKd8JduNzLqg_PtwFs3rRCKH_tM-0uZH21FkE",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9629084090&itemId=28759616711&vendorItemId=95698227214&traceid=V0-153-3d9356988315899e&clickBeacon=5b351960-c8ad-11f1-8748-331408a45c37%7E3&requestid=20261016003030955243660659&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "차량용 비상 탈출 망치 안전 벨트 커터 2in1, RED, 2개",
+            "tag": "맞춤 케어 · 차량용 비상 탈출망치",
+            "reason": "차량용 비상 탈출망치 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/ADGV-NPIicJseixrAM_aEdjRg8D8VO3LRFV_qOhBMIhHG0ArYDEf6t2M14vV9KwyNAobekRaeKJiHu6CNPZIvXCMNeBYY2CZsS235LKZorwp0luK_-CiEqGTuf6-dghBdVUS13KO7KGQaiFDH2bNkSswde01s4B-jQoYa2ah4PgIKoX13YxKex4ShtcX2ON1WahuuaDePN1xA_re9qZ9E8ehfK4PzRJwIxVNFF6vRfEbE1p0zk1yqA7HX39qJol68BBaQ41BmHma6g-AzbWocGQRUSlFo7HlVNzZdNprYDrZA4-S9zyE6dYGN5t19y1ZoFfZyFvU8rFqTF6c59q5M3R8ebyLzdYtfSnX6kiK6o1G03aO_bu9KmvBFxWo3owl9GZOMiRvTxrtzNxM_aTIODGyxcRUMFnzYd_2U4855IRdtIeuYYzetVENLtbRyDQ_SSMSL3fkNXyGPo_w5FEc86TerTcWxgXipEg1RKtbYU1Dpy9I4q2B-detpfVp3Esad1ncClwQtdlQLrn_NBGWo4p-mqrj",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9244447096&itemId=27338879022&vendorItemId=94305164059&traceid=V0-153-49268375128dcc81&clickBeacon=5b5fabd0-c8ad-11f1-8773-56d839ae163c%7E3&requestid=20261016003031177043909767&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 143723,
+    "created_at": "2026-10-16 00:30"
   }
 ];
