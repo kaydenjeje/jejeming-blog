@@ -2877,5 +2877,251 @@ window.TESTS_DATABASE = [
     ],
     "participants": 112802,
     "created_at": "2026-10-15 03:36"
+  },
+  {
+    "id": "mental_couque_dasse",
+    "category": "힐링/멘탈",
+    "title": "작은 일에도 와르르? 나의 멘탈 쿠쿠다스 회복탄력성 테스트",
+    "subTitle": "스치기만 해도 <span>파사삭 부서지는</span> 나의 멘탈 방어력은 몇 점?",
+    "desc": "사소한 카톡 한마디, 출근길 돌발 상황에도 심장이 쿵 내려앉나요?\n지금 내 멘탈이 바삭한 쿠쿠다스인지, 단단한 티타늄인지 8가지 현실 상황으로 확인해보세요.",
+    "emoji": "🍪",
+    "tag": "멘탈·회복탄력성",
+    "viralBadge": "🔥 누적 214,800명이 멘탈 점검 완료!",
+    "metricLabels": [
+      "쿠쿠다스 지수",
+      "감정 과몰입도",
+      "회복 탄력성",
+      "셀프 방어력"
+    ],
+    "questions": [
+      {
+        "category": "💬 메신저 알림",
+        "question": "상사나 선배가 'ㅇㅇ씨, 지금 통화 잠깐 가능해요?'라고 메시지를 보냈을 때 나의 반응은?",
+        "a": "심장이 쿵 내려앉으며 '내가 최근에 뭘 잘못했지?' 1주일 치 업무를 광속 복기한다.",
+        "b": "'네 가능합니다~' 보내고 메모장 켜며 담담하게 통화 준비를 한다.",
+        "score": 1
+      },
+      {
+        "category": "🗣️ 이불킥 모먼트",
+        "question": "회의나 단체 모임에서 헛소리를 던져 분위기가 살짝 싸해졌을 때 나의 밤은?",
+        "a": "자기 전 샤워할 때, 침대에 누워서도 그 표정들이 떠올라 머리를 쥐어뜯는다.",
+        "b": "'아 입이 방정이었네ㅋㅋ 다음엔 조심해야지' 하고 유튜브 보다 스르륵 잠든다.",
+        "score": 1
+      },
+      {
+        "category": "📱 단톡방 반응",
+        "question": "친구들 단톡방에 야심 차게 맛집 링크를 올렸는데, 15분 뒤 딴 얘기로 묻혔을 때 나는?",
+        "a": "'나 무시하나? 재미없었나?' 괜히 머쓱하고 위축돼서 한동안 단톡방을 안 본다.",
+        "b": "'다들 딴짓하느라 바쁜가 보네' 하고 나도 쿨하게 폰을 덮는다.",
+        "score": 1
+      },
+      {
+        "category": "⏰ 퇴근 10분 전",
+        "question": "가방 다 쌌는데 갑자기 오늘 중으로 처리해야 할 추가 업무가 뚝 떨어졌을 때 나는?",
+        "a": "눈앞이 아득해지고 서러움과 분노가 몰려와 눈물이 찔끔 날 것 같다.",
+        "b": "깊은 한숨 한 번 푹 쉬고 '야근 식대 비싼 거 먹어야지' 하고 모니터를 켠다.",
+        "score": 1
+      },
+      {
+        "category": "📝 반려와 피드백",
+        "question": "공들여 준비한 기획안이나 과제에 '방향이 좀 빗나간 것 같네요'라는 피드백을 들었을 때 나는?",
+        "a": "내 역량 전체가 부정당한 기분이 들어 온종일 아무것도 손에 안 잡힌다.",
+        "b": "'방향이 안 맞았구나' 하고 객관적인 수정 포인트만 체크해 다시 시작한다.",
+        "score": 1
+      },
+      {
+        "category": "☔ 머피의 법칙",
+        "question": "비 오는 날 우산을 두고 나왔는데 눈앞에서 버스까지 얄밉게 떠나버렸을 때 나는?",
+        "a": "'도대체 나한테 왜 이러는데...' 세상이 날 억까하는 기분에 급격히 우울해진다.",
+        "b": "'오늘 액땜 몰아서 거하게 하네!' 하고 편의점으로 뛰어가 우산 사고 택시를 부른다.",
+        "score": 1
+      },
+      {
+        "category": "👀 타인과의 비교",
+        "question": "나와 비슷하게 시작한 동기나 지인이 큰 성과를 내고 축하받는 소식을 접했을 때 나는?",
+        "a": "축하는 건네지만 돌아서서 '난 지금까지 뭘 한 걸까' 자괴감에 시달린다.",
+        "b": "'오 대박이네 축하할 일이다!' 하고 진심으로 박수 쳐주고 내 페이스를 유지한다.",
+        "score": 1
+      },
+      {
+        "category": "🛋️ 주말의 죄책감",
+        "question": "주말 내내 침대에서 릴스/쇼츠만 보다가 일요일 밤 9시가 되었을 때 나는?",
+        "a": "'또 이 귀한 시간을 쓰레기처럼 날렸네...' 한심함에 가슴이 답답하고 잠이 안 온다.",
+        "b": "'평일에 하도 굴렀으니 이렇게 시체놀이할 자격이 있지!' 하고 푹 쉰다.",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 7,
+        "name": "바람만 불어도 파사삭 분말 쿠쿠다스 🍪💨",
+        "headline": "작은 눈빛 하나에도 심장이 쿵 내려앉는 극세사 감정선",
+        "emoji": "🍪",
+        "tag": "초민감·쿠쿠다스",
+        "hashtags": [
+          "#파사삭멘탈",
+          "#과몰입장인",
+          "#이불킥장인",
+          "#멘탈응급실"
+        ],
+        "bars": [
+          96,
+          92,
+          18,
+          22
+        ],
+        "summary": "남들은 1초 만에 잊어버릴 말투나 표정 변화에도 밤새 머릿속으로 수십 편의 시나리오를 씁니다. '나 때문에 분위기가 망쳤나?', '내가 실수했나?' 온갖 자책 스위치를 켜느라 당신의 감정 배터리는 이미 방전 상태예요. 당신의 멘탈이 결코 나약해서가 아니라, 주변에 너무 많은 신경 안테나를 곤두세우느라 지쳐있기 때문입니다.",
+        "trap": "모든 갈등과 어색함의 원인을 '내 탓'으로 돌리고 혼자 끙끙 앓는 자책 루프",
+        "advice": "세상 모든 일의 원인이 당신일 리 없습니다. 오늘부터 하루 세 번, 혼잣말로 '어쩌라고? 내 알 바야?'를 주문처럼 소리 내어 읊어보세요.",
+        "rx_keywords": [
+          "노이즈 캔슬링 헤드폰",
+          "마그네슘 릴랙스 밤"
+        ],
+        "prescriptions": [
+          {
+            "title": "보스 QC 울트라 블루투스 헤드폰 2세대, 블랙, 단일상품",
+            "tag": "맞춤 케어 · 노이즈 캔슬링 헤드폰",
+            "reason": "노이즈 캔슬링 헤드폰 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/YToCRushU4IQXRzgYaEijqnuGSTNLegSmPtTzA_8zZt8XRq-MxS4Xn0noqab2grAVwDWNC9n3N2eBSQq6LN1r-JGKzQnCjSRrVPBkLYQNma25SQljKEj1yMhFXkXfRN6seOJJORyTVkt_fM2KNbLeAgydw9q-vCHIe23IynecVW362rysGj87Jn0HYHEre0Y8CkTrRq74btm4TnpqNnlymVRATSaKBOzNQQt1-AlrJdXuVzPC69DdGt1MEBl8g0nMTMNYWZ5O8LeLiUUnC7v9p-bbf9Cvr1zL9SGhb7n8qWAd9WzAuGcIsIkjewkvDsHwzHHLtzl1ahWTgaP3AW5uvTxxJkK1JIb_byIWGioAbOYt9HBs5CL8F2KxKqX8mH733VZQD0ieonE95z9CqByBnNXdi-PJkaqy7d5VlvHigOVasPK5oyh6C82orqECSL44lxc-Qv-mdq5x1e-kwjWGEW0zsED9KGk5a-9hTvRLhXIuH2dSjwGf5p47Jf9Fq6qL3JITP1dVQ==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9153372586&itemId=26955551491&vendorItemId=94677026963&traceid=V0-153-867a14311f68e928&clickBeacon=c607b4a0-c862-11f1-b718-84e24bb79e86%7E3&requestid=20261015153637928135794687&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "건강헤아림 흡수율 좋은 프리미엄 산화마그네슘 99g, 90정, 2개",
+            "tag": "맞춤 케어 · 마그네슘 릴랙스 밤",
+            "reason": "마그네슘 릴랙스 밤 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/sA2v5vkPmZ2eZyJtsNa9wHyjc_gwmqRCK_BbhhzdFp7UcfPCNmoxSZGLkKs1exXDdTynme5NMYpQAX8ToKAySH2meB18B74COdGxjbvAEkGO79Vo9XC8UCGHSE22QYjw-sm-g4MR0NG1L8jgH-gdWj55nGbKzbr995OLFgGe5dQjvw5jywLfWSPel8Ku6ih13qhQVQ0dc31eLYef7h_V7bEU9S4Ot4DhWw0WU6DWQUIE-DMcsGPM7yCRw3bp-kXp5uNa6Y4RIdBruPvo--aHdtpEWips0iHS_6mi_oAjC4uUtank-7lk4m4sp9Oo__HqIX-dRbMviLs6vWun6pGEtJhLEYC91tWNKqQD6ZF5GO6PrRFW5ftOzKRhuYqkcIkDdf0xbknKpujGTAHSDCJeoTWmaaC5l18NFSSDo_2hT4iF8PiBA68FwhfNXLcxpUkOJ0lFPjcqzQnYVHl33PFhzUxqvxAIvZuQy1h4xpj3LANOqOePar9SfqdFbBabS-rZdtmYVrzN",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=6299868709&itemId=28652525147&vendorItemId=91749984979&traceid=V0-153-c2c27c8ae2b8f728&clickBeacon=c62c7ab0-c862-11f1-9873-37538fa83db9%7E3&requestid=20261015153638163197594093&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 5,
+        "name": "겉단단 속말랑 설탕코팅 탕후루 멘탈 🍓🔨",
+        "headline": "평소엔 쿨한 척 버티다가 톡 치면 와장창 깨지는 위태로운 모범생",
+        "emoji": "🍓",
+        "tag": "겉바속촉·시한폭탄",
+        "hashtags": [
+          "#괜찮은척만렙",
+          "#화장실눈물러",
+          "#탕후루멘탈",
+          "#힐링이시급해"
+        ],
+        "bars": [
+          74,
+          68,
+          44,
+          48
+        ],
+        "summary": "남들 앞에서는 '괜찮아!', '제가 처리할게요' 하며 씩씩하고 어른스러운 모습을 보여줍니다. 하지만 속으로는 아슬아슬하게 한계선을 걷고 있어서, 예상치 못한 작은 변수 하나만 터져도 겉코팅이 와장창 깨져버려요. 주변에선 멘탈 강자로 보지만, 사실 퇴근길 버스 창가나 집 화장실에서 남몰래 울컥하는 타입입니다.",
+        "trap": "'프로페셔널하고 성숙한 나'에 갇혀 힘들다는 구조 신호를 끝끝내 숨기는 것",
+        "advice": "유리가 깨지듯 한 번에 폭발하기 전에 '나 지금 조금 버거워'라고 털어놓아 보세요. 조금 찌질하게 징징거려도 당신 곁을 떠날 사람은 아무도 없습니다.",
+        "rx_keywords": [
+          "피톤치드 편백 룸스프레이",
+          "포근한 무게감 암막이불"
+        ],
+        "prescriptions": [
+          {
+            "title": "초록모아 잎 편백수 피톤치드 스프레이 탈취제, 1개, 5L",
+            "tag": "맞춤 케어 · 피톤치드 편백 룸스프레이",
+            "reason": "피톤치드 편백 룸스프레이 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/XWb2WyeMn1kHxpW6XTSkaaBJD2BUwjOuzRdAJUqvOKao9FE4JqC628_ZP35fxmPX86A-vt0VXvfHPChEJn6htyowzdb5qa4DJVyMCOQPtoEfFJNLPiuM1UhJR8qzc_11K5W1o2PnZvXoiOY16L55neDf5LykUK7FS1kRDaiR8J5qvkFdTLqHt4bEulBjF9b_-uS9iAzcF-G9c7pH-WmFzJOcYAd1pwtJvgtBXuH_P7wZbAqWXED8o4yV_EoqzSO5ofIWhLmvyL2Ub9nIu7U1ivtcUzUYgtDKPNA1pMQpSl4nSrbp7FAiWAlQLUz957kJznwKy3swXRQwxgDX5ScZMEG-uryGasqC8j-lpViAWRWRpTgsxecoOPF1ElG7bXJZYHE8er4w0azWqHdlsbfN_BpM3BEc-1UunlUETRWj8hadbAmpNgRR7w8HMu1_9zKbMyaniIZeg0UiDelZOyCFVXzxA1xydzSMBfMqiZysXW-vnIL-rhyc1CihXu1XD0uImJN2OihPy5ZQIc1uANiY_jXf4ru7hcQ=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9558005368&itemId=28521167637&vendorItemId=95403754889&traceid=V0-153-75ce709e65bfb151&clickBeacon=c650cb90-c862-11f1-8d93-044fec72c979%7E3&requestid=20261015153638396271767363&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "생활백서 못없이 설치하는 암막커튼 올인원 풀세트 ver 4",
+            "tag": "맞춤 케어 · 포근한 무게감 암막이불",
+            "reason": "포근한 무게감 암막이불 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/LxXak6Xl1iQxxv_QL9Xh_OGjrsFLsk6RRHstQV3Qhhji9G9rSZVaIITRZCeeW0TyoWN4rute1z-tZV7G8wa_x1H0f16r8R2jrbAyNvC4soKWvWg5VkgflZOZgo6Iq7s_fv_FSKkcmSoGt86qGrFw_mUqTBrr5txY21CuVmZEWLEG4TVlqFzUZl-6NHJAXBX3itqpuYrglNBkVs7-5cJ0EIUpOjSiiUqH_fUzJaVyg4ckrEvpZp3-69m_xrZlnRW97kPufRs2WZWz39H86NaJIwcJDsA9vmP1K-9GqrA7wCK5e_nH_6eb1gFPehmZR6hegkNJ52Z_3EHI79JyB7y_mNlgsZB29xiLDEwbkGKiMAKN-c3TQ3U8sH7teBZBOuWU-rldT93nt9P1tlJL82D7lyElBri7rR-WvuGu2npOXBSB85W8XjQdpHXjjnn0gQIveBig2SU48Lhlgt3CM-IpzFLKnCQIdCnvi-_ux7dUUomKsAzci7sCf9IZCcDuJu192yaH",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=6472952479&itemId=14136461185&vendorItemId=81383206349&traceid=V0-153-c02e1e74bb60cbb0&clickBeacon=c68b8aa0-c862-11f1-9516-87c29b8bc247%7E3&requestid=20261015153638698254301415&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "눌러도 퐁신퐁신 복원되는 찹쌀떡 멘탈 🍡✨",
+        "headline": "잠깐 찌그러져도 자고 일어나면 뽈록 튀어나오는 탄력 부자",
+        "emoji": "🍡",
+        "tag": "탱글탱글·회복탄력러",
+        "hashtags": [
+          "#회복탄력성갑",
+          "#모찌멘탈",
+          "#맛있는게약",
+          "#스트레스우회"
+        ],
+        "bars": [
+          38,
+          42,
+          82,
+          78
+        ],
+        "summary": "억울한 일이나 스트레스를 겪으면 그 순간엔 당연히 짜증도 나고 풀이 죽습니다. 하지만 '이미 벌어진 일 어쩌겠어, 저녁에 매운 떡볶이나 먹자' 하며 놀라운 속도로 감정을 털어냅니다. 감정에 매몰되지 않고 나만의 확실한 기분 전환 루틴(운동, 산책, 맛집 탐방)을 작동시킬 줄 아는 현실적인 고수입니다.",
+        "trap": "회복이 빠르다고 해서 상처가 0인 것은 아닙니다. 감정을 너무 빨리 덮어버리면 내상이 누적될 수 있어요.",
+        "advice": "지금의 건강한 회복력을 계속 아껴주세요. 가끔은 억지로 털어내려 하지 말고, 온전히 내 감정을 인정하고 하루쯤 푹 퍼져 있어도 괜찮습니다.",
+        "rx_keywords": [
+          "향긋한 힐링 인센스 세트",
+          "폼롤러 마사지볼"
+        ],
+        "prescriptions": [
+          {
+            "title": "HEM 골드 에디션 스틱 인센스 100p, 레인 포레스트",
+            "tag": "맞춤 케어 · 향긋한 힐링 인센스 세트",
+            "reason": "향긋한 힐링 인센스 세트 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/pOT2tG6YDp_rsSOSpAGaXeP3i39uJZIdDCQigWQ9m4ptgJIRoAX-6q6ghM8rPFAsWFYjmyQHd16JmEnAmSTjbfnAmXI-cwyG3D4cOQqq5x7UmOzTueyLBbgcI6EMgmF06EGMNP0zCXqJHH0eMR_7FWVVeduV5-6AwvKgV4Eu1Awa6XiBCSZU_D3On3r5nttQgXAWU6ZPuU7MeLZCcmIK0m2TPwf-Yj-Ed-QLTV3b-wNKzFEOmdQQYE3AyY0Bxo9qZbCRyZGCRj83drWtSF3pLNAGNv57IQLDU5UjHDEDG5G1IKgwIA0h2q7AjQWnKKnQOOu95TiR1ZVczb2dXjEqQnBMYyLBP0s5rR8_mDgg_KDUxSRzC2jCgFPd5ePQe8G50_dPlrRL3BVjI5c6y0MzxxLrD9rBwDj1ZMuzAUiOq_ioTfxe5MQhZPQbnaLz27Xcz5B3HkKcBchlu9BwkwRGSFbsR1ovnJPsngZ6iydAd8kfScM4u9bgDKX8aROQOlMcKOmrgXdo-dtgFgto5AXE5DrPodF88-U=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8492320726&itemId=16411006927&vendorItemId=83602034093&traceid=V0-153-024bf3ae64c23511&clickBeacon=c6a490e0-c862-11f1-a763-cd9c6ac53f7d%7E3&requestid=20261015153638950026375428&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "EVA 마사지 폼롤러 마사지스틱 종아리 허벅지 마사지기 근육이완 공구 세트, 핑크색, 1개",
+            "tag": "맞춤 케어 · 폼롤러 마사지볼",
+            "reason": "폼롤러 마사지볼 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/7s_vPbuPk7xlv_xr7pm28IHQtrg7ToJlaMp_SmU7WaaUNpzEshuJpdNu4Licyd2H_xM_SUypQxYWUMMuTx_-xsx61EkTevL6Gg6EU4iBJ_eJsir0qAIbV7-JDsMPxQyh3uv8FJsMEbkjy4vQ5_ycFUvY3FJZ8_ONBpjlNncLj7Amj_CWwFwFNA7NJFzziaOEBTs8JL6wV_IOSU1G2Lb2xOXM4l3SAVWlajx_C7eUSMfjCyQ2qYYvVigIk3pViTAeFJpmE7QEqFAJY58185xpNW2XSVn0COklWIqAbofQLnbCymX5_hHACHIwx8sqKsmTacdr6A8XCtOM2Pbqu98htgVQsif0c9YxvqGh0CapnwKV_gYHAyo4gGDy54HijrjrM4zjiuVliFxcyBC5oBqgLHFea1EE_NDg0Jec6Y9LKe8hxi2t63tkPe9S_mfeViHpVedeRp5DcmC1NctsITLgu2ISf2umTig3jky_bT2FNxhmhnIZoO3CwvwpUNJbv33JeOq2MEzJ0oIr_wxSBENHum2t1-RJARcCJA==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8053901550&itemId=22599688293&vendorItemId=89641370809&traceid=V0-153-dcf71f346cb10fe1&clickBeacon=c6bd21f0-c862-11f1-8d95-6631762116f1%7E3&requestid=20261015153639125117647841&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "데미지 0 감정 방패 티타늄 멘탈 🛡️🧘",
+        "headline": "세상이 억까해도 '어쩌라고 내 인생 살 거야' 평온의 마스터",
+        "emoji": "🛡️",
+        "tag": "무적멘탈·마이웨이",
+        "hashtags": [
+          "#티타늄방패",
+          "#타격감제로",
+          "#감정디톡스",
+          "#멘탈금강불괴"
+        ],
+        "bars": [
+          12,
+          18,
+          96,
+          94
+        ],
+        "summary": "타인의 날카로운 잔소리, 돌발 업무, 망한 타이밍 앞에서도 심박수가 거의 흔들리지 않습니다. '그건 그 사람 사정이고, 내 감정은 내가 지킨다'는 심리적 경계선이 완벽하게 세워져 있어요. 자책보다는 차분한 팩트 체크가 먼저 나가며, 흘려보낼 잡음과 챙겨야 할 신호를 귀신같이 구별해냅니다.",
+        "trap": "지나치게 쿨하고 덤덤한 나머지, 주변의 예민한 친구들에게 '너무 차갑다'는 오해를 살 수 있습니다.",
+        "advice": "멘탈 방어력은 이미 대한민국 상위 1%! 곁에서 파사삭 부서지고 있는 쿠쿠다스 친구들에게 당신의 따뜻한 여유를 조금만 나눠주세요.",
+        "rx_keywords": [
+          "카모마일 블렌딩 티",
+          "디지털 디톡스 타이머"
+        ],
+        "prescriptions": [
+          {
+            "title": "[본사직영] 다예 맛있는 오렌지 캐모마일차 생분해 삼각티백, 3개, 50개입, 1g",
+            "tag": "맞춤 케어 · 카모마일 블렌딩 티",
+            "reason": "카모마일 블렌딩 티 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/SDKQlXf2cOaxaZrMSCIbP2Y_plN9oVwyMFCb-sRYPKqrBnXANyShxI9hzQFCx8WUdqL4EHrhR2csOVoS3zGPAGx6KPr8O8eSFa9Fagv8k8z0WHIGrve1osHb3nm8kBoOAh-KJ31hCy55A9OH490mv_2i57kZuS-JFuBcUru_BSirCsOAWfsq2AMbICfTCMyDzBAU8vWWxtXItdZfp2SyAx0XvVeFdXxawyi87836Y1-TTJux7TQOuhI01iChZ45rDNznQLnSw0GMnfhQRx5Evbx9ocBCtZ5eSWS-cm9WdZOxegcgTkWQIzuFgZN7tuKkiiCz-cMWNz4W1pobhjuW8SZjrmxDyRDxoYEGdpdzYrm-G3VzKIeejTtWmJY5AxB6VPo1oXxexSYI4-a5EeExbhzZLOC6QRQPM6LS2HGP8EpQU-VCpgL88uy0o1PJPrk1ZQtN6XThPPP5rZyu9jCyiUEGwFm4WqR-q-ay6X4XfvMb_ByPspPq0XPxmVxo7o_xnIlkdK8nzBJxuiwUkH1t8tgfXUGG",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9200284182&itemId=27163669713&vendorItemId=94183826932&traceid=V0-153-2a9274c25daf0a38&clickBeacon=c6e08870-c862-11f1-9cca-47cbc5c112d3%7E3&requestid=20261015153639337162640228&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "무아스 타임 루프 디지털 타이머, 화이트, 1개",
+            "tag": "맞춤 케어 · 디지털 디톡스 타이머",
+            "reason": "디지털 디톡스 타이머 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/hRISPNR7bvVvi1Yihd3SOZ4i0Zk6zbwN18CTTfFdq5VjeKHI6XkdOcTeXfhFIfqhn0Ej3rEUC2jjQqe4ySlzvvtXmB1wvk-Jsc0VBolVU6xcIUhppfgcmzRUnR1Cb_tuhzek771l6pMMUDJC2wo0CWQMRyGzgRNQfVv4WsFzoQ0ySBWyDMwVNNTnhz5dIbZloKgjVDzZMykgD8dlC5QWoSlMOW4m5GAoMCPz6-1-4SboCs5XpVgVMP8-HJN1GaiMTxsMZ_U31QaOz4UrmbRaLmGWNB_Tp-r5ri97dTF6t2jk71QOVCmWuwH6yub4iwYz8oWQu4o7syqWObvtvlH7V5RW1oRLxiJdaPmyz26Vv2vrRWFsM7oqZMqhXzpArh5eO80o4dBxoIZ1mdV6-QQC_lsjVIRj3GbwO66h8Tx6rYTnTaY6Zimbm0eQH_0hgnBLlzrDhUmi_53vicE8YMyP4PJFalqaEZj_1HrSHR4Zil-FPvvmuREGt-BrNEb1xfp2MgfIsdfRNg==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9317558204&itemId=27613278744&vendorItemId=94576401471&traceid=V0-153-4cf1f5381d2531d3&clickBeacon=c7052770-c862-11f1-bd9e-54bc74906c63%7E3&requestid=20261015153639593271767951&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 278685,
+    "created_at": "2026-10-15 15:36"
   }
 ];
