@@ -1869,17 +1869,23 @@
 
       // 해당 테스트 맞춤 처방전 쿠팡 링크 또는 기본 제휴 링크 동적 설정
       let targetCoupangUrl = "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=quiz_gate";
+      let btnLabel = "쿠팡 오늘의 핫딜 & 베스트 특가 보기";
       if (currentResultData && currentResultData.prescriptions && currentResultData.prescriptions.length > 0) {
-        const rxUrl = currentResultData.prescriptions[0].url;
-        if (rxUrl && rxUrl.includes('coupang.com')) {
-          targetCoupangUrl = rxUrl;
+        const rxItem = currentResultData.prescriptions[0];
+        if (rxItem.url && rxItem.url.includes('coupang.com')) {
+          targetCoupangUrl = rxItem.url;
         }
+        btnLabel = `🔥 [${currentResultData.name} 솔루션] 1위 추천템 최저가 보기 🚀`;
       }
       if (gateBtn) {
         gateBtn.href = targetCoupangUrl;
+        const textSpan = gateBtn.querySelector('.gate-btn-text');
+        if (textSpan) {
+          textSpan.innerHTML = `<strong>${btnLabel}</strong>`;
+        }
       }
 
-      let timeLeft = 3;
+      let timeLeft = 4;
       if (countdownEl) {
         countdownEl.textContent = timeLeft;
       }
