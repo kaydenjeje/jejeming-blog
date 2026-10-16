@@ -3369,5 +3369,209 @@ window.TESTS_DATABASE = [
     ],
     "participants": 143723,
     "created_at": "2026-10-16 00:30"
+  },
+  {
+    "id": "office_villain_defense",
+    "category": "직장/성장",
+    "title": "사회생활 만렙 직장인! 나의 오피스 빌런 대처력 테스트",
+    "subTitle": "회사에 빌런이 왜 이렇게 많을까? <span>나의 오피스 생존 전투력</span> 측정기",
+    "desc": "출근하자마자 혈압 오르게 만드는 사방의 오피스 빌런들!\n숨 막히는 K-직장에서 나는 빌런을 어떻게 요리하고 있을까?\n8가지 생생한 현실 상황으로 알아보는 나의 오피스 생존력과 대처 유형!",
+    "emoji": "🥊",
+    "tag": "직장생활·빌런퇴치",
+    "viralBadge": "🔥 누적 213,940명이 분노하며 참여함",
+    "metricLabels": [
+      "팩폭 전투력",
+      "멘탈 방어력",
+      "영혼스루 스킬",
+      "칼퇴 생존력"
+    ],
+    "questions": [
+      {
+        "category": "⏰ 퇴근 10분 전 기습",
+        "question": "퇴근 10분 전, 상사가 '김대리, 이거 내일 아침까지 간단히 정리해둬~'라며 일을 던졌다. 나의 반응은?",
+        "a": "\"팀장님, 내일 출근해서 우선순위 확인 후 오전 중으로 보고드려도 될까요?\"라고 즉시 선을 긋는다.",
+        "b": "'아 진짜 왜 저래...' 속으로 욕하면서도 모니터 켜고 마지못해 야근 모드에 들어간다.",
+        "score": 1
+      },
+      {
+        "category": "🦹 숟가락 얹기 빌런",
+        "question": "내가 주말까지 갈아 넣어 완성한 기획안을 동료가 회의 때 은근슬쩍 자기 아이디어인 것처럼 발표한다면?",
+        "a": "\"OO님, 아까 말씀하신 부분은 제가 데이터 뽑아서 보완해둔 슬라이드 7페이지 참고하시면 더 명확해요!\"라며 만인 앞에서 내 지분을 박제한다.",
+        "b": "회의 끝나고 메신저로 '그거 제가 작성한 부분인데 공유 좀 미리 해주시지 그랬어요...'라며 조용히 항의한다.",
+        "score": 1
+      },
+      {
+        "category": "🙅 무한 딴지 프로 태클러",
+        "question": "새로운 제안을 낼 때마다 \"그거 예전에 해봤는데 안 됐잖아\"라며 대안 없이 초 치는 선배를 만났다.",
+        "a": "\"그때와 시장 상황 및 타깃 데이터가 달라졌습니다. 선배님 생각하시는 구체적인 대안이 있으신가요?\"라고 논리로 맞받아친다.",
+        "b": "\"아... 그렇군요...\" 하고 겉으로는 수긍하며 조용히 안건을 접거나 다른 타이밍을 노린다.",
+        "score": 1
+      },
+      {
+        "category": "👶 하나부터 열까지 핑프 후배",
+        "question": "사내 공유 드라이브 검색만 해도 나오는 기본 서식과 가이드를 매번 메신저로 물어보는 핑거 프린세스 후배!",
+        "a": "\"OO씨, 사내 드라이브 '공통서식' 폴더에 다 정리되어 있으니 직접 검색해서 찾아보세요!\" 링크만 던지고 칼차단한다.",
+        "b": "답답해서 한숨 쉬면서도 결국 내 파일함에서 찾아서 파일 첨부해 보내준다.",
+        "score": 1
+      },
+      {
+        "category": "🧓 주말 카톡방 참견러",
+        "question": "일요일 낮 2시, 부장님이 단체 카톡방에 '주말 북한산 정기 좋습니다^^ 회원님들 파이팅!'이라며 등산 인증샷을 올렸다.",
+        "a": "월요일 출근할 때까지 카톡 알림 끄고 1도 안 읽은 채 철저하게 무시한다.",
+        "b": "10분쯤 눈치 보다가 대세에 따라 '좋은 주말 보내세요 부장님!^^' 영혼 없는 이모티콘을 전송한다.",
+        "score": 1
+      },
+      {
+        "category": "🤐 은근슬쩍 사생활 캐기",
+        "question": "커피 타임마다 \"남자친구/여자친구랑은 잘 만나? 결혼은 언제 해? 부모님은 뭐 하셔?\" 사생활을 캐묻는 상사에게 나는?",
+        "a": "\"하하, 그런 개인적인 이야기는 회사 밖에서만 생각하기로 해서요~ 팀장님 이번 분기 매출 목표는 어떻게 보시나요?\" 화제를 확 돌린다.",
+        "b": "불편하지만 표정 관리하면서 \"아 그냥 뭐... 잘 지내요...\" 어색하게 얼버무리며 자리를 피한다.",
+        "score": 1
+      },
+      {
+        "category": "🤷 프로 불평러의 점심시간",
+        "question": "점심 메뉴 고를 때 \"난 다 좋아 아무거나~\" 해놓고 막상 식당 가면 \"여긴 반찬이 짜네, 면이 불었네\" 투덜대는 동료!",
+        "a": "\"OO님 다음엔 직접 먹고 싶은 곳으로 예약해 주세요! 그래야 모두가 만족하죠~\" 웃는 얼굴로 뼈를 때린다.",
+        "b": "밥이 입으로 들어가는지 코로 들어가는지 모른 채 체할 것 같은 기분으로 조용히 밥만 먹는다.",
+        "score": 1
+      },
+      {
+        "category": "🗣️ 뒷담화 레이더 포착",
+        "question": "다른 부서 동기가 내 업무 태도에 대해 근거 없는 헛소문을 퍼뜨리고 다닌다는 소식을 전해 들었다.",
+        "a": "소문의 출처와 정황을 캡처/기록해 증거를 모은 뒤, 당사자 찾아가 1:1로 삼자대면 각을 잡는다.",
+        "b": "가슴이 쿵쾅거리고 억울해서 친한 친구나 동기에게 하소연하며 밤새 속으로 삭힌다.",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "오피스 저승사자 팩폭 전사 🥊",
+        "headline": "\"빌런? 제 앞에서는 숨도 크게 못 쉴 텐데요?\"",
+        "emoji": "🥊",
+        "tag": "사이다·팩폭응징",
+        "hashtags": [
+          "#오피스저승사자",
+          "#사이다장인",
+          "#반박불가팩폭",
+          "#칼퇴수호자"
+        ],
+        "bars": [
+          96,
+          88,
+          70,
+          92
+        ],
+        "summary": "빌런의 부당한 요구와 헛소리를 절대 그냥 넘어가지 않는 오피스 사이다의 인간화! \n논리와 팩트, 그리고 근로기준법을 무기로 삼아 무례한 사람들의 기를 단숨에 꺾어버립니다. \n동기들에게는 든든한 수호신이지만, 빌런들에게는 눈만 마주쳐도 오금이 저리는 공포의 대상입니다.",
+        "trap": "정의감과 돌직구가 지나치면 사내 정치나 예기치 못한 적을 만들 수 있으니 가끔은 능청스러움이 필요해요.",
+        "advice": "당신의 강단은 최고의 재능이지만 가끔은 '똥이 무서워서 피하나 더러워서 피하지' 마인드로 에너지를 아끼세요.",
+        "rx_keywords": [
+          "스트레스 해소 펀치백",
+          "구강청결제 민트"
+        ],
+        "prescriptions": [
+          {
+            "title": "고양이 펀칭백 장난감 티저 장난감과 권투 글러브가 있는 장난감 실내 고양이 선물과 호환되는 고양이 펀칭백 장난감, 검정색",
+            "tag": "맞춤 케어 · 스트레스 해소 펀치백",
+            "reason": "스트레스 해소 펀치백 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/2ijcKW9Mj3Zgo-vg2go1fy3VxDaOyLfUAIypqke7VjcoaBx0VMANV_-M62ZUH7exn7BcKltIo5a308xQzs0cvSFzHRCmRVTe-CRb2NVqdXTcY6YCVXZC8740_AZJptxs5kyWzi7AmqaimTO8a9dnPScWpDJRprRq095mZjl5LcVSHTOZv7ZtgXT3VhsaMHm-ydy72XcsZ6yHOj4xO2hnP7QbveuYN2hajJFYB2HeN2I4LTuN6XhiDaMpbHkZG_XdSdt6UCJo9hESNftasniCQmrEpANg2YCBvnb5iknPkBGaDZzoQ8wqrkfgFpGuf9nxklH8kG1FRegJ_Y9f0SGW4FmKVyJKiAhQK8Mc4rJHRoM4UJoHaBWFq5H--1cqKjcsp42yNpT9y7GtCItw_-2lw6qmXx4Jc_pC9EG32xFiSjvWwbqcf_3LGlHZtwxlmYgbMHGqr1oenplaVnsdvVRfFWRXKePafio_LdUabjCDMYnB-w3CHMmKtAX0sH1iPdEAvzs4Oy8CNqg1roR1I6xIF9f7vhszOK13nQ10ugilFzeSKVwuEI2V8uIXiqRoBuuz93Zbua-7oKDx",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9629084090&itemId=28759616711&vendorItemId=95698227214&traceid=V0-153-3d9356988315899e&clickBeacon=e86ab3d0-c911-11f1-b2c8-53de61db52f0%7E3&requestid=20261016123017543206167364&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "검가드 오리지널 잇몸 질환 예방 구강청결제, 1.2L, 2개",
+            "tag": "맞춤 케어 · 구강청결제 민트",
+            "reason": "구강청결제 민트 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/JfxV36XF5OvOJc74Je70QdsmNrUiS-AnRA-r3ZFXj0mCSLwiBSSfQYog20fmBVSXMDRJQWJ4FG-8E7XUn3h7fUVT7OUNJOA0RapRCbsHqChVRexiN-aqPD3obMl1tGWjjsgOi-ZufAxVGTChVn_kgOFnLvnWxu1kbGCbAQePC5dUVSyBucJOQc8SFgvA2AVbFw9XRR6n1AKhok9g-9rkasS2hEW3saaVuTYbtmaswTSvaRmpMP_6IWsZDLawkdIBgNgiYVKFDMdEYq9czHOANB7yzQuEbk2DjmdxL2ykSMosV9EzN_nYTKK58VUxeYuc3RbuhiOPvOfgpwdX8jx5tEaZVoETCdd7Quw0ubEKCnLWwB9tAp-lfozdqfpNPzn8WYZUN5B29Gen2uigyy64d3qyrVv6X4Q84UfY3WShotZ0yzCeicw7IKJCPlgclB3fK0UZCBAlyPGhciOm20byeW6e-FxW2nfKnAOJVMY8TSVFb3J7fARzrb-chL-1rqhvrzH3_cGneOv1",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=5659684732&itemId=21717294772&vendorItemId=88766572561&traceid=V0-153-befaa1ce7a3a26a7&clickBeacon=e899da20-c911-11f1-9647-ce955d5523e6%7E3&requestid=20261016123017822312540610&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "은은한 광기의 영혼스루 도인 🧘",
+        "headline": "\"네~ 알겠습니다~(귓등으로도 안 들음)\"",
+        "emoji": "🧘",
+        "tag": "유체이탈·현실생존",
+        "hashtags": [
+          "#쿠쿠하세요",
+          "#은은한광기",
+          "#영혼탈곡기",
+          "#사회생활만렙"
+        ],
+        "bars": [
+          55,
+          82,
+          95,
+          78
+        ],
+        "summary": "빌런이 앞에서 꽥꽥거려도 겉으로는 사람 좋은 미소를 지으며 영혼은 이미 퇴근길 지하철에 보낸 생존 만렙! \n적당히 고개 끄덕여주고 뒤돌아서면 기억을 포맷해버리는 탁월한 '스루력'을 보유하고 있습니다. \n빌런과 정면충돌해서 내 피 같은 에너지를 낭비하지 않는 가장 똑똑하고 실리적인 직장인입니다.",
+        "trap": "영혼 없는 대답이 습관화되어 정말 중요한 피드백이나 진지한 업무 대화까지 흘려들을 수 있습니다.",
+        "advice": "멘탈 방어력은 훌륭하지만 마음 한구석에 쌓인 소소한 찌꺼기들은 주기적으로 털어내 주어야 번아웃을 막을 수 있어요.",
+        "rx_keywords": [
+          "노이즈 캔슬링 헤드폰",
+          "아로마 롤온 오일"
+        ],
+        "prescriptions": [
+          {
+            "title": "보스 QC 헤드폰 2세대 BOSE QC HEADPHONES 2Gen, 895491-0100, 블랙",
+            "tag": "맞춤 케어 · 노이즈 캔슬링 헤드폰",
+            "reason": "노이즈 캔슬링 헤드폰 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/MFVoSRtii8TJ_gmjMNcqCKBj7BViy-b2hhIAYm6OPOqw4zW_zO8_Ewsnc9Ye1ThEYFe5xkxWHIumdP54xvy5jX-AfI_178ceWOJF7lTp9F9FmxCoUAHdNpVsokGGuipPlxF3i6sBbmpRcnVxt75S1-77gxqsVrgwJVODjzvctXsX1C7D28wWXNz-w2ImdlCcS13rEZW6qzR0iLXhSnrqhgZR71B0zuvOrXp09OeS5d__hAu0mV4Z4v4UaKyfN7ArBa5QpKxiX_qL_PMbLOozAG4HO2HJ2j9TBDerVGxyVclwjtneIj26XCOHKW-IMEpiQIyhsEe3AkqT2UNJgfoR-8RhgY1NHoxubrIU47nrAjh0x8ChCBokvskQ6mZrMrewDFLJm_ePfO2o6rLIjN_cYmozDvyNb6lfyk1qEgizdcuhllgJQqw27oxz6f4QfLwgF8BOhMrmUMg9oaDZuddK3mXNfHWfMUgIPYyEjxVw68j-3Pgq7pitx4uYOsqUXY_ywRk4v_yiAd9cFbid2Vn91sZD8_uaEITr",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9687994041&itemId=28973265382&vendorItemId=95902944134&traceid=V0-153-5b4f2ff06a8e863b&clickBeacon=e8ec3fe0-c911-11f1-89de-7b351011f42f%7E3&requestid=20261016123018391254302421&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "카오코탈라이푸 아로마 테라피 오일 롤온 굿슬립, 10ml, 1개",
+            "tag": "맞춤 케어 · 아로마 롤온 오일",
+            "reason": "아로마 롤온 오일 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/7DJDviswwHL3P3pk7PRyHaKlQwX98JcqeXLL0M6NUCHRTjr4tEFZRHPSa3yVNYdNpZafEAS4uuy-9qFg4KLT_jOLcpwKSmAF0gVG7jm3P3fu7sSmdjZTm_VBWuPg23J3sVh7mX2IxyKs1NdrKaj7oHhzXIXEuaQhw03STRR-z-7bQKd1HFGzP3dgS5sLy7H410vesXZ7ga8eBUP9yfmzBmnGd4s2udmdshqdHpDdHhyKmXptcjd8a9f-Ev3-B2YIqMunwEOUdlVr9gtvfhT01BUn8IZAhGeK4qMpqzskDx9XvWZjwitmNhpCH8AWXQ0CZ-0b0JH5ygzNuPMs_8BBdbNsY31JcxPRedDJHIjcwLKDYhxq6B2_n3WoDf9V-Opc9UqM0rTeAalB10Z4CDW5aLvexjI1Fxo4RwrzHuZY9NbvKEUlMzPLGs55Zb9n66pN2iviXmeLTo7-TxE2nZhSS0_I87AJKerg5XRv-NUzXjSByxTPeTvrBTfs61QKqvFhXp7Jnf5lb30=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9325893414&itemId=27644680639&vendorItemId=94607262174&traceid=V0-153-0e1a596580898ffa&clickBeacon=e910b7d0-c911-11f1-8590-a3fdbb8a1094%7E3&requestid=20261016123018570135798057&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "쿠쿠다스 멘탈 평화주의 비둘기 🕊️",
+        "headline": "\"싸우느니 차라리 내가 야근하고 말지...\"",
+        "emoji": "🕊️",
+        "tag": "착한아이증후군·속앓이",
+        "hashtags": [
+          "#이불킥장인",
+          "#거절못하는병",
+          "#눈물젖은퇴근길",
+          "#멘탈치료시급"
+        ],
+        "bars": [
+          20,
+          35,
+          40,
+          25
+        ],
+        "summary": "갈등이 생기는 상황 자체가 너무 두려워 빌런의 무리한 요구에도 \"네...\"를 외치고 마는 프로 양보러! \n낮에는 억울해도 꾹 참다가 퇴근길 지하철이나 밤에 누워서 '아 그때 이렇게 쏠 걸!' 무한 이불킥을 시전합니다. \n배려심 깊고 성실하지만, 악질 빌런들은 바로 당신 같은 착한 사람의 친절을 이용해 먹는다는 사실!",
+        "trap": "거절하지 못하는 착한 태도가 빌런들에게는 '함부로 대해도 되는 호구'라는 잘못된 신호를 줄 수 있습니다.",
+        "advice": "\"아, 그건 제 업무가 아닙니다\"라는 마법의 한마디를 거울보고 매일 3번씩 연습해 보세요. 거절해도 세상 안 무너집니다!",
+        "rx_keywords": [
+          "마인드풀니스 다이어리",
+          "심신안정 캐모마일 티"
+        ],
+        "prescriptions": [
+          {
+            "title": "오가니코 A5 하드커버 스크랩 만년 다이어리, 그레이, 1세트",
+            "tag": "맞춤 케어 · 마인드풀니스 다이어리",
+            "reason": "마인드풀니스 다이어리 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/-jbobVyqmZvDppDZ-kkrVRzsbzxYa0Iduy0BuA_CYPIaygBG9zQ6WfJadGCfn3Cj5m8Ugw3Q2DH5s0TLai9GHPoobNR5CLgtcLiE3higyFHc8kWBldNvFfW6osjEpTn5rWL9_fnYepciIxdOt-Hq1EgP7ARsX97mbFAkO9RgLBljKDFdDRRe1Yv4yNWJnBIK3aj-YxB7d3VMZ6mdGIRNqdy4hziJkKbiA_vNDfQXhHi9LvoEdVAssn1XhJTtuz1k06GafVpeK-Fd6MvOFoCFGVoIW_p6U6ECRPOYtH_nhCVwCMYKI6zhPy881nb7AwnviUzsSWNPBwSFF5LauPkctqwfQ2aGB278gJhEj6HAc2rFp4b882BEeajzhlmXxgR2mCiHIpGnBkdJQ2b2mwyeWb1dy59sXjubN2DAZAhTv_YGQ65cc8xkae-r1tM4a3FKhYj3KIPOOejHOSP_yjdAynCQKA07-Hu-zhkNTp1XG7XdEsPbWOecB87_4cXzhB0LZYQtUPZDOQ==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=6661849504&itemId=15294077880&vendorItemId=89117558689&traceid=V0-153-839409a012c867fd&clickBeacon=e928aca0-c911-11f1-8820-62a06e273690%7E3&requestid=20261016123018787014185886&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "다비앙 유기농 캐모마일 티백, 1.5g, 20개입, 2개",
+            "tag": "맞춤 케어 · 심신안정 캐모마일 티",
+            "reason": "심신안정 캐모마일 티 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/efhGHy2AC5rQ9YskeXhERRYiHnmafdVe1QZt8lAigaQ8tztwwZK_SeuXbRvaBa5FWpBsxZhlPr_bdpxsiDD0Q4JIQbCP4BKER_gZENQt7hM2SZqThwF1uVNiNb8c1dbzQjceO2NHsRDimhu1I0KbyDN85M4VRRXwvvKDs_0DPLhCpDZeB02_HTdEoh_zOLxY2o7RnzSB5yGSIC9TAswWZBswGbruSRUQLlz0qO82RpvxsD7m5tdtf5tfRTedQl_Z770jXARYexgul699ozOYWQjPLXSvNs7vxlvX_rkPUXD9vZHkj4rXq8RcEiFV66YaUOPXYTj55aPg9dtzRgnmFQm6HqPYmgNDglLtevpMN3B4u9AWMZ0KW9Erxpfvsljo9McNioj5vzkEgMC17u6QJZ8IUWPuGP6nxnmNl5ZDsVgv95Lrvqj78sQCQazI6KNnccTL5qZvNM0nLLkiNqacnIAio12pvNxKFDXenYaICMXAd22WtPG1tVTnu8bBTE7B-xQj6pLnew==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=1918835282&itemId=18741421865&vendorItemId=85873690090&traceid=V0-153-10c7bb0e85030efc&clickBeacon=e94a6570-c911-11f1-919c-33298513a697%7E3&requestid=20261016123018964026378581&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 247776,
+    "created_at": "2026-10-16 12:30"
   }
 ];
