@@ -900,7 +900,7 @@
   }
   sendTrack('pageview');
   document.addEventListener('click', function(e) {
-    var btn = e.target.closest('.btn-coupang, .btn-coupang-big, a[href*="coupang.com"]');
+    var btn = e.target.closest('.btn-coupang, .btn-coupang-big, a[href*="coupang.com"], a[href*="naver.me"]');
     if (btn) {
       sendTrack('click', { target_title: (btn.innerText || '').trim() || document.title });
     }
