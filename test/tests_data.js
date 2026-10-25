@@ -3573,5 +3573,209 @@ window.TESTS_DATABASE = [
     ],
     "participants": 247776,
     "created_at": "2026-10-16 12:30"
+  },
+  {
+    "id": "love_obsession_detector",
+    "category": "연애/관계",
+    "title": "내 연애를 망치는 질투와 소유욕? 나의 연애 집착도 테스트",
+    "subTitle": "사랑일까, 구속일까? <span>나의 숨은 집착 레벨</span> 확인하기",
+    "desc": "연인의 사소한 행동 하나에 밤잠 설치고 프로파일러 빙의했던 적 있나요? 일상 속 흔한 순간들로 나의 질투 지수와 소유욕 상태를 날카롭고 유쾌하게 진단해 드립니다.",
+    "emoji": "🔍",
+    "tag": "연애·집착도",
+    "viralBadge": "🔥 누적 214,890명이 팩폭 맞고 공유함",
+    "metricLabels": [
+      "질투 화력",
+      "SNS 수사력",
+      "확인 강박",
+      "소유 통제욕"
+    ],
+    "questions": [
+      {
+        "category": "📱 카톡 미확인",
+        "question": "내 카톡 '1'은 1시간째 안 사라지는데, 애인의 인스타 스토리가 방금 업데이트되었다면?",
+        "a": "피가 거꾸로 솟는다. 바로 스토리 염탐하고 뭘 하고 있는지 추적에 들어간다.",
+        "b": "'급한 일 끝나면 연락 오겠지' 생각하고 내 할 일에 집중한다.",
+        "score": 1
+      },
+      {
+        "category": "👥 이성 친구/동료",
+        "question": "애인이 직장 이성 동료와 둘이서 점심을 먹고 카페까지 갔다는 사실을 알게 되었을 때?",
+        "a": "둘이 굳이 왜? 그 동료의 외모, 나이, 결혼 여부까지 캐물어야 직성이 풀린다.",
+        "b": "업무 연장이거나 친한 동료끼리 밥 먹을 수도 있지 하고 대수롭지 않게 넘긴다.",
+        "score": 1
+      },
+      {
+        "category": "🕵️ SNS 탐색",
+        "question": "애인의 인스타그램 팔로잉 수가 어제보다 '1명' 늘어났을 때 내 반응은?",
+        "a": "새로 추가된 계정이 누구인지 팔로잉 목록을 아래위로 뒤지며 찾아내고야 만다.",
+        "b": "팔로잉 수가 늘어났는지 줄었는지 애초에 관심도 없고 모른다.",
+        "score": 1
+      },
+      {
+        "category": "🍸 주말 밤 약속",
+        "question": "애인이 친구들과 술자리를 갖는 날, 밤 11시 이후 연락 텀이 1시간 이상 길어진다면?",
+        "a": "불안해서 폰만 쳐다보며 '누구랑 있어? 언제 가?' 카톡 폭탄이나 전화를 건다.",
+        "b": "오랜만에 친구들이랑 노느라 바쁜가 보다 하고 먼저 푹 잔다.",
+        "score": 1
+      },
+      {
+        "category": "👀 무방비 스마트폰",
+        "question": "애인이 샤워하러 들어가며 식탁 위에 잠금 풀린 스마트폰을 두고 갔을 때?",
+        "a": "심장이 뛰면서 나도 모르게 손이 가고, 카톡 검색창에 특정 키워드를 검색해보고 싶다.",
+        "b": "남의 폰 훔쳐보는 건 찝찝하다. 화면이 켜져도 굳이 열어보지 않는다.",
+        "score": 1
+      },
+      {
+        "category": "👗 꾸밈과 외출",
+        "question": "평소 대충 입던 애인이 오늘따라 머리부터 발끝까지 풀세팅하고 외출한다고 할 때?",
+        "a": "'오늘 누구 만나는데 이렇게까지 꾸며?' 의심 섞인 눈초리로 레이더를 세운다.",
+        "b": "'오 오늘 예쁘네/멋지네! 사진 잘 찍고 와~' 하며 쿨하게 칭찬해준다.",
+        "score": 1
+      },
+      {
+        "category": "💬 과거 연애사",
+        "question": "우연히 들른 카페나 식당에서 애인이 '여기 전 애인이랑 와봤던 것 같다'고 털어놓는다면?",
+        "a": "그 순간부터 기분 급다운. 집요하게 그때 이야기를 캐묻거나 당장 나가고 싶어진다.",
+        "b": "'아 그래? 맛은 어땠는데?' 하며 지나간 과거로 가볍게 넘긴다.",
+        "score": 1
+      },
+      {
+        "category": "🗓️ 주말 스케줄",
+        "question": "애인이 '이번 주말은 혼자 방에서 뒹굴거리며 쉬고 싶어'라고 통보했을 때?",
+        "a": "'나 만나는 게 귀찮아졌나? 사랑이 식었나?' 온갖 부정적인 시나리오를 쓴다.",
+        "b": "'일주일 동안 피곤했나 보네. 푹 쉬어!' 하고 나만의 주말 계획을 세운다.",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "24시간 풀가동 사설탐정 관제탑 🚨",
+        "headline": "사랑이라는 이름으로 상대방 숨통을 조이는 프로파일러형 연인",
+        "emoji": "🚨",
+        "tag": "집착만렙·FBI수사관",
+        "hashtags": [
+          "#내가_네_관제탑",
+          "#연애판_CCTV",
+          "#의심병_도짐",
+          "#숨막히는_사랑"
+        ],
+        "bars": [
+          96,
+          92,
+          88,
+          94
+        ],
+        "summary": "연인의 일거수일투족을 내 통제 아래 두지 않으면 극심한 불안을 느낍니다.\n'사랑하니까 궁금한 거'라고 포장하지만, 사실 상대방을 향한 불신과 내면의 깊은 불안감이 문제입니다.\n사소한 단서 하나로 꼬리에 꼬리를 무는 상상 소설을 쓰다 결국 스스로를 괴롭히고 연인을 지치게 만듭니다.",
+        "trap": "사소한 꼬투리를 잡아 취조하듯 캐묻다가 상대의 애정을 완전히 바닥나게 만들 수 있습니다.",
+        "advice": "스마트폰을 엎어두고 연인의 세계와 나의 세계를 철저히 분리하세요. 상대가 나를 사랑하는 것을 증명하라고 압박하기보다, 스스로의 자존감을 채우는 취미 활동이 시급합니다.",
+        "rx_keywords": [
+          "디지털 디톡스 타이머",
+          "스트레스 완화 아로마 오일"
+        ],
+        "prescriptions": [
+          {
+            "title": "[KAIST 박사 개발] 뇌를 깨우는 Dr.Lee 뽀모도로 타이머 무소음 중력식 90분 집중력타이머 F-1 2세대, 블랙, 1개",
+            "tag": "맞춤 케어 · 디지털 디톡스 타이머",
+            "reason": "디지털 디톡스 타이머 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/jD12VTxwyK4JlPLIjCPip_4vTQtFyMSV2wlzAdNFE_KkOp7iQnAzFpzkIinbRyOGOdlv6QwP8W3Y39GCWz_SUsjlkIY_PLAPw_bJEBAul_tLOweWyAfloEbJuJNdH-o77fpyKTB_vAqayvi5lP_6yDb3_4HBHyfuhmXcrR769vkwHErQgxzQtylBmO7kAf0JWN4MVpRAzngUOVtprrt18rDSv-msviHmd5tWpmYl3BOQYJtHt2q3JJ9HKDcCw0qhmcF2KhY22WPekClOJAxmBLCrjjjo8su_XpjuduGp3TvaRG_oXTydGTYpo_igIcsCXk5hESFAz6oA2FBmQZ-kOQM4PNZciLJVHXXfwMMLhbUExyR2NUlGc3liuk4Z28mMvbNf6yWTQl5Me9dDXzcXbN1PYrXGL1ZCUDpHkd2r3UTerawroeCJ9aU8hG_D6OobJddFGI_M7p-tvsmKpVWcEE22kj-6zBpVxIRkoXKwXi63DcjncbAAcOkdJt-c0pEibFGQ8IDv3BNm8k5vSxjJ7LO3e3T5LqKn",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8667726630&itemId=25426608441&vendorItemId=92419685115&traceid=V0-153-ae0f9d8cf69b9717&clickBeacon=37a6dec0-d050-11f1-a72c-9da7f342940c%7E3&requestid=20261025174357413151567129&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "멜로우버디 아로마 리추얼 숙면 선물세트 굿슬립 스트레스완화 오일, 1개, 20ml, 블렌딩",
+            "tag": "맞춤 케어 · 스트레스 완화 아로마 오일",
+            "reason": "스트레스 완화 아로마 오일 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/DMGoDzdi9id91twDDPYlpSaZDkqoHg2S_yAB9mhgztEJEeaGiAhS24EF93Y63w25nSQ5aZ-IOzUMVyrEuJHkZfO2vGIyU3uAZ9038Vx1N5HjuivFbCkGfm2RSdHMuemqqTuwHwmXBqGU_a4bg9XT69NLx5VMZ_r_bvjaA123NRDAta4B3RkmiDw4i-afRM0QBTYsgu4PWHbsUiUYcJx1NQ5i5c1fpkKlYfFzp5hXWywmm2INQ69y9uORX7BhCFg_RYujghlyNZez9-S_OOCE1xPKzSdQV6C4KJxqPkg3tw1hTyahMo2FrbgAeDZSHvkbFwDcNbhrv7IxDhI_HmG1FS3TiwC6gMuH3f9EQ397GjUvdcWpghmIi_cTx64wK-kIoBQUgsIXy3e6U7CTSl_GrGoRRJ7NfWtZpWm9PEXJKQrecGAdJ0b8HDwF1_qX-T_6eUx0gn4o8gLeDCfdkbQlk7ZHlsUs0JwB_57keszAEtd6oSkrmzmHwegMLpOMwQHW_gbqkiDyL5e9pf0h9e4ErBJZ-hXmFjra",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8834465945&itemId=25744250194&vendorItemId=92732639517&traceid=V0-153-4678e6ff32ca7f37&clickBeacon=37d086d0-d050-11f1-8171-8f2fc4a1a0cb%7E3&requestid=20261025174357640013954020&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "겉은 쿨워터 속은 활화산 내적폭풍러 🌋",
+        "headline": "쿨한 척 쿨병 걸렸지만 속으로는 검색창을 수십 번 털어보는 유형",
+        "emoji": "🌋",
+        "tag": "쿨병유발·은근집착",
+        "hashtags": [
+          "#쿨한척장인",
+          "#속은속앓이",
+          "#인스타스토커",
+          "#은밀한질투"
+        ],
+        "bars": [
+          68,
+          72,
+          60,
+          52
+        ],
+        "summary": "겉으로는 '다녀와~ 쿨하게 놀아!' 해놓고 손가락은 연인의 SNS 팔로잉 목록을 새로고침하고 있습니다.\n집착하는 찌질한 사람이 되기 싫어서 쿨한 척 포장하지만, 서운함과 질투가 차곡차곡 쌓여 언젠가 사소한 일로 대폭발합니다.\n상대의 무심한 한마디에 혼자 상처받고 삐치면서도 왜 화가 났는지는 자존심 때문에 말하지 않습니다.",
+        "trap": "감정을 꾹꾹 눌러 담다가 엉뚱한 타이밍에 '너 그때도 그랬잖아'라며 과거사를 폭탄처럼 터뜨릴 위험이 큽니다.",
+        "advice": "쿨한 연인 프레임에서 벗어나 솔직해지세요. 질투가 날 때는 가볍고 귀엽게 '나 지금 살짝 질투 나려고 해!'라고 감정을 투명하게 표현하는 연습이 필요합니다.",
+        "rx_keywords": [
+          "감정 기록 다이어리",
+          "심신 안정 허브티"
+        ],
+        "prescriptions": [
+          {
+            "title": "[인싸이트] 안녕! 오늘의 마음 청소년용(매일매일 기록하는 감정 노트)",
+            "tag": "맞춤 케어 · 감정 기록 다이어리",
+            "reason": "감정 기록 다이어리 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/_GFXwXALxuXUNnbB_KOm6ITYyRrFMPOnvNuy7AYvckkA77ufJMEOE1xYWDttS0zGpoQcTOQ1JeDmaU5QLLdOsnh3YeVuTfSL7rsFEOoESIERv2JjbzhOjrIwI5LaCUNAF_0Pnqq5b8ojqv3zFNOsdqSGH-sphkLypjjibn0kXM9Ykj_Gr2BdE_XvW4fhJmnb65ErGSVTE7sDC8lrUb8J7o5nJnYAKLCcxKY8atZI1xj_aHyhC-7hZwmdXfRouzlbmuk9Vr3Xl1KxQpcUyrpPtBGZlJ5WqF59U8HYbyYossgchvpzqp2VWgJZs-K4SmJklq5viVVOeMJEBdcywiqfrFEtu25sCoQgymFD0u3oUOJRLUDehrbw5nnPDliB4Py_FQSJWnPOChHFl3SWotr1dRA2P7ZBUiL4kipU6gRiB67y730pQgJ6uDwS1y-TmqyFBmQDmcDycHOs2SDMQEl4S-IhIXd8yf6yPmapTiOmKOEruLfZBgiunZbvNsKGXvP-XNapQXbu0ew5YGLMfIjZlpBC-_iT8Yk=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9126550902&itemId=26849840910&vendorItemId=94482543774&traceid=V0-153-9e318d5deda476be&clickBeacon=37fa2ee0-d050-11f1-97aa-84bdcdaec2e7%7E3&requestid=20261025174357950060333247&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "자연농법 발효 황칠차 티백 심신안정 숙면 간에좋은 성분다량함유 섬농부 신안다원, 1개, 30개입, 1g",
+            "tag": "맞춤 케어 · 심신 안정 허브티",
+            "reason": "심신 안정 허브티 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/NjkarR7KPzZ6UA71Nt9N4fzBM2WQd_io-D9hyefv2K9-WCPwLDyNmVyQvF2Ddkwg7B7NkppKXK7wSdmU_VfZiAnf1xYBBBKEmlJVvAbo8sKQgwXkZfsG14wrjvGDPvmVKD2BFsQSmaEybTWfhaWC1s4MBIklulw8Cgou9Cl3qQdJgsC4pYSXlLAo2FI7vRG8uhIXg_FjaftZZEFyitjPEYIOBZZvVhluXyj88Ir5XVM-fWT3ddqI8d5bgS__Ir0JYkaVOBofeIWZlo6TzNVNxtk9m17Podh6pBVH3DJwxDsNM020c_SY-NOOv5iNG1LbTxOpvReTRkWd6tiaqJMMn1XaGZpPThTH0YVcLwgwJZxGDXqiMmpcOtDdQtYRzpEbhGr8o38TQDvnUDHXGDZnMMmpHxbmjPQSuTkbBNG0d_TT5EnhLw1lQq46sX2vVmX1fpR_f7-mq02MZy5iFj-xevqe6kcsrN2t3CNqvAVl40w_zKBF8lKINffBbmIhFOd-8p2SqO9YyXUAmbUkQe0f4_waSTWvM6ad",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9537808483&itemId=28448618079&vendorItemId=95399281681&traceid=V0-153-136b1812fc789259&clickBeacon=38200660-d050-11f1-a977-0e3957a9c7a1%7E3&requestid=20261025174358196213654175&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "무소유의 경지 방목형 태평천하러 🕊️",
+        "headline": "너는 너, 나는 나! 집착이란 단어 자체가 뇌에 없는 평화주의자",
+        "emoji": "🕊️",
+        "tag": "무소유연애·방목장인",
+        "hashtags": [
+          "#태평성대",
+          "#방목형연애",
+          "#질투가뭐죠",
+          "#바람피면_끝이지"
+        ],
+        "bars": [
+          15,
+          20,
+          10,
+          18
+        ],
+        "summary": "연인이 연락 두절되어도 '피곤해서 자나 보다' 하고 꿀잠 잘 수 있는 강철 멘탈의 소유자입니다.\n상대방의 사생활과 개인 시간을 온전히 존중하며, 바람피울 놈은 감시해도 피우고 안 피울 사람은 내버려 둬도 안 피운다는 명확한 가치관이 있습니다.\n집착으로 인한 스트레스는 0%이지만, 때로는 연인에게 '나한테 관심이 없나?' 하는 서운함을 안겨줄 수 있습니다.",
+        "trap": "너무 쿨하고 방목하다 보니 상대방이 '나를 별로 안 사랑하나 봐'라며 외로움을 느끼고 오해할 수 있습니다.",
+        "advice": "질투 없는 평온함은 훌륭한 장점이지만, 가끔은 상대방을 얼마나 소중히 여기는지 말과 애정 표현으로 듬뿍 안겨주세요.",
+        "rx_keywords": [
+          "커플 문답 질문책",
+          "달콤한 초콜릿 선물세트"
+        ],
+        "prescriptions": [
+          {
+            "title": "우리둘 커플문답 오리지널, 2개",
+            "tag": "맞춤 케어 · 커플 문답 질문책",
+            "reason": "커플 문답 질문책 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/3naaxzDsV5McPnn13gH-VDSBjSzKjPi-C3eV0eTO4JROb7RcV1ueem5TwNmDaZnJQf7ibTw5ZSh-wC1I2msggmGW9WhuelCbefSfiiUIPldC_AeftiNTrN8JHtF7dcS3zonzSCBYF5_p4-AWXU8M8H8Eb3G1FYIlQ1k7439rgK7hJAM09vRHT9qYqdJVWZMgZBNQ-tIPniEDweELP0tbJ0Am9foMmdl9NAtdnh5R-zmdoe65vwajQQME8b7Mmo5pNgP6mYofkm9sLpc-mbF_1VZiRUahcJVD-JNBWHj1YD6okqlddfCRUTM1rKOO0h6yiVOF6gr9ibyQcuap8Qz8tDGJ1FgVqnXX1Z81wYr1YM1TDtAJMJIbvetIDnJcL6YcN3y8ASWa8yfBfp-VghrGBfnYD9I0MjvsbH5PM6lvas6kpW0qRf15yTmUTGrm6r3qmPKuplvK9O1uBgnzhW2Zg6Fb7VPsLP7nu2K8UFwfpK-plw_cfq3n2EkVdzQBlSU-BjUR9otUaQIKnURlHhoTCqlCMNc_s8g=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=6187938741&itemId=12195213706&vendorItemId=79466270503&traceid=V0-153-567f899f157a2352&clickBeacon=38417110-d050-11f1-a74a-6b9703fef63e%7E3&requestid=20261025174358435034689279&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "함께해요 초콜릿 간식 수제리본상자포장 과자선물세트07, 1kg, 1개",
+            "tag": "맞춤 케어 · 달콤한 초콜릿 선물세트",
+            "reason": "달콤한 초콜릿 선물세트 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/vlNPzRU5zH8Ea18kvlar-2cjABg9TJHz-memK65cCCM0DI8yvRfEcjE2wjsRXIJNtYDlNR9pAP-V_laaXRW1qk0ACZN0qYXlLVd3TAkYtGlrS8P3SrS3Y3TnXKsteBavD8s93tM2jgHCNviJujMh0JsL5B-Xjz7V9jT9y7vGzuKAjX9aa2S7MEnMhf3UMan1jUEYQDwrkad2zXLlQCNa0vaXhqrwqhNyg9lJBd5x8phdsfZ8YvnMf-6eIQRyeeU9loxmK1pZM3TZN3C9z9nTBTjiYAjaOckHUP00-1PdkDa2IRhGi9xU4AKc6EL-8umSRUmczWcEOmw2owZXinNEdnIctppNFq860VDBEA-OrO4S0CpvGRMQuttoDwpb_277GHiwrK5j4zJk9m9103AL4lj-qRGsqwCEIKSxH9GpPOZn71jJJ1QXAOkYWwTZs2aX_YRFYM46B-LCx4nyIlf0KlB1YsUOKUS38jgy5t0s0-ZCtIlTdxo3jaIeXqkUTkV4Twn2gDocXIX0vLneHX-ogDqErWQKue4=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9500590920&itemId=28303412725&vendorItemId=88594347436&traceid=V0-153-750b83ef6ce13477&clickBeacon=3862b4b0-d050-11f1-a215-6bd7b986deca%7E3&requestid=20261025174358660201682401&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 253782,
+    "created_at": "2026-10-25 17:43"
   }
 ];
