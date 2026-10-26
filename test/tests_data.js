@@ -4389,5 +4389,209 @@ window.TESTS_DATABASE = [
     ],
     "participants": 139871,
     "created_at": "2026-10-26 08:38"
+  },
+  {
+    "id": "independence_survival_test_2026",
+    "category": "라이프",
+    "title": "혼자서도 갓생 살기 가능? 나의 자취력 만렙 & 독립 생존력 테스트",
+    "subTitle": "지금 내 자취력은 <span>상위 1% 생존러</span>인가, <span>배달 음식의 노예</span>인가?",
+    "desc": "혼자 사는 건 낭만일까, 생존일까? 매일 반복되는 집안일과 사투를 벌이는 당신! 당신의 실제 독립 생존력을 지금 바로 확인해보세요.",
+    "emoji": "🏠",
+    "tag": "자취·갓생",
+    "viralBadge": "🔥 누적 215,300명이 참여함",
+    "metricLabels": [
+      "생활력",
+      "살림지능",
+      "경제관념",
+      "멘탈회복"
+    ],
+    "questions": [
+      {
+        "category": "식생활",
+        "question": "퇴근 후 너무 배고픈 상태, 당신의 선택은?",
+        "a": "냉장고 파먹기! 있는 재료로 빠르게 요리한다.",
+        "b": "역시 배달 앱이지! 갓 튀긴 치킨을 시킨다.",
+        "score": 1
+      },
+      {
+        "category": "정리정돈",
+        "question": "빨래가 세탁기 안에서 3일째 대기 중이다. 당신은?",
+        "a": "마지막 한 장까지 탈탈 털어 건조대에 널어버린다.",
+        "b": "입을 옷 없을 때까지만 참자, 구겨진 채로 다시 입는다.",
+        "score": 1
+      },
+      {
+        "category": "위생관리",
+        "question": "갑작스러운 친구의 방문 예고, 방 상태는?",
+        "a": "이미 평소에도 깔끔해서 웰컴! 언제든 환영이다.",
+        "b": "현관부터 침대까지 5분 컷! 일단 다 밀어 넣는다.",
+        "score": 1
+      },
+      {
+        "category": "경제개념",
+        "question": "이번 달 공과금 고지서가 날아왔다. 당신의 반응은?",
+        "a": "자동이체는 이미 완료, 지출 내역을 꼼꼼히 체크한다.",
+        "b": "금액 보고 깜짝! 이번 달은 배달 좀 줄여야겠다고 다짐만 한다.",
+        "score": 1
+      },
+      {
+        "category": "수리/수선",
+        "question": "화장실 전구가 나갔다면 어떻게 할까?",
+        "a": "다이소에서 전구 사와서 5분 만에 직접 교체한다.",
+        "b": "핸드폰 플래시 켜고 지내다가 주말에 관리실에 부탁한다.",
+        "score": 1
+      },
+      {
+        "category": "마음가짐",
+        "question": "혼자 있는 주말, 무엇을 하며 시간을 보낼까?",
+        "a": "그동안 미뤄둔 침구 세탁과 밀린 집안일을 처리한다.",
+        "b": "침대 밖은 위험해! OTT 정주행하며 하루를 보낸다.",
+        "score": 1
+      },
+      {
+        "category": "식재료",
+        "question": "대파나 양파를 사면 끝까지 다 먹는 편인가?",
+        "a": "당연하지, 사자마자 손질해서 냉동 보관하는 건 기본이다.",
+        "b": "어느새 물러버린 채로 음식물 쓰레기통 직행이다.",
+        "score": 1
+      },
+      {
+        "category": "응급상황",
+        "question": "집에 상비약(소화제, 밴드 등)이 구비되어 있는가?",
+        "a": "구급함에 종류별로 다 있다. 든든 그 자체!",
+        "b": "갑자기 아프면 그때 편의점 달려가야지, 아직 없다.",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "독립 생존 만렙 자취 마스터 🏆",
+        "headline": "자취계의 솔로몬, 여기서 나가서 살림 차려도 되겠어요!",
+        "emoji": "🛠️",
+        "tag": "갓생 마스터",
+        "hashtags": [
+          "#자취고수",
+          "#갓생러",
+          "#자취력만렙",
+          "#살림천재"
+        ],
+        "bars": [
+          95,
+          98,
+          90,
+          85
+        ],
+        "summary": "당신은 누가 봐도 완벽한 1인 가구 운영자입니다. 집안일과 경제 관념이 몸에 배어 있어 웬만한 돌발 상황도 여유롭게 대처하죠. 자기 관리가 철저한 당신은 스스로의 공간을 가장 소중히 여기는 프로 독립러입니다.",
+        "trap": "완벽함을 추구하다 스스로 번아웃이 올 수 있어요. 가끔은 좀 대충 살아도 괜찮아요!",
+        "advice": "당신의 부지런함은 인정하지만, 가끔은 스스로에게 '휴식 시간'이라는 선물도 주세요.",
+        "rx_keywords": [
+          "고급 룸 스프레이",
+          "홈 카페 커피머신"
+        ],
+        "prescriptions": [
+          {
+            "title": "썸유 룸스프레이 위미리, 위미리, 200ml, 1개",
+            "tag": "맞춤 케어 · 고급 룸 스프레이",
+            "reason": "고급 룸 스프레이 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/B6XELN5qzHS5zyKJBzkVWOZe-Njz4XgE_c0tAaoUQ_B5IpJEG2Ydg5viOCiffdZMQPgTrrkdCrV7HLAhpgW5A3lHyN6tppcl96hmcAWkXcDRoJYQindxUqRwC1OzzKt-E6fMj4V1FdC_HoZuVIBQ8jzCtRaqGq4ANlLHamUjlG6bzcEPUL4bFPcyZulIV9fmgOAB3GwteUDKFx2sFhKv-uu56Ul2QyQRKF0LL06zhQLMWf3nILNPvtGqsxG07_7HRyX-MTwNv8204wDMh8rPjdhtByLlTOvcqFdYxkoH3-gt8fBoN71fvWR-2l6QLwRU4z0kVNy3IdUJD0CVQ9PXoABH0voUF6taJWoAV3TP3Qm5WUIYb6egtx3ng1s28mpWUx419f4Fd_ruyB9eTC5AS1mIY5O3NP7ZSFv5MDXC53L6_OYHUk64n71h6vtXzis7TSsH6LS1zoA2g_SC5se2DC7-RUkno2zHfdpewv2cbnAxhsixJ-TVrZEXBdWCJmWn3j36Y6SLZhZTnaV7noilDTNN3XZyl0Bn",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=6427575558&itemId=7464530858&vendorItemId=74755382672&traceid=V0-153-8b52963f552e2f45&clickBeacon=9bd19520-d118-11f1-8b85-f2e93f1c8a6f%7E3&requestid=20261026173824759122253413&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "보아르 모노 반자동 커피머신 20bar 에스프레소 라떼 홈카페, 화이트, VCMK-003WH",
+            "tag": "맞춤 케어 · 홈 카페 커피머신",
+            "reason": "홈 카페 커피머신 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/93S85auFSRip2nNy9yoK0AF2MmOgmKIcY2eTMwX5FosrTFE8RjLfzEOfvEE_cZ4CYgNENroafcJXUPgV-fsxqT9PKYAe1rIu2IrMlCIDtI-QHZLa5VWX6NMa0GoLHhuutJXo8wlQYz8Ue2LDYdP42FHcnjPP5RKGoYRM2s2vD4gsUdBYW_7CxV3AEdysOuI9oUpFlEoFc2vTabC9eU--x603lS9vAGXhGDh6vqmL8M_XMIs7sds7RCW4udUVBEebeic9d7rePTiISpO-P254s5EmfwDdn0TFD7nGQWzsWspVqLKRex70Olsrit-o5sOvYrLLCOApysgVV_Ddvt7bQaFJoypr6MJayHzaN8-9EHB1aMz4h_cKKxq93I_X51nVrZIwGOz7-WEWwGY7R4feq_AfV2SS7FIGpkQcoNXiryMxEh3VW6jkjq44wGK7QVESGqzOCFJFmOlFSqm0juWH2K_2D6HCyLoo6_SYU5OxkM_h30ykpAQZW7zC1Gr1TXyAcYCBkFT1vi4Y",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9593439241&itemId=28638123956&vendorItemId=95580967608&traceid=V0-153-19aee2bb988956b4&clickBeacon=9bf019a0-d118-11f1-b055-cda7b4f52d51%7E3&requestid=20261026173824997052568720&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "오늘만 사는 자취 밸런스형 ⚖️",
+        "headline": "평일엔 생존, 주말엔 요양! 딱 적당히 살고 있네요.",
+        "emoji": "🏠",
+        "tag": "현실 자취러",
+        "hashtags": [
+          "#자취일상",
+          "#밸런스유지",
+          "#갓생도전",
+          "#적당히살자"
+        ],
+        "bars": [
+          60,
+          55,
+          65,
+          70
+        ],
+        "summary": "해야 할 일은 잊지 않고 하지만, 마음먹기까지 시간이 좀 걸리는 타입입니다. 평소에는 깔끔하게 잘 지내다가도 가끔 찾아오는 무기력함에 배달 음식의 유혹을 뿌리치지 못하죠. 그래도 생존에는 지장 없는 밸런스형 자취러입니다.",
+        "trap": "미루기 시작하면 끝도 없어요. '딱 10분만 하자'는 마음가짐이 핵심입니다.",
+        "advice": "너무 잘하려고 애쓰지 마세요. 지금처럼 주말엔 좀 쉬어가는 게 정신 건강에 이롭습니다.",
+        "rx_keywords": [
+          "자동 로봇청소기",
+          "감성 조명"
+        ],
+        "prescriptions": [
+          {
+            "title": "삼성전자 Bespoke AI 스팀 물걸레 직배수 자동 급배수 로봇청소기 방문설치, 새틴 그레이지, VR70F00SGG",
+            "tag": "맞춤 케어 · 자동 로봇청소기",
+            "reason": "자동 로봇청소기 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/0mDSNT5jTvsoEidy0thf2ZDiFkUtERTQ2S1etxesZP6hu78-p9YySDj79o8bpPvHnojZ8BwfZ_5AJfVDWPfNN-O1d_-sXxbs2paVQAChvMm3gzXM9II7n3gJc_l0wTTWVHKufPhCw68VkmYPvIZj2PzLBaCYWFVJKjwh_-QkL-cuzEF1T8LdWxb69NxpsukZJOCRscycgUyvkWh1FzpYf4OyompXJZwHMpnF0kKOCJxLZzUgptHej1IGcfpF8x-lRug6wxPeS5aQlaqGMiOiLIsXSVxOShAppAVj6TtYUpw9X9t3hejl3EBM0EkQOyo6-rFUD9gfRNGf2oxV3V2GyAo6Qb6FB0kqEZDMtiYdRPUIdVShqVqIksopMQMoPwtCeMeGfzIgHHibdaSlFx-YvBftY05wBWkjQp6dAyjIJylKRBmX04GBRqJ7cRERjV_ILPIOuWSaVHj94iqbQl1XFi2eeNpelpMG9hqPZIyfT8eWQPjTzTObBNGPUQoEiika17sfTQJ4qA==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9578814696&itemId=28592160123&vendorItemId=95536035631&traceid=V0-153-0b92725b4ef48f91&clickBeacon=9c235ea0-d118-11f1-bd0e-12c7fcae2b25%7E3&requestid=20261026173825272186517563&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "방 안이 로맨틱해지는 리베니 16색 LED 바다 무드등 크리스탈 수면 거실 미니 침실 무선",
+            "tag": "맞춤 케어 · 감성 조명",
+            "reason": "감성 조명 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/3ty5zmRzJeKcDwN_3i-TDPTecgaiOrPhvP4hMMQ6iYUvB395q40aztCLNq4SeC9L7Y35ViEeQZkXPvwhGnmXuA-l5_ObuX-6wZaH513eulJJ24CPiHJE9vmDQ3CuKO2TcL9Y-E8tSg8vQ3LTtg2Ok82wsJFYabNGDsonSmEgP1zK8__ARuRRlEn3G1JF_6wKO_XtmZo_BXJsuvkML8XRXaNatJV8vC4f1WeanHhzfz3KvEkcCy1Pm6lE_F7CtEK9E4WK9WfEvQ45uN1SExr-1KG1dSBZwgrmBD9vbHv17jw2AgVv2Gs1Au0NpB7HLwREWOmWUcJ7l24K94K3HWUNVkGv8lL6fwBUCpgJx-asC2aBRTslJUREieSL28ZW_CNY_e8tkJROwd00FaHFbygn8Be55H-m3nP7Mi2-OXB8wqBotb7sXffGTtQ_YMGo3XfxkM2uIzrzScO9LziqtiMNLhkspV6285In7sslgGZpq2B6BteA9cA2rYmD8qHWhpVKJ0LMu7F2l6o4vnl8KVsEp2Eye6Sdygxi",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8404918222&itemId=24298071997&vendorItemId=91195300550&traceid=V0-153-fffd5669ace927b6&clickBeacon=9c44c950-d118-11f1-850a-7227b6d4d575%7E3&requestid=20261026173825510256177730&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "배달 앱의 VVIP 자취 초보 🍕",
+        "headline": "집은 잠만 자는 곳인가요? 자취력 레벨업이 시급합니다!",
+        "emoji": "🛵",
+        "tag": "자취 초보",
+        "hashtags": [
+          "#자취초보",
+          "#배달중독",
+          "#집정리시급",
+          "#생존형자취"
+        ],
+        "bars": [
+          30,
+          25,
+          40,
+          50
+        ],
+        "summary": "자취 생활보다는 '집에서 하는 캠핑'에 가까운 당신! 냉장고는 장식일 뿐이고, 배달 앱 내 주문 내역이 당신의 주방을 대신하고 있네요. 자유로움은 좋지만, 건강과 통장을 위해 작은 변화가 필요한 시점입니다.",
+        "trap": "식비로 나가는 돈만 아껴도 1년에 가방 하나는 살 수 있어요!",
+        "advice": "한 번에 다 하려 하지 마세요. '하루에 하나만 정리하자'는 목표로 조금씩 집과 친해져 볼까요?",
+        "rx_keywords": [
+          "밀키트 정기구독",
+          "가계부 어플"
+        ],
+        "prescriptions": [
+          {
+            "title": "모두의 집밥 싱글 덮밥요리 6종 김치제육볶음 + 닭가슴살짜장 + 닭가슴살카레 + 돼지불고기 + 소불고기덮밥소스 + 오징어덮밥소스",
+            "tag": "맞춤 케어 · 밀키트 정기구독",
+            "reason": "밀키트 정기구독 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/q2dUHU7vXBim__ZBq70B1R4QRkAjRCrHR0jRcgt-FxBgMQ9Tox3R_rLw78bYA_O0MPS-KdRnQlfYhFOwQDdYZDTMVmkyh-564cao57zt9x6GXA234yP6bIAmPF7xddSx5-6tTCVRxuRBbtyHEWWiR4vtWSV4AMbLqBfCJlc0lN0aHipk9p2xAEQqzYqED8ufJNvhnnSYLjYOQNTB7XYJO1iBIdhiJfsrUy-6pJYsqVzh3ViYHH6bEzqv9mKWPghaOLH-Soh6W4WHMm8lX_u-R8I9GgN1NJxrw_QkuXWV7Yg-mALl3yC9cMPZ3BT5FiLzFPXZKvxTD4S4zYC6ZSv_wsOIDno9SusvQOpEK6nUVjT9INwtpE6osfJwpycxvxTywFcgz7YoQQWTDGLOuZiFzC03biK04FoKvKDrGsZw4TdZMatrQJUz2gVtzTbEWCm-CJQmfPzECIpmJFUdkRqha70Dy43FL1hiCbcE-JNAxz1yUMHqhT1cTkUSdtMZuYFqgvF5wBEY2oH_kfdRZyVX6g==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=4362182967&itemId=5131596961&vendorItemId=72441005963&traceid=V0-153-d9b39763aba6345d&requestid=20261026173825821318649717&token=31850C%7CGM&pt=0&slot=1"
+          },
+          {
+            "title": "만년가계부 캐시북 다이어리 금전출납부 스프링 제본, 아이보리, 1개",
+            "tag": "맞춤 케어 · 가계부 어플",
+            "reason": "가계부 어플 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/Ysq5Ubu6sPgSgbf1YlvYl6K3X8dAxyHGyE5kggPplQJUCn3uqjQZgp-gLkrqC3kOUezAscdZv3VSGnyJnhRGOFWts2WszYwVqTQwv7mZHvQUOBLaMiXZ59nJbN4hrGe_iFCUvZM9ybHJYBHZoF0zK_jCzGjCMQmjHv8Q0viqYNdxFG7FjGBHqZuAH16YfQo7vRo_QkZPxA6E2d06d7NjQ5V2_aULaw7OYdOGmxb9lo1xsYk67bozw4lO54tHLdhuaAQr39Yb9UhVXeRzQEbyR76J2y-bg7sDxGzGslAdQqxD06CwavAtw06oETI5_6eFDzUdBhA6xx2zQOIAx1tqmrEKVRaLHRG-2LuEsP4bdGfZ60ZFbBuXMMNl36h_1_dR6wHOoEoCpk4Y0cM8K-L0xli3uYLCqYYsS6armZCJS6boH2aXH2RIGUrLUrBBlgTDXHH4eiFT4Pj3flpSeOfXUjfAd1D-VlzGo2RIIP3bLaubtnZ0628ABJrDmpgD3Cp-aUQsKPj5964w_WkHAmaox83p-_4fNfZn5A==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9609052061&itemId=28687620626&vendorItemId=92174229979&traceid=V0-153-9bd200e6d8b66866&clickBeacon=9c9951f0-d118-11f1-9771-d2765459db56%7E3&requestid=20261026173826137308427983&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 167680,
+    "created_at": "2026-10-26 17:38"
   }
 ];
