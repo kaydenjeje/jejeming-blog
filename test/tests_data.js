@@ -5612,5 +5612,209 @@ window.TESTS_DATABASE = [
     ],
     "participants": 238973,
     "created_at": "2026-10-28 16:44"
+  },
+  {
+    "id": "dopamine_shopping_addiction",
+    "category": "소비/재테크",
+    "title": "나의 도파민 쇼핑 중독도 & 충동구매 방어력 자가진단",
+    "subTitle": "택배 박스가 인생의 낙? <span>나의 도파민 쇼핑 중독도</span> 테스트",
+    "desc": "스트레스만 받으면 장바구니에 물건을 담고 있나요? 나의 텅장 지수를 높이는 도파민 쇼핑 패턴을 날카롭고 유쾌하게 진단해 드립니다!",
+    "emoji": "🛍️",
+    "tag": "쇼핑·도파민",
+    "viralBadge": "🔥 누적 214,500명이 참여함",
+    "metricLabels": [
+      "도파민 반응도",
+      "충동구매력",
+      "장바구니 집착",
+      "통장 잔고 방어"
+    ],
+    "questions": [
+      {
+        "category": "🌙 퇴근길 지하철",
+        "question": "오늘도 야근으로 지친 퇴근길, 인스타그램을 켜는데 알고리즘이 나를 위한 영롱한 '신상 뷰티템' 광고를 보여준다.",
+        "a": "'이거 못 참지' 나를 위한 작은 선물이라며 이미 결제 버튼을 누르고 있다.",
+        "b": "'어차피 집에 비슷한 거 있어' 고개를 저으며 창을 닫는다.",
+        "score": 1
+      },
+      {
+        "category": "📦 택배 수령의 순간",
+        "question": "택배 상자가 집 앞에 도착했다. 내가 산 물건을 마주하는 나의 자세는?",
+        "a": "뜯는 순간부터 도파민 대폭발! 언박싱 영상이라도 찍고 싶은 설렘이 가득하다.",
+        "b": "아, 시켰었지? 쌓여 있는 택배 박스를 보며 약간의 귀찮음과 현타가 온다.",
+        "score": 1
+      },
+      {
+        "category": "🛒 할인 행사 알림",
+        "question": "새벽 2시, 스마트폰에 '오늘만 단독 특가! 마감 임박' 푸시 알림이 울린다.",
+        "a": "잠이 달아난다. 지금 안 사면 손해라는 생각에 장바구니에 담아둔 품목을 최종 결제한다.",
+        "b": "알림을 무음으로 바꾸고 그대로 폰을 뒤집은 채 다시 잠에 든다.",
+        "score": 1
+      },
+      {
+        "category": "💳 카드값 고지서",
+        "question": "이번 달 카드 결제 예정 금액 알림 톡이 도착했다. 예상보다 금액이 훨씬 많이 나왔는데?",
+        "a": "‘다음 달의 내가 열심히 벌겠지 뭐’ 하며 일단 눈을 감고 현실을 부정한다.",
+        "b": "식겁하며 최근 내역을 하나씩 뜯어보고 다음 달 예산을 엄격하게 재조정한다.",
+        "score": 1
+      },
+      {
+        "category": "🛍️ 스트레스 해소법",
+        "question": "인간관계나 회사 일로 극심한 스트레스를 받았을 때, 나만의 즉각적인 해소법은?",
+        "a": "장바구니에 사고 싶었던 위시리스트를 마구 담아두는 것만으로도 묵은 스트레스가 풀린다.",
+        "b": "매운 음식을 먹거나 잠을 자거나, 혹은 랜선 여행 영상을 보며 마음을 가라앉힌다.",
+        "score": 1
+      },
+      {
+        "category": "🔍 쇼핑 검색 습관",
+        "question": "평소 유튜브나 커뮤니티를 보다가 호기심이 생기는 물건이 나타나면?",
+        "a": "곧바로 최저가를 검색하고, 이미 산 사람들의 극찬 리뷰를 정독하며 지름신을 영접한다.",
+        "b": "그렇구나 하고 넘어가거나, 며칠 동안 고민만 하다가 결국 까먹고 안 산다.",
+        "score": 1
+      },
+      {
+        "category": "🎁 배송비의 유혹",
+        "question": "인터넷 쇼핑몰에서 필요한 물건을 골랐는데, 무료 배송 금액까지 딱 3,000원이 부족하다.",
+        "a": "배송비가 더 아깝다며 굳이 필요 없는 소모품을 3천 원어치 더 골라서 채워 넣는다.",
+        "b": "쿨하게 배송비를 내거나, 다른 살 게 없으면 과감하게 창을 닫는다.",
+        "score": 1
+      },
+      {
+        "category": "🏷️ 1+1 기획전",
+        "question": "마트나 온라인몰에서 '1+1' 또는 '2개 사면 50% 할인' 행사를 목격했다.",
+        "a": "어차피 두고두고 쓰면 된다며 무조건 대용량이나 다동 세트 상품을 카트에 담는다.",
+        "b": "지금 당장 내게 2개가 정말 필요한가? 이성적으로 따져보고 1개만 산다.",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "도파민 중독 탕진요정 💸",
+        "headline": "내 통장은 지구가 멸망해도 무너지지 않아, 매일 로그아웃될 뿐이니까!",
+        "emoji": "💸",
+        "tag": "도파민 폭발형",
+        "hashtags": [
+          "#도파민중독",
+          "#월급로그아웃",
+          "#텅장러",
+          "#택배기사님최애"
+        ],
+        "bars": [
+          95,
+          90,
+          85,
+          15
+        ],
+        "summary": "스트레스만 받으면 손가락이 먼저 반응하는 타고난 쇼핑 마니아입니다. 택배 상자를 뜯을 때 나오는 도파민이 유일한 삶의 낙이지만, 월말만 되면 잔고를 보고 깊은 탄식을 내뱉는 완벽한 '시한폭탄형 소비러'입니다.",
+        "trap": "‘고생한 나를 위한 선물’이라는 핑계로 필요 없는 물건이 방 한구석을 점령하게 되는 함정이 있습니다.",
+        "advice": "장바구니에 물건을 담은 뒤 최소 48시간의 '생각 시간'을 가져보세요. 정말 필요한 물건인지 객관적으로 바라보는 연습이 필요해요.",
+        "rx_keywords": [
+          "가계부 앱",
+          "무지출 챌린지 키트"
+        ],
+        "prescriptions": [
+          {
+            "title": "핑크풋 10000보리 슬기로운소비 주방 가계부",
+            "tag": "맞춤 케어 · 가계부 앱",
+            "reason": "가계부 앱 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/MNTrne1CLw91wHuOMKFuxnoSZ_e9YReRLoRW-SbtM-oAAfeTKKR4BW_tiD7EDeV7Vdad_ivnZqC180H8bpSMpQijtlNUQSDAskh4zzpJ8P4jeKuDxHO0Zo1-OFDP5jN7GvGEOQ0GRH_N6-csBEf-65P0prqEGlyu84R5QWp1UCXS_ldADzsm85ZZPDsMkBgFTiQybSWP7c63EQ4eOlSghC1f7mQBtf4lPuo33kI-GQuaJkFRomahmzOaluo3FhRie9Fr_Y9PXzDaFDvz1aJDFgMRYZVFyzwRgCdhpb9hEgLd2nLvJFcUoEW8s-qoDyJpA8goV3xXFRHYF7uPtM1NSpgVWeJ3j62x55aTbaNTLlxFd2dWxgcOy-FG8kqzE_J7f-DZpNh_IZGkzDOv65uc1P5at3Q5NM6tZKxJ-WORCuUA_V7EAeNhzLMWSk3ExsxAoLVMswxYYHH7v0N9rQSnAOzrstJxzWSGd3G5uprCTtsKo_VY6DcFiJhDNlmVl-EZoxHPM91JcQ9jpIofI7zKpQ==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=6544948850&itemId=18874268388&vendorItemId=81830121276&traceid=V0-153-de89e423291abd30&requestid=20261029004315558023511334&token=31850C%7CGM&pt=0&slot=1"
+          },
+          {
+            "title": "티처스 교과연계 과학키트 STEAM 나만의 비밀금고 만들기 R-27, 1개",
+            "tag": "맞춤 케어 · 무지출 챌린지 키트",
+            "reason": "무지출 챌린지 키트 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/gEnvgSEJAgCOxpTrgPp-Y5M9DTVafKIbmHFA7iS-9LHvv7qWLk6UNvakquFRraCUPlGx1RWFZ_MVbTGnIxjdbUarU8x7CBk3SKT6VB4SDEhKtkg7nzmeYrklnwc2EgBQwkTcxdjnkf3ZC1cZt_1YWT_z4f-2NCjBxpu2NS9dj3cmhBPCiNSUWrz96OZ2iErQDBMkPOE6ri5y8Cvi6xpcxj-EHWk3_75by10OczO0Ln3_3dPYSsRFJgQkPna5F0ZqxiKwTRABmGzFPOluNZSuETtObvzWrR-lJMYXUMKb6bsHH_jgmiFKS6B3CUQv9k7WnqGBoSQroJSEg4bHCc6koOheNUYJWSAIiAU3kZJCeSjEL_HHc3iNagyJj7W314CBBLc7jPsgL1gz_xrG1SND3Gyie9qnAdi37cbW39cXxiku9DtLAgQvcWgbxgQpGi7i3KKCctvut5rqpd-tPy_zYMAJcuBo6cf-PJnjBy3gXZUHO6wt1aezSQQBntnKobJrCe98cGjsq264niveNdDO4XGxiLfZhjIo2TzuNYVjS68kYatPAV2gkCWyCG5AJBe-vlDh3_jn_oYgzPSOtIvo8Ib-",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8665011136&itemId=25149779031&vendorItemId=70645648744&traceid=V0-153-93ae3f8363b6064e&clickBeacon=4a7be2a0-d2e6-11f1-bbf6-10ae1c5ceddf%7E3&requestid=20261029004315843297703506&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "간당간당 합리화 대장 💳",
+        "headline": "사고 싶지만 양심은 있어서 장바구니에서 3일째 고민 중",
+        "emoji": "💳",
+        "tag": "아슬아슬형",
+        "hashtags": [
+          "#고민은배송만늦출뿐",
+          "#합리적소비인척",
+          "#장바구니상주",
+          "#유리멘탈통장"
+        ],
+        "bars": [
+          65,
+          60,
+          70,
+          50
+        ],
+        "summary": "지름신과 이성 사이에서 매일 치열한 내적 갈등을 겪는 타입입니다. 충동구매를 하다가도 문득 스치는 통장 잔고에 정신을 차리지만, 결국 특가 할인이라는 유혹에 무너져 애매한 소비를 반복하는 스타일입니다.",
+        "trap": "‘이 정도면 가성비 있게 산 거야’라며 스스로를 합리화하다가 불필요한 지출이 눈덩이처럼 불어날 수 있습니다.",
+        "advice": "쇼핑 앱 푸시 알림을 모두 차단하고, 이번 달 오로지 '쓸 수 있는 예산'을 현금이나 체크카드에 딱 지정해두세요.",
+        "rx_keywords": [
+          "스마트 저금통",
+          "예산 관리 플래너"
+        ],
+        "prescriptions": [
+          {
+            "title": "저금통 초등 여자 생일선물 ATM형 지문인식 시나모롤 쿠로미 마이멜로디, 1개, 시나모롤(라이트블루)",
+            "tag": "맞춤 케어 · 스마트 저금통",
+            "reason": "스마트 저금통 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/9zoWtxFLjxKoMZlT9wKyA9HtOrmsXVwtOP3k0ayGHHiIn4u9FJn0J51H4AjswlBqC1xmSEE2_xm09aSJVRTjWhUzQfrh2UgRp5lmbaE2ePAV572sSdxrk6arqW40I1JZsWD6hJSYZgueg6gLNC8ax8PLNAX68LXIZSGXmuH1bwzF8j_usBlisbnEco_IXTR7p4o0jbRiwRFOS-2VVWE4qJ-63eF3xDspM_m1tTSy0Y52QrIgIkKduQs1Nl0uJSE81iV4qMIBJdzqe38TiTgzD_ic44Rn8ZUPrl1CmWj7ZjhWJuGpugj1RcNUU1b5kkiPF8qz6dJGqSV605meLNakhLx0OPJymQ0TZbngVsvBXPFf7rC6SAoHUZtyPrmLGFlwjw0j9EVJVkHL3RSMzhI-YDyeBkh0kWJ9mHny3HvkT8vpkVtHfKu8_px427vtFvotAysrIbWNZSCMuXhuiMBCJ5yo71Kp54728gjMg8vLOhB6eiOzZIPTrPETzxiPney74gs5MWFcEWSl7s19anoHrcOuMDskhH1k",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9014089565&itemId=26425006691&vendorItemId=96005170183&traceid=V0-153-cbb6d5ce576c6ee6&clickBeacon=4a96e4b0-d2e6-11f1-aee7-8a948ae44847%7E3&requestid=20261029004316024228351618&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "만년가계부 캐시북 다이어리 금전출납부 스프링 제본, 레드, 1개",
+            "tag": "맞춤 케어 · 예산 관리 플래너",
+            "reason": "예산 관리 플래너 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/WiuZV8hM0qHwhvDPWq63bYy7ml5rn8-etpz0QfvbPMNTJ_ZTosCVV3-jfraVgt3kCGjnmv4eMNvxyY4ooJjm7XKwbglvm3zox4SxmPFH8RtawbTqBF2BjMAVzsn_nlx7VpJ4ZxEVNeHJlFOcMilZd8KgJhNvo7jilA1iEluozFtJvEPFiwE8uuHfrjZl24CiT3cRgjvmmQ_dCS_HvZDo-pGR1K7hjGS13aJJKU7tN_qqZ7uzCkmxzgruzUgwXGfS3T7GJRFAyhaD16QJjQHzT2hl49oHwCVLd7erL6fC-bWocX0orQUJb4Q7kRnKjwwia5Gn3iNFYSE62f7r47b7NJkAH7c08VTM7MjkHWy9EbgyglJnpvjsuYb_f8Mma4Gwibt8qf5FekuqVk_-A0tPTgVLYNDrTSgZjtcMRKt11bPhnV-pi-L9dtsjXpIeMyGsux4kYcXhaKsYM5pVW7B8X4J6v1MGmK1-Xon33avg9kIZgFm7UHCdu5KuBBEG5jjIsV9aJdFFXqXYnf9gtMGX-EI_U-zc1Yk=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9609052061&itemId=28687620628&vendorItemId=92174229985&traceid=V0-153-9bd200e6d8b66866&clickBeacon=4ae0bef0-d2e6-11f1-894c-f5adc40d6837%7E3&requestid=20261029004316486171928461&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "철벽방어 수호천사 🛡️",
+        "headline": "내 통장에 도파민은 없다, 오직 안전 자산만 가득할 뿐!",
+        "emoji": "🛡️",
+        "tag": "철벽방어형",
+        "hashtags": [
+          "#갓생살기",
+          "#통장철벽녀",
+          "#무소유주의",
+          "#알뜰살뜰"
+        ],
+        "bars": [
+          10,
+          15,
+          20,
+          95
+        ],
+        "summary": "아무리 현란한 광고와 역대급 특가 세일이 다가와도 눈썹 하나 까딱하지 않는 철벽 방어력의 소유자입니다. 소비보다는 저축과 자산 증식에서 진정한 도파민을 느끼며, 주변 사람들에게 재테크 조언을 아끼지 않습니다.",
+        "trap": "지나치게 꽉 닫힌 지갑 때문에 삶의 소소한 재미나 스트레스 해소 창구를 놓치고 지나치게 팍팍해질 수 있습니다.",
+        "advice": "가끔은 나를 위한 작은 사치나 꼭 갖고 싶었던 취미 용품에 소소한 예산을 허락해보세요. 멘탈 건강에도 큰 도움이 됩니다.",
+        "rx_keywords": [
+          "취미 클래스 이용권",
+          "소확행 디저트"
+        ],
+        "prescriptions": [
+          {
+            "title": "NICEROSE 성인용 컬러링북세트 5권 - 스트레스 해소를 위한 퍼펙트 컬러링북세트, 몽환적인 인물, 성인 컬러링 북",
+            "tag": "맞춤 케어 · 취미 클래스 이용권",
+            "reason": "취미 클래스 이용권 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/MEQys7A9HKbc_VkcMO3e-r0-cXCuRXpeoit4xdkXXNpXlWY50A7LGVX5kUTDXVzqIbrDSCkmyqNt5-YAVOxgojsT4aVu79oBVXhlJKG8uwqnGn4bfW315RspcKzu_aQUhxP4OuwJRzQbURQZYGbj6XxN6yzEazq2r17X1tA3hB3vj-sDH16KX6zkCirlymkRLIYyOwLFNM9yPp693wWRR5DISGIujv-XIYgRZ-n3HmNrlhOWC4BTPMwrVoKv19qMIDdkOdMEFfNmXXxDVj44M5TcANRR0EEIj_1lBRTG2o6kqLSWnbyPbNZvKl76WP81ST7DJyYiUVLAjygBfZz1RdR3QGXooWRvJT1m--C7fYIrZoBPu_1gNr6AnqpWDSICt3Uga94T96OHW4xbnoE66VRsXdY-lh3YVw5FkXHzSUhBLU3_N6Jpa1pXiRq9TRx_01aRRPA4kszwMD7uUjJR3zqhU3gQ7ubGTEh8Hifx36VouD82TMyUlomSwKfzMaVJ5b1lmzG3bhHmfejLeVxH0ecI",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9296045019&itemId=27534857567&vendorItemId=94499420248&traceid=V0-153-0236e4419c19d8eb&clickBeacon=4b07cef0-d2e6-11f1-b1fe-0889e86138eb%7E3&requestid=20261029004316762075674973&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "한봄 과자선물세트 간식꾸러미 단체선물 종합 간식 세트, 1박스, 1호 빈츠+로아커+초코칩+초코무쵸+타타와초코",
+            "tag": "맞춤 케어 · 소확행 디저트",
+            "reason": "소확행 디저트 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/kSjerdIlBA0UCyoKkdtFW5A7GpKS76xU1sGWscSlFOVGOZasogb-20BIAsOsQXGKY9bwI-7DadnVsxkslgeX2vowiHXoP6AY6D4y0mz_q6wihx7Rs4X7s-ldYM0oewKGekZvth_g_jTQ4rNR3EC5xzaJVuf7jj6UMne3-Nv7UejxwV43oGg61azcnturR9PDE-QQvmEeAHSSxJ1Zd5Wodkov6uHjO2PSR8Fqv3cj_VXsf9E7LZEmE77YgpwRtO642uBd_whaIay2jjLpBj4_cqInH5hR324JOOlqEGjBqKAH6McTRkOnH1hwo3SNP10SBBwM7vsnPyR8lBErNerF8Q1KoHGL_Yhy9n35_GgnHsUG0yz4F-xxAomImit2r8LSks17IaPz6z5owJHlym5yI-CLzgITAp79AGhyhEkeWT7GI0VetNLvlnEKf-dMpsRzcSYg7Y45KRcuO_TWUr6IQccEts8ya1D5ran0NaFO3it94-2SPcRRoNMOIhI_R-cdO5y-yo7SFvaXOAP6aGcGdvOEV2FfzaLC",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8695409707&itemId=25247761807&vendorItemId=92243724572&traceid=V0-153-231f47dba4836090&clickBeacon=4b2e90d0-d2e6-11f1-9d38-165d8625448b%7E3&requestid=20261029004316991297703876&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 125950,
+    "created_at": "2026-10-29 00:43"
   }
 ];
