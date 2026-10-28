@@ -1572,14 +1572,14 @@
             <span>결과 카드 이미지 저장하기</span>
           </button>
 
-          <!-- 텐핑 실시간 추천 혜택 소문박스 -->
-          <div class="tenping-ad-container" style="margin: 16px 0; text-align: center; width: 100%;">
+          <!-- 텐핑 실시간 추천 혜택 소문박스 (애드센스 심사 기간 임시 숨김) -->
+          <div class="tenping-ad-container" style="display: none !important; margin: 16px 0; text-align: center; width: 100%;">
             <tenping class="adsbytenping" style="width: 100%; margin: 0px auto; display: block; max-width: 768px;" tenping-ad-client="vF9zthu9afB7oqzyOWPfAiFXYiRQSRCIACF9YUWXi3WB4D3wb0%2fPanmFqOwBRFRu" tenping-ad-display-type="67%2be3LHzHbblsB9oLrOpWQ%3d%3d"></tenping>
             <script async src="//ads.tenping.kr/scripts/adsbytenping.min.js"></script>
           </div>
 
-          <!-- 애드픽 실시간 고단가 CPA 추천 혜택 섹션 -->
-          <div id="test-adpick-container" class="test-adpick-box" style="display:none;">
+          <!-- 애드픽 실시간 고단가 CPA 추천 혜택 섹션 (애드센스 심사 기간 임시 숨김) -->
+          <div id="test-adpick-container" class="test-adpick-box" style="display:none !important;">
             <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; border-bottom: 2px solid #2563eb; padding-bottom: 6px;">
               <span style="font-size: 14px; font-weight: 800; color: #1e293b;">🎁 연구소 추천 추가 혜택 &amp; 이벤트</span>
               <span style="font-size: 10.5px; color: #64748b; background: #e2e8f0; padding: 2px 6px; border-radius: 4px;">스폰서</span>
@@ -1857,8 +1857,9 @@
       switchScreen('screen-loading');
       setTimeout(() => {
         renderResult();
-        openCoupangGate();
-      }, 1100);
+        // [애드센스 심사 클린 모드] 쿠팡 게이트 팝업 없이 즉시 결과 오픈 (승인 후 복구 가능)
+        proceedToResult();
+      }, 900);
     }
 
     function openCoupangGate() {
@@ -2045,7 +2046,7 @@
               <span class="rx-item-tag">${item.tag || '💊 맞춤 힐링템'}</span>
               <div class="rx-item-name">${item.title}</div>
               <div class="rx-item-reason">${item.reason}</div>
-              <span class="rx-cta ${item.isCpa ? 'cpa-cta' : ''}">${item.isCpa ? '🎁 1분 무료 시작 &amp; 포인트 받기 →' : '👉 쿠팡 최저가 &amp; 솔직 후기 보러가기 🚀'}</span>
+              <span class="rx-cta ${item.isCpa ? 'cpa-cta' : ''}">${item.isCpa ? '🎁 1분 무료 시작 &amp; 포인트 받기 →' : '👉 추천 힐링템 상세 정보 보기 →'}</span>
             </div>
           </a>
         `).join('');

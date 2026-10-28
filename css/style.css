@@ -568,3 +568,32 @@ a { color: inherit; text-decoration: none; }
   }
 }
 
+/* ==========================================================================
+   Google AdSense Audit Clean Mode (Temporary during review)
+   1. Hide external 3rd-party ad scripts (Tenping, Adpick)
+   2. Hide aggressive top CTA boxes & Coupang hero popups
+   3. Soften comparison cards into elegant editorial recommendations
+   ========================================================================== */
+.tenping-ad-container,
+.adsbytenping,
+.test-adpick-box,
+#test-adpick-container,
+.adpick-widget-container,
+.coupang-hero-box,
+.jejeming-top-cta {
+  display: none !important;
+}
+
+.jejeming-rx-box {
+  background: #ffffff !important;
+  border: 1px solid #e2e8f0 !important;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04) !important;
+}
+.jejeming-rx-box .btn-coupang {
+  background: #334155 !important;
+  box-shadow: none !important;
+  font-size: 12px !important;
+  padding: 8px 14px !important;
+}
+
+
