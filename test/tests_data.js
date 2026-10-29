@@ -6020,5 +6020,209 @@ window.TESTS_DATABASE = [
     ],
     "participants": 166589,
     "created_at": "2026-10-29 09:41"
+  },
+  {
+    "id": "is_it_thumb_or_fish",
+    "category": "연애/관계",
+    "title": "이거 썸일까 어장일까? 1분 만에 끝내는 상대방 마음 판독기",
+    "subTitle": "내 <span>도파민</span> 갉아먹는 그 사람, 과연 찐일까 가짜일까?",
+    "desc": "하루 종일 답장만 기다리는 당신! 혹시 나만 진심인가 싶어 불안하다면? 지금 바로 당신의 썸 현주소를 진단해 드립니다.",
+    "emoji": "🎣",
+    "tag": "연애심리",
+    "viralBadge": "🔥 누적 215,300명이 판독 완료",
+    "metricLabels": [
+      "직관력",
+      "희망회로",
+      "객관화",
+      "자존감"
+    ],
+    "questions": [
+      {
+        "category": "연락 빈도",
+        "question": "그 사람이 선톡을 보내는 빈도는?",
+        "a": "자기가 심심할 때만 가끔 오는 편",
+        "b": "아침 인사부터 자기 전까지 끊이지 않음",
+        "score": 1
+      },
+      {
+        "category": "약속 잡기",
+        "question": "데이트 날짜를 잡을 때의 상황은?",
+        "a": "항상 '나중에 보자'는 애매한 말뿐, 구체적인 날짜는 없음",
+        "b": "먼저 날짜와 장소를 정해서 나에게 물어봄",
+        "score": 1
+      },
+      {
+        "category": "대화 내용",
+        "question": "나와 나눈 대화 중 가장 기억에 남는 것은?",
+        "a": "상대방의 고민 상담이나 자기 자랑이 80%",
+        "b": "내 일상에 대한 질문과 사소한 안부 공유",
+        "score": 1
+      },
+      {
+        "category": "SNS 활동",
+        "question": "내가 올린 스토리에 상대방은?",
+        "a": "좋아요는 누르지만 답장은 안 함 / 혹은 읽고 무시함",
+        "b": "바로 답장을 보내거나 질문을 던지며 대화를 이어감",
+        "score": 1
+      },
+      {
+        "category": "공개 여부",
+        "question": "주변 지인들 앞에서 나를 대하는 태도는?",
+        "a": "둘이 있을 땐 다정하지만, 지인 앞에선 '그냥 아는 사람' 취급",
+        "b": "지인들에게 나를 자연스럽게 언급하거나 소개하려 함",
+        "score": 1
+      },
+      {
+        "category": "응급 상황",
+        "question": "내가 아프거나 힘든 일을 겪었을 때 반응은?",
+        "a": "바쁘다며 나중에 연락하겠다는 짧은 메시지",
+        "b": "전화가 오거나, 괜찮은지 계속 확인하는 연락",
+        "score": 1
+      },
+      {
+        "category": "기억력",
+        "question": "내가 지나가듯 말한 사소한 취향을 기억하나?",
+        "a": "전혀 기억 못 함, 매번 똑같은 질문을 반복함",
+        "b": "사소한 것도 기억해서 먼저 그 이야기를 꺼냄",
+        "score": 1
+      },
+      {
+        "category": "기대감",
+        "question": "이 사람과의 관계를 생각하면 내 마음은?",
+        "a": "설렘보다 '대체 왜 이럴까?' 하는 답답함이 큼",
+        "b": "앞으로 우리가 어떻게 될지 기대되고 행복함",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "희망고문 당하는 프로 헌신러 🥀",
+        "headline": "정신 차려! 그건 썸이 아니라 '당신이라는 보험'입니다.",
+        "emoji": "🥀",
+        "tag": "관심 필요",
+        "hashtags": [
+          "#희망고문",
+          "#어장관리",
+          "#정신차려",
+          "#탈출시급"
+        ],
+        "bars": [
+          20,
+          95,
+          10,
+          30
+        ],
+        "summary": "상대방은 당신의 마음을 이미 알고 이용하고 있어요. 당신의 친절과 배려를 당연하게 여기는 '어장'일 확률 99%. 지금 당장 연락을 끊고 당신의 소중한 시간을 지키세요.",
+        "trap": "상대방의 작은 다정함에 또다시 낚여서 스스로 합리화하는 것",
+        "advice": "당신은 누군가에게 선택받는 사람이 아니라, 누군가를 선택할 권리가 있는 사람이에요. 당장 '읽씹' 하세요.",
+        "rx_keywords": [
+          "자기계발서",
+          "운동화"
+        ],
+        "prescriptions": [
+          {
+            "title": "나를 바꾸면 모든 것이 변한다:생각하는 습관부터 바꿔라, 제임스 알렌, 이너북",
+            "tag": "맞춤 케어 · 자기계발서",
+            "reason": "자기계발서 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/jC9x545vkwtzrpXxjBIdeU0M6D1a6NNDYnFWF51DVfHTfO8EcXQV_ptoflWhZhSdu_8EFxI8tw76s4ArxHUsAf93bZdtGyh1qBF4W9XCwAJ9fmPIABnATIGHdFhDJSROuOtmHV9kGFE-gTDFov3d3obEKGkWw6RU3CETMZZPHhwR8OihEN8ewVvdSViQO9KqcND-40tKjdE5PemY5nZwjTqsx_M3lrCy0ZuzV0n0OE7XsyKJAizwE8MA7e3NAVW2qfSmaaQuZ6n2FPeaBc2Ffv2Ttjh5Kuh_jVuT5Cv9NS-xTgp-FYR3C6B_xK7pLX-vvyHdK5OLRvll_kCM40DxYuGrhudGpuRhnKty0gVbtvf3eEDfmNrSciVQJya4mnYt-slCCXGg6r-LpKxybimjqtfB5FoGHlhdxmasRj14Ywn4e6nWn_P1raU5vm47wpufCNpGH4RLrznir0ahqIexCH8HlOkVdWLHEF8n1TjhAYJ9h-SBed63Ex_B8SaroiqqWMbscb7sqtAY9V2c7CSUeL_qrlIk",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=3849983&itemId=18909215&vendorItemId=3128363168&traceid=V0-153-c674c3e65471dc05&clickBeacon=c00ee260-d363-11f1-b225-cd94fc404ff8%7E3&requestid=20261029154120200124785106&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "까발로 여성 여자 발편한 헬스 마라톤화 조깅화 런닝화 운동화 CA003",
+            "tag": "맞춤 케어 · 운동화",
+            "reason": "운동화 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/k3UmlcdsyZH4Ee9yk_kHy1bAF9RY_QH16sSuF9nEPV4Rj45pE4FwAHpWOo6lFR8Odk69F2wkz1Vh71LtXMA3Qsl4C8REpUDjp4rQSDp1OWibKvGaFXYaAPMN3T09mUHPKs5XOno3bMTtSyYwy3jmNDBLjlyO9YnhrBTjwulGl4TGprGD6sz1JTNv7psa7MUiAGvumWwtKHO55_uRrtdTZdepKR_RKCmt8T0AnUP097slDlFT0f3HO4JBYpsU4WaL8jsz6eLc_FChpvCP6w32QA5-rtjHQu9XZtnSyw9G4YkKCKXfQHpJyus7kj_N6Vqx9Y4BGOWEeAeocwVy8NvjDt5Dlc4OHonZj2stIf6qnK0QGXHk99Db61HIJAEbxWqEBEJ_0opUuaGMbpAGAvsuS6UHAJaaeY-7Sm59jhcGXmcTOnb0cjnMSM1m68uzh-06xcONmxcu7GaGi2LFFc8dHMFvkznslTmet0_8hRIDOMXHOus6ilzzaeWZz8m_Y4wZ4mxZ0fnXlCHmWLyARTii9kI2t_fz",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8413102557&itemId=24327054014&vendorItemId=92923583499&traceid=V0-153-2e88f2f3e3f70d53&clickBeacon=c0416410-d363-11f1-9a07-ae081f61d850%7E3&requestid=20261029154120451246535945&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "밀당의 늪에 빠진 애매한 관계 🌪️",
+        "headline": "썸인지 어장인지 헷갈리죠? 그건 상대도 당신에게 확신이 없다는 증거.",
+        "emoji": "🌪️",
+        "tag": "혼란스러움",
+        "hashtags": [
+          "#애매한사이",
+          "#밀당중",
+          "#썸인가",
+          "#관계정리"
+        ],
+        "bars": [
+          50,
+          60,
+          50,
+          60
+        ],
+        "summary": "상대방도 당신에게 호감은 있지만, 결정적인 한 방이 부족해요. 서로 눈치 게임만 하다가 지칠 수 있으니, 이번 주엔 당신이 먼저 직구를 날려보세요.",
+        "trap": "상대방의 행동 하나하나에 의미 부여하며 혼자 소설 쓰기",
+        "advice": "불안해하지 마세요. 솔직하게 '우리 무슨 사이야?'라고 묻는 용기가 필요한 시점입니다.",
+        "rx_keywords": [
+          "향수",
+          "와인"
+        ],
+        "prescriptions": [
+          {
+            "title": "[브랜드인증] 존바바토스 아티산 오 드 뚜왈렛",
+            "tag": "맞춤 케어 · 향수",
+            "reason": "향수 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/4hyK60T53GjJbiq-4gZ3GpDx57a0WP8xdLRiK9ygp3ZVpLHc8HZXh5NJ22PhEnUZPDZVjYSzo93_1ly67c1lWgOXagMHNVQJzt4Ra9EgrKGUmCrpFAnrF76e8Mwrjyl4FAJdOHMHF7wtVJebSBgasufbZAo_m6H_T5EMoY_AGuyNKWzyE2kzZDsjTYeZ7HLt-5To0W1zndPMuvt65DcQSUtl-Vj8Na_W1YkhfIL-bZntMWWsgT7947WF4CQw8iNRTvBQ---XOgmnuJQemVCTXmDfamQycxM7VB9Z0ZysZvOjalbanWQF8AOrafP4zKZ18lt5r1kUefweJ3vAej4nULYZNB-HZ8OonmO6wLQMVFy6hu2GEghPZ9_xppu3yQ5hDGjX92V4N_ReWBLIVerso797S9hNsciNSL7gMXaacekErS7yY46lP9iqrbc8QXaUxCtBqpRgXAmSweNjSixXE5G8ozYQoKdPKkFbEBm4cjGaVhGLeTjl990fbu4xDai-Mwh08SCI8ENhJ8s2UD7n97zTYg1YSjow-MXRmDQ_iWB_wBbn8p7y2G4=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9479077115&itemId=28220840135&vendorItemId=3002625520&traceid=V0-153-ea42fc5fe8503879&requestid=20261029154120752263620761&token=31850C%7CGM&pt=0&slot=1"
+          },
+          {
+            "title": "구스타프호프 트라우벤사푸트 로트 레드 유기농 포도주스",
+            "tag": "맞춤 케어 · 와인",
+            "reason": "와인 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/0jKMW49KMlPKFXcr0ouM1hkK9k592mkx5qOsafi7U-wUh_-qs4sTasdigeufEQaP8WNVuOpdq-CfPl7zewqvnT-tAug8wSYghY7J4LJ1GfI4dPlZfjpWBqXAUdMcn0BL7itpW_66RGC22H1mbMFWqhdNHUYh6orOlNu6w9uGoRNoZrUjBo43XJCjvlPBeW9YAts7__owBkYin5pHtZFPwU_lZYPSFJFreTDtsgCWc2_hL78eNISobwFk-yCabnXQwXCSeV2qJ4cK35frR37TySO-P0QpnPQ8Rk80C9HNoGwdL7xIi5e0AqRGUjDjhiJDQdMgXCTshRhHT01VTayVpBHSpyz-h2wOFfOD989fmajBNt2exh5cQDvEYL7AwbtowL4CODNLSkYRCUYz-fqehI8hrUZdEq-SxdcuCyW72O4dlnbwklyfuN9Dg6cqIudmwS-RUhNZ1yQ5jq2Dg2Kq13PtQJDcszMpbHDyokCeTqBhGroweRkvA5Ieiv-7o3B3bPewWogSsPxo4BPL9yY60U-9lFnYtJoeBasRGg8G",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=334351052&itemId=21316924660&vendorItemId=5552980372&traceid=V0-153-ff803b4d65275bd7&requestid=20261029154120941023957399&token=31850C%7CGM&pt=0&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "꽃길만 걷는 찐썸러 🌸",
+        "headline": "축하합니다! 곧 1일 될 가능성 200%인 직진 커플!",
+        "emoji": "🌸",
+        "tag": "행복함",
+        "hashtags": [
+          "#연애의시작",
+          "#꽃길예약",
+          "#성공적",
+          "#달달해"
+        ],
+        "bars": [
+          90,
+          40,
+          95,
+          90
+        ],
+        "summary": "서로가 서로를 진심으로 아끼고 배려하고 있어요. 상대방은 이미 당신과 함께할 미래를 그리고 있을지도 몰라요. 지금처럼 예쁘게 만나면 조만간 고백이 올 거예요.",
+        "trap": "너무 행복해서 자만하다가 표현을 아끼게 되는 것",
+        "advice": "지금 이 마음 변치 말고, 상대방에게도 당신의 마음을 충분히 표현해 주세요. 두 분 너무 예쁜 사랑 할 것 같아요!",
+        "rx_keywords": [
+          "커플아이템",
+          "입욕제"
+        ],
+        "prescriptions": [
+          {
+            "title": "마그넷 하트 커플 팔찌 세트 우정 팔찌 야광 팔찌 남녀공용 팔찌",
+            "tag": "맞춤 케어 · 커플아이템",
+            "reason": "커플아이템 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/f7IzkDYncBdoVRs-fwDyTgR33reF24Apofw43wFg_GBNezFNN6YJQpdZfHedZTYGqzDw0GaTa2g7odZintLG24m8R-35uLpc5vG636T_U8p6AUk6OLy89Fh1QuEHnQxhl0Mr95abPMu0l1WI6POzcBcFBNlineXU4a6-4Mw6oPipvnnTDtTzmaNuHHc99HxBcDM2u4x-H1rUiikEcmqzHzNSZ67jEYDOVop8Hvbq_MeyGZmZ9Ttx8r5_vJwKPZtFuuE6Ph7wJsqlaSIfrh9b04IsiNJqVtuVOz3_L2Q_2Yrg7mMtCfGVzQdxoRkdadei5xHTo8anoxyF6jMUCRZS5Zbs44-WDR9im29yLmZPpiBvK1KKqUNywxe3bsla-bHjzEZpp75tVQhJMsC7O5PinHqWOfZ-u2jhUL8ict_hQwpW1ysb51LiWHBnXGYefMtheRy4V92bt_yIdoCELeALn2UjGI7M6BxunghRggrko5KpGhSCt4PfnA1v0u7e5AMF2ZYFIroXAli2JuV25tZSAqvoxdSDc-45WmrsxI8Uz-s=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8774960150&itemId=25527698440&vendorItemId=92519487099&traceid=V0-153-583fc46f722f0baa&requestid=20261029154121063119295372&token=31850C%7CGM&pt=0&slot=1"
+          },
+          {
+            "title": "요이크 배스 솔트, 릴렉싱 라벤더, 1개, 450g",
+            "tag": "맞춤 케어 · 입욕제",
+            "reason": "입욕제 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/9ti7jvRPKjMdGXDI9rfN47vU5QQ1XTfF8L9xJhXJKVV-BE_EYZu8HGlMDwDApMbs41KjJKvCi8tWm5NES7pa5Ot3YiGVzZpvOROab5Y3h9e9Jn8eKjJMJfqnCERaugjTFUw-J0B5ZM9MUHF4VPP8el4vUjCPN3IhtilxV6gwSPSPw-r2lUQmn4jbjw4ZaprMgtpZHYk0LJb3tgDtlLp8KOOvfwDsic_dOGtFc8eoeNumOR953X7DD8MRCel-a1hhlGY0iwiNopNBi_WbvfU1Bs1kxMGhClXHDb5M-T699z4DMfR4TVgqH4Ikp5K1jqFjMQvvqRxFT1qYuHjOk0YrKfLujwf7lrqZMtNH1u5wD8bI6osYmA7x5UKR5xAOUiCZ-dKkeDl5Ik6rh4RyOSQWT7Pfd0yqHKfX6N5msqFeckpOM5OSA1MbY22KzsAdsAJMh-q3BZ85iIHeHOlARvNm8yhYbWqzDYm_ZKzb0foH4N3V5TXpeTYY3ZCmZuv3uwxxugcutUJTmf2-ISR6oLKFAAaOqYpPycL3",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9574302998&itemId=28578146400&vendorItemId=95612532817&traceid=V0-153-a94c063bc741f224&clickBeacon=c0c931b0-d363-11f1-8377-764176ba8967%7E3&requestid=20261029154121414124785662&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 86783,
+    "created_at": "2026-10-29 15:41"
   }
 ];
