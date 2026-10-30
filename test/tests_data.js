@@ -6224,5 +6224,209 @@ window.TESTS_DATABASE = [
     ],
     "participants": 86783,
     "created_at": "2026-10-29 15:41"
+  },
+  {
+    "id": "rich_mindset_2026",
+    "category": "소비/재테크",
+    "title": "나는 미래의 부자가 될 수 있을까? 부자 마인드셋 & 금융 IQ 테스트",
+    "subTitle": "2026년, 내 지갑은 <span>불어날까? 쪼그라들까?</span>",
+    "desc": "매일 똑같은 일상, 왜 내 통장만 스쳐 지나가는 걸까?\n당신의 소비 습관 속에 숨겨진 부자의 DNA를 확인해보세요!",
+    "emoji": "💰",
+    "tag": "재테크·부자지수",
+    "viralBadge": "🔥 누적 214,500명이 참여함",
+    "metricLabels": [
+      "리스크 감수력",
+      "저축 끈기",
+      "소비 절제력",
+      "금융 정보력"
+    ],
+    "questions": [
+      {
+        "category": "소비 습관",
+        "question": "편의점에 들렀는데 1+1 음료수와 신상 간식들이 나를 유혹한다. 당신의 선택은?",
+        "a": "무조건 1+1 쟁여두는 게 이득이지! 장바구니에 담는다.",
+        "b": "애초에 살 게 아니었어. 쿨하게 계산대만 지나친다.",
+        "score": 1
+      },
+      {
+        "category": "재테크 전략",
+        "question": "친구가 인스타그램에서 본 '지금 사면 떡상하는 코인'을 강력 추천한다.",
+        "a": "혹시나 하는 마음에 커피값이라도 넣어볼까? 바로 앱을 켠다.",
+        "b": "세상에 공짜 점심은 없다. 일단 차트부터 공부하겠다며 넘긴다.",
+        "score": 1
+      },
+      {
+        "category": "감정 소비",
+        "question": "회사에서 상사한테 깨지고 기분이 너무 우울할 때, 당신의 위로법은?",
+        "a": "배달 앱 켜서 맛있는 거 시키고 쇼핑몰 결제창을 누른다.",
+        "b": "일단 유튜브로 경제 공부를 하거나 예금 이자를 계산하며 마음을 다잡는다.",
+        "score": 1
+      },
+      {
+        "category": "목표 설정",
+        "question": "첫 월급, 혹은 보너스가 들어왔다. 가장 먼저 하는 행동은?",
+        "a": "갖고 싶던 아이템부터 결제하고 남은 돈으로 저축한다.",
+        "b": "저축/투자금부터 자동이체 걸어두고 남은 돈으로 한 달을 산다.",
+        "score": 1
+      },
+      {
+        "category": "자기 계발",
+        "question": "주말 오후, 당신은 어떻게 시간을 보내는가?",
+        "a": "넷플릭스 몰아보기와 SNS로 트렌드 파악(이라고 쓰고 구경) 하기.",
+        "b": "도서관에 가거나 경제 기사를 읽으며 1년 뒤 내 자산을 상상한다.",
+        "score": 1
+      },
+      {
+        "category": "물가 체감",
+        "question": "최근 물가가 너무 올랐다. 식비 줄이기, 당신의 전략은?",
+        "a": "어쩔 수 없지, 그냥 먹고 싶은 거 먹자. 스트레스가 더 문제다.",
+        "b": "도시락을 싸거나 식비 예산을 딱 정해서 그 안에서만 해결한다.",
+        "score": 1
+      },
+      {
+        "category": "미래 대비",
+        "question": "5년 뒤 당신의 모습은 어떨 것 같은가?",
+        "a": "어떻게든 되겠지! 지금 당장 행복한 게 제일 중요해.",
+        "b": "확실한 자산 계획을 세우고 그 목표를 향해 조금씩 나아가고 있다.",
+        "score": 1
+      },
+      {
+        "category": "마인드셋",
+        "question": "주변 사람들이 부자가 되는 모습을 볼 때 당신의 생각은?",
+        "a": "와, 부럽다. 나도 저런 운이 좀 있으면 좋을 텐데.",
+        "b": "어떤 전략을 썼길래? 나도 저 노하우를 배워서 적용해봐야지.",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "성공 예약된 갓생러 📈",
+        "headline": "돈이 당신을 따라오는 운명을 타고났군요!",
+        "emoji": "💎",
+        "tag": "미래 부자",
+        "hashtags": [
+          "#경제공부",
+          "#미래부자",
+          "#갓생",
+          "#재테크고수"
+        ],
+        "bars": [
+          95,
+          85,
+          90,
+          95
+        ],
+        "summary": "충동보다는 이성을, 소비보다는 투자를 즐기는 당신은 이미 부자의 그릇을 가졌습니다.\n작은 습관이 모여 큰 부를 만드는 법을 본능적으로 알고 있네요.\n지금처럼 꾸준히 나아간다면 2026년은 당신의 해가 될 거예요.",
+        "trap": "너무 완벽을 기하다가 정작 '오늘의 작은 행복'을 놓치지 않도록 주의하세요.",
+        "advice": "가끔은 자신에게 적절한 보상을 주며 번아웃을 예방하는 것도 진정한 부자의 마인드랍니다.",
+        "rx_keywords": [
+          "가계부 다이어리",
+          "경제 도서"
+        ],
+        "prescriptions": [
+          {
+            "title": "만년가계부 캐시북 다이어리 금전출납부 스프링 제본, 레드, 1개",
+            "tag": "맞춤 케어 · 가계부 다이어리",
+            "reason": "가계부 다이어리 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/RAmrNB5Ntfj3dUkHRPDwKohNECPlo_oJxPDeJnx46D9Ikb4cLQ3GqW4txVV8L7tqjda2dGS-2xws7KxkXHoXfK9vNYsUHSwpWkQZmCblOc6Js4Pr7LgHo1MNMo6UrYbDrF5zHMbnVvZ6hi5_1qq4HZlxh5NE71ESdIzqzWLfiwdVKxqIaJQeNSC2hdfscvrX0e-dATBMK1ied9NJlJJddzgalFIQF2glY09mnv3A-9adkHmn0_PTRGCwZVXoVA-VMoWUe5-FjRfF-y2GYrhbpfWiO88m77hIEKdMnKCDQ0pyYSG4K0X3PLNoomNP86ZHSrtyRoAEyktgMHNu1kpgOqdCPlXcym9Td4NL61nw12WT8N_tK31D5OAd03rBL7QKvTkC7NwIPyDB8TzrmtDQSFwg6mGTUKl9g5fXgwbigd_8TGwBqNekadMxc92rZTHS7Zo_-jBkXWLg0j2LMZvIVivwz3KqlEzqPHCYC2TqlfskUjSHYa60SjRdlMY1VF9gNyZlv47vpeXk0HTvUUXiTmcXVKwGhO4=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9609052061&itemId=28687620628&vendorItemId=92174229985&traceid=V0-153-9bd200e6d8b66866&clickBeacon=82778400-d432-11f1-b7a7-0257c3c606dd%7E3&requestid=20261030162122670019318811&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "워런 버핏의 가치투자",
+            "tag": "맞춤 케어 · 경제 도서",
+            "reason": "경제 도서 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/gqw1uuNR-HaBRjxIgjdvD_qB6jWfXsChijjSyWYs4mEw5GjkqcO7LbIUE69snZrSJUGcQ5me9Es7gI9ZLj5eOrGrMWSML32TQJ6MD08NdDDQaXWv1g-WpDOeKAU1ZYSPcwgiwj4ME8LeAY5hFxidvxBVhqzzRYjcpzOyTb-VHVVrxqXNSCAEywrSNQfUymyvCZ3ivocloG2yR2HTFUCbXt16dtuBA78cvB2q1S46wIt0irHt9AYFYSVay29-Xq6Hl-IUJIqqblXW2QLaWU223nj5aKW_W8korC7J42KVcVcw_apIC8rZbw3bryiTffmSrkuw00Nqca8oF3o_kFhn1XzeNTbiuSyOHR0S9PmsmmlWw_3xNdrS8nDJRtijz2Qgc-bXB-O7d89lvkdWSEu4VZ7E8mRmHtPrHaWwFLwQlBOZFDmGio1rsdyjKOeaR9DP5ctV55ADOm2dMOQMsyjcTHZp-PL3a2KW01QzDDU5g0_v9IwQswJeYkHjlFNiH8xAcwi0bn7s0qfbSX4QMQB8",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9742849801&itemId=29162924844&vendorItemId=96090799661&traceid=V0-153-8c68093250bf099a&requestid=20261030162122857238844761&token=31850C%7CGM&pt=0&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "성장통 겪는 꿈나무 🌱",
+        "headline": "부자가 될 자질은 충분, 이제 행동이 필요해!",
+        "emoji": "📊",
+        "tag": "잠재적 부자",
+        "hashtags": [
+          "#열공중",
+          "#돈모으기",
+          "#경제독립",
+          "#성장중"
+        ],
+        "bars": [
+          60,
+          70,
+          65,
+          75
+        ],
+        "summary": "소비의 유혹과 미래를 위한 절약 사이에서 매일 줄타기하고 있는 당신!\n의지는 훌륭하지만, 가끔 찾아오는 도파민 중독이 발목을 잡곤 하네요.\n조금만 더 구체적인 플랜을 세운다면 충분히 올라갈 수 있습니다.",
+        "trap": "자신을 너무 자책하지 마세요. 작심삼일이 100번 모이면 그게 습관이 됩니다.",
+        "advice": "매일 10분씩만 경제 뉴스 헤드라인을 읽는 습관을 들여보세요. 시야가 확 달라질 거예요.",
+        "rx_keywords": [
+          "재테크 강의권",
+          "저금통"
+        ],
+        "prescriptions": [
+          {
+            "title": "챗 GPT 주식투자 사용설명서: 실전ㆍ실습ㆍ실무에서 바로 써먹는 금융 프롬프트 67, 황인환(황Q), 허반석, 여의도책방",
+            "tag": "맞춤 케어 · 재테크 강의권",
+            "reason": "재테크 강의권 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/a7GgC2PqqbuubooYa2VyZuHIJ3fMjbKCgC7_ql9g8NUD4UOega8jfr-AFowDMMS2O7bAtEwXUjI6Aq-bAtOdgNSPDN8nkMxu0XZLMVbBtLa4OZwMRun56-zqea-rOj-nxxT5cmwZ_5fA5LJJLR549LHA02I6URyLQBI-XFSAn2r06m8Xa3MNEDIf4kocn8YHvTiICfynsmSSDFirwvaDWHH3qkxFmJYFIIzBUggs45deEgy-Gzbm1_9AUvuuymrmKv2A79WJzSJk1xRojm4LZNp53XcZF35mds8P8xvLLYKNUvqoLRUOXvpw0hr7vFyDHsTlmWZQRWhX-jpeewzLXqfWjbJIJbCXgl9pP8GNfRQhXttvt9j7F-DHg5apY2x8btEKmFi5KHQMgxrtbupQSxo7ofYnQ_VA4iQW7Q6D_C3TkEGBsYLgM6ENQ8is0P2MXHyHlz2iLbjLFsKpnLT-vGaWwO4Q9Dxbd3d0Kn6DOBiS0l_PtXaxqfxP8o3NThSS",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8915673755&itemId=26049091767&vendorItemId=93072983734&traceid=V0-153-e43c165e34914535&clickBeacon=82c61930-d432-11f1-95f5-d4a07e989b3b%7E3&requestid=20261030162123111147137779&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "알라딘상사 포켓몬스터 자동 비밀금고",
+            "tag": "맞춤 케어 · 저금통",
+            "reason": "저금통 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/i42pzmyK0xrdS-Cri50dYN7jQiEewuLTL1823EA2as5Avz99-eym90DL20hIjCVoXtgZhZd9SzoKoWXAXxjVmW9o3nK8j0djEAa5fmp82XnC-5JDrYwdghNwYCRrZjOEgRT4NgMhmp65RlrP9wUtYErBR4s3tn5jAAjupP405wIlA0PSku8To_5-f1A2xPlX--HJpjDl2Y7tt3oSRtFWaWnVuiP7eybWtH55pEYNA8eJmTaGFf4-1FnXFp0LPkl1iUKCe06Q9ZRSZY040pvuCXF2vFv0-eogobAp2aZmZQQU_i-jtLd57G2ixcgVMX9UKHDuzFIe065qCXuzGQhu7vUl1uUKkaCDCywxuagOqZVcgWgttCJYQVyDyVZdd0tDL9IMYzJ-32EmYkm2dkXGD9RKmCXGdQ46P4sJZOR8Gzgcs8hv4y3w8TT_L6Qgzu8B0u9PqA5HiSFG46Ubnd7wbYC0kf6nnU7g_xpdM48KNmRJ7lPDGyKSLsSCOEm6HXOt2kiDim1MdTGLJwd1ztcfPw==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8486036852&itemId=110398549&vendorItemId=75483726699&traceid=V0-153-6b93ada184d6979d&requestid=20261030162123363194461656&token=31850C%7CGM&pt=0&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "오늘만 사는 탕진잼 탕진러 💸",
+        "headline": "통장은 로그아웃 중, 지금 당장 심폐소생술 필요!",
+        "emoji": "🎈",
+        "tag": "소비요정",
+        "hashtags": [
+          "#텅장",
+          "#오늘만산다",
+          "#월급은스쳐갈뿐",
+          "#돈아어디갔니"
+        ],
+        "bars": [
+          30,
+          20,
+          25,
+          40
+        ],
+        "summary": "인생은 한 번뿐! 오늘의 행복을 위해 아낌없이 투자하는 당신은 열정 부자!\n하지만 미래의 당신이 지금의 당신을 원망하고 있을지도 몰라요.\n이제는 '소비'의 재미를 '자산 증식'의 재미로 바꿔야 할 타이밍입니다.",
+        "trap": "SNS 속 화려한 삶과 내 통장 잔고를 혼동하지 마세요. 현실은 결제할 때 찾아옵니다.",
+        "advice": "오늘 당장 커피값 한 잔이라도 덜 쓰는 연습부터 시작해봅시다. 작은 변화가 큰 변화의 씨앗이 돼요.",
+        "rx_keywords": [
+          "가계부 앱",
+          "비상금 저축통장"
+        ],
+        "prescriptions": [
+          {
+            "title": "핑크풋 10000보리 슬기로운소비 주방 가계부",
+            "tag": "맞춤 케어 · 가계부 앱",
+            "reason": "가계부 앱 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/x8gvHYFDkCWrGJSYx8ns6xlQVnyxxpCbf70hdJuJd6BloNbo3DYFoN7mdCTPbMIV-F3GOyuF1vKnrFUaE46xuPwRIojamjrJtg0maqRqpbo7Z25wXG2-oVSbe4MwisuBnyJeAA0jOAt1P8KLB7C6kU2tSL_l1pLLDO2x8bhX8xEGFoVXKTtTZZG-AJYdeCYTqeoLDvemROjAz6VkiYrTawBr6EpkQkEoGjG_3AMpItUwb85e0DMkRSxBQv-BqqacYRCNLIEDOLesSiwXKSZYAOg4Zek6Nh1n0liLSZ2Rkrt1VbqnA_pXL0N-ct37UuI6cDOX5hf6uT5ARp-fTfN_LYDt2UTRP7Rc3SM8Pl_UUQfz8-DJWU93Z5GgNSjHzdZbUMOAFAa4SmC0TXY0jhnq0cJOoJE737Y7Fdh5ubghsXCmKtk8Q2PI5naRwR7e-xav4Cuswh7CVRQgxEUWpi0Us7cSfsX7Tb9D8KuItBvPw0jKzLXhBYHDJ5mWbacaPd2ZcJiCEgo2dZvDfSqD6aA=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=6544948850&itemId=18874268388&vendorItemId=81830121276&traceid=V0-153-de89e423291abd30&requestid=20261030162123637286821158&token=31850C%7CGM&pt=0&slot=1"
+          },
+          {
+            "title": "싸쓸 현금 저축 챌린지 다이어리 바인더 보관함, 1개, 블랙",
+            "tag": "맞춤 케어 · 비상금 저축통장",
+            "reason": "비상금 저축통장 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/6whLzykAWm0z4yxa69maZxdhTfqbds9aOp-26STagJ2mJltA247xStq6n-UcIKNGPWS08E1iLc5h6Qx2zQy-8KDhgEAwGZRE_mpdc5tdRUpd3NpDnohdToOzCL6658WDg_PzdDF_smjtBPfHwxx0ZucKBsVq3newBFVYHG0AZiXmDbEb59Gc1obeIgrCeQ-2U_zUkOkGBxkngwU5m6Hqmxq7crUNFmLa6SJ3c0f70AzqJUflcghQFDHPqIe3jZ8kIYyjtgY2e-vRl0K_f_qs6uMUNgF3TSShEpLvPafbCu417c1dtl9GtMOfJkaHq9imM625ywS--g7uF4ZcZLks3NJZZC1YU7EqkQTeAY5wzzJK95uXSSwMas9-ct63Z0tOtyH2bGKlpPV_x-xs2USGwpqw_wYU1B-fOdZCeyrI102idYg8BnOkeHVUu6pTPDhj6t6dIAkEIe569VLshheWwDiLymvubt-Kh2TtvEZcjLjvOuroR-5skgjxw623CELnA1c_pwiyrD_nSuOWqzFBmCY=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9678859779&itemId=28941915590&vendorItemId=95872782003&traceid=V0-153-32ce2868e5bf80fc&clickBeacon=8334e090-d432-11f1-80d5-ef38ddd07993%7E3&requestid=20261030162123921279729279&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 138664,
+    "created_at": "2026-10-30 16:21"
   }
 ];
