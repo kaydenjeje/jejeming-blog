@@ -6428,5 +6428,209 @@ window.TESTS_DATABASE = [
     ],
     "participants": 138664,
     "created_at": "2026-10-30 16:21"
+  },
+  {
+    "id": "sleep_stress_test_2026",
+    "category": "힐링/멘탈",
+    "title": "밤마다 뒤척이는 이유! 나의 수면 패턴 & 마음 긴장도 자가진단",
+    "subTitle": "오늘 밤, <span>머릿속 스위치</span>를 끌 수 없는 당신을 위한 멘탈 진단",
+    "desc": "침대에만 누우면 뇌가 24시간 풀가동되는 당신. \n과연 내 마음은 얼마나 지쳐있을까요? 지금 바로 확인해보세요.",
+    "emoji": "🌙",
+    "tag": "수면·멘탈",
+    "viralBadge": "🔥 누적 215,300명이 참여함",
+    "metricLabels": [
+      "뇌 과부하도",
+      "불안 민감도",
+      "회복 탄력성",
+      "수면 질"
+    ],
+    "questions": [
+      {
+        "category": "잠들기 직전",
+        "question": "잠들기 전, 휴대폰을 내려놓으려다 '딱 하나만 더' 하고 확인하게 되는 것은?",
+        "a": "오늘 못한 일들, SNS 알림, 내일의 할 일 리스트",
+        "b": "이미 배터리가 3%라 그냥 충전기 꽂고 눈을 감는다",
+        "score": 1
+      },
+      {
+        "category": "생각의 꼬리",
+        "question": "갑자기 떠오른 과거의 실수나 민망했던 순간이 머릿속을 맴돈다면?",
+        "a": "그 상황을 계속 복기하며 '왜 그랬지'라며 이불킥을 한다",
+        "b": "이미 지난 일이라며 억지로 생각을 멈추고 딴짓을 한다",
+        "score": 1
+      },
+      {
+        "category": "소음과 환경",
+        "question": "조용한 밤, 창밖에서 들리는 작은 소음(자동차, 냉장고 소리)에 반응은?",
+        "a": "소리가 신경 쓰여 심박수가 올라가고 잠이 확 깬다",
+        "b": "백색소음이라 생각하고 그냥 덤덤하게 받아들인다",
+        "score": 1
+      },
+      {
+        "category": "내일의 예고편",
+        "question": "내일 아침 일찍 중요한 일정이 있다면?",
+        "a": "혹시 못 일어날까 봐 몇 번이고 알람을 확인하고 긴장한다",
+        "b": "알람을 맞춰놨으니 내일의 나에게 맡기고 일단 잔다",
+        "score": 1
+      },
+      {
+        "category": "신체 반응",
+        "question": "침대에 누웠을 때 당신의 다리나 어깨 상태는?",
+        "a": "뭔가 근육이 잔뜩 뭉쳐있거나 긴장된 느낌이 든다",
+        "b": "온몸의 힘을 툭 빼고 바닥과 한 몸이 된 듯 편안하다",
+        "score": 1
+      },
+      {
+        "category": "낮의 여운",
+        "question": "오늘 하루, 나를 짜증 나게 했던 사람이나 사건이 머릿속에 남아있나요?",
+        "a": "네, 그 상황을 머릿속으로 계속 시뮬레이션 중입니다",
+        "b": "아니요, 이미 잊어버렸거나 내일 처리할 일로 치부합니다",
+        "score": 1
+      },
+      {
+        "category": "뇌의 활동량",
+        "question": "눈을 감았을 때 머릿속 풍경은?",
+        "a": "수많은 정보와 할 일들이 영화처럼 빠르게 스쳐 지나간다",
+        "b": "특별한 생각 없이 그저 어두컴컴한 암전 상태이다",
+        "score": 1
+      },
+      {
+        "category": "휴식의 정의",
+        "question": "가장 평화로운 순간은 언제인가요?",
+        "a": "할 일을 다 끝내고 비로소 자유 시간을 가질 때",
+        "b": "아무것도 안 하고 멍하니 있어도 죄책감이 들지 않을 때",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "과부하 된 뇌 풀가동형 🧠",
+        "headline": "잠들어도 뇌는 퇴근하지 않는 중!",
+        "emoji": "⚡",
+        "tag": "번아웃 주의",
+        "hashtags": [
+          "#뇌과부하",
+          "#잠들지못하는밤",
+          "#생각중독",
+          "#강제휴식필요"
+        ],
+        "bars": [
+          95,
+          90,
+          40,
+          30
+        ],
+        "summary": "당신은 오늘 하루도 최선을 다해 달린 갓생러입니다. 하지만 뇌는 아직 스위치를 끄지 못해 계속 '일하는 모드'예요. 잠들기 전 뇌가 쉬지 못하면 내일도 피로가 누적될 뿐입니다.",
+        "trap": "생각의 꼬리를 무는 버릇이 불면증을 악화시키는 가장 큰 적입니다.",
+        "advice": "잠들기 30분 전 휴대폰은 거실에 두세요. 명상 앱보다는 단순히 숨 쉬는 것에만 집중하는 '4-7-8 호흡법'을 추천합니다.",
+        "rx_keywords": [
+          "명상용 헤드셋",
+          "마그네슘 영양제"
+        ],
+        "prescriptions": [
+          {
+            "title": "여성 보헤미안 플란넬 요가 담요 명상용 127 x 152.4cm",
+            "tag": "맞춤 케어 · 명상용 헤드셋",
+            "reason": "명상용 헤드셋 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/Q9witWpQydgNlJ9yQ5WsWrGc2Xehc8lvQfblUGwK2v-0gpJU7Ktho3U6kMZXDQgXZj7QB8p_P6Jz1VmZSeE9mqacUiWipaHqocEn3YCl9MbRx3uQU9NArcJlaFF_qRdBB3h2v1btTk6hNpASw7IE558Bt7E5y56IzxqReLIRbU39uyLyKm3zupBgC6zp_HlmPtwIz7h1hAlH8nPIjGfByhfu6SlmN-lU0h1bsBBh6EZP0k5T2gvVuTMEttZC6PaRGaKUivWvfn8wWyjt6j7wewKiP2sL0lQuMAvFzzJZEiyX3MHnX_ymcgwDjPkz0zg6lktR0zwuWJsiWqgITodNgabgFBsfiJtVOSfiDJP72Nf9ON3Jk0K2fnsYHKhbAFFAmvdGpF5q0_SiNStbgYcy4U29paRropxuIaRPXdAAN8QRb2pmSEBUMe99UlPqB8ez7iXo98TTdMcOrkFPGdgh-PUR4ywEOcanc4bWgjp-2E_pVocqkF6QES0iBZJIdyTwoRa2VAiDQHr5CP7HIxvxqv-7uh17KUNxaVp65bGcE78=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9798061283&itemId=29338495282&vendorItemId=96252038817&traceid=V0-153-e9e7a2586094f6e2&requestid=20261030231403883024871923&token=31850C%7CGM&pt=0&slot=1"
+          },
+          {
+            "title": "건강헤아림 흡수율 좋은 프리미엄 산화마그네슘 99g, 90정, 2개",
+            "tag": "맞춤 케어 · 마그네슘 영양제",
+            "reason": "마그네슘 영양제 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/j6B5R9m6erYLSQmaj5o9dF8qSoMImw4vrrarHtUiKiSB2Q0ct5czh4MuY6ASovRXrwQH3E70PmEoOiMsQg8QibTgAdZh1xCs1EGMof6LRNO3DbV95LwTIOPcPbSOS7R3vwOrhCBjILGbTmVJL4J0fATaE8JcqrswbAz37KSLfUuVK8r0NlQyykQYcMdk1ci23QOman-KnHP2rTby4G5Ay0JBCueBpupGI_O2gzcHltcSSnSzb_infBnvGUpl0j3vIfSELlPRgYA6UDqbHfXgNxr1wduGC0ePppEDPGmIHO2-V2ffoFe6pWpqZjCw_K0-MraC4v-WN19ikG17hy2P9i6IQQr1Lfr52mYLxp9GRGMY_YkHZx-vobA6LxN9mxVH_l-QkugDvQydTp_UD9R67B5Ps_JMlquKQL4zDh8T-S4VY9PGJC3UyfSKCQZ4hkw8nAupAsQAXEP3yAkWmDl8YZIi8p5JWJhCZLbCa1LQv5o2kZIIMHZt8syN5u0RU6Jya55Ik_eSpu4x_zFSDN9-NipcwgiwqCy9mkqUUN788bg21zfTPKHqtVpC-fbv0YLEGXrOTIoMTF5C",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=6299868709&itemId=28652525147&vendorItemId=91749984979&traceid=V0-153-c2c27c8ae2b8f728&clickBeacon=29889750-d46c-11f1-94c0-e904ff8eadcd%7E3&requestid=20261030231404283118347240&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "가끔 흔들리는 잔잔한 호수형 🌊",
+        "headline": "평온한 듯 보이지만, 가끔 속앓이 중!",
+        "emoji": "🌤️",
+        "tag": "회복력 보통",
+        "hashtags": [
+          "#적당한긴장감",
+          "#멘탈관리",
+          "#오늘도수고했어",
+          "#평온함"
+        ],
+        "bars": [
+          60,
+          50,
+          70,
+          65
+        ],
+        "summary": "평소에는 멘탈 관리를 잘하고 계시네요. 하지만 가끔 예상치 못한 스트레스가 오면 수면 패턴이 조금씩 흐트러지곤 합니다. 지금 상태는 '경계주의' 정도예요.",
+        "trap": "스트레스를 쌓아두었다가 주말에 몰아서 자거나 노는 것으로 풀려 하면 리듬이 더 깨집니다.",
+        "advice": "기분 나쁜 일은 일기장에 짧게 적어 털어버리세요. 따뜻한 차 한 잔 마시는 루틴만으로도 긴장도가 훨씬 낮아집니다.",
+        "rx_keywords": [
+          "릴랙싱 티",
+          "아로마 오일"
+        ],
+        "prescriptions": [
+          {
+            "title": "이너블릭 캐모마일 차, 1.5g, 100개입, 1개",
+            "tag": "맞춤 케어 · 릴랙싱 티",
+            "reason": "릴랙싱 티 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/jGnJtTtSLwL99lEbjLRKBv6nYYQhIlM568rlM85jx6VIgT4ELz8PzczJ7rrmoddA0Xy9FXSeE10PJH8k-PnlbX1D4ectrQFPUgt10e4WnR_Ro5Uk4gen8k1-DVv_z11PkJrYlhySNGi2FFFlpkbylmafriiRa097VrAXHmWg0E_ire3-XC_bdq5Zyx0d5eLuxjnjtRLhReHqiMglSj-bMZ98C8urn8zqgb1ydhA80DVl4R00HmmLYDzrqryzTqpHYCBC7Vl0MLZD4CuDcgbyADfmtQmzz_KfoReVRgRA6bGgRGjxTeOH8yyCWSXfEhdUrschS858F7e8ZdDHUPdc-myDoQcQTd3nEbD1900Cm9CUPgWaaJiZPyAja2_01bBzGfklRxkJVy8dAYlqLKY8Fe5GkHHiLCORvgXWW2EEpewgbjUUW9UIoMlv5fcPkovPzWGd2JOGZoNovFFmQBkAbFFQr1_8fE9ciq75h5LPo87Ze1ZeHhYjkjsj5aRlC_EhfsMUbKf6mOWX9RLqiMWXPZbHrm1Z",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=7507905250&itemId=20067032362&vendorItemId=77790716710&traceid=V0-153-3161d60186063ae6&clickBeacon=29b72160-d46c-11f1-973c-3f763b2a906c%7E3&requestid=20261030231404526181690153&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "1+1+1 천연 아로마오일 에센셜오일",
+            "tag": "맞춤 케어 · 아로마 오일",
+            "reason": "아로마 오일 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/MsTScHNgFLBuyHPYMsM8LRaNSY9zfJFaEHGNnTIRjkvTZtWFaGnU4dGuAt69DnM0H3XvAs9fz3_IhVpro-XrAMyQU1ILOQdnKSb3G_3yMI6qfjxo0RgGVOJL2MCzWKkOz4aOlBMnDYBWpccZb3Gqt9ldRqnhZHA7wpiJFgwpDwUoXrPMfW0stbgxiVakoGcLsD2tDgyOKrm1yBZ-A7hYkxeXW3uj_n9tVk6eD9ibmOGpC5LpdBTfIGpyihxoaBTDvxCDur2wbrtA_kHgzxxXbIv0__VV85rVNX0Td7d4jLCAwZcLPJupX-sJyPnArfT8bXx2TPiuoMIuLGauvdxyn1hbRUCWqu1JntuuEY2eKLg22eG4nxF7m4fTY1P1lhd0ldLDM-fycIId9ogaVICypIXoFqol-XbnsiSPh2nmNmF33s1VXmtORj0MESId2X0fsqpDXuXHfEKC5AxcQ47-kL0-XC_OIovYzt5O426qGMs1TEEji_lDGTpmJeN5rqyzCUcC_HLxCTdCrL8i3Gnods36LLshrRRaFyQT9wnTsbMQARs=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9732989360&itemId=29141144554&vendorItemId=91454754395&traceid=V0-153-0ddb87e13d1b0d2c&requestid=20261030231404789279722961&token=31850C%7CMIXED&pt=0&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "누우면 3초 컷 숙면 요정 🧚",
+        "headline": "당신의 뇌는 완벽한 워라밸 실천 중!",
+        "emoji": "💤",
+        "tag": "멘탈 갑",
+        "hashtags": [
+          "#꿀잠요정",
+          "#멘탈강철",
+          "#숙면성공",
+          "#부러움주의"
+        ],
+        "bars": [
+          20,
+          10,
+          95,
+          95
+        ],
+        "summary": "정말 대단합니다! 당신은 스트레스를 그때그때 흘려보내고, 뇌의 스위치를 끄는 법을 본능적으로 알고 있네요. 이런 당신에겐 숙면이 최고의 보약입니다.",
+        "trap": "너무 무던해서 오히려 주변의 감정적인 신호를 놓칠 수 있으니 가끔은 세심함을 챙겨보세요.",
+        "advice": "지금처럼만 유지하세요! 숙면은 당신의 가장 강력한 무기입니다. 좋은 잠이 2026년 당신의 성장을 더 빠르게 도울 거예요.",
+        "rx_keywords": [
+          "숙면 베개",
+          "안대"
+        ],
+        "prescriptions": [
+          {
+            "title": "아늑앳홈 고중량 60수 순면 노홍철 호텔 베개, 호텔 베개 본품(솜+커버), 2개",
+            "tag": "맞춤 케어 · 숙면 베개",
+            "reason": "숙면 베개 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/JGHqzfKiQmPgA9pTJEXrdb0L6YCReNHuxDhH4KWbYFSHvR9GhkrcyQIFVaFZZj6JNGEIq4CyRu1A7MuCFulSx_jxAfE4r2x4vf8FF7_UvLblS9XUlSFXzox1TSFoItMIyPJnIAg50SSW-9Gl2vtZq6TfuMhiQe1Y_ukomXKQvwLVbqox4X5z-4YdU-IHemwDYpZ3lCNz2yAjDLgoLgIc_MZJFPmFgg6HNf35OMDnhTwfhel_z4abyloCoDbibMGVZwwglDqfEb7zC5GBJI0gvVVJmXOP7sQAbrD8dcaLwTs7mez-nuaMOMA9lD3Fly7PzavibGuIzYqaCTJsgpNE0CDLHASEhZe655hTWQt5LXZ9tqXyZIew5d9yXgquRNfme4_eKxcC9p7MM83T0CVBNysVee-XQj70nkaQ_UMnv3pgEc2Ewma_n4qJYTYqAjIchUcz-h9YdDNCXwfWlFc2ZRN6wul4Xd-Shsf8d1Jtdtp3PhnZ04q9QdZXZjecmvFuisSblh_UEDIKWHJSpYc5FnqLCInl",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9715032802&itemId=28281776520&vendorItemId=95234770172&traceid=V0-153-7132db2b5159fdf9&clickBeacon=2a0170d0-d46c-11f1-a371-b7454f01ad5d%7E3&requestid=20261030231404998245345399&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "컴포럽 프리미엄 암막 수면안대",
+            "tag": "맞춤 케어 · 안대",
+            "reason": "안대 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/2B512u81SrpaGT1M2L4RrxlxpwwI3iHvNhxYRzyw3eDLuqb3V1-VYE8W0Rybfe3I2O8j7X1QcNowf0AcMkF9xH9EosKjgiuUVKJUyxd-b1f206iZ6qvK71aDhuMhVP9WgZc7eOAjsgxwie9DZplav6Ibum6XXdAN1JkSRAkg_j3vfbduNp5UCrgBp4_CtWaUajvQFy3kQfDk9NXKlQ8uTsPFOuGv7dpZ8EJNnxtqc4SYZAkGX6wTN-tSvUeZ16uLTXQY0gLjGLOvd8n2WmJjgs7nDefM3-rhbdgdnwmQjJcaolBXNOOW3qNKVtbN8pAAjsgmXTQZqUZK0nhq_vmBV9cb6T36XtLBnngJSdcgWM6QTWWau9Mm4dME28QTFsq_2t22HtVe9nvdJyCywCA90wuk_vMNKagxA4FNH2T_A77sXNgNPdDdGUG-SLMJyH7KtGi-0sH1uG2mkifFFcXWy4gFpVYcN4egoSRWZv9m-nd36nF8bOi6FPEnJreu0Fral0-5PfMY0yo=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=5071236307&itemId=6862847936&vendorItemId=78103972659&traceid=V0-153-96f053e4a50c95de&clickBeacon=2a265df0-d46c-11f1-a8b2-6c830cc11eec%7E3&requestid=20261030231405241037241285&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 192793,
+    "created_at": "2026-10-30 23:14"
   }
 ];
