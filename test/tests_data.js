@@ -6836,5 +6836,209 @@ window.TESTS_DATABASE = [
     ],
     "participants": 289570,
     "created_at": "2026-10-31 00:44"
+  },
+  {
+    "id": "money_mbti_2026",
+    "category": "소비/재테크",
+    "title": "짠테크 절약러 vs 감성 플렉스러! 나의 머니 MBTI 성향",
+    "subTitle": "나의 <span>머니 DNA</span>는 과연 텅장러일까, 재테크 고수일까?",
+    "desc": "매달 스치는 월급, 나도 모르게 새어나가는 돈의 비밀! \n2026년 당신의 소비 패턴을 분석해 드립니다.",
+    "emoji": "💰",
+    "tag": "재테크·소비습관",
+    "viralBadge": "🔥 누적 215,300명이 참여함",
+    "metricLabels": [
+      "플렉스 지수",
+      "절약 의지",
+      "계획성",
+      "도파민 의존도"
+    ],
+    "questions": [
+      {
+        "category": "출근길 카페",
+        "question": "아침 출근길, 어제 너무 피곤해서 늦잠을 잤다. 오늘도 '나를 위한 선물'이라며 고가의 카페라떼를 결제할까?",
+        "a": "무조건 고! 출근의 유일한 낙인데 이 정도는 마셔야지.",
+        "b": "이미 집에 텀블러와 카누가 있다. 참고 집에서 타 먹자.",
+        "score": 1
+      },
+      {
+        "category": "퇴근 후 쇼핑",
+        "question": "인스타그램 광고에 뜬 예쁜 오브제. 지금 당장 사지 않으면 품절될 것 같은 불안감이 든다.",
+        "a": "내 방 분위기 바꾸는 건 못 참지! 바로 결제.",
+        "b": "장바구니에 담아두고 3일 뒤에도 사고 싶으면 사자.",
+        "score": 1
+      },
+      {
+        "category": "배달 음식",
+        "question": "주말 저녁, 요리하기엔 귀찮고 배달 앱을 켰다. 최소 주문 금액을 맞추기 위해 사이드 메뉴를 추가할까?",
+        "a": "당연하지! 온 김에 푸짐하게 먹어야 스트레스가 풀림.",
+        "b": "차라리 냉동실 만두를 굽거나 밥을 해서 먹고 배달비를 아낀다.",
+        "score": 1
+      },
+      {
+        "category": "친구 약속",
+        "question": "이번 주말 친구와의 약속, SNS에서 핫한 '웨이팅 1시간' 맛집을 갈까, 가성비 좋은 동네 맛집을 갈까?",
+        "a": "인생샷 찍어야지! 웨이팅은 감수하고 핫플레이스로.",
+        "b": "사람 많은 건 딱 질색, 조용하고 가성비 좋은 곳이 최고.",
+        "score": 1
+      },
+      {
+        "category": "적금과 소비",
+        "question": "갑자기 보너스가 들어왔다. 가장 먼저 떠오르는 생각은?",
+        "a": "그동안 갖고 싶었던 위시리스트 아이템을 산다.",
+        "b": "적금 통장에 넣거나 예비 자금으로 묶어둔다.",
+        "score": 1
+      },
+      {
+        "category": "편의점 습관",
+        "question": "편의점에서 1+1 행사 상품을 발견했다. 하지만 딱히 당기지는 않는데?",
+        "a": "일단 사야지! 1+1은 안 사면 손해인 기분이야.",
+        "b": "필요 없는 건 안 사는 게 버는 거다. 패스.",
+        "score": 1
+      },
+      {
+        "category": "취미 생활",
+        "question": "새로운 취미(골프, 캠핑, 베이킹 등)를 시작하려고 한다. 장비부터 풀세트로 갖춰야 할까?",
+        "a": "장비빨도 실력! 시작할 때 제대로 된 장비를 갖춰야 동기부여가 됨.",
+        "b": "일단 중고나 저렴한 걸로 찍먹 해보고 흥미가 생기면 그때 투자함.",
+        "score": 1
+      },
+      {
+        "category": "할인 쿠폰",
+        "question": "온라인 쇼핑몰 할인 쿠폰을 받았는데 유효기간이 오늘까지다.",
+        "a": "이건 하늘이 주신 기회! 당장 쓸 만한 거 찾아서 결제한다.",
+        "b": "살 게 없는데 굳이 사서 돈을 쓸 필요 있나? 그냥 버린다.",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "도파민 중독 플렉스 요정 🛍️",
+        "headline": "통장은 비어가도 행복은 꽉 차는 맥시멀리스트",
+        "emoji": "💸",
+        "tag": "플렉스형",
+        "hashtags": [
+          "#텅장메이커",
+          "#나를위한투자",
+          "#오늘만산다",
+          "#소비요정"
+        ],
+        "bars": [
+          95,
+          20,
+          30,
+          90
+        ],
+        "summary": "당신은 현재의 행복이 무엇보다 중요한 트렌드 세터입니다. \n지갑은 얇아지지만 삶의 질은 수직 상승 중! \n지금 당장의 만족이 당신을 숨 쉬게 하는 원동력이에요.",
+        "trap": "카드 명세서를 볼 때마다 심장이 쫄깃해지는 '카드값 돌려막기' 함정 조심!",
+        "advice": "매달 딱 5%만 먼저 저축해보세요. 그것만으로도 든든함이 달라질 거예요.",
+        "rx_keywords": [
+          "가계부 앱",
+          "비상금 통장"
+        ],
+        "prescriptions": [
+          {
+            "title": "만년가계부 캐시북 다이어리 금전출납부 스프링 제본, 아이보리, 1개",
+            "tag": "맞춤 케어 · 가계부 앱",
+            "reason": "가계부 앱 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/XL0r-dRHe7dHBvEZXPJs7vJ8Cbz9teNnHBFNWBL46bLboKUYyi3ZczSVZYx72dVbpEjnL6oUDU69TbHokz6iV1UB5dPz6XTZ9eDywvvKp-qPDtnQdYf5ubZr7ZtI5IMw1OR19Me_UTmZjjquXMWpfekAgliivw8rBdui7OCy24e9NbRqDyZCgAghU-ZIlacFT_ipgsxqhf15RYnJL-NA_z1hYcRQARzFeb9lVelP3rBx_YSOvr3kR_pwaot3d_Aq7w7KO1H6P45BcuHIVXVKw-SROGVJzcxeBhtihcOjQLahax6217kDkRbiCuh0xUHmuVI-SkijvLAOMUMjj8QZJ_038grAFqgJpVZhcanYg-F6RvU_bV7HGwZwuEgj_myX_dK0Q4ciVJAGKm2uwDNXjK4KH41321RcpqwveTPFYbsKgCwJRGSB6O_88kMdKyQXn6BQ1f1eO7Ao0L6HKeVg9DciUFRm-hvfgZWsdtB6PX2xfacwqdpaU0yXZPTvzSUvXZelhON664vY0r5hwVD0Q0AK8hfT8PdD",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9609052061&itemId=28687620626&vendorItemId=92174229979&traceid=V0-153-9bd200e6d8b66866&clickBeacon=953024a0-d4b7-11f1-bf02-7586fc198c90%7E3&requestid=20261031081357125147136261&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "투윅스 가정용 미니 금고 소형 여권 통장 지폐보관함 비상금 열쇠 세이프박스, 샴페인 골드",
+            "tag": "맞춤 케어 · 비상금 통장",
+            "reason": "비상금 통장 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/kMEirJqtbCxhu54ekIQv5IrYARM-38QPcCje_tf6QYuImyMB1wmCK8TCzx7nVGtbQJ4NEMWG6nkwdmmsmLlg9ViaaUopJf5auCjzRBxu58Upnmukn7_jAs1ncptJll0Wb0t1bCf4FxsRw3BAtiNSlOg7Df3_fBP71msxnq5suLw3tqTgQWDjkFEoU71LSb8SFys6DZa5l0oaIgrYVGgYLzCpiRV3lkxIHb9pFUDmgZrzrjL-4GlKuLCU1CzeB_Sd5H9Ay2kN-C03sNXniMEso0usn3cnuYyRp-IXl_nOPLb5e7yUuvnKfoe5AZIZEouZQG68fXF9fsupzEGAS5tktFpooDVSvYGDRMetdN_T7Atb9uLKL3rBzQhXY9AHCoa6qhFA1pMpIT5vhRSmjIIuz_NIoRJaJqtvUW5Rlis7fuHMnVWPB_-p6VNJdbtOFbbuRx1c4EVQ8D--ZzovYwHHL5hs2tkblPqn-3MPzS3lBoeVfrFaN1DN7lNaH8fPBXuZIDBkigvhbsCwbA5YdDCa-4UrhE5yqnEF",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8300297956&itemId=28699831985&vendorItemId=95640897927&traceid=V0-153-79c44f1df4c7bcae&clickBeacon=9545f690-d4b7-11f1-a8e7-99c24b890fa5%7E3&requestid=20261031081357308074448177&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "중도 실용주의 가성비러 ⚖️",
+        "headline": "있을 건 다 있되, 낭비는 참을 수 없는 밸런스 천재",
+        "emoji": "🧘",
+        "tag": "실속형",
+        "hashtags": [
+          "#합리적소비",
+          "#가성비최고",
+          "#프로계획러",
+          "#밸런스갑"
+        ],
+        "bars": [
+          50,
+          60,
+          70,
+          50
+        ],
+        "summary": "낭비는 싫지만 그렇다고 궁상맞게 살고 싶지도 않은 당신. \n할인 정보를 귀신같이 찾아내는 능력이 탁월합니다. \n매사 이성적이고 차분한 소비 패턴을 가진 어른이네요.",
+        "trap": "가끔은 너무 계산하다가 정말 필요한 기쁨까지 놓쳐버릴지 몰라요.",
+        "advice": "한 달에 한 번쯤은 계획에 없는 '나를 위한 선물'도 괜찮아요.",
+        "rx_keywords": [
+          "다이어리",
+          "가계부 속지"
+        ],
+        "prescriptions": [
+          {
+            "title": "모더너리 A5 하드커버 만년 다이어리, 딥 네이비, 1개",
+            "tag": "맞춤 케어 · 다이어리",
+            "reason": "다이어리 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/H_gMxfps7QQBFNgkH4v-MtRP2querhlnSf9H5g7ldt-iEoRjOcmh58YD0ZEm8QGzkMc35kKmVEX2LQImp2fqg3IfVoLZ3_FxdEp0-ydmPnMvleQs6tFrZA1DZHJ0j4z3OzGchNm-1NBSImb8DS-sR4bzRXzIb18arySEHtZxJUFGNKGOvLh9hXurwfpSW5peFjHt3ybUi6t1aNDf8lhYKnAa0NyenKnTPk-9wx50blepu-eH7sKOBoHQP8XOHapiHAQLtGjYQWWkGjIwJsozG3E-DHZfzjlZFuDNSuQokTlipapPI0J_cz5Cwi2b73YW_thRdB7TvJFHN5SdUdkfWtBeGU1TK2bGGOUudrh5tZX53bS2iaBQXbB6bQZmIadFpDEmwNl8LeneWXExanFIXInLisorih-MJu6ow6tMDinpIDCTN8KTCFJ-fdXzK-M0haG4J97D3tkDn_0CxNOJlTspM-MKY0v0gu2CsogRzioPjH6Sqe-VgD1Yenp0E7vWKVEg9jt_fw==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9131402461&itemId=26868999503&vendorItemId=93838614451&traceid=V0-153-1820bd497c134ce8&clickBeacon=95651750-d4b7-11f1-87fd-b0f61a82b34e%7E3&requestid=20261031081357544076928654&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "M5 5공 다이어리 고급 가계부 속지 내지 50매, 1세트, 50매",
+            "tag": "맞춤 케어 · 가계부 속지",
+            "reason": "가계부 속지 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/JYJKAVq4OuPEMY61JWBLZf-gE4gCCWE3QsRPI9-UudCiislxSpq6mbOSSO2AEEPdTWZMTwLrATD07PUJ697rSDESqy8Rj95ZGWWJM_CNHKFWwvGSsuW8mpL28Bg04iwO2yXcSQsPhORJJIXF9TwYqAin4T7R1dBmIX_tHkc0G4VXnYQZKbb76B5FbN-hmHywVX-lB87ig7RSuWGBoqC2t5CR3jsX8-lsfqgzd1x56aH4PxMbHGyk0WyuMvxyPV60l_aVHAPBcsAwWeT0RYZKlhNIGdA93p16xq9gskKi_IizLfaW2fj4rT2nA_CjdPQ2_qCKWjE9wOHdXceBdrB25Rv-tPYYcZ24ecjV4X9ukZ2k25wT2E0tGydGZNZlS2aasD20-tE3EfKTtSQCfu4-6vslLqmVR3SMzPrMvedQBSi9NGaPZqI6y6oSjLlxnUU1ujkk1NKWu0RzST4jIsf-kEeMdoE1rpBWfsVZmSLSAH1Lg6TD2wnVNHFd5NalBEUfg0nQqyia6bNUwtbNk4JwWMBftlfxgwN4",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9369014142&itemId=27805279357&vendorItemId=94765169765&traceid=V0-153-88f28a867b018831&clickBeacon=9584d450-d4b7-11f1-84ba-3b48734a6f95%7E3&requestid=20261031081357692050103699&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "짠테크 만렙 절약왕 🪙",
+        "headline": "티끌 모아 태산을 실천하는 미래의 자산가",
+        "emoji": "🔒",
+        "tag": "절약형",
+        "hashtags": [
+          "#짠테크",
+          "#앱테크고수",
+          "#미래지향적",
+          "#금전관념철저"
+        ],
+        "bars": [
+          10,
+          95,
+          90,
+          20
+        ],
+        "summary": "당신의 통장은 항상 평온합니다. 안 쓰는 건 안 사는 것이 철칙! \n장기적인 목표를 위해 현재의 소비를 통제하는 모습이 정말 멋져요. \n당신의 미래 자산은 이미 우상향 중입니다.",
+        "trap": "너무 절약에만 집중하다 보면 정작 중요한 '경험의 가치'를 놓칠 수 있어요.",
+        "advice": "가끔은 자신에게 맛있는 한 끼를 대접하며 보상을 주는 시간을 가져보세요.",
+        "rx_keywords": [
+          "디퓨저",
+          "눈 피로 회복 안대"
+        ],
+        "prescriptions": [
+          {
+            "title": "헤트라스 헤리티지 퍼퓸 대용량 디퓨저 선물세트, 3개, 600ml, 밤쉘",
+            "tag": "맞춤 케어 · 디퓨저",
+            "reason": "디퓨저 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/t-H9gZDC1Z1FUKZFt04-eqeWzQPiujbM5qnROmadDQqzN6kd5etEiIZVLns9hxK2YoQImGC_xHUI5W6Yhq19yGK7_JDndpFNhpm0XrBsR-yLtUwiemiRWC15YxxNHiYlue4f_TJqSV81gAbQsz6cmWKPKGJItuFblZemOLPkIUIhvb2GIaXhe9V02Ke5T6v8tFEijognGKfTV8SWys-uHr56uauyEY-JP78vCosDm6OcrPbnSgRujc_kVNjR_lMNlJFgAO3Bx_sBF-vDJcCiALAjRh25qvxn65y3tidZT2oEo95cW9CqaiTcUoPMNyLj6_fdHI04CtRjzIOLind0v24p6mUkUGgvOw4TpYyhgSSfrenUlFE1kwkZmCKBTDeWeoci3uJxxrU6QtSQeBt3tLlz6_oAUR_u3IYz1d-hyAbrwyfrKJs5oigkQAcbt8H6-uL50q_Vf2b-8WsbJj7HnFD4z-40xv_bSvDeb3kkxcUd_ujS5zYXNqJW3xZYKKs=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9224196026&itemId=27652193824&vendorItemId=94614624392&traceid=V0-153-1f2e01b43b7f3413&clickBeacon=9596d5b0-d4b7-11f1-9a7f-ddcf551e99d4%7E3&requestid=20261031081357874189428308&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "온월담 온열안대 스팀 아이마스크 무향",
+            "tag": "맞춤 케어 · 눈 피로 회복 안대",
+            "reason": "눈 피로 회복 안대 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/gof2_M3GHdrW8DY3gmiUebVPXSxffaOW1x1ig67EmOxYfzKxiT8fGYl5zRZlGyzo9at7plJxGXZoRDWAOQ_5hp7iF4mWHr7gQjaJi-20zejJnhWpyhVh0oX1efBdhIhDN_d0NMlc0SJpjJ4XvLmND8f6BHLE4_juBDAELBcG6uZZJHLv4gJK_3zC4fDLWBn3jfel6DAyxCnf3RpD4bmZpv4k9UZTUBnVbplYxsttSHKQTiS3LCSWYloLdLkivq715zt44k3m40MmW3dshTuDenRiI9_wlXc3IW-udWcqvt7sunQXHdtcL4QqyQJriT0wbmAchspGctYWC3_H5k6QgYLKEnzqVSIGBwD3PVcwCN1SQVtxDhtp-MRlaH92hkRbe44mGz_tCHUJZ2kPEvT7LzuqEfYU-Yl-8nERHCwmfIMg-Mqxp4M4506HVTUHzqwL7PpMV365Ld8naDSpJl1fncXlY-Wu8_JxT-5xN_eKj-K7WBnJDVQGM0FaoVO_bJZfSsxklr06SFzGsI-QXByPXZtQd3ZI9qlGjCCUu2YfvA==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9724280554&itemId=29100295050&vendorItemId=95996890469&traceid=V0-153-e1adad3b4349bf5f&requestid=20261031081358012019315031&token=31850C%7CGM&pt=0&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 261244,
+    "created_at": "2026-10-31 08:13"
   }
 ];
