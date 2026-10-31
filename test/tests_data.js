@@ -7244,5 +7244,209 @@ window.TESTS_DATABASE = [
     ],
     "participants": 312549,
     "created_at": "2026-10-31 15:44"
+  },
+  {
+    "id": "digital_dopamine_detox_2",
+    "category": "힐링/멘탈",
+    "title": "10분마다 폰 확인하는 나, 혹시 도파민 과부하? 디지털 디톡스 테스트",
+    "subTitle": "당신의 <span>뇌는 지금 안녕한가요?</span> 도파민 과부하 측정",
+    "desc": "알림 소리에 심장이 덜컥, 폰 없이는 5분도 버티기 힘든 당신! 지금 당신의 뇌가 디지털 번아웃을 외치고 있는 건 아닐까요? 8가지 질문으로 알아보는 나의 도파민 중독 지수.",
+    "emoji": "📱",
+    "tag": "도파민·디톡스",
+    "viralBadge": "🔥 누적 215,400명이 참여함",
+    "metricLabels": [
+      "자극 추구",
+      "집중력",
+      "정서적 여유",
+      "디지털 의존도"
+    ],
+    "questions": [
+      {
+        "category": "📱 일상",
+        "question": "출근길 지하철이나 엘리베이터를 기다리는 1분, 당신의 손은?",
+        "a": "무의식적으로 인스타그램이나 유튜브 쇼츠를 켠다",
+        "b": "멍하니 창밖을 보거나 팟캐스트/음악만 듣는다",
+        "score": 1
+      },
+      {
+        "category": "💬 소통",
+        "question": "카톡 알림이 울렸을 때, 당신의 행동은?",
+        "a": "무슨 내용인지 즉시 확인해야 직성이 풀린다",
+        "b": "하던 일을 마친 뒤 여유 있을 때 확인한다",
+        "score": 1
+      },
+      {
+        "category": "🍽️ 식사",
+        "question": "혼밥을 먹을 때 영상 없이 밥만 먹는 것이 가능한가?",
+        "a": "절대 불가, 무조건 짧고 자극적인 영상이 필수다",
+        "b": "음식 맛을 음미하거나 생각 정리하며 먹는 편이다",
+        "score": 1
+      },
+      {
+        "category": "💤 취침",
+        "question": "자기 전, 폰으로 유튜브를 보다 보니 어느새 1시간이 훌쩍 지났다?",
+        "a": "거의 매일 반복되는 일상이다",
+        "b": "일부러 폰을 멀리 두고 일찍 잠자리에 든다",
+        "score": 1
+      },
+      {
+        "category": "🧠 사고",
+        "question": "잠깐이라도 가만히 있으면 불안하거나 심심함이 느껴지는가?",
+        "a": "그렇다, 끊임없이 무언가를 보고 들어야 안심된다",
+        "b": "멍하니 있는 시간 그 자체를 즐기는 편이다",
+        "score": 1
+      },
+      {
+        "category": "💻 업무",
+        "question": "중요한 일을 하다가도 '잠깐 확인만 할까?' 싶어 폰을 들게 되는가?",
+        "a": "네, 그 '잠깐'이 매번 10분 넘게 이어집니다",
+        "b": "집중이 깨질까 봐 일부러 폰을 뒤집어 놓습니다",
+        "score": 1
+      },
+      {
+        "category": "🏃‍♂️ 휴식",
+        "question": "주말에 아무 약속이 없다면 당신은?",
+        "a": "침대 위에서 폰으로 밀린 영상/피드를 몰아본다",
+        "b": "산책을 가거나 취미 활동 등 오프라인 활동을 한다",
+        "score": 1
+      },
+      {
+        "category": "🔋 상태",
+        "question": "폰 배터리가 20% 이하로 떨어지면 느끼는 감정은?",
+        "a": "심리적 불안감이 엄습하고 충전기를 찾아 헤맨다",
+        "b": "집에 가면 충전하면 되지, 하고 덤덤하다",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "도파민 풀가동! 뇌 과부하형 🤯",
+        "headline": "당신의 뇌는 지금 '과부하' 경고등이 켜졌습니다!",
+        "emoji": "🤯",
+        "tag": "도파민 중독",
+        "hashtags": [
+          "#뇌과부하",
+          "#도파민디톡스시급",
+          "#디지털좀비",
+          "#쉴줄모르는뇌"
+        ],
+        "bars": [
+          95,
+          20,
+          30,
+          95
+        ],
+        "summary": "자극적인 콘텐츠 없이는 일상 유지가 어려운 상태예요. 뇌가 쉴 틈 없이 돌아가서 정작 중요한 곳에 에너지를 못 쓰고 있어요.",
+        "trap": "휴식시간마저 쇼츠로 채우는 '가짜 휴식' 함정에 빠져 있습니다.",
+        "advice": "딱 1시간만 폰을 끄고 '멍때리기'를 해보세요. 뇌에게 진짜 평온을 선물할 시간입니다.",
+        "rx_keywords": [
+          "오프라인 컬러링북",
+          "독서 타이머"
+        ],
+        "prescriptions": [
+          {
+            "title": "봉봉보물집 성인 취미 힐링 낙서북 스트레스 해소 컬러링 색칠북 드로잉북 미술놀이, 1개, A4",
+            "tag": "맞춤 케어 · 오프라인 컬러링북",
+            "reason": "오프라인 컬러링북 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/-7jpbiSvyzibVo3Y-7Xf9Q1DaZKu3eqMGXFgOtdbCxzukQr1C1CDRoWjD15ZtENhPsy1jEOTRmfg-GuQh4FNB8yXJ5PTdYuZlEBvIsoooTg8ZzGZEg0quRIXV75V6dgd1ioIwVbXdjCizO84bt-9hbQizjCQKVyL2aCxNScaWcee4_3mr3JwSxwaN0fIMdEEpUUkUK9ComDNS7qHjxxlNHV6vuy1Jo3XehRNDwRm_U--zjuYgdnK6QqvBIcE1QnuW-gZLlsedLrAoT11t0rjXoPp-1XQTYMKm05WZu9-Dbbl1ZkAS_tMGjL1vO94SPUP-Ku1IYKfckY3W7FdBXJA35mkbCEwxC8kiEVH3nk-9_IOiy3hXuylJi2Zppo1-w8ZVJ0WNhLDoc-PuTI5_BwEYbM1jTyRGJymzU80ExQI-njwpmw1BWxBXOV3YJM0XqdJyke8AYotGFU0Y-02LGiD2E2zWU7kX8we1xWioue-1e5oIAfVM7V_w0BinixUHkEvpkZ0shyOfi1e8W1LVUycqDmSnKNaH3s=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9742168277&itemId=29160349397&vendorItemId=96082655197&traceid=V0-153-051b82b546013ff4&clickBeacon=0e891a20-d542-11f1-a3d7-496bcc046282%7E3&requestid=20261101004511288292810894&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "하이쉬 무소음 뽀모도로 공부 타이머 시계 V7, 1개, 올리브그린",
+            "tag": "맞춤 케어 · 독서 타이머",
+            "reason": "독서 타이머 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/F-hGnrcSvv08pV04F98poB2oWjP-GL_52cfHKfMN8jAv8M_2AGcpbBD-Zh0qhWeLRMevIUB6o-aNSMLSudP4A1KZXN7kHSkA4ejjVQJguNhumx5WQLSHbvJ5wL7KehxKa-T8b2Y1w3toTx9PGegL9K-Wh8lqkaO_m02xXRdbIzj2_ziPtoj1TjEydI8ZukYkNHUjTIAAD_QIud4eHJ_fmi6pWmXF2bhDHE1E_nkQtuDFc6ERMyDAGf5C800rPZS1EFuf0rTejXvOZJQv4EFmMn5UbSHvSD40iJ-43qzyedLDX7aIE2l46MCb2grSlWShZY8SwgeWu7gtgyjRfCXk956tFf5zybPb2vYzyz7CHaOpKElzOgxHLjjLxEQMDLImHG-nNxi_Wva2KSepuIK1TLA3VkGX0vxFFW9ovBqJ4gDRbdWfnfcL1T9MGBEI5x7jmRrynFqtUkoKavmcBk3FNi3GXVhtDH1Gng2oJQUn9aM3QYaJ6I7jS16-GuW-P0lQSyanOAMytUUGNt564oACerDKT8O1ImXc",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9153187017&itemId=26954738518&vendorItemId=93923785245&traceid=V0-153-2a01a4b4abfb8280&clickBeacon=0eb55a40-d542-11f1-8afb-b5c33073a97b%7E3&requestid=20261101004511595195923395&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "알림 대기조! 경계성 디지털러 📱",
+        "headline": "적당히 즐기는 것 같지만, 이미 도파민에 길들여져 있어요.",
+        "emoji": "📱",
+        "tag": "디지털 과몰입",
+        "hashtags": [
+          "#절반은중독",
+          "#디지털다이어트",
+          "#적당히하자",
+          "#폰과거리두기"
+        ],
+        "bars": [
+          60,
+          50,
+          60,
+          65
+        ],
+        "summary": "일상생활에 큰 지장은 없지만, 폰이 눈앞에 없으면 살짝 불안함을 느끼는 단계네요. 스스로 제어 가능한지 확인이 필요해요.",
+        "trap": "심심할 때마다 습관적으로 폰을 켜는 '무의식적 사용'이 문제입니다.",
+        "advice": "식사 시간만큼은 폰을 보지 않는 '디지털 프리 존'을 만들어보세요.",
+        "rx_keywords": [
+          "스마트폰 거치대",
+          "명상 앱"
+        ],
+        "prescriptions": [
+          {
+            "title": "누아트 태블릿 스마트폰 침대 자바라 거치대",
+            "tag": "맞춤 케어 · 스마트폰 거치대",
+            "reason": "스마트폰 거치대 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/FDRfviHywd9TUTn2FB3aW5ErC_MXTMp4FbT8Xwnsjk0BlM0M0TU0GQ2E-gAPUyhmXz8dcBANOrRQJSf64ufuuRKGkkcDdLNM_6IV2Ozr4KjRR2iRCJ118GBl3eaq0o8I1Sl2zqrTAxQ3XlWkg5fYqDwToG9TjZcc9qI-QioeE5xwlxOGNsHB3fUYCLFjc-TkgkxwRm6sHojVidg6IfdQMUZSJr_ek1BCPPyGjNNSqT4cvDk4WQ5xUo5-x_ks9KKdDxZFY__QOqCkbVhN37786EZn9IfFgY-jXEYJLyxbsLo4nvgXZxwA1NA9xJvOIbQa72U4lFSOTk4zi_u5pg1UPewCCAl2sGL6bYgsm2B0rN3ArnsdLvZGfpMuazKLqJ7WHygueO2okUlZ0PVZ0_EINWDEQnwviWbhjsMEPToY0Mo58cAaxdrs7QysAwtqhusFTqiZpODLHBs3c-qTfe272Kv3ZcYlfMRMWXkwMtdkzRltDsqtbTb9dBpDzbhnDwLP3llPoKXBFAcyXb3CbhPy",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=2119214381&itemId=3597747774&vendorItemId=71583470455&traceid=V0-153-850a2b31c09b3d80&requestid=20261101004511971176165762&token=31850C%7CGM&pt=0&slot=1"
+          },
+          {
+            "title": "티스타힐 차크라볼 싱잉볼 명상종, 2개, 차크라볼C",
+            "tag": "맞춤 케어 · 명상 앱",
+            "reason": "명상 앱 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/Nn0Cpz6Gh4r-omi0NsrMwRKanAHKl2Ec7FLdT1rNZc-zpUmgqZXVjXX0GsF749d4F1Z8fiZcu8PY2RJfJdOxf3zU5-FNhhnOlyjABVpmYHPHA3cBITXPuR23IaQu8OMsHyS0Zq4MScKHzYMBciTpFHFwhGshqQY78wugy0jgpuwR6CVtJQGdqSQlNpRhpDV5QJY8FE5Zgnkv-L2Ics8Zl_CGvz4YqcSkhrowXgu2AB91CTA9r_kT8a7EfBvhE1sBRnhNgGvP-0cndsslAnL5Hn8w01j5tNGef1XsOXXUbohsaGk2tzcuLvWQnUedv-sUg9onoTYbmiprog__wtafYrpyBifEouxk_G-WJx7wsjhFrkm4tcNFzLC2kHou2MXP_irCAzqt48Uvu65w7TPqai2FveanKwMHUbYrx1L0SKNNA3z2iQXchb5JK8VTy-FdXLrZGO5UH7dBAkFbhhadwV0lfHkx9EaNwLXLtN_27vvS8Q_8oKioNIL3LmHtC3LVCSafLRCD7_XKCG7BBtc8zu1ntBAaVVI=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9686688596&itemId=28968589098&vendorItemId=95902699073&traceid=V0-153-120c6a029d8eb685&clickBeacon=0f1fb4d0-d542-11f1-aa76-b4b37bca6a3d%7E3&requestid=20261101004512275307139661&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "뇌 청정구역! 평온한 숲세권형 🌿",
+        "headline": "당신의 뇌는 숲처럼 평온하네요! 디지털 디톡스 마스터!",
+        "emoji": "🌿",
+        "tag": "디지털 미니멀리스트",
+        "hashtags": [
+          "#디지털고수",
+          "#뇌는평화주의자",
+          "#현생충실",
+          "#도파민프리"
+        ],
+        "bars": [
+          20,
+          85,
+          90,
+          25
+        ],
+        "summary": "자극적인 세상 속에서도 나만의 리듬을 지키고 있는 당신! 폰에 휘둘리지 않고 현재를 즐길 줄 아는 멋진 마인드를 가졌군요.",
+        "trap": "너무 완벽한 절제는 때로 정보 습득에 소외될 수 있으니 가끔은 트렌드도 확인하세요.",
+        "advice": "지금처럼 나를 위한 평온한 일상을 유지하며, 좋아하는 취미에 더 깊이 빠져보세요.",
+        "rx_keywords": [
+          "아날로그 다이어리",
+          "향기 좋은 캔들"
+        ],
+        "prescriptions": [
+          {
+            "title": "모더너리 A5 하드커버 만년 다이어리, 차콜 그레이, 1개",
+            "tag": "맞춤 케어 · 아날로그 다이어리",
+            "reason": "아날로그 다이어리 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/iGj0EyOn1-PUKHN8iF3akEglfra3VdjCQkhc-8QJMYYAcKv-CMzhjJ5IUQN-mjpBAaKnJB81YzC16o0-M_PMyoWhKKzDA5PJsE9byLkDf8A64Uu_FeAj6gmRCYYncT78uSsElleoPeaIrJBH7CnOzG1kP-1jFboZRdGDY877tzT--SFn-rjr2nLT6aCf0-WseP1pezfcPfqpaE508nDuvcM7xsmFJgP2N29VQAtIQtU5jA5Qg-fl-TEri9n4nV4Cbb9BX8mO3B26XlNvb0L4HVplgEvWSZSrpomGO0lHcc56rtkGZk33DQUPYobZMLYNpwtnp45L0kYf2DWc6OR7f5TQ6geUe9TOY1TUn-iecaw7LGqEr1qC4Xs5oHqYH2Ze0EPFt6F8hyD6VNI11gA1HfAvWFxUE2exfKP6Zj2_hCZ4Vmssb6ehi7bxzeLK579QyZG3zhhfFwhM2MEXK2WQoDHtb52Y9v6lAYDj62w_x4RS3DxYGVmOLHDfP7ZBLiiWsFTWOjmsrrsL",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9131402461&itemId=26868999506&vendorItemId=93838614449&traceid=V0-153-1820bd497c134ce8&clickBeacon=0f425800-d542-11f1-901b-605144c6788e%7E3&requestid=20261101004512493279720516&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "르미에 캔들, 후리지아, 570g, 1개",
+            "tag": "맞춤 케어 · 향기 좋은 캔들",
+            "reason": "향기 좋은 캔들 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/f0Y9Jo-OHdHnE1Tbf4vn-nzHEHMMaG5CjpDOo_4DGBLtRS4f8sU03Gxyv3AeU1HgzJV1keKM0kBrOHIRlzK1fa3RXQnu7HIaGvPr7XdZp0_NKasUusY6ZFvyQ13ESLOkIAezdIDp66iK-TjEPx2esg40kYAULzsMPmTyN9R5sapZEUhh9KuskVcQ9Yhq_7fCsmC9vh0-XXUywSAy3w_PzPVJlWqxiSRuS09gyBHUFG88pbyF1pw7Pvv3v4i-NV-jUgUAJDvyC05y1F8TZv-eUyHSXAFpbozAdf-6ZWz4BOKVp8yri-i89q1TeVtXXdswM2EuszZkerHBythZNRxq5IccA1Epw6MviiPsT-Y7fLdiNxjPi1fYbM1jIJuuohu7wQ8m7q_OFnnLJTvIUmNVP2j_FPewWbngxUT-68JiJwKA2XNsqGk1-b-acinTXtJ3_-1aim8_SdqAJuGWlp85snQ9uyUB79yps7C4gVgYgkSQtLhzzmVSnswJQAaZtrWyySFoJv1KKAQ=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=6102014865&itemId=24428606551&vendorItemId=93410657174&traceid=V0-153-0b4dd8ee23a5facc&clickBeacon=0f6cc360-d542-11f1-af5c-646aac05e788%7E3&requestid=20261101004512696279720598&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 203868,
+    "created_at": "2026-11-01 00:45"
   }
 ];
