@@ -7040,5 +7040,209 @@ window.TESTS_DATABASE = [
     ],
     "participants": 261244,
     "created_at": "2026-10-31 08:13"
+  },
+  {
+    "id": "office_villain_survival_kit",
+    "category": "직장/성장",
+    "title": "사회생활 만렙 직장인! 나의 오피스 빌런 대처력 테스트",
+    "subTitle": "나는 <span>'프로 대처러'</span>인가, 아니면 <span>'속으로 앓는 참기왕'</span>인가?",
+    "desc": "매일 마주치는 빌런들 때문에 내 멘탈은 안녕한가요? \n회사 생활을 좌우하는 나의 진짜 대처 능력을 지금 바로 확인해보세요!",
+    "emoji": "🏢",
+    "tag": "직장생활",
+    "viralBadge": "🔥 누적 214,500명이 참여함",
+    "metricLabels": [
+      "멘탈 방어력",
+      "사회적 가면술",
+      "공감 능력",
+      "칼퇴 의지"
+    ],
+    "questions": [
+      {
+        "category": "업무 지시",
+        "question": "분명히 말했는데 딴소리하는 상사, 또다시 말귀를 못 알아듣는다면?",
+        "a": "상대방의 논리를 조목조목 반박하며 팩트를 꽂아버린다.",
+        "b": "‘내가 다시 설명해야지 뭐’ 하며 속으로 삭히고 웃으며 다시 말한다.",
+        "score": 1
+      },
+      {
+        "category": "회의 시간",
+        "question": "자기 할 말만 끝없이 늘어놓는 빌런이 회의를 30분째 독점할 때?",
+        "a": "시계를 계속 확인하거나 한숨을 쉬며 불편함을 대놓고 드러낸다.",
+        "b": "눈을 맞추고 경청하는 척하며 적당히 맞장구치고 상황을 종료한다.",
+        "score": 1
+      },
+      {
+        "category": "팀 업무",
+        "question": "내 성과를 가로채려는 동료, 결국 보고서에 자기 이름만 올렸다면?",
+        "a": "즉시 면담을 신청하거나, 상사에게 은근히 내 지분을 어필한다.",
+        "b": "‘그래, 이번엔 네가 해라’ 하고 쿨하게 넘기고 조용히 다음 일을 준비한다.",
+        "score": 1
+      },
+      {
+        "category": "메신저 빌런",
+        "question": "퇴근 직전 ‘혹시 지금 시간 돼?’라는 카톡이 왔다. 솔직한 심정은?",
+        "a": "안 읽씹을 시전하거나, ‘지금 나가는 길입니다’라고 단호히 답한다.",
+        "b": "심장이 덜컥하지만 ‘네, 확인하겠습니다’라고 울면서 답장을 쓴다.",
+        "score": 1
+      },
+      {
+        "category": "뒷담화",
+        "question": "탕비실에서 내 뒷담화를 하는 소리를 우연히 들었다면?",
+        "a": "탕비실 문을 벌컥 열고 ‘다 들었는데요?’라고 정면 돌파한다.",
+        "b": "들리지 않은 척 조용히 돌아 나와 이어폰을 끼고 노래를 크게 튼다.",
+        "score": 1
+      },
+      {
+        "category": "점심 메뉴",
+        "question": "매번 ‘아무거나’라고 하더니, 내가 고르는 건 다 거절하는 동료라면?",
+        "a": "‘그럼 직접 고르세요’라고 쏘아붙이고 그냥 혼자 먹으러 간다.",
+        "b": "상대방이 만족할 때까지 여러 옵션을 인내심 있게 계속 제시한다.",
+        "score": 1
+      },
+      {
+        "category": "무임승차",
+        "question": "같이 하는 프로젝트인데 아무것도 안 하는 팀원, 어떻게 대처하나?",
+        "a": "공개적인 자리에서 업무 분장을 다시 명확히 하자고 제안한다.",
+        "b": "그냥 내가 다 하는 게 빠르다고 생각하고 야근을 자처한다.",
+        "score": 1
+      },
+      {
+        "category": "기분 변화",
+        "question": "오늘 하루, 나를 힘들게 한 빌런들 때문에 내 상태는?",
+        "a": "집에 오자마자 침대에 뻗어 ‘내일은 다 죽었다’를 외친다.",
+        "b": "따뜻한 물로 씻고 명상하며 ‘그럴 수 있지’라고 스스로를 다독인다.",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "빌런 저격수, 프로 팩폭러 🏹",
+        "headline": "내 인생에 빌런은 없다, 오직 타겟만 있을 뿐!",
+        "emoji": "🏹",
+        "tag": "강철멘탈",
+        "hashtags": [
+          "#사이다직장인",
+          "#빌런저격",
+          "#오늘도무사히",
+          "#직장생활만렙"
+        ],
+        "bars": [
+          95,
+          80,
+          40,
+          90
+        ],
+        "summary": "당신은 부당한 상황을 참지 않는 명확한 경계선의 소유자입니다. 빌런들이 당신을 건드리면 오히려 본전도 못 찾고 도망가기 바쁘죠. 하지만 너무 강한 화법은 적을 만들 수 있으니 주의하세요!",
+        "trap": "직설적인 화법 때문에 의도치 않게 ‘무서운 동료’라는 프레임에 갇힐 위험이 있어요.",
+        "advice": "가끔은 팩트폭격 대신 ‘우아한 거리두기’를 해보세요. 굳이 내 에너지를 써서 빌런을 가르칠 필요 없답니다.",
+        "rx_keywords": [
+          "블루투스 노이즈캔슬링 헤드폰",
+          "필라테스 이용권"
+        ],
+        "prescriptions": [
+          {
+            "title": "필립스 ANC 노이즈 캔슬링 무선 AI 마이크 블루투스 6.0 오버이어 헤드셋, 소프트 베이지, TAH2500 BG",
+            "tag": "맞춤 케어 · 블루투스 노이즈캔슬링 헤드폰",
+            "reason": "블루투스 노이즈캔슬링 헤드폰 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/IyLsnbpC9MIeGFhcI-a4GGkY5iB6i1INgL4dBuW8CkrPOLDhWzro_5886sRqSYtG7ArwHIU8Ad4wH91110baJYeh_zgFqwlj_GNcSdQ22AoTsFF8ZQFnLSstV_viQ_QuHkqZBWBn3r-ypYUTEoMr9YFxB_qkTKU7jG1ahKPfT5tGKBDzWw7ka6R6yWZJNU6KK5C5hA5KDKmdHGFB6Jp6-GgQEMVKQ4_n1TwMORnFOBm92EjhUDoSqbWgbpz-6myD8jg6yBivy1vzrKgOyr_T20XZxb3eLICk-OB1EGZ-_t7bRB32jHJtaSDyMiPA-mFQcy_6MK9_3eZ3OwaHPKfDYv7Du2Al_aC62rWs8zBrBrv2va71_uAHRQkC_1CKcZP8IYRklA7HgKwUNcv4Fs4jnaKPdmyI0jE35X4R5bGrXaqZ0xlP90g5MIUjKdicfv7IgeDs3F2ZNYwNQ4ECvR_CYTkpydoW8ivYD1eknsM2OWVoAzi4quPsJpJ-_WbVjnr-uXkR9REivg==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9559597049&itemId=28526886882&vendorItemId=95343370709&traceid=V0-153-5d058e3a5d6ad467&clickBeacon=77fba5a0-d4f6-11f1-95ad-068706c3c53a%7E3&requestid=20261031154406417243478998&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "에그플랜 필라테스링 요가링 써클링 바레 홈트 필라테스 소도구 라이트그레이, 1개, 라이트그레이",
+            "tag": "맞춤 케어 · 필라테스 이용권",
+            "reason": "필라테스 이용권 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/V9JnUY6nK_N0xVDyVyRnQG6RhipoXNpoQOaolCfofqNY61gO2O9vlWQaguTHnePMZWc26JbyQoTQtofjwX6laKfqOf_etDCDZs0Z1F7asjuovZ_R2B5NGqeVqXMVNfbPQQWe2hXQrXveJqrNQmccCCVvXx5J4Gmo2Afd21GT76kj61iKLKEK_zxnoApTdTcNW3Z4gqMLtgVkh3qTc_4CZhA-b67x6SC95xWWgd3L6pbKdNTMLm6yzGKgKM6JtzX3ofTKRbH8VhggNM_fKZlJ4qXeIXEiWFwB_p6Z6xMaRc04dX-iJxpzx-K2vjg5wxp1_pfNtlln1Vtno5UoSvyOEPhLfQyxb4T46mRxf5BchWrHwdB51nMCLHGcfVuDNpsC0oOdAAaGImEchZuepLM7W99rGRXsY-4w8kr2uBVEFug5LgGr2fZxNgPHBBAs88cCa_EnMxm8rr7QESOsjCIpoHpzAFabCpcWP8P5TcXY-VnLTpoPwl-_baZZgsm0LC1ageFy3cbgBurCOUbfY24czHlAyYBbVh8=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9673899755&itemId=28925153546&vendorItemId=95856674357&traceid=V0-153-c1fa6bbe370998a4&clickBeacon=7812fe30-d4f6-11f1-97fa-da3ee554c3f9%7E3&requestid=20261031154406601221558902&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "중립 기어 유지하는 평화주의자 🕊️",
+        "headline": "적당히 섞이고 적당히 거리를 두는 사회생활 고수",
+        "emoji": "🕊️",
+        "tag": "유연한대처",
+        "hashtags": [
+          "#평화주의자",
+          "#사회생활만렙",
+          "#유연함의미학",
+          "#직장인생존기"
+        ],
+        "bars": [
+          70,
+          75,
+          85,
+          70
+        ],
+        "summary": "당신은 상황에 따라 적절하게 가면을 바꿔 쓰는 지혜로운 직장인입니다. 갈등을 정면으로 맞닥뜨리기보다 부드럽게 우회하는 능력이 탁월하네요. 모두가 당신을 편하게 생각합니다.",
+        "trap": "너무 다 받아주다 보면 정작 내 업무가 과부하될 수 있으니 거절 타이밍을 익히세요.",
+        "advice": "가끔은 ‘아니오’라고 말하는 연습이 필요해요. 당신의 친절은 당신의 업무를 먼저 마친 뒤에 베풀어도 충분합니다.",
+        "rx_keywords": [
+          "입욕제",
+          "허브차 세트"
+        ],
+        "prescriptions": [
+          {
+            "title": "바스로망 입욕제 히노끼",
+            "tag": "맞춤 케어 · 입욕제",
+            "reason": "입욕제 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/o6nk_Npja3XpZjSwoyG_XuKYu9-tE0TDc8gvkhSk_d_JNLH-BoR_uEfIyW5cB83bQeAzF1moRyAOgN7WtvRKRRisFRP8tBhQpVKuw3dfbNY16j9JX7WHBLGsVdWMmcga9Rqr9y9-K7UwJYSoXK22kzC6dDDotfi20h3p6uqipYdXU1Q_u0L_jxPEBUJcFovUqafLJ-ikjx242ZHVAudSce5gPGc36RVYe82wajy7srp0GoUaL-YOZ-UnnFSVVLWMl_aH_DrNHGHOrPPdeOwfjcWUZfaDfpcNeQ7UZ_6oonB4XkguEr6040ZNtMkrT4aeaR-qBtb3r2MYYmGoJM45u3ANsjLB-7GrWjSGuT1GrJcX0EIEtFOR6KlGAij1mx-vrEjZYvice2zL6snngyBB_zUv7QW50O5BMmpJiVPkF0G7xfXmk7sPIMmZad5KuREJQ4xJNWWLF0cVw1P15m-td1aI2c94Wc52U3G7IgQWcvBsSidAABDAPfaQCILU1U0Eaw_i4r0ei_2NzNtSKFYr",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=7152046383&itemId=25634610077&vendorItemId=3000092072&traceid=V0-153-97f57cdb03a44c0b&requestid=20261031154406792076927974&token=31850C%7CMIXED&pt=0&slot=1"
+          },
+          {
+            "title": "다비앙 유기농 허브티백 선물세트 2호, 허브티 6종 + 선물박스 + 쇼핑백, 1세트",
+            "tag": "맞춤 케어 · 허브차 세트",
+            "reason": "허브차 세트 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/3XSYJYrX5MZGqa7-3a3YZCJCdit2mWIegqnP6S4pwWJX4U0WNjxIVpbSZSXEcE4Av-3Bmcr0MM9pofA94QhBuKnej_ZhQ9H2UdhKGUqF3VlbfgcpkKsnmvOTU16l_aM2-sXDJhAJhcmYmcA-nePblDFLyfslYHCvPe2TMfAlPxh0BGgo9mGGpjpw2P0Yhm1SL_H0PvEdAr4Yms0JA9uD3XI2RxkAoBzEYUwtGkF63sufFUpDGZI8ESVwa7qBqRB9Se_nEu0vN8SQ_jV7A9HXefMEm6EvUcKp10IFvXTDdlKatLGCy0xfoMcBUhu3nt7S8JQ_zwowRp275ZS5kqcojpspJmakbohAHHmorXa-Yb8BnRF-McwsAHvNc4EnzncOf-wrwLcjzsfN9PGyIurZd7p7DikY9qGYa-fDgxNSpZc4ymoapXk-_clP9ktPW_y4CI1Dm0oGA56Va5ZLdo4NkHv-OBxDZ1hqndFms5PzoWuPKlV9pOooB1nYLYbemLp6t_wVBwbpDTM=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=6725836985&itemId=15655402073&vendorItemId=82871269377&traceid=V0-153-c0191cda223833ad&clickBeacon=784cabd0-d4f6-11f1-b1d4-a686bc6be124%7E3&requestid=20261031154406979001393772&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "내면이 썩어가는 속앓이 인형 🧸",
+        "headline": "빌런보다 내가 더 괴로워! 멘탈 복구 0순위",
+        "emoji": "🧸",
+        "tag": "참기왕",
+        "hashtags": [
+          "#오늘도참는다",
+          "#퇴사마렵다",
+          "#힐링이필요해",
+          "#속앓이중"
+        ],
+        "bars": [
+          30,
+          40,
+          95,
+          20
+        ],
+        "summary": "착한 당신, 모든 빌런들의 먹잇감이 되고 있진 않나요? 당신의 배려가 반복되면서 주변 사람들은 그것을 당연하게 여기기 시작했습니다. 이제는 자신을 먼저 돌볼 때예요.",
+        "trap": "‘참으면 복이 온다’는 말은 회사에선 통하지 않아요. 꾹꾹 참다가 한꺼번에 터지면 더 큰 화가 됩니다.",
+        "advice": "오늘 당장 당신을 힘들게 하는 사람에게 ‘조금만 천천히 해주세요’라고 작게라도 의사를 표현해보세요.",
+        "rx_keywords": [
+          "마사지건",
+          "멘탈케어 명상 앱"
+        ],
+        "prescriptions": [
+          {
+            "title": "마사지건 무선 복부 배 마사지기 진동 롤링 마사지기계 뱃살 운동기구 저소음 7헤드 6단계 강도",
+            "tag": "맞춤 케어 · 마사지건",
+            "reason": "마사지건 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/-bbONsIgbHCYYErq-QRFsOVA4ncZa3bCGnDqzZBlmdyXAVgG0uJ1ykSbgJ-nBAIOWZorVPGt6OYnjNUxLTVmo_EOCQv6ckFtA43DjEvPHQQ-AT7kOe5-J4IqYl4rgpb7ED9tkqlhF6iH1WJGng8GDVxHRVWFDhg57x2wqp4ZDo3lJ3SP9W-ZgIlzSjbthN32laixarbymSgtGXW0CR_KaihrC0u-qdSZEf8lUvXkJ0R8Zj17vFsxouc088iU5mLKmHwnis_S02PNvaZ0fbDUZxwl1Ls1mHnlSrPUpqdXJKkRrBBxiOdfCNGz8qvBWTSQhN9yupzIAIYAgky-iAZqoxJ7xjBej41EzYfDz7qjk-8bHlkFkbHcVwzflm2i72KwaIGgW8WkGMfY8CyV3dyQ9S3JbjOgVTuZ6k182GxYindfngKNYyunmMyVWvO6CsWUR3qpyzIpjFEp0_ev2WC0pIXL_hCa3ury-ARRPqgLs5eXmkYdI6BQZ6IBlq1XddwaZHfDpgOKo3eHhqpOjCviHD_rov85RMoIXDHOrkbQeg==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9597962571&itemId=28652229002&vendorItemId=95822490978&traceid=V0-153-fd0a5be66fbb162f&requestid=20261031154407151292816672&token=31850C%7CGM&pt=0&slot=1"
+          },
+          {
+            "title": "[스트레스 호르몬 41% 감소] 브리즈 / 멘탈 케어 이어셋, 힐링 명상 기기",
+            "tag": "맞춤 케어 · 멘탈케어 명상 앱",
+            "reason": "멘탈케어 명상 앱 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/H6or-hP3QqxWZXHAHxywVxD2Yj_GbbegEIbJst6BG5fYLVDAeNCBK-k1WDn1uG8R8EQvgL7gXZHUGjPYOvBlH107Zz2r36AzujXxEDD17Y4kR00RtUQrafiF26x-lipQlQGJprgTHK8XSq1yaNcNQTbsXHiHg85Vb4LP0sGOcXUhknfbX6DUbbvtQ8Uk7Vwa3BjBrkJj6Pu5U8FJThCZJrfzDNUwIHV_mpeQlnlFzkHv3j-OQa0dvjo9UczRljChN9Gqx_cddY2x-LIAtoE-ayWJlZRZe_0cH2Xdpbrm1sEvcGPngRLj_gKMZTwSxjXygV2sulQooQbj55av3QmLs-iLTZ0lsKeTTqzaHYN5B9D-bE0hGoe36DG4dOd2G675Zx1ImZmxKVi8tyDqf_DZZdnXf_aArLSUDL9Zc-jNgIeItuGNj3lAXQkjjbVXY3e5jEia9S3NfCrDwpS-cRJpXVBrpbFZLJdS9i_Km3r0aw0Pn3jMRGDgjJG_o3T9-i9xOViuOR11S9X7Ov5dsyMpd8B92ch6Y4kI_Rtf6l6VGaY_",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9053016220&itemId=26572288524&vendorItemId=90907742854&traceid=V0-153-1f8e72a35763f970&requestid=20261031154407243221559164&token=31850C%7CGM&pt=0&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 312549,
+    "created_at": "2026-10-31 15:44"
   }
 ];
