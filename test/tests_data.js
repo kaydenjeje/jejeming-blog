@@ -7652,5 +7652,209 @@ window.TESTS_DATABASE = [
     ],
     "participants": 283172,
     "created_at": "2026-11-01 08:13"
+  },
+  {
+    "id": "is_it_a_fling_or_fisher",
+    "category": "연애/관계",
+    "title": "이거 썸일까 어장일까? 1분 만에 끝내는 상대방 마음 판독기",
+    "subTitle": "내 직감은 <span>과연 정답일까?</span> 썸인지 어장인지 지금 바로 확인해보세요!",
+    "desc": "하루 종일 답장 기다리다 지친 당신, 혹시 나 혼자만 진심인 거 아닐까? 8가지 상황으로 알아보는 상대방의 진짜 속마음, 지금 바로 체크해보세요.",
+    "emoji": "🎣",
+    "tag": "연애 심리",
+    "viralBadge": "🔥 누적 215,800명이 참여함",
+    "metricLabels": [
+      "직관력",
+      "분석력",
+      "단호함",
+      "자존감"
+    ],
+    "questions": [
+      {
+        "category": "연락 패턴",
+        "question": "상대방의 답장이 3시간 넘게 늦어졌다. 뭐라고 올까?",
+        "a": "바빴다고 말은 하는데, SNS는 활발하게 하고 있음",
+        "b": "무슨 일 있었냐며 진심 어린 걱정과 함께 구체적인 상황 설명",
+        "score": 1
+      },
+      {
+        "category": "대화 주제",
+        "question": "우리 대화의 주도권은 누구에게 있을까?",
+        "a": "내가 질문을 던져야 겨우 이어지는 단답형 대화",
+        "b": "서로의 일상을 궁금해하고 끊임없이 질문이 이어지는 대화",
+        "score": 1
+      },
+      {
+        "category": "약속 잡기",
+        "question": "다음 주 주말에 볼래? 라고 물었을 때 돌아오는 반응은?",
+        "a": "일단 생각해보고 나중에 말해줄게 (일정 확답 회피)",
+        "b": "좋아! 그때 뭐 할까? 구체적인 장소나 계획 먼저 제안",
+        "score": 1
+      },
+      {
+        "category": "비밀 공유",
+        "question": "상대방이 자신의 힘들었던 과거 이야기를 나에게 말할까?",
+        "a": "자기 자랑이나 가벼운 이야기만 함 (본모습 비공개)",
+        "b": "남들에게 말하기 어려운 고민이나 속 깊은 감정 공유",
+        "score": 1
+      },
+      {
+        "category": "표현의 방식",
+        "question": "만났을 때 상대방의 눈빛과 행동은 어떤가?",
+        "a": "폰을 자주 보고, 내 말에 영혼 없는 리액션이 섞임",
+        "b": "나에게 집중하고 대화 도중 눈을 자주 맞추려 노력함",
+        "score": 1
+      },
+      {
+        "category": "미래 언급",
+        "question": "다음 달 혹은 반년 뒤의 우리에 대한 이야기가 나오는가?",
+        "a": "단 한 번도 미래에 대한 언급이 없음 (오늘만 사는 사이)",
+        "b": "우리 나중에 여기 가보자 등 미래를 함께 상상하는 말",
+        "score": 1
+      },
+      {
+        "category": "술자리 상황",
+        "question": "술자리에서 상대방의 태도는 어때?",
+        "a": "나뿐만 아니라 다른 이성에게도 과하게 친절함",
+        "b": "술자리 중에도 계속 나를 챙기고 다른 이성에겐 철벽",
+        "score": 1
+      },
+      {
+        "category": "결정적 시그널",
+        "question": "단둘이 있는 공간에서 은근한 스킨십이나 거리가 가까워지나?",
+        "a": "자꾸만 거리를 두거나 선을 긋는 듯한 느낌이 듦",
+        "b": "자연스럽게 다가오거나 내 바운더리를 침범하는 설렘",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "어장관리 당하는 중 🐠",
+        "headline": "정신 차려! 당신은 그저 여러 마리 물고기 중 하나일 뿐",
+        "emoji": "🚨",
+        "tag": "관계 주의보",
+        "hashtags": [
+          "#정신차려",
+          "#어장관리",
+          "#나만진심",
+          "#손절각"
+        ],
+        "bars": [
+          30,
+          40,
+          20,
+          30
+        ],
+        "summary": "상대방은 당신을 '언제든 연락하면 받아주는 편한 사람' 정도로 생각하고 있습니다. 당신의 감정을 소모하며 그들의 외로움만 채워주고 있네요. 더 늦기 전에 마음 정리 버튼을 누를 시간입니다.",
+        "trap": "상대방의 작은 호의(답장 하나)에 의미를 부여하며 계속 희망 고문을 당하는 것.",
+        "advice": "오늘 당장 모든 연락을 끊고 본인의 일상에 집중하세요. 당신의 시간과 감정은 당신을 소중히 여길 사람에게만 쓰기에도 모자랍니다.",
+        "rx_keywords": [
+          "자기계발서",
+          "운동화"
+        ],
+        "prescriptions": [
+          {
+            "title": "나를 바꾸면 모든 것이 변한다:생각하는 습관부터 바꿔라, 제임스 알렌, 이너북",
+            "tag": "맞춤 케어 · 자기계발서",
+            "reason": "자기계발서 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/km1hj3P22uCvypLTkkHWXLsQ5WWc0GvPCQcRe5PHie3rxf57Ayez3HlnDxm3xyjcL2C8wbUIwa_Q-wJLhWQImEAeJb0RWY5VdkqnShFP6gttvgOZfzsLvotFq80xoJDiu50aJNtiZRK4-7GpiP13OViBIZZCO9Wy8HQ0csSyJb7VN05o79gOp5_hIJJbKibGDELDAF61_1HHvkcDLXkLiY24mS4of9Jyrb82Zgh_-FjIfjbMWh6K7wX8b4rjRQ46tHnZYKRe80xaoRCwJubUDRcm2MUUjkrIIKnPS-qM88bgMjetvDfRPC1TYWHxWkp-eqnIG_ZTxlb7wp6yWBXzlhzeQ1Clw-23biNq4_uR2P6i75FiHQ8wJHiVPO3-9y3HzuzeLYhPKylQqZkjuakTa7SXxYhEUsEwIb4SxzAp4Id9oRQXRTFAklaXUalVRtmkyI8wLKjrwyGq57dOczn563vaBesh9hjgGOVdhSss4LWuSPtIkYJ-MEe_sjKXuWut6jtj0jA_mkWGe5z5_ZSdki8-9h5mAksh2wqLPvg=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=3849983&itemId=18909215&vendorItemId=3128363168&traceid=V0-153-c674c3e65471dc05&clickBeacon=9f5c1d40-d5bf-11f1-bca4-f49e31e9871a%7E3&requestid=20261101154401380099173030&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "까발로 여성 여자 발편한 헬스 마라톤화 조깅화 런닝화 운동화 CA003",
+            "tag": "맞춤 케어 · 운동화",
+            "reason": "운동화 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/xOtt4oIVSGIaXuokxNE6tw1soX-ZF7kJUbh9I0vrm5Eww53gSzbB2q8ArhSazBpxRxykI2RdzSOk26q45n7CAsPIukUlZaArg5FAf7P3GEotbxYNtP6BUQ3dSvyT_BlxLOeiBjW1jmcXTqPm1ckiR33Yz7D1RVrB8LRgfqAV7OlR3EbevJkXue_AMra733C5Cxk1V8qUCstXmQDcTtQ-n3KBFaoFaJ2caEzL8L4VOc1sxqX8wPJsuhgfY0O-SKO6yMsmXMMGgRbuyWpzThbgQUGN-5FvIgRM9KLdk_G9O1RSYgIhl8iGuheZdF8Rm9hnbjXc8c8lft9GcQhF2sGVk4frleeQvzLShjoKrcgTK4D-ZIl43__DKIao5sVLppu6IUTXocU7KlHQsctxXxhA0iUT_gPc0UeDogETYcnKYgWu3-brVnP62s-RzwMIZpkG1CyTCjyR6PM3A7pi4O4q_4_B-WrpishrIC-uPQmpW68BWgrktxzBKNkxC8dIaFc6dtrURBIqLfJkV8FE3Ez8ovnLox6T",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8413102557&itemId=24327054014&vendorItemId=92923583499&traceid=V0-153-2e88f2f3e3f70d53&clickBeacon=9f7598b0-d5bf-11f1-8d25-4e0c71b963d5%7E3&requestid=20261101154401567067174818&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "갈팡질팡 썸 궤도 🎢",
+        "headline": "썸인지 쌈인지 알 수 없는 아슬아슬한 줄타기 중",
+        "emoji": "🤔",
+        "tag": "탐색전",
+        "hashtags": [
+          "#썸인가?",
+          "#혼란스럽다",
+          "#밀당고수",
+          "#직진필요"
+        ],
+        "bars": [
+          60,
+          70,
+          50,
+          60
+        ],
+        "summary": "상대방도 호감은 있지만, 본인의 상황이나 감정 확신이 부족해 미적지근한 태도를 보이고 있습니다. 서로 눈치만 보느라 시간이 너무 흐르고 있네요.",
+        "trap": "나 혼자만의 뇌피셜로 상대방의 행동을 과대해석하거나 과소평가하는 것.",
+        "advice": "조금 더 솔직해져 보세요. 가벼운 제안을 통해 상대방의 의지를 테스트하고, 확신이 들지 않는다면 과감하게 관계를 정의해달라고 요구해도 좋습니다.",
+        "rx_keywords": [
+          "향수",
+          "커플링(희망사항)"
+        ],
+        "prescriptions": [
+          {
+            "title": "[브랜드인증] 존바바토스 아티산 오 드 뚜왈렛",
+            "tag": "맞춤 케어 · 향수",
+            "reason": "향수 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/ujoZuhEfTn1iOlITurU6QJI3es5Ym9clV7V7yF9I2L57yzTFl-oEuGlYZ18BsbJYRN8RWur-WEwxlb9OzUVnW24ydrQieSrTOta6u91J_9zwXOCx-CkGw6vfuTolUQi3eqOZtsFZ3BeoOQJ9Qc199oE_6hl62uQDh4HdfB-5tdv2VvjvoctbFxKoR631m4Njvfn-ZYIyo4beScZxX2womjU0Rv47aSTGb0UvGNsHMrWaNUKPUGUv4msx_07IyD8jDlq12WQC5-dOP7BRBWNM3d2dAoKHA3cfcj42DLvi5lpvSuyyvMO-fxYbmw254mWXDkiOgrRjRblMv1nCZ6TxG1Y2H5Wp0LnxeYCgIHojWkFAcL6qFWbAcW-IcS9TjzxqKMdtcdKipG-ydp2zezTJWVBSe2wpkLwSseDF52IjX2YdORSQIXDqALwctxIyvMaThnzpv4RT7qZk3RVNdmp-Pv1f782RuZbzT7WpH2Bl5jIeAbsTtVh_vojCIZOFOZyoeSQxAY_n3vn1_voW76VsA5Tm10V8snbN26-LaybfLcA0d7lP2Gpe4A==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9479077115&itemId=28220840135&vendorItemId=3002625520&traceid=V0-153-ea42fc5fe8503879&requestid=20261101154401671141437038&token=31850C%7CGM&pt=0&slot=1"
+          },
+          {
+            "title": "VARAM(바람) 써지컬316L스틸 4mm 보석 우정링 커플링 큐빅반지",
+            "tag": "맞춤 케어 · 커플링(희망사항)",
+            "reason": "커플링(희망사항) 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/UUhpLX_o8S-pBnarUe4rtsMFkPaNXpGCIXJ_VTgMoJyvM2hRH-HcpqGCL9k5QzJQE91wASKMqcc2jjmyzwbVhE1XtRplsNAhUCGHoH8GHnmpsF71a-feeN5uq7ukT4G5qCGCXZ8Q0MtBFzLH7l4emxswXOLe3PTW4SdjGrUGYDUHYW9i4Ni9qxk2cnUHQbtlanrghwSe_AIjdtfaXMpxVzLUt5ap_m6n5wAM8A8wKyAMswZzwJyrRfpOJb27yLiQkpiQfFnhzDB_oYE06zcj6chW1f3px5LW-7CMJzzHx3mdiPOhl_I6Ry6rEVV57AKKaPGCYQGhqmfjVTmIjgC76kQp4956yX0s3FnwTwHLyaVCmqpnr1Pzu43YD0SiEmmGxWcH5BFdmedPynrHr0c4GRvd-6goYwYiZPrjG3d5Tf212IvuDNjwHnCMBKYRSTn6mt9ErwYfFLHVP8xkO8il6hcZMvFP6ZpWZLBP1IkHxnD8F9G4bFAOVz0PvMLaCAst4jLVznADwVA2Vzc0SDeRwliqlZWP4ic=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=7702120702&itemId=20624418162&vendorItemId=88125932533&traceid=V0-153-d713108595915314&clickBeacon=9fa9ef20-d5bf-11f1-b8de-9a19aff337e0%7E3&requestid=20261101154401865245675184&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "찐사랑 예감 💘",
+        "headline": "축하합니다! 당신의 썸은 꽃길 확정입니다",
+        "emoji": "🌸",
+        "tag": "연애 시작",
+        "hashtags": [
+          "#성공적",
+          "#찐사랑",
+          "#로맨스",
+          "#꽃길만걷자"
+        ],
+        "bars": [
+          95,
+          90,
+          85,
+          95
+        ],
+        "summary": "상대방은 이미 당신에게 푹 빠져 있네요. 배려와 애정이 가득한 시그널이 도처에 깔려 있습니다. 이제 마음 편히 그 설렘을 마음껏 즐기셔도 됩니다.",
+        "trap": "너무 행복해서 갑자기 '내가 먼저 연락을 너무 많이 하나?'라며 쓸데없는 걱정을 시작하는 것.",
+        "advice": "지금의 예쁜 마음을 아낌없이 표현하세요. 상대방은 당신의 솔직한 애정 표현을 가장 기다리고 있을 거예요. 예쁜 사랑 하세요!",
+        "rx_keywords": [
+          "영화 예매권",
+          "디저트 쿠폰"
+        ],
+        "prescriptions": [
+          {
+            "title": "[책광장 모두] 영화의 시대 양장본 Hardcover",
+            "tag": "맞춤 케어 · 영화 예매권",
+            "reason": "영화 예매권 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/Am2_4pAVvcB19MpFAtRiulvxL6lz_fSw5_3U8NBeD_XA8V4la5bqULkW7o9X5K-_ADEBqqJ2vrLetccwPtFJY1fNpOBkONp-LcmhHRmN4Ymn2XWCbw-Sg7b4oLjgxMbn9uoVPbW56q0uDNMVWdteG1tMyhKrIti2VZrjeIVM05TKL282hvmFtMZVqJt-6syO0iXkODTrDiKFux31U13CDAqv65l9RJjx556-AUToZqeukOVOShKvl_k56LBKi3rKNd25JogKJSAJlfN5L6Phx_EAknwLBC5S40NEDSC1qlW36ok8LY2mmcNFN75np-AP1OVV-YoMTIbd0ixR4pTejGF8c9isq-2PhBZbPQbbVj3GPdXd-UlfeucwmUwr96-e8uI41Rj9p3RlJeL57Il4PlZ6F1dc9FosV_UCWcGZGvfNu8QzGtRqwDkyeAFD6T6wA4BH52ibmMyxgImWDXb8C4OrsCVuhuhBGKTyGMNSMsfTCZ8--2-32EzThzuO8RUnnBVI_-RSziBq7qWlY8dsrj0nfOcXnHg=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9678411710&itemId=28940425648&vendorItemId=95871376616&traceid=V0-153-b5a4e1485328490a&clickBeacon=9fd45a80-d5bf-11f1-9098-bda5c6827c44%7E3&requestid=20261101154402152292812531&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "미꼬마카롱 수제 프리미엄 디저트 선물세트 9개입 SD-260635 마카롱/B세트 3개, 3개, 1g",
+            "tag": "맞춤 케어 · 디저트 쿠폰",
+            "reason": "디저트 쿠폰 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/airZK8HmCtlhskYQap3UVd4ZCEOBPunlLxgdvMAXzZ3oXnIX8MfHbXshZFmoSs3CSIsRSf9F8ZNVLGbjv_TEgLmvlD21rKH1fXfF2KRTwgqwv09993fteftiuKkzCCwjhM3v7gmnpnobDUUNakhRS6pejoJqshkvjtbM8MawYB0i_5HimGkaXyVGeN4CRFVzjULdZRcD6PL1-NBf7-U_s1J8dBlsKfD3Hhv1-yOew57ZMxB-vQyRyiQ2LEIXOboZrpbuiE2lVUpunQDJOT1P4lT32ZsT_qmc06s_UbOKbTDmF2lrZrsLsQ7ps_BuZr2NHyATisYEtvp1AsNBZ37xuyXlXK8mtX4PeXJ-qcZrW5FnLl7CkoJb-YHwbQTbx-hBAPxcl5SoMN6_5zgcLHm33isVspNBby6NjGh9IpPUpjget8t9sIsfSdT8Dw6WBioV8dA0ozE9Xi9roQxH04aMwxA6zrfSs6fG5d_KPhUVPeIMjzbI4LjlYF18keiSUUKlPiZw2N892RLzVq3LvUNSOq4ik5Qcb_0PEw==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9774735556&itemId=29260198937&vendorItemId=96178016803&traceid=V0-153-a2b5560d2fb1ec1d&clickBeacon=9ff15860-d5bf-11f1-89a0-c5069d0fd81e%7E3&requestid=20261101154402305188576175&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 192147,
+    "created_at": "2026-11-01 15:44"
   }
 ];
