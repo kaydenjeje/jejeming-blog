@@ -7856,5 +7856,209 @@ window.TESTS_DATABASE = [
     ],
     "participants": 192147,
     "created_at": "2026-11-01 15:44"
+  },
+  {
+    "id": "digital_detox_dopamine_level_1",
+    "category": "힐링/멘탈",
+    "title": "10분마다 폰 확인하는 나, 혹시 도파민 과부하? 디지털 디톡스 테스트",
+    "subTitle": "내 <span>도파민 수치</span>, 지금 당장 체크해보자!",
+    "desc": "쉴 새 없이 숏폼을 넘기며 뇌를 혹사시키는 당신. 지금 당신의 뇌는 안녕한가요? 당신의 디지털 의존도를 진단해 드립니다.",
+    "emoji": "📱",
+    "tag": "도파민·멘탈",
+    "viralBadge": "🔥 누적 215,400명이 참여함",
+    "metricLabels": [
+      "뇌 과부하",
+      "집중력",
+      "정서 안정",
+      "현생 몰입도"
+    ],
+    "questions": [
+      {
+        "category": "출근길 풍경",
+        "question": "지하철이나 버스를 탔을 때, 당신의 행동은?",
+        "a": "일단 휴대폰부터 켜서 숏폼이나 SNS를 훑는다.",
+        "b": "멍하니 창밖을 보거나 오늘 할 일을 생각한다.",
+        "score": 1
+      },
+      {
+        "category": "업무/학업 중",
+        "question": "업무나 공부를 하다가 갑자기 울리는 알림음, 어떻게 하나요?",
+        "a": "참지 못하고 바로 확인해야 직성이 풀린다.",
+        "b": "지금 하는 일에 집중하려고 알림을 무시한다.",
+        "score": 1
+      },
+      {
+        "category": "저녁 휴식",
+        "question": "유튜브나 넷플릭스를 보다가 침대에 누웠는데, 자는 시간이 늦어진다면?",
+        "a": "재밌는 영상이 계속 알고리즘에 떠서 멈출 수 없다.",
+        "b": "내일 스케줄을 위해 정해진 시간에 단호하게 폰을 끈다.",
+        "score": 1
+      },
+      {
+        "category": "대화 모드",
+        "question": "친구와 카페에서 대화 중, 대화가 잠시 끊겼을 때 당신의 손은?",
+        "a": "자연스럽게 휴대폰 화면을 켜서 새로고침한다.",
+        "b": "상대방의 눈을 맞추며 다음 대화 주제를 고민한다.",
+        "score": 1
+      },
+      {
+        "category": "불안감",
+        "question": "화장실에 갈 때나 아주 잠깐 자리를 비울 때도 휴대폰을 챙기나요?",
+        "a": "당연함. 휴대폰 없으면 불안해서 못 나감.",
+        "b": "딱히 챙기지 않음. 잠시 폰과 떨어져도 아무렇지 않다.",
+        "score": 1
+      },
+      {
+        "category": "새벽 감성",
+        "question": "자기 전 머리맡에 둔 휴대폰, 마지막까지 보고 있는 것은?",
+        "a": "자기 직전까지 인스타그램 피드나 커뮤니티 눈팅.",
+        "b": "명상 앱을 켜거나 휴대폰을 멀리 두고 바로 눈을 감는다.",
+        "score": 1
+      },
+      {
+        "category": "감정 기복",
+        "question": "SNS에서 화려한 사람들의 일상을 보면 어떤 기분이 드나요?",
+        "a": "나는 왜 이렇게 사나 싶어 묘한 박탈감이 든다.",
+        "b": "그냥 그 사람의 일상이구나 하고 대수롭지 않게 넘긴다.",
+        "score": 1
+      },
+      {
+        "category": "뇌 정지",
+        "question": "아무것도 안 하고 멍하니 있으면 불안함을 느끼나요?",
+        "a": "뇌가 심심한 걸 못 참아서 끊임없이 자극을 찾는다.",
+        "b": "가끔 멍하게 있는 시간이 머리를 비우는 힐링이라 좋다.",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "도파민 중독 말기, 뇌가 절규하는 중 ⚡",
+        "headline": "당신의 뇌, 지금 휴식이 간절하다는 긴급 신호를 보내고 있어요!",
+        "emoji": "⚡",
+        "tag": "도파민 과부하",
+        "hashtags": [
+          "#도파민디톡스",
+          "#뇌과부하",
+          "#디지털단식시급",
+          "#오늘부터폰금지"
+        ],
+        "bars": [
+          95,
+          20,
+          30,
+          15
+        ],
+        "summary": "끊임없는 자극에 익숙해진 당신의 뇌는 지금 만성 피로 상태입니다. 잠시도 폰을 놓지 못해 사소한 일에도 집중하기 어렵고 쉽게 지치는 중! 지금 당장 뇌에게 '무료함'이라는 처방이 필요해요.",
+        "trap": "중요한 일을 앞두고 무의식적으로 폰을 켜서 시간을 낭비하는 '주의 산만'의 늪.",
+        "advice": "오늘부터 하루 1시간, 휴대폰을 아예 다른 방에 두는 '물리적 거리두기'를 실천해보세요. 뇌에게 쉴 틈을 주면 다시 반짝이는 아이디어가 돌아올 거예요.",
+        "rx_keywords": [
+          "디지털 디톡스 북",
+          "아날로그 다이어리"
+        ],
+        "prescriptions": [
+          {
+            "title": "누수몬스터 전자책 PDF 파일 이메일 기재 필수 (종이책 배송 아님), 1개, 임대인 편",
+            "tag": "맞춤 케어 · 디지털 디톡스 북",
+            "reason": "디지털 디톡스 북 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/ZbkmMhAn0t3OVpRCZUwvW4dzvzUI7nhWImhm4izjfF8Z5cbqbxOy3hoGr3WBXAJmJKmPErrrM0GIFl4XaC9gO-oSvPWZ7XIZgAyS9EpZIuk8mABXLGuVPYFB5jZzysBGKRwma0BYUBgvhv5mKUSo2ldpq0oeXbWEAMnclJpUQhXVJvQUa-XLMXkVlY4k9Q2_Pum_WNjPLmtw7M38eSrHVmqYULp6Ss0FueyKeW3IHVtJIOh4uaoTl6QqOaTLoF0Rk2n8vS2JJSfrUlYiVurvwzKF3yR8hM1IcSCd6U4z9p8zh7GEqMVJBgEt9guurauZVM2WQ0uKuiBCtlY03FiLC1AJ4Xnm3mjIHw559Z0FPYpQCkZWas_QZEoYyA2e_XYxYMvOoqKvmvuXev4x_1KAjNeS9riDi9Z4S2mJB9Yknpe2UBIUzP2LsVMjTFqnHk-LGJSHbwjv7RVmeRvYLYuvX9vcDcOmq4lnDLJzpGG47fL73G1LHPQ2sBGd4i2u6UOqAXaFjWCXf4PKJww15xG9Son5PvzYKDVv",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9736644685&itemId=29139448794&vendorItemId=96063111967&traceid=V0-153-4ed0ccb3e7f77119&clickBeacon=0d1bb520-d60b-11f1-bc7c-b990be2fd7d5%7E3&requestid=20261102004357712245346538&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "울이즈쿨 2027 하드커버 A5 날짜형 다이어리 플래너, 1개, 에메랄드 그린",
+            "tag": "맞춤 케어 · 아날로그 다이어리",
+            "reason": "아날로그 다이어리 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/MeUm0juKz7FVre57MUnFyCw6msjU0vjBEZIdPFQS9naJNh0Mc53kPfpV7hML8UIQegcQhhCCWdWXhEU9c2vsUogqUkC_IOpucJ1dDrcl9KhkaV918HRA3fEVgO9jvGGRtSZwW-fafmU-IiC4nuPtlo3RF7i7Twvp6sBKiOb8nww3gy8DFfJf5dSF-ZaB4CxcuCUFCbdcfkw8paDbjmExcQ1kijPWGsfCkd6V9177z3nVTW_V5L5vvQzq3roorW8_YQOgsHa0CLEca972ZqYEaEqvRTc_8R-lc0n9TY9BgZF9-j6brr8ZzPhHuCnJZ3md8DuYYuY2wLs6hzA1vun20cSnNpsEjwAoAUZJv_O44WMZ9Sn_Uf7t7ssJnnwYSgauUgqe2q1IX43OUujWapAJBIbnU3Suu5EXzWbkvYu9q5Q-UKYwX1pis5HHNcb8TOfU7mwMD1xjPi7eor2sj0bIFpWPiMc3qa5Q-4c3IV4vXOOflW1wicXFMH0g-RmdYD_Kt2c-Yq6zdj8CuzY_80AVIDrBYT-qBjU=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=9034423726&itemId=26502550334&vendorItemId=93477276496&traceid=V0-153-f6461b32a3a476dc&clickBeacon=0d4e36d0-d60b-11f1-9561-d39225c3486b%7E3&requestid=20261102004358055292812795&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "살짝 위태로운 디지털 방랑자 🔌",
+        "headline": "폰과 적당히 타협 중이지만, 은근히 뇌가 칭얼거리고 있네요.",
+        "emoji": "🔌",
+        "tag": "디지털 주의보",
+        "hashtags": [
+          "#적당히하자",
+          "#디지털발란스",
+          "#집중력회복",
+          "#나를돌보는시간"
+        ],
+        "bars": [
+          60,
+          55,
+          65,
+          50
+        ],
+        "summary": "폰을 써야 할 때와 쉴 때를 구분하려 노력하지만, 무의식중에 자꾸 손이 가는 당신. 지금이 바로 도파민 중독으로 넘어가기 직전의 '골든타임'입니다.",
+        "trap": "습관적으로 인스타그램 스토리만 확인하다가 30분 순삭하는 '알고리즘 덫'.",
+        "advice": "화면 시간 통제 앱을 활용하거나, 알림을 필요한 것만 남기고 꺼보세요. 의도적으로 정보를 차단하는 것만으로도 머리가 한결 맑아질 거예요.",
+        "rx_keywords": [
+          "블루라이트 차단 안경",
+          "수면 아로마 오일"
+        ],
+        "prescriptions": [
+          {
+            "title": "레무로 수면안경 블루라이트 100%차단 안경 멜라토닌 4배 효과 수면유도안경",
+            "tag": "맞춤 케어 · 블루라이트 차단 안경",
+            "reason": "블루라이트 차단 안경 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/UCkX5OBWLYAyc_uCUHwQWFUu7gFvSyq41_CL8mWy34uRKYqBdP98Xvz69po0zux5LOLnFotD05SqyHyQunONwkisF2Dj4hF9lbVqvbJg-7Oh50MFY7XppYYJJBBx4z6TOb4-wX-11dWFg5VOZzBanDYMQQy9TPY_27Zs6BaaYxWrl8eo2IT9lBdYdJXQFag5iaYihKoUAt54mbeP5Nhrvw9CpeJvIpIh0nnY-3Qh0Lqk91O9kXi8nsjSC43g5OHoQl8HHErVOF44j8MiPFniXK0NgLRoiD3GUnGae9R8DY7_rsUHknQs-NlgyGQamTEyv0wdSy2qiiuG4bALiTyWtUrfYGLN1K3tWro714OlcmPnIOyd66VsKNC5ZJGxxj8g_2xtERSyKWnCQNsjDsyIuivnpAtFDu4kDmcp6X2UR9aRoZe6WQ8hhgetQJDiQdkhOOn6TnQOPORoDxHe0EiNmO7JRKGUbEwSjc3mTbQPdz9C-s7wI6WDGNAK40j1-NXdP7B3byrbwiKqyPVWHKNTbiHha0dvCLnA8w==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8733441444&itemId=25378213933&vendorItemId=93342082707&traceid=V0-153-542fc67a4958a7bb&clickBeacon=0d8d89c0-d60b-11f1-823e-f562606026a0%7E3&requestid=20261102004358399231332485&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "카오코탈라이푸 아로마 100% 에센셜오일 원액, 라벤더, 10ml, 1개",
+            "tag": "맞춤 케어 · 수면 아로마 오일",
+            "reason": "수면 아로마 오일 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/5yinYT6yeWdjL6Zd50bP1zMLy_LsssLcxxSZSKOAJgLBGgU_Eaah2Pgl73H74xkCHX_AI7qXSdML-zZKNQZBPzyNxcyIFZ8NK9yf5JCmgT-OrzPcGo4HGAQDLZ1sMy0oEY0Tnh7_vc4DKPQv5s6E2XDQRKdOL6Nj-weVP7lowAPX6UH5ee1cZK3cUdARLqGb9X_6BmLHPlrdNHRSQjRLwqMnkuUCy4gmCSlqAQz9z_d2ScpUDwcMn2H6H9gSn4FD6eGkn0i2BTjBVDY4kQ_IAVX0TFeic8huNdXH_6bAjba89x2lPEhfNG0ubZNacc37Vmj9UnG_e5nMivOZVHvVHSh9UV-g-pxiPgNIz7fh3UB9qQS_mplObM-CUMn_g22lB5vKVxPaVdBHZDbxzwdoKbfCWXzACVGnbwDyHsn4d_ct_MMzf19v_RetOqwy40SuCHxpeleBHXlSo8zm_kOq8ybAikPGj5ZS1mo9yoEQp4q3UcRPpDV_mm5GC5gbVmw2u4hXybBiYGU=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=6702207939&itemId=15528289303&vendorItemId=4046211372&traceid=V0-153-09a05cef01abc697&clickBeacon=0da7c880-d60b-11f1-8e33-a2304f68846c%7E3&requestid=20261102004358651037246323&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "도파민 청정구역, 멘탈 갑 🧘",
+        "headline": "당신은 디지털 홍수 속에서도 평온함을 유지하는 진정한 자유인!",
+        "emoji": "🧘",
+        "tag": "도파민 프리",
+        "hashtags": [
+          "#디지털미니멀리스트",
+          "#멘탈갑",
+          "#여유로운일상",
+          "#자연치유"
+        ],
+        "bars": [
+          20,
+          90,
+          85,
+          95
+        ],
+        "summary": "폰은 당신의 삶을 도와주는 도구일 뿐, 절대 주인은 아니군요! 정보를 스스로 통제하고 현재에 온전히 몰입할 줄 아는 당신은 진정한 멘탈 고수입니다.",
+        "trap": "너무 디지털과 거리를 두다가 놓칠 수 있는 최신 정보나 기회들?",
+        "advice": "지금처럼만 평온한 일상을 유지하세요. 가끔은 너무 완벽한 절제보다, 나를 위한 짧은 즐거움을 폰 대신 자연 속 산책이나 독서로 채워보면 어떨까요?",
+        "rx_keywords": [
+          "캠핑 용품",
+          "힐링 차 세트"
+        ],
+        "prescriptions": [
+          {
+            "title": "극세사 똑딱이 체크 망토 담요",
+            "tag": "맞춤 케어 · 캠핑 용품",
+            "reason": "캠핑 용품 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/PT3c8qJRbhnklUA3PRJBxTeRqyE8XNPDs2Mgwox3C2xC75os7ObRyFe0cpD2tDZJvCfKgatsRUb8ytr-pEOrfCbSlrREp46dbG81RrMQS1dZZWDk4IMGf4AEvDrOAghNzs6BEGe5Tw3UyB0nsyhk32hTVGWPF5A4mpsHfPjF90Rg-tMRwXJkP651k_YFWfeHSbDWySa82wlk828-k5Q3LSujbd23_oajjA__K4kDErTS9FYN9SzbZ4jVXWTrnOYeApC2lUHePG_GiWS505x-db2Grfx63LQvOmEbjFkEJ7JFH4xsw3oZdchtitNGsL4xLBd1mYON4g-vhLzz2dnlSid8vJ6doZEowpDvnlfc0cO1IkV_gcemeT6lioeGalKyfwRv2rW0jiYvsYBj_kBOd4ghrl9S850Ybi-u48ht85MLdl032Dp7i73u3QDmR8nAG8aPJcJJ9hFiQsmGVxdssEUTYi1p69V46cptVAQHGa-IiUZND0zUMBPoN9I4ktfBPZE7x3yYI_mgfmwVu5mlaCc=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=8528523115&itemId=24693974607&vendorItemId=91703743776&traceid=V0-153-7904ebe718e887f0&requestid=20261102004358852279727910&token=31850C%7CMIXED&pt=0&slot=1"
+          },
+          {
+            "title": "다비앙 유기농 허브티백 선물세트 2호, 허브티 6종 + 선물박스 + 쇼핑백, 1세트",
+            "tag": "맞춤 케어 · 힐링 차 세트",
+            "reason": "힐링 차 세트 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/Y6PhiPVTiBQE5oVHY2fwZMBrLTbTvJHlXeqghgjT16a9hPAZ_IpvhUIna2GWTIhjjKBsKjyMgQkc2kRWmfigqlW-0l0CCKhWqTsXRbIfSkCK5Kqts6UHyuDoNeqvCX6nRtt5gYVGFLONcaf7EY0IGiDnD4Jy2c0gqyJJBKU471PEHSBJ1kILYqMeQNpZ5d1Kpe0Hpfb8iuS0GYj4tkykkgTx2J5QkRefdVPH-deZSG5cPolkOpMnC7R8dZarWM4QZ4Kw89oE2z9oT1rcww9hZka0p94s9d95KyXp-mPvVZZuvHuTy8-JFbBGB_PlWKuOKvwJWuKb4ZQZzKv6xcvNsKQp4ay6hD5HKq_8RVeF63x0P5QGmmc4rjmPl5pYp0FUoE6hmm1IBqH0UcrxT4rObHQiUXO_lHgHo32NmXi89D7U-OwLzUQ19EnKlF_oJ-W7120NidNxojz-jBPyFJTm7Rzw8cSe98SFppqWIpNNJ7CY6PljludQFn5MXYmA2rqX_SE1Qca7mQ9X9g==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&pageKey=6725836985&itemId=15655402073&vendorItemId=82871269377&traceid=V0-153-c0191cda223833ad&clickBeacon=0de91740-d60b-11f1-b18f-e6d5823b1a4a%7E3&requestid=20261102004359088315184081&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 181124,
+    "created_at": "2026-11-02 00:43"
   }
 ];
