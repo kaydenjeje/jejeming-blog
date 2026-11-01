@@ -1395,7 +1395,7 @@
       <!-- 2. 인트로 화면 (SCREEN-INTRO) -->
       <div class="screen" id="screen-intro">
         <div class="badge-viral" id="intro-viral-badge">
-          <span>🔥</span> 실시간 120+명 참여 중 · 100% 무료
+          <span>🔥</span> 100% 무료
         </div>
 
         <div class="intro-hero">
@@ -1748,7 +1748,7 @@
       window.history.pushState({ test: testKey }, '', '/test/?t=' + testKey);
 
       // 인트로 화면 데이터 바인딩
-      document.getElementById('intro-viral-badge').innerHTML = `<span>🔥</span> ${data.viralBadge || '실시간 120+명 참여 중 · 100% 무료'}`;
+      document.getElementById('intro-viral-badge').innerHTML = `<span>🔥</span> 100% 무료`;
       document.getElementById('intro-hero-emoji').textContent = data.emoji || '🔮';
       document.getElementById('intro-title').innerHTML = data.subTitle || data.title;
       document.getElementById('intro-desc').innerHTML = data.desc || '';
