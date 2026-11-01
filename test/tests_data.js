@@ -8060,5 +8060,209 @@ window.TESTS_DATABASE = [
     ],
     "participants": 181124,
     "created_at": "2026-11-02 00:43"
+  },
+  {
+    "id": "independence_survival_test_2026_1",
+    "category": "라이프",
+    "title": "혼자서도 갓생 살기 가능? 나의 자취력 만렙 & 독립 생존력 테스트",
+    "subTitle": "나의 <span>독립 생존력</span>, 현실은 갓생 vs 갓생(망) 사이?",
+    "desc": "혼자 살면 다 자유라고? 아니, 그건 큰 오산! \n매일 매일이 생존 게임인 당신의 자취력을 지금 바로 확인해보세요.",
+    "emoji": "🏠",
+    "tag": "자취생활",
+    "viralBadge": "무료 심리테스트",
+    "metricLabels": [
+      "생활력",
+      "정리력",
+      "금전감각",
+      "생존본능"
+    ],
+    "questions": [
+      {
+        "category": "식생활",
+        "question": "퇴근 후 너무 배고픈데, 냉장고에 굴러다니는 재료들이 심상치 않다. 나의 선택은?",
+        "a": "어떻게든 볶거나 끓여서 '요리'를 해 먹는다.",
+        "b": "배달 어플을 켜서 가장 빠르게 오는 걸 주문한다.",
+        "score": 1
+      },
+      {
+        "category": "정리정돈",
+        "question": "빨래 바구니가 이미 넘쳐흐르기 시작했다. 주말을 앞둔 나의 행동은?",
+        "a": "지금 당장 세탁기를 돌리고 건조대까지 널어놓는다.",
+        "b": "일단 빨래를 옆으로 밀어두고 주말 내내 미루기로 한다.",
+        "score": 1
+      },
+      {
+        "category": "분리수거",
+        "question": "집에 쌓인 페트병과 택배 박스들이 나를 위협한다. 내 대처법은?",
+        "a": "분리수거 날짜를 정확히 맞춰서 차곡차곡 내놓는다.",
+        "b": "현관문을 나갈 때마다 조금씩 들고 나가서 버린다.",
+        "score": 1
+      },
+      {
+        "category": "가계부",
+        "question": "갑자기 친구가 '급전 필요한데 5만 원만 빌려줘'라고 한다. 나의 대답은?",
+        "a": "내 달 생활비 예산안을 체크하고 신중하게 결정한다.",
+        "b": "일단 당황해서 덜컥 보내주고 나중에 후회한다.",
+        "score": 1
+      },
+      {
+        "category": "건강",
+        "question": "아침에 눈을 떴는데 몸이 으슬으슬하다. 혹시 감기인가?",
+        "a": "비상약 상자에서 바로 약을 꺼내 먹고 따뜻한 물을 마신다.",
+        "b": "그냥 자면 낫겠지 하고 이불을 끝까지 덮고 잔다.",
+        "score": 1
+      },
+      {
+        "category": "집 인테리어",
+        "question": "오늘 SNS에서 본 감성 조명을 발견했다. 예산은 좀 빠듯한데?",
+        "a": "인테리어는 내 삶의 질! 고민 없이 당장 결제한다.",
+        "b": "지금 나한테 필요한 건 조명이 아니라 생활비 통장이다.",
+        "score": 1
+      },
+      {
+        "category": "소음 및 이웃",
+        "question": "옆집에서 밤늦게까지 쿵쿵거리는 소리가 들린다. 어떻게 할까?",
+        "a": "직접 가서 정중하게 주의를 부탁하거나 관리실에 연락한다.",
+        "b": "참다가 너무 힘들면 이어폰을 끼고 볼륨을 높인다.",
+        "score": 1
+      },
+      {
+        "category": "자기계발",
+        "question": "모처럼 생긴 평일 저녁 자유 시간, 무엇을 할까?",
+        "a": "자기개발 강의를 듣거나 밀린 할 일을 한다.",
+        "b": "넷플릭스 숏츠 릴스 무한 스크롤 여행을 떠난다.",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "프로 자취러 1급 소유자 🏆",
+        "headline": "자취 10년 차도 울고 갈 생활력 만렙 인간",
+        "emoji": "🏆",
+        "tag": "갓생 마스터",
+        "hashtags": [
+          "#자취천재",
+          "#프로자취러",
+          "#갓생러",
+          "#생존력갑"
+        ],
+        "bars": [
+          95,
+          90,
+          85,
+          95
+        ],
+        "summary": "당신은 혼자 있어도 굴러가는 완벽한 시스템을 가진 사람입니다. 냉장고 파먹기부터 가계부 관리까지, 독립 환경을 최상으로 유지하는 당신은 진정한 자취 마스터입니다.",
+        "trap": "너무 완벽하려다 보니 가끔 스스로에게 엄격해져 번아웃이 올 수 있어요.",
+        "advice": "가끔은 완벽하지 않아도 괜찮아요. 조금은 덜어내고 여유를 즐겨도 충분히 잘 살고 있답니다.",
+        "rx_keywords": [
+          "식기세척기",
+          "로봇청소기"
+        ],
+        "prescriptions": [
+          {
+            "title": "누비아 식기세척기 6인용 UV케어 고온살균 프리미엄 자동문열림, 화이트, NDW-NI6W, 단순배송상품",
+            "tag": "맞춤 케어 · 식기세척기",
+            "reason": "식기세척기 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/SeqcM6JMryuIG_HgSQuCaBECr4SAezKsbaiT2UXbJj5iaqj4lsmSZ2rgO7DT8JUABnZy5mr3zGy6Icd_Ca4JsXzEjLD868VFkKfFsmL3ww0Puxjc5xHFkF7xa22XV2CNCYF0YxV78GXDBrH-5N7iHK49oONiGV71J6rvRrCZNygM-57kVyk4bpu_sqfcoo3rylzTLdjjaIkxO6YliO7RPb7BDWjw8z3ltDP3R2FFZtM5m8XWw3XgzM0NQmHOGMi2cch5O8sucyVdxONo3KPuywxSc2LcU_gkLhUTut3v8-HLgpg6T1xfbAM7HVLkaItF37e3shU7ohBpcu5akDEpwKQ-MflkrUdzelMn9BnOijWC78y3jMEYouYpFG0Az0Rw5LIMblAWcOFRY6SKD33gDds_HZCCu5hMO6l1bMMfXwioyqVpu2yZgtc1-6VjTwmM87aCrlXVESUUHW_P8PdKI_GIYkOc9yVxxJE08Ti3StrW7VGMkG24FhGKknHsCOX7rL7zrsPPO0LVz8uCqoj2nDnU2OrIJXaOl_A2-fTBVc7jGGi2QG1nzj34j6l8Y0xYqFA8k1TrPuQAHHbS6XFEputCsQ==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=8918154578&itemId=26059010831&vendorItemId=95460686062&traceid=V0-153-260c8b60fac696a5&clickBeacon=20660ab0-d61d-11f1-945a-c8bbd597a7f9%7E3&requestid=20261102025321048151004573&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "[신제품] 홈리아 로봇청소기 스마트 물걸레 청소 강력 흡입 자동충전, 화이트, 클린스테이션",
+            "tag": "맞춤 케어 · 로봇청소기",
+            "reason": "로봇청소기 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/_lcI9fGnkWxpABMY_gkOQoly7JOL6WV4Amq-gZr5wAqPCo-XvFOOJ0fEajzfcAPiNbJ2xVNG_VfN-_YaevwDnalBTcW7JaQinaVn-fk0-vZ1qnNmPM8FYbec2CcMoDVOklSjk5ysGNaMN3obhzBPWeXR_o6qBqOYdSFL5FaRBrEooA1mZUNj7GCRkWxPSJ2PKjkwH7XqMP-o_HksJsuC563MmyU0SC8qN6zwLbLEQkq1RDs23R8j1kI03DdzMv1XXvxQv1RaAzJGZyaAK-1diQoa3JM36SXbuj4q-Tdd8yDKQIWCdgZ33j3QArfqcN2AoYrrxa4gLO3Rzm1ZnNiGHJ0Oao8CUZyrQf7cvtKzIXFhJihlMeox6uT59CttkralsQdkQlXh-DcDIOub_TbKVk9n74y8KYxMR_Jf_9TiV6rJhLahDiTfjlZoHSzRwHsfF4e-0DHDWFYh6C5j9d2_Y4PpuZ0BaNIllLaxccLY8vw5guZKOPjzKJy7lXDEPkVgYKFyPOV3CNOtJH0bNstgxngVNwAh_78AzgyUDjM45A==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9273360431&itemId=27449149103&vendorItemId=94414767358&traceid=V0-153-12955f03f22d7501&clickBeacon=207c2ac0-d61d-11f1-bce6-11c6731f1032%7E3&requestid=20261102025321188231337842&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "현실과 낭만 사이 줄타기 중 🏠",
+        "headline": "갓생 살고 싶은데 마음만 굴뚝 같은 프로 다짐러",
+        "emoji": "🏠",
+        "tag": "노력형 자취러",
+        "hashtags": [
+          "#자취생일상",
+          "#갓생도전",
+          "#노력파",
+          "#일상기록"
+        ],
+        "bars": [
+          60,
+          50,
+          70,
+          55
+        ],
+        "summary": "갓생을 향한 열정은 누구보다 뜨겁지만, 가끔 귀차니즘의 파도가 덮쳐오면 무너지는 타입이에요. 그래도 포기하지 않고 어떻게든 다시 일어서는 당신은 훌륭한 자취러입니다.",
+        "trap": "작심삼일이 반복되는 스스로를 보며 자책하는 것이 가장 큰 함정이에요.",
+        "advice": "거창한 계획보다는 오늘 설거지 한 번, 오늘 약 챙겨 먹기 같은 소소한 성공부터 칭찬해 주세요.",
+        "rx_keywords": [
+          "투두리스트노트",
+          "비타민"
+        ],
+        "prescriptions": [
+          {
+            "title": "컬러미블루 체크메이트 플래너 2권, 단일 색상, 2개",
+            "tag": "맞춤 케어 · 투두리스트노트",
+            "reason": "투두리스트노트 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/1A2GmkIhjfsrRFpR1PtBv7HDm7XOYPnGmBJFurFcQ_b_rIGxounTzKW5TmzHgKYMklOO1QCZ1WWToyi4fXLxyB6blGF6bn9FXRyGbx1cToyeNo-WpVeeT38m2DA6BTPHy91ke0t289G_uJoHCBchShVFr_yzlZXBFwpI7E83odzkJGjPp7etGSvU-AwQAm2OdCyo92TEpmu7dKAXOM5tFo9TK9t1PVu4-yS3AnFPUd6bwj1MRdhHUVm71bIlr77yqp9S5eiCDeUpb-E4144y3WrDghUHmiNfLr-DmK0iKLbpwRaKzEASb9FHmNJsP7xXqMPBoQPBsD2D9IBUe3jMu58rbu0yS0h1Ed1rX2e9W9PWjB7WgGfBmdOJVgrW0qGkLDxKnkc_46cv47WaZOymVJ9iFKkC1Ncu34vDVGG9qzkfSL_bbzZFl6m4CgMkXmKM3dRQ1TlJTzf5kH_0hl9XD7XkD86gFzngR26t-Q_nClupRGl4ysXvr5nQvzdx1eOWS6AjuRCCdartGq8AcKOQ4TIrNVthrhsQUr0FNm8ajnM=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=8829621569&itemId=25726780259&vendorItemId=92715453081&traceid=V0-153-de78d768b52a38a7&clickBeacon=20964270-d61d-11f1-8396-1ef13270ed04%7E3&requestid=20261102025321345245340829&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "아임힐링 영국산 비타민C 3000 100포, 303.1g, 3개",
+            "tag": "맞춤 케어 · 비타민",
+            "reason": "비타민 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/c6am0akac_tVrkCLczQGVFr0FJMvY5Biay_n2dM_3OjIhiYqVHwZVzYupmvY8IORXoRTmc5DbGlBJL3roin5sOKlf154t7uJqI-htUQ9bS_9VynwmxWMv1PcTUFt84EkaZbU2ASRXUI_0LkW4yLaRy7JsIXJSEs0FUzXCSZyW5ZYqRV-gQ9y4GbdwLSZvGuqQsMKwl4L4eJpdJMAtbUMDNbYRhXM7BqPaEty24rSrwx7x5P9B8R2T3DyjVlvJl3oJRrq2r7y1Ai6jTRZD495egtYdqBudRSY7VSRQZmekBQGJDbtvaMB8LwY_6rWrM76fbnJcDfMGKxfyDzY-MaCQH_XUvOBSE0ADDWIOAIhB1KNhgtd5hNE5JEAHztZIGE6bngh8eT5Y-dbCDfm-qHeJGEI9lK5wB1s4x3ZiTKAHp9Sbz8UbHwUNR1yMIzEFqPP_WMzNNWHBtraj9T0NEfnCknoWTX3AGAdzfYf-bibaR-gao6iNfl1Ar41mmyHGnWs0gjN96a0EZlw2ELEAyy6nUkRj4p81Eqe-0Tx2o7jTYzP",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=7062943887&itemId=25918776532&vendorItemId=91256795100&traceid=V0-153-5e7d8633d89b357f&clickBeacon=20b31940-d61d-11f1-b1b0-069f187f1108%7E3&requestid=20261102025321533151004723&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "자유로운 영혼의 방랑자 ☁️",
+        "headline": "생존은 내일의 나에게 맡기는 낭만파 자취생",
+        "emoji": "☁️",
+        "tag": "본능 충실형",
+        "hashtags": [
+          "#낭만자취",
+          "#오늘만산다",
+          "#자유로운영혼",
+          "#내일의나화이팅"
+        ],
+        "bars": [
+          30,
+          20,
+          40,
+          30
+        ],
+        "summary": "체계적인 생활보다는 오늘 하루의 기분이 더 중요한 당신! 꼼꼼한 자취 생활은 좀 서툴러도, 당신만의 감성으로 공간을 채워나가는 모습이 참 매력적이에요.",
+        "trap": "배달 음식과 미뤄둔 빨래들이 어느덧 당신의 방을 잠식하고 있을지도 몰라요.",
+        "advice": "하루에 딱 10분만 타이머를 맞춰놓고 정리를 해보세요. 생각보다 훨씬 쾌적한 갓생이 기다리고 있을 거예요.",
+        "rx_keywords": [
+          "분리수거함",
+          "밀키트"
+        ],
+        "prescriptions": [
+          {
+            "title": "모노블 더길어진 반전매력 재활용 분리수거함 3p",
+            "tag": "맞춤 케어 · 분리수거함",
+            "reason": "분리수거함 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/ANb9_xX5Hwq0y6fIAGNlkfQzjk8k3pm87AeLR7-Fe0M8GTQNuazlK_-FaDWIm8VvFFfrQkMoHIJL8BYCT9AVcpot--500gO_ySi7Qc0C0NMveHUM26jB5XFVCGP1MpmIeNQx-MXO6Mo8TG30Q_vfWgIsSnYuGxr4UBGF3SCJmTDu8bt31A9bMsqEV0Ji5vogitGx1otNsIqWVopyNdRWZSoHOzyReYpgVGUXH5LTPTa1yT9EyS68mfxvwjiMTLcTcA5MQqIwmAQCWheuKEu8QV5iWyouaB_NqK3nFdtiqK53T3L4xhFqgv5Y9Oc5FRu-ww0FkIDE6WcbjwJ2Swt6TmuY7x7HSpdtVJCYDty8atv8nQZrycneyGM6SY6JxK_TIGL-B-QIave-xqs09FcBrxplIwc22aSUH-N8BFFB3sijSVlyU-8EFRkl6p6g2QQY2_QhmLzMfcjZxY9XOereSqCcBV1h1FDsvygVqVDGyQAkJW-phBXcrtgUr4u1BaZZJS-2fE7TWR96NYTpwFdwaNuowFGrvZE4F5RS7FXc0nCmcMz8wxy207SemQEzzijGxLPpIw==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=2270477579&itemId=3893378546&vendorItemId=71877993002&traceid=V0-153-5f8335738fc43330&requestid=20261102025321716037244583&token=31850C%7CMIXED&pt=0&slot=1"
+          },
+          {
+            "title": "부산 소문난 얼큰 조방낙지 낙곱새 볶음 700g 1~2인분 / 2~4인분 /, 700g, 1개",
+            "tag": "맞춤 케어 · 밀키트",
+            "reason": "밀키트 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/pNJQvJtalo9rl1qfpFGreoQQ8SB95mqo19ZcU6mRv_g-wJ0YMG422fa6R1UGNt8Brsq--3RqQ4sovR--cPmlLAUqNFWpVmF71vnePnQvQenvVvbZUu4wO6VXWnxs9qV5c6429Ck7KzVN2JViMtdshKgKiEeyfXT3-sfyeFX3mf6l0UTiw6eS3YV3VEkUmDhBfOKVbYzBXV-2NCPaMRF-1QRe8o1H8MMSTczKwfqUbbQxnDzzdEVh9CMwNnFXV2jk1e0keJLyuOFdH_gaPG3S_fbhAgzXguXQHEECpgwSXg4nB7EToIdpepRRiwzWFPGcUTO6XuEHfpruYdr2SUGb5GsZ-fk2eSK9CXjlmDouwOIhooU9Uqv8lk2tgPem_WR7-Fo6kZockjnOmeUDuGkcEWegsgrdJQlK4f9fFp2A7rRDlYb0CUMIaA6aA63s69PvPoYugho6M4wAtsNgtC1Eq-4aIyKfjU1b-OgbRvbzSd5unp4hqh-uTos1oCvdoa3oMasDOw9OpBa5X6a6Mhwv-WF4HAYj4W2ec_DNHBwLFN9j",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=7201000764&itemId=18202277711&vendorItemId=85350642369&traceid=V0-153-9b669dbace9b4dcc&clickBeacon=20ef5ef0-d61d-11f1-940e-cc373d46979f%7E3&requestid=20261102025321898125874132&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 0,
+    "created_at": "2026-11-02 02:53"
   }
 ];
