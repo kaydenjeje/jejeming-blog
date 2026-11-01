@@ -8264,5 +8264,209 @@ window.TESTS_DATABASE = [
     ],
     "participants": 0,
     "created_at": "2026-11-02 02:53"
+  },
+  {
+    "id": "mental_kuku_test_1",
+    "category": "힐링/멘탈",
+    "title": "작은 일에도 와르르? 나의 멘탈 쿠쿠다스 회복탄력성 테스트",
+    "subTitle": "내 멘탈은 <span>강철인가, 쿠쿠다스인가?</span> 지금 바로 확인해보세요!",
+    "desc": "툭 치면 바스러지는 내 멘탈, 과연 얼마나 단단할까요?\n직장인·학생 공감 100% 일상 시나리오로 알아보는 나의 회복탄력성 지수!",
+    "emoji": "🍪",
+    "tag": "멘탈관리",
+    "viralBadge": "무료 심리테스트",
+    "metricLabels": [
+      "섬세함",
+      "회복력",
+      "민감도",
+      "평온함"
+    ],
+    "questions": [
+      {
+        "category": "업무/학업",
+        "question": "상사나 교수님이 '잠깐 시간 돼?'라고 메시지를 보냈다. 당신의 상태는?",
+        "a": "심장이 덜컥, 무슨 잘못을 했지? 3초 만에 머릿속으로 시말서 쓰는 중",
+        "b": "응? 무슨 일이지? (하던 일 마저 하고 천천히 확인한다)",
+        "score": 1
+      },
+      {
+        "category": "인간관계",
+        "question": "친구가 평소보다 단답형으로 대답한다. 당신의 생각은?",
+        "a": "내가 뭐 실수했나? 1시간째 카톡을 곱씹으며 자책 중",
+        "b": "무슨 일 있나? 바쁜가 보네~ 하고 내 할 일 한다",
+        "score": 1
+      },
+      {
+        "category": "일상생활",
+        "question": "약속 장소로 가는 길에 갑자기 비가 쏟아지기 시작했다.",
+        "a": "하.. 오늘 진짜 되는 일이 없네.. (하루 종일 축 처짐)",
+        "b": "어쩔 수 없지, 편의점에서 우산 사야겠다! (빠른 태세 전환)",
+        "score": 1
+      },
+      {
+        "category": "실수",
+        "question": "회의 중에 사소한 말실수를 했다. 퇴근할 때까지 기분은?",
+        "a": "이불 킥 예약. 집에 가서도 그 장면만 무한 재생 중",
+        "b": "실수했네ㅋㅋ 다음부턴 조심해야지. (금세 잊고 맛집 검색)",
+        "score": 1
+      },
+      {
+        "category": "감정처리",
+        "question": "힘든 일이 있을 때 당신의 대처법은?",
+        "a": "혼자 방에 틀어박혀 감정을 삭히거나 펑펑 운다",
+        "b": "매운 음식을 먹거나 운동으로 땀을 내며 훌훌 털어버린다",
+        "score": 1
+      },
+      {
+        "category": "변화",
+        "question": "갑작스러운 일정 변경이나 업무 지시가 내려왔다.",
+        "a": "계획이 틀어져서 너무 당황스럽고 스트레스가 확 쌓인다",
+        "b": "그럴 수 있지. 어차피 해야 할 일이니까 빨리 끝내자",
+        "score": 1
+      },
+      {
+        "category": "수면",
+        "question": "자기 전, 오늘 하루를 돌이켜볼 때 가장 많이 드는 생각은?",
+        "a": "아까 왜 그랬지.. 후회와 고민으로 1시간 뒤척임",
+        "b": "오늘도 고생했다! 씻고 꿀잠 자야지",
+        "score": 1
+      },
+      {
+        "category": "에너지",
+        "question": "주말을 보낸 후 월요일을 맞이하는 나의 마음은?",
+        "a": "벌써 월요일이야? 일주일 버틸 생각에 벌써 방전..",
+        "b": "새로운 한 주 시작! 이번 주는 뭘 하며 즐겁게 보낼까?",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "쿠쿠다스 과자 멘탈 🍪",
+        "headline": "작은 충격에도 바스러지는 멘탈계의 유리공예",
+        "emoji": "🍪",
+        "tag": "섬세함 폭발",
+        "hashtags": [
+          "#쿠쿠다스멘탈",
+          "#유리멘탈",
+          "#생각이많아",
+          "#힐링이필요해"
+        ],
+        "bars": [
+          95,
+          20,
+          90,
+          30
+        ],
+        "summary": "작은 일에도 깊이 고민하고 마음을 쓰느라 늘 에너지가 고갈되어 있어요.\n남들은 대수롭지 않게 넘기는 일도 당신에겐 큰 파동으로 다가옵니다.\n그만큼 세심하고 배려심이 깊다는 증거이기도 해요.",
+        "trap": "혼자만의 동굴에 너무 깊이 들어가 외부와 단절되는 것.",
+        "advice": "오늘만큼은 '그럴 수도 있지'라는 마법의 주문을 외워보세요. 당신의 마음은 생각보다 더 강하답니다.",
+        "rx_keywords": [
+          "입욕제",
+          "허브차"
+        ],
+        "prescriptions": [
+          {
+            "title": "바스로망 입욕제 히노끼",
+            "tag": "맞춤 케어 · 입욕제",
+            "reason": "입욕제 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/vZ4AaeMgIV8i1ONovatCgAzZDs7MQHjxU20ROiXD3oIfzIbLt0XYndjrocirsqGUe7ZyqAF7wGndZJnrh2SMRoqNAu4Sw62BeFvqX-YLQyh_4tzAbz8zJQfrFML8q5ftT3P-z8MIY5_UT48d_SsMb4tEN8kmIqh54h8Hlpx4QkoPOLlNf5hLUd1hr_OI-kf-30elOwzQdB_1EI8AJtFuQl47v155sBVvAVhXGdMLVUEGwk_4fDY94ZT6-_CboyeY8WZ9O_h997H3nzet-hErlowilYWJdjxHCN5M-IiTzdyeeCYlhCcM6EWKGm8IlziznG7FoP2nXdw_U3dkgGuU56ctV8EtGkDQt9KaRBKzj1SxEFyXbQb-1nG0kC8UZgZoNe-J5NtPFUdd5GQ3Yc5PzUJoOzJoBNr_AlT_3NSkTZKuuI9vbcIxDR-_WsrtJ7SEWh08nRj2nJDv7WRWtB9HAdDsdgFH5lhH-q0JZOlYQHOUR0ZO9-3iwBT_C-aYZVaoYOWYsHg40EwnIwvLtRVaRoeIXh4RCx08XQ==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=7152046383&itemId=25634610077&vendorItemId=3000092072&traceid=V0-153-97f57cdb03a44c0b&requestid=20261102085312346237111389&token=31850C%7CMIXED&pt=0&slot=1"
+          },
+          {
+            "title": "이너블릭 캐모마일 차, 1.5g, 100개입, 1개",
+            "tag": "맞춤 케어 · 허브차",
+            "reason": "허브차 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/PdjwTJy7Krrq6vi7PbCCOwcKFS9Wo-Ic8Ngq4qWs7rIPSPmAbW_fKxLKRbaVPE1oM4CrJki0ynAFhewSQJekokyXjiwBl0Z6RDgB-rmgIzk_rrQDngCe8AHczG8vL2ONJkEfHMn-n8neR1rJdF9wYxGYkQN5q8vJAB8LDm4_Fms51KeVYPoFeB6X6P_J3B-J1z3jp4xp7VKR0SS2P5u4GTjJZ_e6FETtqxGc-hjDhlXw7Ys2wX-Ulf5yfb52pVRlAqDuw0AaXJWaYCGf4lJbq2wdnvFe8hKwwNPeageKH040nBgoGgUc4YfoO2NtK44Vjmy5KBPEBaVBft7tvJKsCVu7P_LAKKiYIN43--9YKU5TMnI_5kSFwz-XcdYp3EhwSHXxnelGk96OrF8Fjkt6m0J73ab2gCVWc6i-sIYhQW3EGDiL9qeLpZQKtChqB4LYRbu3brTK_KzBnbpkJw8x-XAQvUqpQ9VMWeZu2lkp1jupPWSbnQascIqxr8hg2cVo517CgS3Jvy7t2_ZuL1bE_KKqksv8ZVciMY0pPKACpw==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=7507905250&itemId=20067032362&vendorItemId=77790716710&traceid=V0-153-3161d60186063ae6&clickBeacon=65f791c0-d64f-11f1-bc4c-1c2c2036f264%7E3&requestid=20261102085312544292814327&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "반반 섞인 샌드위치 멘탈 🥪",
+        "headline": "상황 따라 강철과 유리 사이를 오가는 현실파",
+        "emoji": "🥪",
+        "tag": "중간관리자형",
+        "hashtags": [
+          "#멘탈관리가필요해",
+          "#평범한직장인",
+          "#스위치온오프",
+          "#무난함"
+        ],
+        "bars": [
+          60,
+          60,
+          50,
+          60
+        ],
+        "summary": "보통 때는 무덤덤하게 넘기지만, 결정적인 순간에 확 무너지는 타입이에요.\n스트레스 상황에서 스스로를 다독이는 법을 본능적으로 알고 있습니다.\n너무 힘들 땐 감정을 억누르지 말고 솔직하게 표현해도 괜찮아요.",
+        "trap": "힘든 것을 참고 쌓아두다가 한 번에 터뜨리는 것.",
+        "advice": "스트레스가 쌓이기 전에 가벼운 산책으로 환기해보세요. 당신은 이미 충분히 잘하고 있습니다.",
+        "rx_keywords": [
+          "요가매트",
+          "컬러링북"
+        ],
+        "prescriptions": [
+          {
+            "title": "프로스펙스 트레이닝 피트니스 매트, 블랙, 1개",
+            "tag": "맞춤 케어 · 요가매트",
+            "reason": "요가매트 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/ijdr5rPrhJxf1baOitUTAsdvWvP9O5dn_Ic92eWOMTm9Sr-KUsuKiVlcPWo1SlGAj4p34l7lsvJ6SGqzo51B6mtJVgxJE1_ElV9RmgkA-33jMz0Zfu9GeElTJ0utJl5R5xfd-z6QlVtCKYTVj_ipJ6GFrLlSyJ53Wpe5TPndrIxIUzdlG06LdT9EQvjuTbVfedYkPfVittBdUT3gjITX4Hv-gTPzdLkJKs8hT_x1Z9qY3lH879toz6S2YFwBSG6VBFUprMy5y6oGPC3wcOAfi7622_tgGsDxzsdA8TdJ2_lAUQPTcJVDUtoc5Ol-xP0F9yVT8gduPdF2-zz97zjgX1A9YvkbmEkjLJm1OXgIkEiLxdTVFP0Qx7zbEhpl-MhN8mjpcLFImefZLXPZ7CFwq8PRTKMfbh06SUD7vydW5_pes-fvGILf64b5Drtdf4_JXi3ME8ad486w3BGNpYwNolybaVdNfjcycB65hIqc7bjzmJxZclrR5GV9t98LNXEaTuo7OjkURYgAcMiacWCSbhRwsS9DC2ZtPXWIr6BKWD1MbDjzQ8rGhWo=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=7723351690&itemId=20733824421&vendorItemId=87804387660&traceid=V0-153-e2b8961058c1b410&clickBeacon=661022d0-d64f-11f1-9403-1f9ae028855c%7E3&requestid=20261102085312803019314882&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "시니어 어른 컬러링북 수채화 색연필 색칠공부 책 성인 어르신 치매 노인 엄마선물용 추억의 가게",
+            "tag": "맞춤 케어 · 컬러링북",
+            "reason": "컬러링북 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/E2eCXgDCv6Bo3tagE0ajURrM2IB-M62iClOTdGPg4wCuPksgRzfjgxtIKuylZynYRJiABZB_3FnKw5fh5z57LNcNlD9PyLG8hce0qUtbt4dNAVC2xhDOXlqJhPskU4bwH3r9GEi_L_k2JzFP2lTj6iH3_sXpIuiDbxLhGdlliXO_P_9l9pb-SYR7GPyqEzC9SpNjmQ5EWKUc-XCpz5WIfeBWPApKp6cRYTU0CE85Y6Ae-POPjaR1ztK9KCFFSbz6iQXuCUHv7YGUTBE7-dWabBD8GydNq17T_4EHSQ4Vv9QtZTduM5R-N7ctUpcxIPBG5sGL93YAUjmd-SDNGrOpxyCoJfGI74SiDxW7-WauZshdUX-vzs6mljXrRApK8nMXtJrFalpsaBcHt3ry-0K1L_T577gnuekfLbluWfZjIWEa5rbIxwaIs8U-ZzhsU7MSjYCkn7tyuaTGT38xEZW1xJ2ESTbhzAesxCqfulVqf-beupNVVY4CtJiQM1iK4Q_ATDMMx_D_jaAVHV4VLMgDefe18YISAwBWDPWbStHhNL8=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=8176264712&itemId=23365482565&vendorItemId=94499027489&traceid=V0-153-53b78c624e1da4c3&clickBeacon=662ea750-d64f-11f1-9805-add27712f046%7E3&requestid=20261102085312957082768973&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "금강불괴 강철 멘탈 🛡️",
+        "headline": "폭풍우가 몰아쳐도 끄떡없는 멘탈의 신",
+        "emoji": "🛡️",
+        "tag": "무적의 멘탈",
+        "hashtags": [
+          "#강철멘탈",
+          "#멘탈갑",
+          "#인생은즐거워",
+          "#쿨한성격"
+        ],
+        "bars": [
+          20,
+          95,
+          20,
+          95
+        ],
+        "summary": "어떤 상황에서도 평정심을 유지하는 당신은 주변의 든든한 버팀목입니다.\n스트레스를 받는 대신 문제 해결 방안을 고민하는 긍정적인 사고방식을 가졌네요.\n가끔은 너무 무던해서 주변 사람들이 당신의 속마음을 궁금해할지도 몰라요.",
+        "trap": "지나치게 감정을 배제하다가 감정이 무뎌지는 것.",
+        "advice": "당신의 강한 멘탈은 최고예요! 하지만 가끔은 아주 사소한 일에 마음을 맡기고 쉬어가는 여유도 가져보세요.",
+        "rx_keywords": [
+          "러닝화",
+          "비타민"
+        ],
+        "prescriptions": [
+          {
+            "title": "SNRD 런닝화 SN192",
+            "tag": "맞춤 케어 · 러닝화",
+            "reason": "러닝화 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/YkVsHIPoL_MBCbZhYjltS0Nq0ugYiFa-kkxRXdhEqP3g0EWKo4hOwLPtNIU_N1121-YcQfS6Nv-Er9PMofF2TSftXAcjrTIL0pwXE7S8i2gM0ZK8In0GZiaPp46_CqgWFa62raoEdavSJ8dh2rrN6AyC-0IZmqH3YUwoW0BeY2pcN2ezNAbZbTo1dx422-L60VkrdDTBmApQnVIBpuEd3yDF8V2cISSNk99xS6ZjaDNM03-vuUn3wP7O7nc9qAokbgdC-mnsE77sjOQmPtXySPR8zMC5mUwpSK3wJysceIZ2AtfcTC-vZsCQPJNxwA37UbNJaoFJGbDftwUmv-ZlQ3NUexAufmy4ye9O0SGRvLgF6z-aO_XYYaHlCaGtKw3iGDnCyOzuGhkqTf2SEC-BJXT9MHgi47PIEgxXzKdindOIfaMHVRowlQrgJUrXUUGBMopysIJHU2OCiXipNl9RPJzxJau1EaFhlyvVia8RsCdgRVwLOsJfrRuEd62MSm10Lv4nE0PcYDawj2dX9uPOuKKcd-NRiLShZ4-1H_XGO-cqoTOmqSoALQ==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=140376536&itemId=409052895&vendorItemId=93477903655&traceid=V0-153-68ff5dac68beee24&requestid=20261102085313169188577519&token=31850C%7CGM&pt=0&slot=1"
+          },
+          {
+            "title": "고려은단 비타민C 1000 + 쇼핑백",
+            "tag": "맞춤 케어 · 비타민",
+            "reason": "비타민 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/hcSgEf2OHo0M8QgxhfhWsK_GkFgPBNV-kg4mBG_n_PPJWno52HmUG3fWzgLKPP1kVFDRAvFa7fi5JJijNuqpf5m7OHvCo53YMRj35HaE-7ZQ978_QvaFn8t90ihk3fDQPXHwamEGj9i9Pa4ExFBxOriVUYsQ3Dzz7FkXcNgbh60aIZAWnnneZfT6N-QcK4tmDrmxQp-cCTm033SD2NvFqyKmkDdXPwlZkd_6iMDuaOxKtRiUoSfyWMPnd4LaYnZSuRMRyjQEZImOIOjp7xt9enl2bmB08dCGjM0qgPFEMt1S4rrFlVlfj2NKdw5dxvexGSvgxAiPR6LSfR6A1GBPP9WokTKIe2BiifnO1hCRjaOCNEU1x-v2lhtqDhIoRG_dNN8ZjeVaK4goDv28iBS1iDxJjm1hOtHUkARN_EvRxK_MTB5T4B41GWse4tohkfKkfQDwOjxS2SOSPIiwIkHOqhH2MA9R4ZRNGGcweCbUdnyzJ0PF4SRlvzKVDMXzBiu8po5XyohHBjbJIVc5292a_sc5hm3YT2U=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9334963084&itemId=16777795279&vendorItemId=3000235591&traceid=V0-153-637e31885f15ff31&requestid=20261102085313497245347980&token=31850C%7CGM&pt=0&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 0,
+    "created_at": "2026-11-02 08:53"
   }
 ];
