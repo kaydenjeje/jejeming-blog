@@ -8672,5 +8672,209 @@ window.TESTS_DATABASE = [
     ],
     "participants": 0,
     "created_at": "2026-11-03 02:53"
+  },
+  {
+    "id": "office_villain_defense_1",
+    "category": "직장/성장",
+    "title": "사회생활 만렙 직장인! 나의 오피스 빌런 대처력 테스트",
+    "subTitle": "퇴사냐 생존이냐, 당신의 <span>오피스 빌런</span> 방어력은?",
+    "desc": "매일 아침 출근길마다 가슴속에 사직서를 품고 사는 직장인들을 위한 현실 공감 심리 테스트! 나는 과연 빌런들을 우아하게 제압하는 만렙일까, 아니면 스트레스에 멘탈이 바스라지는 순둥이일까?",
+    "emoji": "🛡️",
+    "tag": "직장인·오피스생존",
+    "viralBadge": "무료 심리테스트",
+    "metricLabels": [
+      "멘탈 갑",
+      "사이다 발언",
+      "사회적 가면",
+      "속병 지수"
+    ],
+    "questions": [
+      {
+        "category": "☕ 탕비실 대참사",
+        "question": "아침에 출근했는데 내가 제일 아끼는 커피 캡슐을 팀장님이 싹쓸이해 갔다. 심지어 말도 없이!",
+        "a": "내부고발자 마인드로 단톡방에 '누가 제 캡슐 다 드셨어요?' 공개 저격한다.",
+        "b": "‘에이 기부했다 셈 치지 뭐’ 하고 속으로 삼키며 내 전용 서랍에 자물쇠를 단다.",
+        "score": 1
+      },
+      {
+        "category": "💬 카톡 지옥",
+        "question": "퇴근 시간 10분 전, 평소 대답도 안 하던 타 부서 빌런이 긴급 업무 카톡을 남겼다.",
+        "b": "‘내일 아침 출근해서 가장 먼저 처리해 드리겠습니다!’ 하고 과감하게 폰을 뒤집는다.",
+        "a": "이미 퇴근했는데 굳이 답장하며 생색을 내거나, 욱하는 마음에 읽씹하고 다음 날 아침까지 지옥을 맛본다.",
+        "score": 1
+      },
+      {
+        "category": "🔥 회의실 빌런",
+        "question": "회의 중에 내 아이디어를 마치 자기 것인 마냥 가로채서 발표하는 상사, 이때 당신의 행동은?",
+        "a": "“아, 방금 팀장님이 말씀하신 게 바로 제가 기획한 그 아이디어입니다~”라며 은근히 팩폭을 날린다.",
+        "b": "‘휴, 저 사람도 오죽 성과가 고팠으면 저러겠어’라며 내면의 평화를 위해 양보한다.",
+        "score": 1
+      },
+      {
+        "category": "🏃‍♂️ 책임 전가",
+        "question": "분명 내 업무가 아닌데, 선배가 슬쩍 자기 일감을 내 업무 폴더에 밀어 넣었다.",
+        "a": "“이거 제 업무가 아닌데요?”라며 단칼에 거절하고 원위치시킨다.",
+        "b": "‘언젠간 나도 도움받겠지’라며 꾸역꾸역 야근하며 처리한다.",
+        "score": 1
+      },
+      {
+        "category": "🌪️ 가십 메이커",
+        "question": "회사 내에서 나에 대한 말도 안 되는 루머(예: 이직설, 사내 연애설)가 돌고 있다는 걸 알았다.",
+        "a": "당사자를 직접 찾아가 “제가 그런 소문 주인공이라면서요? 제보가 정확하네요”라며 뼈 때리는 미소를 날린다.",
+        "b": "똥이 무서워서 피하나 더러워서 피하지 하며 속으로 앓다가 이불킥을 난사한다.",
+        "score": 1
+      },
+      {
+        "category": "⏰ 눈치 없는 야근러",
+        "question": "칼퇴하려는데 상사가 슬그머니 다가와 “오늘 저녁이나 같이 먹을까?”라며 눈치를 준다.",
+        "a": "“아, 오늘 저녁에 약속이 있어서요! 다음에 봬요~” 하고 0.1초 만에 가방을 챙겨 나온다.",
+        "b": "“아… 네… 특별한 약속은 없는데…”라며 마지못해 끌려간다.",
+        "score": 1
+      },
+      {
+        "category": "🎯 피드백 지옥",
+        "question": "이유 없이 내 기획안을 트집 잡으며 “다시 처음부터 새로 해와”라고 말하는 빌런 상사무새",
+        "a": "“구체적으로 어떤 부분이 부족한지 피드백 주시면 수정에 참고하겠습니다”라며 논리적으로 반박한다.",
+        "b": "눈물을 삼키며 “네, 알겠습니다…” 하고 책상으로 돌아와 눈물의 키보드질을 한다.",
+        "score": 1
+      },
+      {
+        "category": "💰 회식 자리",
+        "question": "회식 자리에서 꼰대 부장이 고기를 태워놓고 나한테 왜 뒤집지 않았냐며 타박한다.",
+        "a": "“고기는 타이밍인데 제가 타이밍을 놓쳤네요^^ 다음엔 부장님이 직접 구워주세요”라며 맥락 있는 반격을 한다.",
+        "b": "“죄송합니다, 제가 더 신경 썼어야 했는데…”라며 고기를 열심히 굽는다.",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "법보다 주먹! 우아한 오피스 마스터 🥋",
+        "headline": "빌런이 다가오면 척추가 서늘해지는 사회생활 9단 만렙",
+        "emoji": "😎",
+        "tag": "만렙 생존러",
+        "hashtags": [
+          "#사이다발언",
+          "#팩폭장인",
+          "#오피스마스터",
+          "#멘탈갑"
+        ],
+        "bars": [
+          95,
+          90,
+          85,
+          20
+        ],
+        "summary": "1. 부당한 일에는 눈에는 눈, 이에는 이로 철저하게 방어하는 완벽한 처세술을 지녔어요.\n2. 상사든 동기든 선을 넘으면 은근하고 우아하게 뼈를 때려 상대를 당황하게 만들죠.\n3. 일은 프로페셔널하게 처리하면서도 칼퇴는 절대 사수하는 멋진 직장인의 표본입니다.",
+        "trap": "지나치게 팩폭을 날리다가 본기도 모르게 사내 '냉혈한'으로 소문이 날 수 있으니 가끔은 인간적인 허술함을 보여주세요.",
+        "advice": "지금처럼만 단단하게 멘탈 지키시길! 당신의 당당함이 곧 회사의 평화입니다. 오늘 저녁은 맛있는 걸로 셀프 보상 고고!",
+        "rx_keywords": [
+          "블루투스 이어폰",
+          "입욕제 세트"
+        ],
+        "prescriptions": [
+          {
+            "title": "평생 A/S 볼티움 블루투스 무선 골전도 이어폰 아쿠아본X VTU-X900, 팬텀 블랙, VTU-X900",
+            "tag": "맞춤 케어 · 블루투스 이어폰",
+            "reason": "블루투스 이어폰 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/P2lR2dOC9bnOPcRAPxyQbiIyTNzKPURrvo2r4668eliXMHu4Ag3Na9gMG-f5FP7S_RdtD3sOZjrQXJIzLynndiJnypeWK8mDxgfhbMTChdaZYC1-0cvjMNCBdHu4-0J6auOrDSBRS-elaqjZI-VbmSHjc3VXf9VcGKLdFGXeSHbafNfjgp_ZiT5J9zM-W_zQyKE6-XYlRsExxXd517II4vRQrGzZl4UiNeNsQv_7A_DKMLruLTtsuwcrgTPQecPnZx11TVwh3xpX_imsAVWNc7KTY73HCtkfCEEofMswVZQkiE0JL8lqjLWWQWCEP8x75TVnjfQRT2RH5Vma1soOdFW5gd5yXlCS6RwdfdVmGKyfbURdCoYadDlNvirG8_-LoNQXPjXlbJxQROOws56CBsjVsmFnEMnbKxOOp484m0N9NpkbuNsUs4np83OkpSnl4h1nojougOTGWwU9vxnHXU6wDHrQyMnrBbMEjgDF0KX2zIyAmWP7lrcOkzhxx9Meim7YOztIxOOLpJGCEYXqJEuuPRElnfqVA4Z-gQHDLOmZt_ifrYiL6FFb1T-sHGCljV6JXoh15zs8vI6RMcr24I0=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=8966211034&itemId=26239718936&vendorItemId=94011221159&traceid=V0-153-c20a3da2f911dc94&clickBeacon=ab162c20-d718-11f1-b192-a10756894ef8%7E3&requestid=20261103085357449088551415&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "커스터블 바다동물 피규어 배쓰밤 9종 세트, 1세트, 630g",
+            "tag": "맞춤 케어 · 입욕제 세트",
+            "reason": "입욕제 세트 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/EWNt_NgOSc4AfW7JEb1_JAv6JX9DamfN5YZVU4-qOrFawmZHU50ZktCGecYnTogQuyEMwNIpuRKLzxXkP-tJ7yb2jP2pHMWmc3pNGn3o1jxiN6OJx6q6FmwE2JXOKyBtLrRlmYDg_wtNEuwyZOrhzplB-oSdhuSObVqqCdguwMzWa72-qq2yK28RJhRVu52aly5JfaY6lp_ljvOvyfkDrIIaV5VfMqLKbqiS1MMktbO-yr96oT4WuDHEbNbcvzlo7r5cY9IWYLbgmg-0zRmmOsc9YxEJNEsslMPKNXDHbcsj890PUf7LCf3i7egj64VB-3TXqFl6qwDbRS3Y5POzBnIfakM6276QiRhEoVGouTSCiOt6XE2rDy_m1ziTTJANBaDrhq5AxevgxYu7-gz0fQagNZOBj0OSlkZOxaNhOVO8DUupTMIYxJvXvyXHPYjDNyGHKJjVUyGOL6Q-Ja7mgrIkc_7erdCdAGCq7_B-c02lMCQqfKut6bYuEGtHSbUNtxMBMSLa0mtzQ7GK8EEE",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=8767558493&itemId=25499371687&vendorItemId=95804516954&traceid=V0-153-f80df73f8c0b3975&clickBeacon=ab346280-d718-11f1-a095-5f4525449f03%7E3&requestid=20261103085357558191148205&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "눈치 100단 평화주의 중재자 🕊️",
+        "headline": "둥글게 사는 게 최고! 적을 만들지 않는 스마트한 처세가",
+        "emoji": "🦊",
+        "tag": "스마트 중재자",
+        "hashtags": [
+          "#평화주의자",
+          "#스마트생존",
+          "#적을만들지않는법",
+          "#눈치만렙"
+        ],
+        "bars": [
+          70,
+          60,
+          80,
+          50
+        ],
+        "summary": "1. 모난 돌이 정 맞는다는 걸 잘 알기에, 적당히 수그릴 줄 알고 적당히 피할 줄 아는 지혜가 있어요.\n2. 겉으로는 웃고 있지만 속으로는 엑셀 표처럼 철저하게 손익을 계산하고 있는 전략가랍니다.\n3. 빌런들과 대놓고 싸우지 않고도 내 실속을 다 챙기는 은근한 고수예요.",
+        "trap": "참는 게 미덕이라며 계속 받아주다 보면 어느 순간 호구로 오해받을 수 있으니, 아닐 때는 확실하게 'NO'라고 말하는 연습이 필요해요.",
+        "advice": "당신의 유연함은 직장 생활의 강력한 무기예요. 가끔은 나를 위해 조금 더 이기적이 되어도 괜찮아요!",
+        "rx_keywords": [
+          "향수",
+          "디저트 선물세트"
+        ],
+        "prescriptions": [
+          {
+            "title": "베르사체 베르수스블루진",
+            "tag": "맞춤 케어 · 향수",
+            "reason": "향수 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/TCTrPuHnuNK6iKYcTJQL8xPowtbUYpfbQpDwsG-BKpcwtg2JAFP7lfwN6U3QShFcpXdUJrhjkBd-XH0qAOXpvdPdhVbmegd5hsXAMtcBBdMkH-hGt_snGn26-dboZcVfH0ZxVRlu-etOg9WfN68xS2zV06ungw19AOJxpKGABjPLovkKO-Sfq9wITKqKa_WiTNJgPWFUuznGH4kev7q9cDkNTmmc-tMD3Vgq7bJHUtlllTCLPqQd7fByIwOD_h9eEIEMUPAJeHUmf2pYozIejW6pTxY-YildNSfGaJf3xxpuoJ0_1d5zqksQE36kzExdTnFl9ICc6h66cwQbiT1cwzhhUg6jQBFGW1mJvrszX14m322rr0-yOYeHijEG0O-w8-az8F9wqrNRAVTAJivdeM1IUrDZbbeyAjynUzZBsvAZdJ4nQIDzWgnHw_ie7YB8cPQig9k7ATII307EzEKeI8-5TFzTs94vclW9f-_WonGEZdgGyQdLWrYU_-lTnNc7S3mv1WH0mHCxQi0N2z-WNNbHl7ZW8imSAfGuIrbM4m6Qq7JDuQ==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=23674071&itemId=166066&vendorItemId=3000090746&traceid=V0-153-ba22280a8363622b&requestid=20261103085357747088551551&token=31850C%7CGM&pt=0&slot=1"
+          },
+          {
+            "title": "[로켓프레시] 겐츠베이커리 시그니처 피스 15종 세트 1호 660g + 쇼핑백",
+            "tag": "맞춤 케어 · 디저트 선물세트",
+            "reason": "디저트 선물세트 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/QavlZNL8J1zPoupkQbgkLKn9TZiyNBagI_h7OvNgzpw6vJ5mJ_JlTOtSWGOBIjDR8VkSb74Pekr5HT74al-NRaURZgKyq4lPHjGcJjkfIHQGegWAM7HO4g-xhgxeNmSQWy6dxdAQxzeGm2pDt05jtJBT16k1A_q-AgVXjHJMtMoFHhDzAIRJKwdSddjAwuGCg3wvjC9z5_zKnYAv-D47quh0s_S1nB30sUKJVvDC8xOA5C5zcD8CRG2CES0cLAuIamoU5KvE_nKcS8f7A9UJrQIsi3Ghdk4mSlu1ya1rvI36pkbWKRumHjFJbWXXtjD0sFIiZXww_sLIf0MTWix7NgOYseEYi73Aq320YKRyTbE5q8BvlzmKgklUP9zFKt_VJPqLLiGCWisRkt7ytPTn6OVWP-su7t1SzGV4bkfJxsryeOmdlqhU_ytqBSGncKreMYxNtI2Cqlnz2zWCN2jJSdNFSgkdX6T8PxVMkGm8bh36gUPi2QjVoHr9WzsvtNzmpIfoYpG4WDZbJgsMfPhV",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9021232903&itemId=26450926140&vendorItemId=93426382720&traceid=V0-153-3617bea54715a022&requestid=20261103085357922139348342&token=31850C%7CGM&pt=0&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "퇴사 마려운 여린 두부 멘탈 🥺",
+        "headline": "상처받기 위해 태어난 게 아닌데… 매일 밤 이불킥을 날리는 순둥이",
+        "emoji": "🧸",
+        "tag": "두부멘탈",
+        "hashtags": [
+          "#퇴사요정",
+          "#두부멘탈",
+          "#힐링이시급해",
+          "#호구탈출기원"
+        ],
+        "bars": [
+          30,
+          20,
+          40,
+          95
+        ],
+        "summary": "1. 착하다는 소리가 제일 좋지만, 그 착함 때문에 회사에서 가장 마음고생을 많이 하는 타입이에요.\n2. 빌런이 한마디만 해도 집에 와서 100번 넘게 곱씹으며 끙끙 앓는 대표적인 속병 보유자죠.\n3. 사직서를 가슴속에 품고 출근하지만 오늘도 자본주의에 굴복하며 묵묵히 버텨내는 중입니다.",
+        "trap": "스트레스를 밖으로 배출하지 못하고 전부 안으로 삭히다가는 정말 병이 날 수 있어요. 화를 내는 연습도 필요합니다.",
+        "advice": "회사는 회사일 뿐, 당신의 가치를 깎아내리게 두지 마세요! 퇴근 후에는 업무 카톡 무음은 필수, 나 자신만을 위한 시간을 선물해주세요.",
+        "rx_keywords": [
+          "경추 베개",
+          "따뜻한 허브티"
+        ],
+        "prescriptions": [
+          {
+            "title": "HOMEY NEST 편안한 경추베개 인체공학 이형 설계 초고밀도 메모리폼 숙면 마사지포인트 기능성 베개 AMDHMZ-14, 1개, 화이트",
+            "tag": "맞춤 케어 · 경추 베개",
+            "reason": "경추 베개 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/2vpVKwCZES6cwEQF2t9JeqOKY_F4PwOZZTeHuUPYZiXxFaODHPbr-Eph3gOi9Mh-rPh7oUTJ8NshR1PnRWVgs8DWFSVQQGDPFaqC8dtRb27LtKxd-kn-PkjKis55D-lZdL349-iy0-92-89V_seU0EctC8q90rkwSgHuxj3sNW8fCmDIFg1inCF9tWa5SOy32flu878g8Mbbu75dsPG6rV5xN0g_HTD-cXGEubiTKdpcAfGdLLaeNd13oyJCbCgRnXwJ738bTucqjV2yaHoIJiC70ZxDs6idkdoPd1WSXW1fAYxLURsPepGnsYs_ofSphboTf1gwGJNVC4CaFNebJgBvImwTub8pJk5H5utH6YvgJR2jrt2uA5V1ct5AQpsyzA66Awg4NzibT3YmG33j6cYq7uxVUSxAQH3dkNhoIsaL3gGru9Q2t50Gpwf8AgiWT8wBS_Udn-vZgAx0iiQM8iq6KaLbQ9aikGAce45lAQiWZQjPyu8aLxfjo24ErHd46te10nVrzeQrahqoLIik5KoKKnFCfLLA1jdPmnBmx_k=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9689718597&itemId=28979689536&vendorItemId=95909033562&traceid=V0-153-43f66c44084525ba&clickBeacon=ab934b60-d718-11f1-8215-c20f265286c7%7E3&requestid=20261103085358176020806808&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "런던프룻앤허브 따뜻한차 피치 파라다이스 20T 5개 사무실 수분보충 고급차 차음료 허브차",
+            "tag": "맞춤 케어 · 따뜻한 허브티",
+            "reason": "따뜻한 허브티 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/xJwSwruUQlUrhgIHxJIxAEnR3szyQyXo2B2RCf94YRJvASRuFEWPBdRyWGYraDMRq8LUhHmpKEhN9njhuQwu9RSBwX7T2B15nxtsuCzmWrQk-gbMfxQ9rHRwrEnPHnPwDLLfWXYnZL8GNCimePKdtcqlH3VJJuLnn0v3Ur6030WidHevNb7YDmt_NKSr7QFrwz37ZB-rKaGtE0xI1xhS_XcUVvT0soxoaWnWamk0xmKpI6YKqusx3uSn8QMWtJNX-fYC4t1UBX6KaEABXSm4kp0-zqauL2G-6QQuvp5MXSE_MhBlFEaqAAJfykYIIKg9o5jgGLbMlqFB0ToVUhgjpQSL9FbQK3qjFPA_5LqK7d9j5ZaCEdnctRTpXwJxsZFInCWDgOHX0pC3liKU3qDQCH5JjvWQofv2KZphEQTchbVRY-gmQYFTLy_0Dn_ZkaVHhXTpMpaGY3--i_ynyIUsTzAZt-lnr9gMeNFQFGVz4BAJtoKUOAP0Z_ZXqRr2fAh7OfX8kbzgdsAZI3WkD2khIDyMwuyg6767ehbYj0NvloJHVnhHXuhu",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9771840727&itemId=29249988545&vendorItemId=96252373615&traceid=V0-153-96f3a8b96ce2c353&requestid=20261103085358445088551952&token=31850C%7CGM&pt=0&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 0,
+    "created_at": "2026-11-03 08:53"
   }
 ];
