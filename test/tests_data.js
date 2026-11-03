@@ -9284,5 +9284,209 @@ window.TESTS_DATABASE = [
     ],
     "participants": 0,
     "created_at": "2026-11-04 02:12"
+  },
+  {
+    "id": "is_it_thumb_or_fish_1",
+    "category": "연애/관계",
+    "title": "이거 썸일까 어장일까? 1분 만에 끝내는 상대방 마음 판독기",
+    "subTitle": "애매한 사이 <span>속 시원하게</span> 종지부 찍어드림",
+    "desc": "매일 울리는 카톡 알림에 오늘도 심장이 널뛰나요? 상대방의 미지근한 온도차, 썸인지 어장인지 1분 만에 명쾌하게 판독해 드립니다.",
+    "emoji": "🎣",
+    "tag": "연애심리",
+    "viralBadge": "무료 심리테스트",
+    "metricLabels": [
+      "직관력",
+      "확신도",
+      "멘탈방어력",
+      "객관성"
+    ],
+    "questions": [
+      {
+        "category": "카톡 속도",
+        "question": "상대방의 카톡 답장 속도가 평소에는 1시간이 넘는데, 술 마신 날 밤에는 5분 만에 온다면?",
+        "a": "나한테 관심 있어서 술 마시고 생각난 거네! (설렘 폭발)",
+        "b": "그냥 심심하거나 술 기운에 연락한 거겠지... (냉정)",
+        "score": 1
+      },
+      {
+        "category": "약속 잡기",
+        "question": "이번 주말에 뭐 하냐고 물었더니 '아직 계획은 없는데 잘 모르겠네'라고 한다면?",
+        "a": "내가 먼저 가자고 하면 나올까? 일단 데이트 코스부터 찾아본다.",
+        "b": "거절할 핑계 찾는 거네. '아 그래? 잘 쉬어!' 하고 쿨하게 끝낸다.",
+        "score": 1
+      },
+      {
+        "category": "SNS 활동",
+        "question": "내 스토리는 안 읽으면서, SNS에 놀러 다니는 사진은 실시간으로 올린다면?",
+        "a": "그냥 인스타를 잘 안 보나 보지, 다시 한번 내 스토리 답장 유도해 볼까?",
+        "b": "나 말고 다른 사람이랑 노는 거 눈치 안 보네. 관심 없는 거 확실함.",
+        "score": 0
+      },
+      {
+        "category": "대화 주제",
+        "question": "주로 상대방이 자기 힘든 일이나 고민만 털어놓는다면?",
+        "a": "나를 그만큼 편하게 생각하는 거니까, 내가 위로해 주면 호감도 쌓이겠지?",
+        "b": "나는 감정 쓰레기통인가? 대화의 8할이 내 얘기가 아니라 본인 얘기네.",
+        "score": 1
+      },
+      {
+        "category": "호칭과 거리",
+        "question": "둘이 있을 땐 다정하다가, 지인들 앞에서는 나를 그냥 '아는 사람'이라고 소개한다면?",
+        "a": "혹시 부끄러워서 그런가? 둘만의 비밀이라 더 짜릿한데?",
+        "b": "주변 사람들한테 소문나기 싫은 거네. 딱 거기까지가 선인가 보다.",
+        "score": 1
+      },
+      {
+        "category": "선물과 호의",
+        "question": "본인이 필요 없다고 나한테 준 물건들이 왠지 찝찝하게 느껴질 때?",
+        "a": "그래도 나를 챙겨준 거잖아! 정성이 중요하지.",
+        "b": "버리긴 아깝고 남 주긴 미안해서 나한테 처리하는 거 아냐?",
+        "score": 1
+      },
+      {
+        "category": "미래 언급",
+        "question": "한 달 뒤 전시회나 축제 이야기를 꺼냈을 때, 상대방이 확실한 답을 피한다면?",
+        "a": "아직 한 달 뒤는 너무 먼 미래라 그런 거겠지, 기다려보자.",
+        "b": "그때까지 우리 관계가 유지될지 확신이 없거나, 나랑 갈 마음이 없는 거네.",
+        "score": 0
+      },
+      {
+        "category": "직구 질문",
+        "question": "지금 우리 무슨 사이냐고 물어볼까 고민될 때, 당신의 마음은?",
+        "a": "물어보고 깔끔하게 정리하고 싶어! (불안해서 못 참음)",
+        "b": "굳이 물어봐서 관계 망치고 싶지 않아. 서서히 멀어지는 게 나아.",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "사랑에 눈먼 맹목적 헌신러 🍯",
+        "headline": "상대방 어장 관리에 뼈까지 녹아내리는 중",
+        "emoji": "🍯",
+        "tag": "호구주의",
+        "hashtags": [
+          "#내가먼저지쳤어",
+          "#어장속물고기",
+          "#희망고문끝",
+          "#현실자각타임"
+        ],
+        "bars": [
+          20,
+          30,
+          10,
+          15
+        ],
+        "summary": "상대방의 작은 행동 하나에 의미를 부여하며 혼자 연애 중이네요. 당신의 다정함이 상대에게는 너무나 쉬운 먹잇감이 되고 있어요. 지금 당장 연락을 멈추고 거리를 두세요.",
+        "trap": "상대의 의도적인 방치와 다정함 사이를 오가며 '이번엔 다를 거야'라고 착각하는 것.",
+        "advice": "당신의 가치는 상대의 반응으로 결정되지 않습니다. 스스로를 먼저 아껴주는 연습을 시작하세요.",
+        "rx_keywords": [
+          "마음 다스리기 에세이",
+          "심리 상담 이용권"
+        ],
+        "prescriptions": [
+          {
+            "title": "기분이 태도가 되지 말자 : 기분을 관리할 줄 알아야 인생이 관리된다",
+            "tag": "맞춤 케어 · 마음 다스리기 에세이",
+            "reason": "마음 다스리기 에세이 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/-K6zXmh6MKdMrgX0-KNRdvtP9tGZfl68bPCyvhm1M677OhuxlOk72hCL6cNbzCwUy7jxl7FSrsz_Ls4W7beqXi7iiXMjPZtKzV5DOOA0JTBLaF6yeBVC0fFN68_JSoHIzgmzA8uWLOzN9zgljMYFtCUCmbJYcRIFdgku_it9Ol2LDSkLytbOnhi85Q-lnZvaQeO8PghVUV-JsL9h9_bm-FdL-Z3e9U8mF0KhUweEonkRbFeENJu8Jv7wLU5q-1SX1Faax64t4lW4zxUmKuWo9uFsY7MHephYdDVib_F9MfNmwL742Rr6D-B8FJcn3Guw8hk1ELfuFXieeQ32YVwmK655hCS39bKDDoREyvPkFjH7KncyeWQJbY18uagEg32ZFXlg6Dp5Kqm9J4gByctmyiJzGSVDbt_zWMzwlArPadZdfMTiyFo0uIeDYbdKgDucn4wENcHOY14OgCRk8Bs9TjnLVHR1dfLxfDIHHFRohe3JXm0IQBsO_KWheFDzqJh2s_uGMBy9l8mOAuaOCoJRIYTX4zn3hNg=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=6965065480&itemId=16969945157&vendorItemId=84146756167&traceid=V0-153-bcd40e0f01981118&requestid=20261104081305709095479381&token=31850C%7CGM&pt=0&slot=1"
+          },
+          {
+            "title": "온라인 심리검사/심리상담 이용권",
+            "tag": "맞춤 케어 · 심리 상담 이용권",
+            "reason": "심리 상담 이용권 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/FxAiKskW0WA8_cteFx0QbihWZ9uP9ZMqYYwMT88tXiVGOj3rn6aGfoplmw6bnyQXMoyare8E7xQ5XdwG7JJ6DKmsMPdoX2gL0Cq1pYJely6mTqNGlL6rZaMOdgYPCYJ1SDHD_FNIFSnrYjy3Nsml9CS5FOUGXbuxp8Nc3Z4J2urRe2080jPLKsHIS8KwBx8k5Y_5MWjBP_EykTQD6up0ce5Lmt47P3DKXeKwTNjjc-OQBUqziiKMwnP3yWdBQkb9wQb_bvI2ZDzAe9yDFVT_K8H2l0arV22FjXPEhqHHGMYhVB6RoQyfp-8NgNUW8F2MTulY-Pfk9zWbeaZwemTMIAbnsaN1xyLb7SZjm-u7rthvantmhxOT9cmZy13Otc5qd2i58OpSgcRQF_WB9gp8v_qXFG9PV2y0Vz-57WJP0fd28yPZ7JBAVAEuVBV5yuBOMWbcAF4U_hvfuz4c1q2ez9D_bSGX4PI61QCxm5AzMEEGcVwmMl1ee_8KvKU2cYf0TgCqzXVbSHAwl6XZ_xuffyNOWgTNiPI_ZW3O_QWYg5EcepNoj7HFnw==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=7186736947&itemId=18136266310&vendorItemId=85286850518&traceid=V0-153-7e0e456b0973d2dc&requestid=20261104081305887123127946&token=31850C%7CGM&pt=0&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "눈치 백단 관찰형 분석가 🔍",
+        "headline": "썸과 어장 사이에서 줄타기 고수",
+        "emoji": "🔍",
+        "tag": "중립기어",
+        "hashtags": [
+          "#중립기어장인",
+          "#분석끝",
+          "#썸일까아닐까",
+          "#밀당고수"
+        ],
+        "bars": [
+          70,
+          60,
+          80,
+          75
+        ],
+        "summary": "상대방의 태도가 애매하다는 걸 이미 눈치채고 계시군요. 섣불리 감정을 쏟지 않고 상대의 반응을 보며 수위를 조절하고 있습니다. 아주 영리하고 성숙한 연애 방식이에요.",
+        "trap": "지나치게 이성적으로 대하다가 진짜 인연까지 밀어내 버릴 가능성.",
+        "advice": "조금 더 확신이 필요하다면 가벼운 직구 질문으로 상대의 반응을 떠보는 용기가 필요합니다.",
+        "rx_keywords": [
+          "감성 와인",
+          "무드등"
+        ],
+        "prescriptions": [
+          {
+            "title": "감성 모던컬러 3단우산 여성 남성 접이식 우산 양산",
+            "tag": "맞춤 케어 · 감성 와인",
+            "reason": "감성 와인 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/TIyaTc5n8Y0VkILZTDVG1KLc2SP8bpoXJshik1MBZ31tCmeJyNf54fiNl2aXsRY-P0UZCSSbzWcJPHb42QBF_6hA9aQzaCW7vBiJ5-qd51JK-lom2Ly0eBplNiKu6jyUUgvTg--Cv99XCvvcqUC8_vPGkpq4zsXy5uCquxVRnxyHcfBrhjPfN9uZIQIsx_081n548mdnI1I4rxEK78_CZKnrMHhXTsd5VG13s3rGwN6UF0l-qYY3wvvl00QQBI4d2QtRaeSYhmyKC7gSaiqpKuMDlGOBFjdkQpUW_yebXzLgo8O0kYsAOAtYvIN91-ssFzDT8kbP9Ee16OM_o3zwSDqUeIi3GhM9NfShDRMy2qj2fV7I6q2j4Syo_9A-0-LI53eYPBAJJJuKIggB0xB8yfNZaUZJarft7mYZsZzx5ePOB9AeaVqTjCYt_pOUX-enInpdfdzW5aIFvuUzBLlvMsLGEdllBKyEq4GT3IE_kECN9cAj3ojT8yMYz5gaTbfh-PlV17GTn4GIONvf8vQgN4zxLglLP8wdFlxnIHSlAL7dXJxS7DN79Y0=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=8673095056&itemId=25177296136&vendorItemId=91877823234&traceid=V0-153-96a05eb313bc8c04&requestid=20261104081306074073843071&token=31850C%7CGM&pt=0&slot=1"
+          },
+          {
+            "title": "선세이브 아늑한공간 3색변환 침실 취침등 무드등, 블랙",
+            "tag": "맞춤 케어 · 무드등",
+            "reason": "무드등 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/zkLQlbW2nyyK06ghzpN1rqMkZIXr9ml-ZhLni31SxLWrKmOn9YcfV7w5YljjtA3CGgAz6BD56C3PPZUky1nJOS0OtsT4k7yLhVLV-NMPUVUw4vZTgxq2zI-Q7lWq-aDHtIfR-TG98-75XTefhuL8OkaT1CSQzLfLMK7jLDKrUuAeRANW5Q1sXz3MZR2OD6DZ7hmy3szi3FVh2VPVnyofx4Nd-N6U84xorR_b35rjh3Ibp3YcFsSwYvAgNwhoOMVf90wNkm0c7zmLWEyAgOqnqvKC4rkGlZgbVNp6vI0rLkDGqWmZbVsU_q5QOkld_HTPeCJ-B-v1G3oPTg5bpAJUjk4u8wJrNd4vsjUQa-zU_1aun03Y6XEij0S-iR500r6u5fue_OhNEL4ORa02kNWE0U-yE7Vqo9hKclvWYsbk4XeTx7pJL0aifJ-v6-X_JJfyu7FXpo2M32K3df5cOujoaqqu9d07O6gvQvN-GrjIcg80uefAzC6KwYGXejOU9R-vKS7QrDgRfzxqBxUgm7LTJ5a69qabWv5l6vWkeQzK0CQ=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9544086446&itemId=28471763566&vendorItemId=95306614462&traceid=V0-153-87cfd2900154dfe0&clickBeacon=2088cfd0-d7dc-11f1-84b5-302b90381c3a%7E3&requestid=20261104081306307163775027&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "철벽 수비대 냉혈 철옹성 🏰",
+        "headline": "어장 관리 따위 통하지 않는 강철 멘탈",
+        "emoji": "🏰",
+        "tag": "마이웨이",
+        "hashtags": [
+          "#철벽수비",
+          "#내가제일소중해",
+          "#어장차단",
+          "#행복한솔로"
+        ],
+        "bars": [
+          90,
+          85,
+          95,
+          90
+        ],
+        "summary": "누가 봐도 명확한 썸이 아니라면 에너지를 낭비하지 않는 스타일입니다. 상대방이 어장을 치려 해도 당신의 철벽 앞에 금세 포기하게 되네요. 그 여유로움이 당신을 더 빛나게 합니다.",
+        "trap": "너무 완벽한 철벽 때문에 상대방이 다가올 기회조차 갖지 못할 수 있음.",
+        "advice": "가끔은 마음의 문을 조금만 열어두세요. 당신의 철옹성을 무너뜨릴 따뜻한 사람이 곧 나타날 거예요.",
+        "rx_keywords": [
+          "나만을 위한 입욕제",
+          "홈트레이닝 기구"
+        ],
+        "prescriptions": [
+          {
+            "title": "[천연입욕제]라벤더바스티백",
+            "tag": "맞춤 케어 · 나만을 위한 입욕제",
+            "reason": "나만을 위한 입욕제 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/YZ8ndGK6k2N2qf-KYVtjdSkHiYZL0zWkOnOvo2lAIyZ4E3Uo4WNT68A1XjVWgGBhEb_nHaCL57w4obrrMhMqhFurbP2Unu6wamedesfxzf8B2D3MSmjsp1bD2HcNIKC_gTnt_eNFJi0NARdfO90G6w0bGgHSyLKh6wfSMTeTj5gyL0_HoEwhbx1aDZai2RmU4z4iv_SWHUR_Bs0ZJQRDai231y1xEJZYmoFdZ9D71MFkuYfO4fi6DGZj37TRxqtwaxhR0bjL4ydvmmgDnN2YDGMml59qCSspIAUwGBPiaCxaIwCnxpWSeBMtnEFtZoH1d0ymgRhMrKxrrpygdum0rxLYAmSUBBdeuOpGDvdnDV-wWMA27FwEcGlwLe2gW-Sw6Oy1nYXrHT2L5154sBZq5E3SjAse0alC8PZFOw-FKLTpYUvRZwsTWd6vsGpOlbtTioNNFQcZN12Tb_59dIg_MZTjo1xfYNf_QzEwB4sLRLz3TVrV61enmSNMb1jZYB3wq4KkQ0CvC1kghBd8qxp9B5lgbt0FlmhKOdD7YSrQ-y-IgcAKwn9C6w==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=7558903409&itemId=19909779055&vendorItemId=87009712308&traceid=V0-153-cb3d4eb41ab7a50d&requestid=20261104081306450288434069&token=31850C%7CGM&pt=0&slot=1"
+          },
+          {
+            "title": "하늬홈 2세대 업그레이드 가정용 다기능 철봉 홈트레이닝 운동기구, 블랙 등받이형",
+            "tag": "맞춤 케어 · 홈트레이닝 기구",
+            "reason": "홈트레이닝 기구 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/R22BKS_rJfX3LH8hR_hKIE1Lr6wTPtwj-ljp4HXjUxlb0ENfF53s57q3s0EHdSz-WcYKmuNwetFS3npNcPkLf30r9FxGhmYz7AAofETxd5mqbJtaKR3er4KIUtmPHyzkFmCXl9fhm1Q34dpmyQ2Cqs7RzKvX8cfzBpt1OwV2f4T6MldEocn5omDDAgZl2FhM3OFXcuoadKwdgoGBoVfByK9Ohz4VTGMaDMFVolElOQI7USj-ARzyZqFy_uNGjXjNP6cyNYKJrGszKk0HyM4ImrJHipqAwz9RhtLBUSPVuKpbTi2JYG2RLr6UdjB4oihGbac4TZge5PSCRu3YcVVa2QmTwd07Vi6MwelZXpzEo8k4zJAjO9qeQUUkpX3LtluxBuZW4WD9KMiocyq9TfpUZq6A3Uz0kO5cTl9iGGibvoL741u5taZ0zcMkgIJkzh-kjHkCgaHnf3PaXowtLBA9_KWfNik1bOC4FJX4i224wzqdbwbO6d46CTi8wAd8nADxIgwXlZLDNwN9Q2YcJz5Ezx5KmK558SSPh6mdaHkPVaU=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9766451314&itemId=29231438086&vendorItemId=96155048074&traceid=V0-153-5c5e7e35b4bc2ac8&clickBeacon=20b732d0-d7dc-11f1-9d8e-87187f5b373d%7E3&requestid=20261104081306584095479745&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 0,
+    "created_at": "2026-11-04 08:13"
   }
 ];
