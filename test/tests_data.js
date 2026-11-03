@@ -8876,5 +8876,209 @@ window.TESTS_DATABASE = [
     ],
     "participants": 0,
     "created_at": "2026-11-03 08:53"
+  },
+  {
+    "id": "digital_detox_dopamine",
+    "category": "힐링/멘탈",
+    "title": "10분마다 폰 확인하는 나, 혹시 도파민 과부하? 디지털 디톡스 테스트",
+    "subTitle": "내 뇌는 지금 <span>'좋아요'</span>에 절여져 있을까?",
+    "desc": "알림 소리만 나면 무조건 폰부터 잡는 요즘 현대인들! 뇌에 휴식이 필요한지 1분 만에 진단해 드려요.",
+    "emoji": "🧠",
+    "tag": "디지털도파민",
+    "viralBadge": "무료 심리테스트",
+    "metricLabels": [
+      "디지털 의존도",
+      "도파민 중독",
+      "멘탈 여유",
+      "현실 도피력"
+    ],
+    "questions": [
+      {
+        "category": "📱 알림과 대기",
+        "question": "유튜브나 숏폼을 보다가, 로딩 중 5초짜리 광고가 나왔을 때 내 행동은?",
+        "a": "5초도 아깝다! '광고 건너뛰기' 버튼에 손가락이 이미 올라가 있다.",
+        "b": "숨 한 번 고르거나, 화면을 멍하니 보며 잠시 뇌를 쉰다.",
+        "score": 1
+      },
+      {
+        "category": "🚶‍♂️ 이동과 대중교통",
+        "question": "지하철이나 버스를 기다리며 가만히 서 있을 때, 나는?",
+        "a": "1초도 심심하면 못 견딤. 주머니에서 무조건 폰을 꺼내 피드를 내린다.",
+        "b": "창밖을 구경하거나 오늘 하루를 생각하며 멍 때린다.",
+        "score": 1
+      },
+      {
+        "category": "🍽️ 식사와 여가",
+        "question": "혼자 밥을 먹거나 카페에 앉아있을 때, 스마트폰이 없다면?",
+        "a": "지옥이 따로 없다. 밥이 입으로 들어가는지 코로 들어가는지 모른다.",
+        "b": "가게 인테리어를 보거나 생각에 잠기며 여유롭게 음식을 즐긴다.",
+        "score": 1
+      },
+      {
+        "category": "🛏️ 잠자리에 들 때",
+        "question": "잠들기 직전 침대에 누웠을 때, 나의 마지막 모습은?",
+        "a": "불 끄고 누워서 '딱 10분만' 하다가 2시간이 훌쩍 지나가 있다.",
+        "b": "알람만 맞추고 폰은 멀리 둔 뒤, 조용히 눈을 감는다.",
+        "score": 1
+      },
+      {
+        "category": "🔔 알림 확인 습관",
+        "question": "아무런 알림이 오지 않았는데도 스마트폰 화면을 켜보는 횟수는?",
+        "a": "나도 모르게 손이 감. 하루에 수십 번씩 잠금화면을 확인한다.",
+        "b": "알림이 울릴 때만 확인하는 편이라 폰이 조용하다.",
+        "score": 1
+      },
+      {
+        "category": "💬 소통과 반응",
+        "question": "친구가 보낸 카톡을 확인했는데 답장을 안(못) 하고 있을 때 내 상태는?",
+        "a": "읽씹이나 안읽씹 상태가 신경 쓰여서 계속 폰을 들여다본다.",
+        "b": "나중에 편할 때 답장하면 되지 하고 까먹고 지낸다.",
+        "score": 1
+      },
+      {
+        "category": "🎬 콘텐츠 소비",
+        "question": "유튜브나 넷플릭스 영상 볼 때, 재생 속도는 어떻게 설정하는가?",
+        "a": "무조건 1.5배속 혹은 2배속! 답답해서 원본 속도로는 못 본다.",
+        "b": "만족스럽게 1배속으로 연출과 대사를 오롯이 즐긴다.",
+        "score": 1
+      },
+      {
+        "category": "🧘‍♀️ 휴식의 순간",
+        "question": "주말에 온전한 휴식 시간이 생겼을 때, 내가 가장 먼저 하는 것은?",
+        "a": "침대에 누워 SNS 피드 정주행 및 알고리즘 바다에 빠지기.",
+        "b": "산책을 하거나 밀린 집안일을 하며 디지털기기와 멀어지기.",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "도파민에 영혼을 판 사이버 인간 🤖",
+        "headline": "잠깐, 지금 이 순간에도 엄지손가락이 꿈틀거리지 않나요?",
+        "emoji": "⚡",
+        "tag": "도파민만렙",
+        "hashtags": [
+          "#도파민중독",
+          "#디지털좀비",
+          "#디지털디톡스시급",
+          "#폰좀놔라"
+        ],
+        "bars": [
+          95,
+          98,
+          15,
+          90
+        ],
+        "summary": "당신의 뇌는 지금 끊임없는 자극에 절여져 휴식을 갈구하고 있어요. 10분만 폰을 안 봐도 불안감이 엄습하고, 숏폼과 알림 소리에 완벽하게 지배당한 상태입니다.",
+        "trap": "알고리즘이 이끄는 대로 살다 보면 어느새 하루가 통째로 사라져 있고, 극심한 만성 피로와 무기력증이 찾아올 수 있어요.",
+        "advice": "오늘 저녁부터 딱 1시간만 스마트폰을 서랍 속에 넣어두세요. 그리고 창밖을 보며 아무것도 하지 않는 '멍 때림'을 선물해 보세요.",
+        "rx_keywords": [
+          "아날로그 스톱워치",
+          "규조토 아로마 스톤"
+        ],
+        "prescriptions": [
+          {
+            "title": "라운프 스포츠 초시계 스톱워치, 46g, 46ml, 1개",
+            "tag": "맞춤 케어 · 아날로그 스톱워치",
+            "reason": "아날로그 스톱워치 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/j16xupqQ7mkGcMWZjyQY4tza6xwDoW4VTYsxdiU-9hh8AQ6Vfn94XARTR_AxY1ui1wmpfuOqZ5SAZ2g6Nm3o3lowNNWnEpQTOyPldJKDD-70__Lx--TE5QY723G1r4gecdk6HqoG_CUSyHWT700fE_oMm2LfaPBYgIIWfo8vk9p-3pS5kbuj0szH8UP9Pau9tRYXptSJaUJt9-9l1e43HM0sv9znMNMAlHQ17twpyVNUUQ8nIcRcVT1KuCO8tZh4ZkC5o7n4SYlswbRTXPWDDkBXdsBI3_exGRnPHaAk01rcrTTiz2Oy3XddbFLMilcjJbIJzqByapDTDN5JT5K-mGpExvXE43VJr-QXhKNjqMUR_3GpB7u-3ZeHEgYQLxMS1d7bRyXbAmpaLoutByw0PKfg6teCy8wxWTvNw8CEwEaDERnZjy3jAEndgEQf42oS_ZFutMDhDUxAvAYIfX3qCCHS1Fas_ShV5UUBFDNBbJ25VU20jf5GgpHDXCLf8FlowxiQBmffieqvjDqZNqF-",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9441243794&itemId=28081566448&vendorItemId=94879737054&traceid=V0-153-07f102186e5b76b0&clickBeacon=f25737f0-d74a-11f1-b9e3-28b0cc2a9f3b%7E3&requestid=20261103145351794278505905&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "지센트 스톤디퓨저 아로마오일 공기정화 인테리어 플랜테리어 선물세트, 1개, 프리지아 블랑쉬",
+            "tag": "맞춤 케어 · 규조토 아로마 스톤",
+            "reason": "규조토 아로마 스톤 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/dP2FFKtwaHNXHVEGdDCLC5-4Hq_VmutQq758wRuJ151vd7V2r6bBEByLEQckGiLvzGrTBiJBvYB20SH-zM7BUDt7ti80RB0L1PsPYLwfQgHMSwQYtY2G10OvydfvxRBe667mAzgFlh31BbfzwIUlHzCz8tgM3-jHuZQsodFMhfSrxW2G02hFn0mLRI491EG-qUuOerM0rYXyvTrOS2Iuycqf2oC99WlYL2UgD2j2aKkQzwQU_t7KVxH3kIDv6OguawflKXFpDuWFStP7wc3U0hsZ53-lYCg55GdUv0sC9FqsfO6JLsaLB5ipZTdnhIsL7oS_km-oF9dW62ub8tD_KzSg0JnMnteskFSoDw-xTnSOa_Dz6JkQ4zPJOhKrpD2mxtw9lJ7C5KlPqxkXje8HoNOApEg0lBXVPw0fCfuUkUzOQGaihsai05vtMAeW80zDpC-StN1zMA0Uay4vnINGVGqfiEXMsfQQnWks_CD8kY-MCf9_aSE1EYssmvwpjX8p00rmNQL8f1m42NoFce2uboeiFy2PpW8of9DpgGUoY21z",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9427524994&itemId=28026158287&vendorItemId=95951386664&traceid=V0-153-da8d2c961d1b170a&clickBeacon=f27a5050-d74a-11f1-baf8-4d66926d4a89%7E3&requestid=20261103145352030117074564&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "알람 울리면 심쿵하는 프로 의존러 📱",
+        "headline": "스마트폰 없이는 살 수 없지만, 은근히 현타 오는 중",
+        "emoji": "🪫",
+        "tag": "경계선중독",
+        "hashtags": [
+          "#현타도둑",
+          "#액정과의연애중",
+          "#스마트폰의노예",
+          "#쉬고싶다"
+        ],
+        "bars": [
+          70,
+          65,
+          45,
+          60
+        ],
+        "summary": "현대인의 표준 그 자체! 폰을 손에서 놓지 못하면서도 '내가 왜 이러고 있지?' 하는 자아성찰을 하루에 수십 번씩 하는 상태입니다.",
+        "trap": "퇴근 후 침대에 누워 릴스와 쇼츠를 무한 스크롤하다가 수면 시간이 깎여 다음 날 피로가 누적되는 악순환에 빠지기 쉽습니다.",
+        "advice": "취침 30분 전 스마트폰 방해금지 모드를 켜고, 대신 종이 책이나 일기장을 펼쳐 아날로그 감성을 채워보세요.",
+        "rx_keywords": [
+          "침대용 독서대",
+          "수면 안대"
+        ],
+        "prescriptions": [
+          {
+            "title": "Moncho 높이조절 회전 독서대 견고한 우드 검정받침, 다크우드",
+            "tag": "맞춤 케어 · 침대용 독서대",
+            "reason": "침대용 독서대 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/jUYUh2YWgKRSk4SvjfNy5sd7QZYA7U4wyBsvkMGJAXvJ7SFWFhxKfSd0qbziUaad52GOL7XDiM-FyupvuBibjJaET-OaZb6cI9Ti-bpWFYaNldrhybWc4CrokDpn6Bns4ewKoyWimlIbmZmVivV9k0oqGyDIlXAMVuCcoq7ub5aPS5w1pojKg7DdkPFBfXdsG33SIZbcH1mPtCQvZ4WSBZiHy4BwPZOhfzc_2ZU0QiBwfriHdoQWoHk41Ynxvwhg28EejOwxd_OMehwAV4NGI1bebBSXuK4qhYRl2cVzseB5xpxpPAY7-UvibLnXWJDLNNsvcTkWjLB4Pw7n7Sa7frPlrcyj3RRvbac_qCc1-KHYSZ2IyHD0JXztY2pfIBUtcuIcJy5dvxpzrGedAc6ctJGDHuz--KPJ20J45so2bI_ZCDyXYg8zqXdHL1BNpFgB768vsJr6nuX9--jGz8B6it_10eLRN77FIcuC8LaVDKkY5LC5y3qltc4nO_EQKHXp4YbYX_TtKAfGhXTaLPcEx_3PxC6mow2-MEwhqqQ2B0o=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9516217070&itemId=28363317675&vendorItemId=95367061804&traceid=V0-153-b84e503ef3342784&clickBeacon=f29b45d0-d74a-11f1-842e-8013301f6162%7E3&requestid=20261103145352220253080912&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "컴포럽 프리미엄 암막 수면안대",
+            "tag": "맞춤 케어 · 수면 안대",
+            "reason": "수면 안대 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/oq4d3V7uvQoJAUZ0oiFbAglhRQ0wALYZt6dsD3geqSv7nAnhAbG6XBEw9uKLJqgVNq8WqdL2dKeMFRyw6pfVSrDkgA4LPPOnvsqb4G34M9GuEjoUNWyC65_ZSeEufK579jLG1rSAjeXAINexZEs8qTq8sfQzIh7BPow_cDx6eBcps2ptb4xNS1CBkpl78RyReoXwioT936I0oJW80heGKoHwcK0IJ7q7r1tkH1zIZ4aEgoJ0IDB9OmHpOuTZ-RCL0b0HK9EA44YhCkLVz4Lll1nJLF6xpXb6duuyv8DWO6hjBe7vj_2VhyeXwWtVL4ZrfmVmWKJU9LXBrTywC-HgZIrS5rnUpDdAFPm-_ZMB9q6Yw8ntV6nJYKSWvUpCu1lNHroP3qkX6gWGYJrk45JdTTUULliYYUssq42cTEF3WukSmItTbYt3Hn-wIEvnaGe6nqLowHDmN-2ELMf6ZFjXYN20xJy2bv2QMiQxjWXgjI2G_3IsBho7ilHcLeiZNStQZ9mlXdjtB2R8bJmQv-1N",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=5071236307&itemId=6862847936&vendorItemId=78103972659&traceid=V0-153-96f053e4a50c95de&clickBeacon=f2b53670-d74a-11f1-a6f0-8a6ddc518490%7E3&requestid=20261103145352448267186767&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "세속과 단절된 맑은 눈의 자연인 🌿",
+        "headline": "디지털 공해 속에서 홀로 빛나는 평온한 영혼",
+        "emoji": "🧘",
+        "tag": "디지털청정구역",
+        "hashtags": [
+          "#도파민청정지역",
+          "#자연인모드",
+          "#멘탈갑",
+          "#평화로움"
+        ],
+        "bars": [
+          20,
+          15,
+          90,
+          25
+        ],
+        "summary": "축하합니다! 스마트폰은 단지 도구일 뿐, 당신의 일상을 지배하지 못하고 있어요. 알림 소리에도 의연하며 현실 세계의 감각을 온전히 누릴 줄 아는 능력자입니다.",
+        "trap": "너무 아날로그를 고집하다가 친구들의 최신 밈(Meme)이나 중요한 단톡방 소식을 뒤늦게 접해 혼자 왕따가 될 수 있으니 주의하세요.",
+        "advice": "지금의 이 평온한 멘탈과 건강한 습관을 주변 친구들에게도 전파해 주세요. 당신이야말로 진정한 시대의 힐러입니다!",
+        "rx_keywords": [
+          "힐링 인센스 스틱",
+          "허브 티백 세트"
+        ],
+        "prescriptions": [
+          {
+            "title": "HEM 컬렉션 인센스 스틱 25종 x 8p, 에센셜",
+            "tag": "맞춤 케어 · 힐링 인센스 스틱",
+            "reason": "힐링 인센스 스틱 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/uFI1N4BHDsEjjxB2uC2O6DaQTfOLNISszXwh0IcOLYlmw3940hIJK2oYu11Yqorfv3yWxkpscR7FJjXDhNFmiSLmRlVKlYRq6kMYTV8UoAwQYfgIiuJBjimLSDx5j_XFYTBPdB4VE6i6HheympAxvKtBmlRXdjCOhUo5bQJMnqDXXA3QFt7KzWNmqS_IgmiHIIAUsXBb9nf2S-0rVZpUojmcOEHR9vpvt5AB40BiXG-X94NF8hLV_TtAxGV9CGoJTF-fFeVVtgknL95f7r2AXWffsgEvkeMOe_Re997AEj9bqv1GYfAFVvlF9DEp4JX9Cym5BhPjvihTdxoGBCPxyf94r4j2Ukm9wmMH8hPNG4SeP_vl5lmKQXHlYbh6RajbCmJPwfz61t4ZzPjo--AvJkgaafpRVk5CtAzY2Cyi7s5Wqg2ORhE-qN0etEgUGTZ9KNHX07s-Xtcpf-w3Qo4WzbmG5x36nG0V2j4wNLpXZOq_ycJScGpo5SJ_DjOV8AV2ngNnNEm5JNC_S33v67TVId8=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=2175060474&itemId=3701081843&vendorItemId=71686371012&traceid=V0-153-37f4f10ce8860812&clickBeacon=f2d51a80-d74a-11f1-a691-c13da06dc702%7E3&requestid=20261103145352594253081091&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "테틀리 홍차&허브차 모음 90티백 선물세트, 6종, 1세트",
+            "tag": "맞춤 케어 · 허브 티백 세트",
+            "reason": "허브 티백 세트 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/BzgmRaE9gAa0XpOvBxdzz9m_gXJHac_sGISm_hUQe90t5fUlpp7adtrmqNzb488RxpRsA5OQWanpAuFlWV79B7QTW34en2Mh9SMfKNoqWHRea5ITNaP__YQo3jAGvNNqGxcBLR_AC7_kxB8Bv1cErSY9tpuywHTmtiExTmsTySrRE3Og0Daapi1bDcMQFV6YYpoy3AKtj0Su5n9y6D2qPES3lXbuQw8zQ2NHL-OUjtU_CsrB4DOPjin6FpP6bA_ehT5YP07y5A8VVff-bqPlnGtSpB_gPXJBQ8mh04q8X1M_TQq9139-p0GuNBCT5xiZ5mtgkrOKmac4cL3Q7mYqVt_Li9yvoXQ7PSZviK6JUMyt638EV4tSIApad7eLLLhK5j-QdNG7JcTe2CUtgCUFyOU57wLZEd0HG5oI12dFoN6xqTTkazAnsB_yGWk9cNKDcWD0bCqkXIeqmchOlsYd8cMkXbdw-noH9p2-Azqni4K05dxgAvRn6IrLFRzS9_L5BmH45_DdbV7zNFSkhYHnIhYeZytSwh7Ey5yRdFnYBp3sJ3TIQ8sqGvw=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=6959589556&itemId=16938082354&vendorItemId=82828283196&traceid=V0-153-26e46aa8001c9d46&clickBeacon=f300e570-d74a-11f1-9e28-59871f07f05d%7E3&requestid=20261103145352906253081248&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 0,
+    "created_at": "2026-11-03 14:53"
   }
 ];
