@@ -9080,5 +9080,209 @@ window.TESTS_DATABASE = [
     ],
     "participants": 0,
     "created_at": "2026-11-03 14:53"
+  },
+  {
+    "id": "room_clean_type",
+    "category": "라이프",
+    "title": "청소는 힐링일까 고통일까? 나의 원룸 청소 & 미니멀리즘 성향",
+    "subTitle": "나의 <span>방 상태</span>가 말해주는 <span>숨겨진 심리</span> 테스트",
+    "desc": "침대 밖은 위험하고, 방 안은 엉망인가요? \n당신의 청소 습관으로 알아보는 진짜 내 마음 상태와 미니멀리즘 성향을 확인해보세요!",
+    "emoji": "🧹",
+    "tag": "라이프스타일",
+    "viralBadge": "무료 심리테스트",
+    "metricLabels": [
+      "깔끔함",
+      "미니멀리즘",
+      "스트레스",
+      "게으름"
+    ],
+    "questions": [
+      {
+        "category": "정리 습관",
+        "question": "퇴근 후 현관 앞에 쌓여있는 택배 박스들을 본 당신의 첫 반응은?",
+        "a": "일단 발로 밀어두고 침대로 직행한다 (나중에 치우자...)",
+        "b": "보이는 즉시 그 자리에서 모두 뜯고 박스는 분리수거함으로 직행한다",
+        "score": 1
+      },
+      {
+        "category": "물건 보관",
+        "question": "유통기한이 조금 지난 화장품이나 쓰지 않는 사은품을 마주했을 때?",
+        "a": "언젠가 쓸 수도 있잖아? 일단 서랍 깊숙이 넣어둔다",
+        "b": "이미 내 시야에 들어온 이상 당장 쓰레기통으로 보내야 직성이 풀린다",
+        "score": 1
+      },
+      {
+        "category": "공간 활용",
+        "question": "방 안의 가구 배치를 바꾸고 싶을 때 당신의 스타일은?",
+        "a": "바꾸고 싶긴 한데... 무거워서 엄두가 안 난다. 그냥 살자",
+        "b": "당장 오늘 밤에 배치 완료! 머릿속으로 시뮬레이션 끝냈다",
+        "score": 1
+      },
+      {
+        "category": "마음 상태",
+        "question": "청소기를 돌리기로 마음먹었다. 당신의 의식 흐름은?",
+        "a": "청소하기 전인데 왜 벌써 피곤하지? 유튜브 조금만 보고 시작하자",
+        "b": "음악 크게 틀고 30분 안에 끝내버리자! 청소는 속도전이다",
+        "score": 1
+      },
+      {
+        "category": "쇼핑 습관",
+        "question": "세일 중인 예쁜 인테리어 소품을 발견했다!",
+        "a": "어머 이건 사야 해! 내 방 분위기 변신 각이다",
+        "b": "예쁘긴 한데.. 이거 놓으면 먼지 쌓일 텐데? 굳이? (안 삼)",
+        "score": 1
+      },
+      {
+        "category": "주말 루틴",
+        "question": "주말 아침, 창밖의 햇살을 보며 드는 생각은?",
+        "a": "암막 커튼 치고 조금 더 자야지.. 방은 오후에 생각하자",
+        "b": "날씨 좋으니까 이불 빨래하고 대청소하기 딱 좋은 날이다",
+        "score": 1
+      },
+      {
+        "category": "책상 상황",
+        "question": "당신의 현재 책상 위 상태는?",
+        "a": "먹다 남은 커피잔, 영수증, 충전기 선이 엉켜있는 자유로운 영혼",
+        "b": "노트북과 다이어리 딱 필요한 것만 올려둔 모델하우스 상태",
+        "score": 1
+      },
+      {
+        "category": "스트레스 해소",
+        "question": "정말 스트레스 받는 일이 있었을 때 당신의 방은 어떻게 변할까?",
+        "a": "정신없어서 오히려 더 어지럽히게 됨 (방이 나를 반영함)",
+        "b": "오히려 더 빡빡 닦고 정리하며 잡념을 지운다",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "맥시멀라이프 둥지틀기형 🧸",
+        "headline": "방은 나의 우주, 오늘만 지나면 치울게요!",
+        "emoji": "🧸",
+        "tag": "수집가",
+        "hashtags": [
+          "#맥시멀리스트",
+          "#방구석우주",
+          "#내일의나를믿어",
+          "#수집병"
+        ],
+        "bars": [
+          20,
+          10,
+          80,
+          95
+        ],
+        "summary": "방이 곧 당신의 마음입니다. 주변이 어지러울수록 당신의 머릿속도 복잡할 확률이 높아요. 하지만 당신은 그 속에서 의외의 안정감을 느끼는 '창의적 혼돈'의 소유자입니다.",
+        "trap": "물건에 감정을 너무 많이 이입해서 정작 중요한 것을 버리지 못하는 함정.",
+        "advice": "오늘 딱 5분만, 바닥에 떨어진 쓰레기 3개만 버려보세요. 생각보다 마음이 훨씬 가벼워질 거예요.",
+        "rx_keywords": [
+          "수납 정리함",
+          "다용도 트롤리"
+        ],
+        "prescriptions": [
+          {
+            "title": "코멧 홈 심플한 리빙박스 팬트리 정리함 L",
+            "tag": "맞춤 케어 · 수납 정리함",
+            "reason": "수납 정리함 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/68clucKY2-tD9lGr6yYJAc-VboY27YWMdSn5aQMjLfC6_XITF5mGmxmeQbOCvpgUuQN6bdE89MRWDHrQStKnZOhdb0bPxyMr7oZdAIk5SMgqmrNbLfhZ0-wCZPgHR_B40tdLv0_3gV8_0YTvnNp8nx1p0UHUqP_T94wDC02F-EKlJREdsuU71KbnEVeilKp2aUxdi477f_fvnE9ydyxyO6E8isPLqKnCmW1exmNCItExIltM4cZ9SeMjb9GsGhNL16s4qeR84pHXM0FPsmxFXYKMPSeg4DSHXC4rotfeytUcPDxVMZk3Su_H3ngxcGRqR2STgUi7B-9L_fcMDB7VAiFzS3xJd5oN4lM_6aJqRyWv-oECGhC6OblhTxXCmdEcAXDKkmeAgxZChZTh2o59NwQxTqs2x9Ujw0ygyuZ8LyvUPhkWlqYdm0U1-jlqpPn-jnYIijhBOc0PPktIlHVhENjxgo_vtvbzgmn7MyvcWkL4PwYVcSuFKY0smzAFOZ03Mb4nCbwPP8pmr6tSiT6qJm0cvw2QcAoK9Yoaew==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=7252359878&itemId=18451001721&vendorItemId=85591775347&traceid=V0-153-0206bb9018445ea2&requestid=20261104021253847050095087&token=31850C%7CMIXED&pt=0&slot=1"
+          },
+          {
+            "title": "HOMEY NEST 트롤리 이동식 철제 3단 360도 회전 카트 HZMBTC03, 화이트, 3단",
+            "tag": "맞춤 케어 · 다용도 트롤리",
+            "reason": "다용도 트롤리 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/spak5xlPiD2zvQKCsgW0SrlvxYtU2-LOPzc4ZBJST4dxS525RsFcwxhKBaJUB6oyeOZ-OhtluUapF37n-coC_8KZF0UDuxozhkUOk8L2Fdgj5w6kF9RovXnEJY91SQb11urU0DUfVpBHsmkpw5vygftbn4cUMJ-_D7ni6WwKJKl8JprCGbZdgExbjMX4krB4RFfQqVUrluJayZhmyR4uHqByUCpDX130YuiPkEoVBbXb2uVPRqKVDTRw5uU6KgLZwLX9UZhzD3LAmme4ZQ_5pHg1HfPKeJYIjgsH0Ru7Jwa7EGxhpgbAlVDOIAKtX4z28yProhseZrc0CJF0dKlTZtgLBB9oDVDMTUGS0DGaFSHgIc0FbNG9FgEWtelBS0IX_IrmhWLgdi0-pJLQ4hkA9NolmOQPcMozdorYpxxVjr9OxqmItK0t1WU_71LwgMGvznq4ImzO2ctZDcKrhfOfTgOD8MnPvoprxEr7ZMTwwo-nbbZZQQnBoG619h4e6-k2MkGBJIF0FSoTCOtUwz9eHkgGx2D1PGMYJHkv66Qft3K9",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=8936634401&itemId=26129434508&vendorItemId=92941716929&traceid=V0-153-829e4d5732168b42&clickBeacon=ce96a4e0-d7a9-11f1-89e4-7da80bf7f2ae%7E3&requestid=20261104021253980110661820&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "평온추구 중도파 🧘",
+        "headline": "적당히 깨끗하면 장땡, 귀차니즘과 깔끔함 사이",
+        "emoji": "🧘",
+        "tag": "중립",
+        "hashtags": [
+          "#밸런스붕괴",
+          "#적당히살자",
+          "#현실주의자",
+          "#청소는적당히"
+        ],
+        "bars": [
+          60,
+          50,
+          40,
+          50
+        ],
+        "summary": "완벽하지 않아도 괜찮아요. 당신은 청소 때문에 인생의 소중한 휴식을 희생하고 싶지 않은 합리적인 사람입니다. '이 정도면 살만하다'는 기준이 아주 명확하네요.",
+        "trap": "어느 순간 선을 넘은 지저분함에 스스로 현타를 맞이할 수 있으니 주의하세요.",
+        "advice": "주 1회, 좋아하는 음악을 틀고 딱 15분만 타이머를 맞춰보세요. 그 이상은 하지 않아도 충분합니다.",
+        "rx_keywords": [
+          "무선 핸디청소기",
+          "향기로운 룸스프레이"
+        ],
+        "prescriptions": [
+          {
+            "title": "디에스가추몰 무선 핸디 청소기 휴대식 청소기 차량 가정 겸용",
+            "tag": "맞춤 케어 · 무선 핸디청소기",
+            "reason": "무선 핸디청소기 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/nyS8vWUmWgIULtwDn0CAHKggn059Zj0dCbkxyBCXfl3Yn-Wmce4aWg4fuE8MzI2LY6XIW17RyfYvsmTV9I0ZGmW-JcmqK8FlktdEOTVhCimmb1MVYjDUoyc1UtEjEEdliiLN7sSjKt4FNYt5St5nleIFKDqcx_aem0RNhxG6Gc-mTt025UtwH9--QtohTmiDMTffYUGA3Qqqmg7z3KOL7Afn46T79e8bhfB356a-DwH1BpQKO4-keqTFx8D3I01tZSus9A8zrPe1ENpzYKVr8g6mHtzgPiiM93yFT2tp14hsfodMg6sPF_k34_Ad6lwUGyHKt1pSvv-pYicIytQFs7PaXu14f8YVS6XlmbzfwztfcgpMSl44hAz-da8785kpuo4VjlvAfgwNDvHgvBCdw8iYFM3W4cASMTnY-SIm8pnDZ2tDwit6bLPQcTs1ZO4LWfjuvjGMg2MczyOQbQQ9EFC7gMYPBBh6GbFBqgCtNwFsOidv6pcRpSEOUTXWyA21dfCI9Goc86TmFj4ANrCXJ6iAQAMD_UrZ5HN0nQKX5koe3aE8XosXtjuF",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9425750085&itemId=28018593237&vendorItemId=96148264130&traceid=V0-153-861ae09fca6c59ba&requestid=20261104021254188073843366&token=31850C%7CMIXED&pt=0&slot=1"
+          },
+          {
+            "title": "썸유 룸스프레이, 허그미, 200ml, 1개",
+            "tag": "맞춤 케어 · 향기로운 룸스프레이",
+            "reason": "향기로운 룸스프레이 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/3HXwarFhm9LX0hXL3JoKjZGMJKs8etYR5S-1OzYW85D1SR_6N1z1h0VDF18xkeUyphYMeiagYrqDwuKa0oGF4f6i7l8VOm7Nqjcn43sB1gtVWSnf4IoTCQmlzvL1ZFpPIjJFsMu8YE_3sENirLqVHRvo0siU5jpU_aWGvIwZbt-Um3pQ076S5YTx_1Ifekd_pfpE6nTSKbnIjYMgpTdD7zGOx5vOm2z5iD8XMR95A-JroPLxpqU-yVRjonx3hdhNIYd3vFW2syGya3wA9vOK2d79qY1DaJQipBLO2eDV-h-KGUij3OO-jlevdFnDNbK8fBhjLujesfB6tr9-I9Rf92B5sjTDlC3vgnrEhXZpguFl2pNOLs1pwncKMeeCxdccWKIl5CrsHNdPu6fWOy_njBlTPhZCPZUUwU--HPQtnAlALV6ZT9V22EqurADWRhtt3gyPjCCSeKAXDro7kXpIt-rlHcrwPWSLcWBswUcueeZzWKFQu59QLJQKdXiAC7tcPY7-NCTfrz-JagLJg58nNcxd35OzRJMwbPRekcDTz91_MrqZ6uLEs22BttKrod7rg0Ptzww_SU7O23FNIw0qkANM1yX6lPqkVpTb6Ic=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=6427575558&itemId=13856572110&vendorItemId=74755381637&traceid=V0-153-8b52963f552e2f45&clickBeacon=cecdba70-d7a9-11f1-943a-9057fd309faf%7E3&requestid=20261104021254317025235901&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "미니멀리스트 결벽요정 🧚",
+        "headline": "오늘도 방은 비워져야 한다, 빛나는 모델하우스급",
+        "emoji": "🧚",
+        "tag": "완벽주의",
+        "hashtags": [
+          "#미니멀리즘",
+          "#갓생",
+          "#깔끔이",
+          "#무소유의행복"
+        ],
+        "bars": [
+          95,
+          98,
+          30,
+          20
+        ],
+        "summary": "물건이 적어야 마음이 편한 당신, 정리 정돈은 곧 당신의 루틴이자 스트레스 해소법입니다. 주변 환경이 정갈해야 비로소 업무나 학업 효율이 폭발하는 스타일이에요.",
+        "trap": "남들의 방까지 정리해주려다가 오지랖 요정이 될 수 있으니 주의!",
+        "advice": "가끔은 완벽하지 않은 상태도 즐겨보세요. 조금 어질러져 있어도 세상은 무너지지 않는답니다.",
+        "rx_keywords": [
+          "화이트 수납박스",
+          "케이블 정리 홀더"
+        ],
+        "prescriptions": [
+          {
+            "title": "앞날창창 플라스틱 리빙박스 수납 정리함, 투명화이트, 1개",
+            "tag": "맞춤 케어 · 화이트 수납박스",
+            "reason": "화이트 수납박스 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/ekcT6X6Ejvi1TW8_eiUgJ3lewInrLAqNjslhshowlnPKMIktLwg7xGS9AsYXMyf7PPt2nJ3-9q6tkzu6dWfSNFDtfzIC-q7aB-eBHVJKHJbZApr7LYQD1buYunOJ0ccbkTn-tlWgybJ6J48_ZvoOguiJRvF7SnVbCIxfDnQyRhhpqRLGmt6DSVtIfYqY7_AvfZChDAe5jJDBgEcuQb3e2SEAyEmwVHyWPpGI_zc0SXkWtcfDAm1d1GfefiJ9KHVECzKkZ1jehqZhpr2CXOpWEfkofwGNCunFX4rMTb1dVWSfKYFWYEmE6IzuDF3-j7jS10nyJdx-xJQlvW5MhGKiK5k0Rbx3DN9_28GSiNIQ8u5ZEPPW-MBItmALlLK8FchNOF5dQlrrZrLkXPgLLhye7NgjsDPLFeJdkVoWxWp_PrJ7XrgX_8ixQ5Cvqi2ihmnhTBzRlP_eyn5zqTwcshD6zhMUTweIXn4jMSMRocZ8pTFWkG22RzBoTxpX9CXNKdJXxNVXJD5yXlkFU4TC_YIw4A==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9382511359&itemId=27655643100&vendorItemId=94618003952&traceid=V0-153-d3f19decb5024cdb&clickBeacon=ceeed700-d7a9-11f1-97fc-cce13c3ac083%7E3&requestid=20261104021254504275950201&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "비렌토 접착식 마그네틱 케이블 선정리 홀더, 화이트, 8개",
+            "tag": "맞춤 케어 · 케이블 정리 홀더",
+            "reason": "케이블 정리 홀더 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/_cs6EFC-ocV8dZNl_WunkcGh3d3FMsTMwGLcLnCBTaAvMw2LV0fvAd-i_zIZKgH-KQqdwvQL6fav1F1O0hVmywwneMh6jf1_xCGMYOqd8EUzLeKWjCcZpG3_7mqkZzrWh_j8hqbimNvEf_APENNDjLS6wKi-hDMec6_vMVev6Dx6gA0TWD4bc2fWQzTISxA_0FdH4GBMMUXJu3mcd04aZC6lv1J1yuem0wCym7cjGvBxcmH0JmDl5kGzlSgkQVpuPk41cxm441qy1r88NEWrlvh3mE4cV1b9y0dx2DlRFSS5OEpNOMvGL-tzW0-GtFf55MhhRwrwKTWabRsX_tJ15z-ZZQutm47dMBDTuPe4P9xOPPKwu4_Z_OJLyh_yU9DTCtYOik-f7blUKmqSDCl3zlFH2EgP-8mmyNnZVL3gF9fqLI_DAzWwscPUujLEDaq3J9UTTOtWA5TkiRbFoA2s2eHvyOo2YQ_RZd5HNwW5fNK5MU89vAkU6ISnoSmvUiTqhO3rz3f98d6KqMcrfYjkqFQ9QRDmCz-9NVb9WezYEPEPJJ-fsJ_Bc3X4sjfk3BqjUxRadWA9LiZYeu4EuZ_2hrKWSBIWzbX7nBb8dg==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9682162928&itemId=28953046278&vendorItemId=95883562117&traceid=V0-153-01ba876fc5121fea&clickBeacon=cf0bfbf0-d7a9-11f1-883d-82be07add69d%7E3&requestid=20261104021254763098430594&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 0,
+    "created_at": "2026-11-04 02:12"
   }
 ];
