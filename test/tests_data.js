@@ -9896,5 +9896,209 @@ window.TESTS_DATABASE = [
     ],
     "participants": 0,
     "created_at": "2026-11-05 02:38"
+  },
+  {
+    "id": "relationship_cutoff_threshold",
+    "category": "연애/관계",
+    "title": "선 넘는 사람 바로 차단! 나의 인간관계 손절 임계치 테스트",
+    "subTitle": "내 마음의 평화를 지키기 위한 <span>인간관계 쉴드 레벨</span> 측정기",
+    "desc": "매일 쌓이는 미운 정, 아니 그냥 정내미? 나는 과연 언제 칼같이 관계를 끊어낼까? 내 안의 냉정한 손절 버튼 임계치를 지금 바로 확인해보세요!",
+    "emoji": "✂️",
+    "tag": "인간관계·손절",
+    "viralBadge": "무료 심리테스트",
+    "metricLabels": [
+      "방어력",
+      "손절속도",
+      "호구지수",
+      "칼같음"
+    ],
+    "questions": [
+      {
+        "category": "💬 카톡 대화",
+        "question": "오랜만에 연락 와서 '잘 지내지? 밥 한 번 먹자~' 해놓고 구체적인 약속 날짜는 안 잡는 지인",
+        "a": "그냥 영원히 읽씹하거나 차단 목록에 올린다.",
+        "b": "'그러게요~ 언제 시간 되세요?' 하고 예의상 맞장구친다.",
+        "score": 1
+      },
+      {
+        "category": "💸 금전 관계",
+        "question": "밥을 먹고 '내가 계산할게~' 해서 얻어먹었는데, 다음에도 당연하다는 듯이 지갑을 안 여는 친구",
+        "a": "속으로 손절 목록에 추가하고 다음부터는 더치페이를 칼같이 요구한다.",
+        "b": "내가 돈 좀 더 벌겠지 하고 넘어가지만, 은근히 서운해진다.",
+        "score": 1
+      },
+      {
+        "category": "⏰ 시간 약속",
+        "question": "약속 시간에 매번 30분~1시간씩 늦으면서 '아 미안!' 하고 당당하게 커피 한 잔 툭 던지는 친구",
+        "a": "다음부터 절대 단둘이 약속을 잡지 않으며, 만남 횟수를 급격히 줄인다.",
+        "b": "'그래 교통이 복잡했겠지' 하며 마음을 다스리고 이번만 봐준다.",
+        "score": 1
+      },
+      {
+        "category": "🤫 뒷담화",
+        "question": "내가 없는 자리에서 내 이야기를 은근슬쩍 남에게 흘리거나 깎아내리는 걸 목격했을 때",
+        "a": "즉시 그 사람과의 모든 사적인 소통을 끊고 타인으로 대한다.",
+        "b": "기분은 나쁘지만 따지기 귀찮아서 그냥 웃어넘기고 거리를 둔다.",
+        "score": 1
+      },
+      {
+        "category": "🎁 선물과 보답",
+        "question": "생일에 큰맘 먹고 비싼 선물을 줬는데, 성의 없는 카톡 하나로 떼우거나 내 생일을 까먹었을 때",
+        "a": "앞으로 이 사람에게 내 시간과 돈을 절대 쓰지 않겠다고 다짐한다.",
+        "b": "바쁘겠거니 이해하려 하지만, 마음속에 작은 메모장을 켜둔다.",
+        "score": 1
+      },
+      {
+        "category": "🎯 오지랖",
+        "question": "친분도 별로 없는데 은근히 내 연애사나 이직 등 사생활을 꼬치꼬치 캐묻는 사람",
+        "a": "정색하며 선을 긋고 더 이상 대화를 이어가지 않는다.",
+        "b": "적당히 웃으며 대충 얼버무리고 그 자리를 피한다.",
+        "score": 1
+      },
+      {
+        "category": "🔋 에너지 뱀파이어",
+        "question": "만날 때마다 자기 신탄타령만 하고 내 이야기는 들을 생각도 안 하며 기를 쪽쪽 빨아먹는 친구",
+        "a": "바쁘다는 핑계를 대며 연락을 점차 차단하고 만남을 회피한다.",
+        "b": "친구니까 이 정도는 들어줘야지 하며 끝까지 리액션해 준다.",
+        "score": 1
+      },
+      {
+        "category": "🚪 선 넘기",
+        "question": "부탁을 거절했더니 '너가 이럴 줄 몰랐다'며 오히려 나를 이기적인 사람으로 몰아가는 지인",
+        "a": "적반하장도 유분수지, 바로 연락처를 삭제하고 차단해 버린다.",
+        "b": "내가 너무 매몰차게 거절했나 싶어 괜히 눈치를 보게 된다.",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "칼각 손절의 정석 ⚡",
+        "headline": "내 인생에 해로운 자는 1초도 남겨두지 않는다!",
+        "emoji": "✂️",
+        "tag": "단호박파이터",
+        "hashtags": [
+          "#칼손절",
+          "#인간관계정리",
+          "#내평화가최우선",
+          "#단호박"
+        ],
+        "bars": [
+          95,
+          90,
+          10,
+          95
+        ],
+        "summary": "선을 넘는 순간 경고 없이 바로 차단 버튼을 누르는 철벽 방어력의 소유자입니다. 타인에게 에너지를 쏟는 것보다 내 마음의 평화가 백만 배 소중한 타입이에요.",
+        "trap": "너무 완벽한 필터링 때문에 가끔 정말 좋은 인연마저 오해로 놓치게 될 수 있어요.",
+        "advice": "내 사람에게는 더 따뜻한 온도를 나눠주세요. 당신의 단호함은 멋지지만 가끔은 유연함도 무기가 된답니다.",
+        "rx_keywords": [
+          "노이즈캔슬링 이어폰",
+          "아로마 입욕제"
+        ],
+        "prescriptions": [
+          {
+            "title": "어반어스 ANC 노이즈 캔슬링 커널형 무선 블루투스 이어폰",
+            "tag": "맞춤 케어 · 노이즈캔슬링 이어폰",
+            "reason": "노이즈캔슬링 이어폰 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/hfwjlxHlMQKZ5CqPheRyAbu78yA5PUBFFZqjKQRiaj6RfKmXdtaI8naIKDaAzMa4W-YvSO0FZyttyuDkRPP0df6TzkdfB0xKeUtZWW4RrUqwn3bg5BJG5J8H3IK4gc3UpuL59g3-3Nz2F1Jdi9fXJRCd5mXHBTEAbP9wcjn-lU_ptfJlXKeOurSD6hBJBF6B3IRh_8sukhF4Xuy6YTrVN7ka0h61vTAb2egVx4zZ_pxQUyejuHyDlmGI0aXlF6Foweswd30yJfSbV8gp-DjVWqDOEcivkrxQp0b8D2HK25fdZy-T_zaGifOJTJXrPbL8BR5VJ5Kx7H2czvJPcnPuIs92QtLt1elIh_g2cBlL47KN7f9oZia1M26ox-7-j_bPpS-PFYzJVumQwQtoMsUrgwgzXMXYJx4AjKvYyH8Hm0VolIYe4UVS44bDLIDEUcmgwYADZrv8HmwstyVlQwS6fiGkX4Z9fR3ZP5pDPR8IIgxqyTrjRWbfWMGS-xhtPXV07AhZ4ep_AZlbjP61lpI0agFP_WkF3tzc1w==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9274020876&itemId=27451455353&vendorItemId=94416809832&traceid=V0-153-86aecdce25b9c500&requestid=20261105034004272169846544&token=31850C%7CMIXED&pt=0&slot=1"
+          },
+          {
+            "title": "온포 탄산입욕제 굿나잇 아로마",
+            "tag": "맞춤 케어 · 아로마 입욕제",
+            "reason": "아로마 입욕제 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/wF_Lcg4-Jm1qfasmwKGKNJIOv_YJdWEW7v31XnRQ2JjcxJIfHeeMGbQv9sy9d60QISpnV8iuYlE33eOGb1vHGoLtVWtYMWquRcMLD0bB_dONI4tWpl9Dl-Rd402x6cv8LI_AW0jWMr1ZlYg8eLVcz_SXputvcd6GD2As0mb4K_sM4hGUOEKnAhgfpBu5sldZ5abqzXQP3ys-sHDuoSMlfTgf5HNGElKSHasfl9t20AKKU7GfTk199yIjT6Jf48IHU1IEIsEPh9hvegagFxSZPeUk6-AWoOan3pWQ8WaYkNJo7e2yKvoc7M5X79Jltac24FxoiOFH3s4IYrRNqb0v3wYSnGZsbAtxigsFkYgR3Qf3XZ9b7u0fXtJrCms-mu4LtX_EWiCivJwHUKBKydoCWu669cFnDriBrFWyRDbJw_8UrM5h5jxqKeWQJ9YuRW9v_XU4-39fw8jI3e4wATFXqAgzjoPq3lLIi_zYa8Hxqx5Ns_cE_asLYK1emRM35c9--gwPilQhPBSOCSMMEDGy-lr-EUOSzK5a140=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=8443511184&itemId=24478489193&vendorItemId=91491944666&traceid=V0-153-c97036762cd19984&requestid=20261105034004467275950311&token=31850C%7CMIXED&pt=0&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "참고 참다 폭발하는 유니콘 🦄",
+        "headline": "보살처럼 참다가 한계가 오면 뒤도 안 돌아봄",
+        "emoji": "🛡️",
+        "tag": "인내심만렙",
+        "hashtags": [
+          "#보살마인드",
+          "#참다폭발",
+          "#손절임계치",
+          "#사회적가면"
+        ],
+        "bars": [
+          60,
+          50,
+          40,
+          60
+        ],
+        "summary": "웬만한 무례함은 '바빠서 그렇겠지', '실수겠지' 하며 속으로 삼키는 평화주의자입니다. 하지만 켜켜이 쌓인 마일리지가 만땅이 되는 순간, 예고없이 손절의 방망이를 두드려요.",
+        "trap": "혼자서 스트레스를 다 삭히다가 병이 날 수 있어요. 화가 나면 그때그때 표현하는 연습이 필요해요.",
+        "advice": "착한 사람 코스프레는 그만! 내 마음이 불편하다면 상대방이 누구든 거절할 권리가 있어요.",
+        "rx_keywords": [
+          "스트레스 완화 차",
+          "셀프 마사지기"
+        ],
+        "prescriptions": [
+          {
+            "title": "이너블릭 캐모마일 차, 1.5g, 100개입, 1개",
+            "tag": "맞춤 케어 · 스트레스 완화 차",
+            "reason": "스트레스 완화 차 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/UvEsZOBthuo5Ik9nUv6p4t5rpSwOHQW68F2A7cZeBXbgnBvyp0OnbTKJTNKUISjVn5ozkcoz5XEH_AZr95VdtzENHhwAeHOB7w7zo1aabUwgpbCJkQdV93irBQrJ2h4ESrp_SepS8acTao2Qs-PMVVql1ed2Jff0faZKWiOKZFBzkm5ADrgqGdXxvEGLYtLi-_Y3o_cV5-jR7D0RSqOyLK1cYQp8_JzU_ZxGRXKNF77LCUZDD1v0gyp5OpQIgrDjjQfwu7Api_62coZgLLvC89Jf1qjP0JVx4YG93ONYrul4PvqUBoN14JAFTBsH21Utn8aG37O5HO4eOQj0FdrzazfP8SHcGVxopy6zhUsI3Vjcexoal6pSpQuXsDcTL4v--cZ4a_ezlkIuupFHFaQ6tBcxkQzx9tkEcYAuE_WGlCuMKctiW6vuqwrfL5hBoLw4X5cEbwNz0iXby1ktRwpU-4fhpiFIEMaUGSVCkqiM6psHCErluH8UumOSWhdjacMYZDsqQqvkqx0A15Xlpuo98C9M8g99t0yWRAOSEjgZkQ==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=7507905250&itemId=20067032362&vendorItemId=77790716710&traceid=V0-153-3161d60186063ae6&clickBeacon=26d5ad60-d87f-11f1-b54c-357d92e322db%7E3&requestid=20261105034004803275950428&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "로즈온 디톡 바디 페이스 뿔 괄사, 화이트, 1개",
+            "tag": "맞춤 케어 · 셀프 마사지기",
+            "reason": "셀프 마사지기 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/mP67SmYmHYJtVZoRmJkTKQ8Gd8D6y6f8dhP09ayHiuXDX_h9QVBVdL8W5rQj4KNjUpLCvyVts2CZMyyGwqOEhIHSgGmcLbceFCZ84EVP_pOImxMlJyMELHQ2H7ASDvLpzNUXYareBKFy4ngTUIXIOLl0HXwz_UvJLA2QrdNp6iKn7HehLEgap4Z6XOsf17V6U6eBoATH1T9WegrKonjVLSVIJRywVj37DUTK0Spfg8YsUwEVpCoaQjeEBlBbDCFt8athOIEhpOCc2XKS90Kx2RBB-cNaRMBhm1GIM0XAM-1Y4ZAmjbglE2VQ3b-pFWJ6RvYb9yeIpJa5rP6nbWLpvTWD63xroA4WkAFiBMs6iqZTaVQFQbTa93FTWvoLdHCbTDNFMw_6KmZji7MsFL-nxjqEe-zNhxhyL5UY565liGdvGyTrrQdAMX-UBgKTG9Kw95bRhFWw8XwHMnxdklW6XuqjYdaMB1W89DDrHmT9SBxL6y1dd5oUknaqdSumNSe6yzHl1Fiuy7CE2nK4GuAQGiOuObqXom4rtkxYu44=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9004517295&itemId=26389169687&vendorItemId=93426819663&traceid=V0-153-622e8c8ad7e558e5&clickBeacon=26f2f960-d87f-11f1-b24e-668cec7c29f3%7E3&requestid=20261105034005049169846758&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "무한 호구 탈출 시급 🥺",
+        "headline": "상처받아도 내가 품고 만다는 궁극의 엔젤",
+        "emoji": "👼",
+        "tag": "프로호구러",
+        "hashtags": [
+          "#엔젤지수",
+          "#거절못하는병",
+          "#착한사람증후군",
+          "#손절못함"
+        ],
+        "bars": [
+          15,
+          20,
+          95,
+          10
+        ],
+        "summary": "상대방이 명백하게 선을 넘었는데도 '내가 이해해야지'라며 자책하기 바쁜 타입입니다. 나를 아껴주지 않는 사람들에게까지 에너지를 낭비하느라 매일 지쳐있어요.",
+        "trap": "주변에 에너지를 갉아먹는 '에너지 뱀파이어'들이 들붙기 가장 쉬운 최적의 먹잇감이 될 수 있습니다.",
+        "advice": "이제는기브 앤 테이크를 실천할 때! 나를 깎아내리는 관계는 과감하게 끊어내는 연습부터 시작해보세요.",
+        "rx_keywords": [
+          "멘탈케어 서적",
+          "비타민 영양제"
+        ],
+        "prescriptions": [
+          {
+            "title": "Burnout & Compassion Fatigue: A Guide for Mental Health Professionals and Care Givers Paperback",
+            "tag": "맞춤 케어 · 멘탈케어 서적",
+            "reason": "멘탈케어 서적 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/iFo0h2bqbqno-Xg6iJswa4FQy3VO6YA1kXQfmuUTCPFCJ1bkJhak_G_PSBpoT58-63LvIbJqyi3s9p8z6_zOp0cPgDWQf2-rSN4aPecLvgH4dn3hGO0BT9pE1YL3Zx8r4EYgl6vW1wzDoPyQHcN7MWoYiDwBqCL0WwsY8VErT6vmRuKOsHvtJcev-A10Kw_Q-j9Z0WXC8Qk1SPENlAP9PYAy5Dgl0423ON3a-eans6LvuCctBNVCr_vsrBgvfw9QitH8oEM-dtu4xHLWm6UNd1TARXmBqvojnAnl1z-rnbD2KQPfU0yRAbdt6Eggm7uORJGgTncFPMFWRK3CNpin5lgPuMStKUsL7QmwP3d-e355zEQElUWUZZiP2rrWlJliQCdvfVVE3p8WopnQ-2Huk9dxpVPP_88E7df5kuNkSgwkQFulqzDigzZ6DigSkW8X2_u3kVMAj4qt_vzikcywwyyJqAS80h99qcJ9K2YhEaKBxDqRMfTUNZl-ALJKtsil35FAkE4F-C9Yauy7GtUm7ADf5s2m2rLKfSewddHNxA==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=64142048&itemId=217577139&vendorItemId=3599757869&traceid=V0-153-92e95ec3edc5d2d1&requestid=20261105034005205169846827&token=31850C%7CGM&pt=0&slot=1"
+          },
+          {
+            "title": "익스트림 올인원 포 맨 멀티비타민, 30회분, 2개",
+            "tag": "맞춤 케어 · 비타민 영양제",
+            "reason": "비타민 영양제 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/PaeOuMbF1U2XPAcdPRzO1c7OyuIv4FNRpEyS452bsldQ-eqHtVJgjbxkSvEbEKn3ytwzjH9gHanfCBeFTZtcGb36gvUcJCCs-ennv0nyKQKKZTOBy49t0hX2p3Fxja1XeaKi9NIyjs7m2Y4Phwui9uwv-vV7gZczEu0BRaUpgBG45jh4HOs9pX-PMmOvHUoUsQQ_6hcFBjMLqgr5D1D4qTTxGPI7f2B5COMTzSCdhHp_TfPnf2tkHOQKixBsUFpSqm9WYCNSQ0TfHNv41HDP2ktK6zNlIgf1AY1ZYGBQRcSZjuBP5USmOjK6VubnqSbg6ybhxiZ1fOn_L60Ol9SzeuyaMTbiF4ItsbPYKmCUo1Dq3MTywhyTg26gRcnoWnCriWJzofG7AnNNT5gN7oqhzaW1qfQXZY5fZdqeat2QYu3N_wJYhtEl8V9OWJZPi6gmD_PJ2uG7oRM61__J0K8DOAYuO85xK8wj4n6icXOASKvVuFBA-tDG8UmgIkECG8FtlE-djYgVCgXTFqTNd4uZqWU1fIM5DftmYoSOVo838Mea353G9lhbc_QvRhg8MQk2Mb2f0hK-2NyqsDc=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=8134954250&itemId=23106964211&vendorItemId=91357010591&traceid=V0-153-e3504bd784d4c7e2&clickBeacon=273a3b90-d87f-11f1-8d6c-3c77c7ba5b48%7E3&requestid=20261105034005468288445288&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 0,
+    "created_at": "2026-11-05 03:40"
   }
 ];
