@@ -9692,5 +9692,209 @@ window.TESTS_DATABASE = [
     ],
     "participants": 0,
     "created_at": "2026-11-04 14:13"
+  },
+  {
+    "id": "som_or_fishpond",
+    "category": "연애/관계",
+    "title": "이거 썸일까 어장일까? 1분 만에 끝내는 상대방 마음 판독기",
+    "subTitle": "내 마음만 진심인 걸까? <span>상대방의 진짜 속마음</span>을 낱낱이 파헤쳐 드립니다.",
+    "desc": "매일 울리는 카톡 알림에 설레기도 하고, 읽씹(또는 안읽씹)에 밤잠 설치고 있나요? 당신을 향한 그 사람의 시그널, 팩트 체크해 드립니다.",
+    "emoji": "🎣",
+    "tag": "썸·어장판독",
+    "viralBadge": "무료 심리테스트",
+    "metricLabels": [
+      "직진 지수",
+      "눈치 지수",
+      "호구 지수",
+      "팩폭 지수"
+    ],
+    "questions": [
+      {
+        "category": "💬 카톡 패턴",
+        "question": "상대방의 카톡 답장 속도와 스타일은?",
+        "a": "몇 시간 뒤에 오지만 칼답은 아니어도 매번 정성스럽게 긴 문장으로 온다.",
+        "b": "읽자마자 1초 만에 칼답이 오거나, 이모티콘 하나로 대화가 칼같이 끊긴다.",
+        "score": 1
+      },
+      {
+        "category": "☕ 주말 약속",
+        "question": "먼저 주말에 데이트나 약속을 제안했을 때 상대방의 반응은?",
+        "a": "\"그날은 약속이 있는데…\"라며 다른 날짜를 먼저 대안으로 제시해 준다.",
+        "b": "\"다음에 기회 되면 보자!\"라며 구체적인 날짜 없이 두루뭉술하게 넘어간다.",
+        "score": 1
+      },
+      {
+        "category": "🌙 심야 연락",
+        "question": "밤 11시가 넘은 시간, 상대방에게 오는 연락의 내용은 주로?",
+        "a": "\"오늘 하루 고생했어\"라며 내 일상을 궁금해하고 사소한 안부를 묻는다.",
+        "b": "\"뭐 해?\", \"출근하기 싫다\" 등 심심할 때 던지는 무난하고 뜬금없는 멘트다.",
+        "score": 1
+      },
+      {
+        "category": "🎁 선물과 기억",
+        "question": "지나치듯 흘렸던 내 취향이나 옛날 이야기를 상대방이?",
+        "a": "기억하고 있다가 챙겨주거나, \"너 이거 좋아한다고 했잖아\"라며 감동을 준다.",
+        "b": "전혀 기억 못 하거나, \"내가 그런 말을 했었나?\"라며 기억을 더듬지 못한다.",
+        "score": 1
+      },
+      {
+        "category": "🚶‍♂️ 귀가길 케어",
+        "question": "술자리나 늦은 만남이 끝난 후 헤어질 때 상대방의 태도는?",
+        "a": "집에 들어갈 때까지 카톡을 신경 써서 챙겨주거나 집 앞까지 바래다준다.",
+        "b": "택시 태워 보내고 끝! 다음 날 잘 들어갔냐는 안부 톡이 따로 없다.",
+        "score": 1
+      },
+      {
+        "category": "📸 SNS 소통",
+        "question": "내 인스타그램 스토리나 피드에 올린 게시물에 대한 상대방의 반응은?",
+        "a": "칼같이 조회는 물론, 디엠(DM)으로 사진에 대한 감상을 적극적으로 보낸다.",
+        "b": "좋아요만 누르거나, 내 피드는 잘 보면서도 내 스토리엔 절대 답장을 안 한다.",
+        "score": 1
+      },
+      {
+        "category": "🛡️ 사생활 공유",
+        "question": "상대방이 자신의 주말 일정이나 사적인 이야기를 먼저 말해주나요?",
+        "a": "묻지 않아도 오늘 누구를 만났고 어딜 갔는지 자연스럽게 일상을 공유한다.",
+        "b": "내가 캐묻지 않으면 철저하게 사생활을 숨기는 느낌이고 속을 알 수 없다.",
+        "score": 1
+      },
+      {
+        "category": "👥 지인 소개",
+        "question": "내 주변 사람들에게 나를 소개하거나, 상대방의 친구들을 만난 적이 있나요?",
+        "a": "자연스럽게 친구들과의 모임에 초대하거나 주변에 나에 대해 이야기한다.",
+        "b": "단둘이서만 만나려고 하고, 절대 지인들의 무리에는 끼워주지 않는다.",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "눈부신 햇살 같은 찐사랑 둥지 🕊️",
+        "headline": "축하합니다! 이건 100% 그린라이트, 달달한 로맨스 시작!",
+        "emoji": "🕊️",
+        "tag": "확실한 썸",
+        "hashtags": [
+          "#그린라이트",
+          "#100퍼센트썸",
+          "#축하해요",
+          "#연애시작"
+        ],
+        "bars": [
+          95,
+          90,
+          80,
+          85
+        ],
+        "summary": "1. 상대방의 행동 하나하나에 진심과 배려가 묻어납니다.\n2. 당신을 향한 호감은 이미 행동으로 증명되고 있어요.\n3. 밀당 따위 집어치우고 솔직한 마음을 표현해도 좋은 타이밍입니다.",
+        "trap": "너무 불안해한 나머지 혼자 북치고 장구치다 오해를 살 수 있으니 여유를 가지세요.",
+        "advice": "이미 충분히 마음을 확인했으니, 이제는 환하게 웃으며 먼저 다정한 데이트를 신청해 보세요!",
+        "rx_keywords": [
+          "커플 머그컵",
+          "영화 예매권"
+        ],
+        "prescriptions": [
+          {
+            "title": "핸드팩토리 [주문제작] 커플츄츄 웨딩커플 머그컵 (2개 1세트), 화이트, 1세트",
+            "tag": "맞춤 케어 · 커플 머그컵",
+            "reason": "커플 머그컵 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/fDhOTNs1DRClwYaSfNzhSOLF7ler0p73bbvm-uC3aFYy_WbpqA6o_wZJNjdq59Ol50q5CTtKMq_tWrWCGn2s9RnhuZLsDHYFOEXQHeZ2DAw6oNq8zewCWi06HsqbJy85gDTx5LlrNvn-yO4KpHDppIU9OK9Suwk0g3H4eMrzvdlA2mKjZKvG-HjTTfPRUMKLfcJ9VSZJaHAuyCssRzfHbOTkdctLxXQEnZBQGCf9c4Ablae7OJBWAtzi0Vizs2-RPn6o07ThxAx_iR5IYtboYylnZc7LqBNiGIsMve6BujgDUtKIGCHSlZ-7c8b1illFwOpSGkHqpyMmAWqO0MWYYUgl99Nu9uOiqCuWBnxXOlKUyIwWhsUQyvVTxvH1VZ_yycHEeCVTEvDRfIhTAK3vfn8tCw2j1LyWxf6tQY4hSHd_y6HhhUFQbEoEUmqerRwNJ5Vt5TH3OUYePqIBumvVdSDdnFnO4UQOw1q4RAXAszyOwTS1_2Tde73HTCakt9kIsae09Qib0puS1FK1Lk9cB3ZUJeQUSoxkD7cj5Nc=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=4906544&itemId=22371053&vendorItemId=3458862411&traceid=V0-153-213f1cf057104c8e&clickBeacon=99858140-d876-11f1-85d4-c1b1e276d455%7E3&requestid=20261105023851713292890791&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "와우_CGV 영화관람권[G00000221861]",
+            "tag": "맞춤 케어 · 영화 예매권",
+            "reason": "영화 예매권 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/uJBKZXd8puIA-X-1uOtKoOeHAg0fbVrmrryu8ugbiDfE4ZaAYXwczJV1rbclXaUn6BKmEn65Qbg4lmS4c9eXwusUNjlSENxRUuEWqaP2VVlKhH0gYzpugeltECsSmXtS2FbLBvAG0EP8GyqQLt-ZCB6NJ1pxFYaJQ2BB-dMx24tEoTwLpvxUzvXYbQuhq-ICr8xEo4MAjGCYX7d_NPqGkWn1daj2C1GM2e0tdyJ5MDB5gjs4CANkq8xVYHZb8aKoTqzLNM-Yj-KtZKI4riGrQP5Gt6M22jUGQ6KT_UHJ7tftxBiZXmSf0PVSkRuIE_Zs_0PoPITBiqw3EfiVswyIDlW2aL4CGTu19LANHYJErw0erzNw68oeKd8l2l8h_H8vLRlcU36vAta_yJjDEcYWsa0azBEK9oqaK3g-prPcsaLb_3rOsRCGDOcnqpnQqmmMNVuF3HM8t_tf47f9CXz5FOWWxNVdHpB0dPHViAl00lwUeV4n94tU7MLfhlp7DDRmnFrYfDtC-86WqvyhxYsQL4jqgRgIsYczRycxXqwDOtFZnEc11B19TCPYQLI=",
+            "url": "https://link.coupang.com/re/AFFTDP?lptag=AF2740494&subid=blog0001&pageKey=10000010831631&vendorItemId=70000311662704&itemId=20002247574944&traceid=V0-153-6e7ed6aec53436e6&requestid=20261105023851936284360488&token=31850C%7CGM&pt=0&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "안개 낀 미지의 아리송 판독기 🌫️",
+        "headline": "이게 썸이야 호의야? 상대방도 아직 저울질 중인 상태!",
+        "emoji": "🌫️",
+        "tag": "아리송한 썸/어장 경계",
+        "hashtags": [
+          "#어장관리인가",
+          "#밀당고수",
+          "#판단보류",
+          "#내마음만너덜너덜"
+        ],
+        "bars": [
+          60,
+          50,
+          75,
+          70
+        ],
+        "summary": "1. 친절하지만 결정적인 한 방이나 확신을 주지 않는 위험한 거리감.\n2. 나한테만 그런 건지, 모든 사람에게 친절한 건지 헷갈리기 시작합니다.\n3. 상대방의 템포에 휘둘려 내 감정만 소비될 수 있는 조심스러운 구간이에요.",
+        "trap": "상대방의 작은 친절 하나에 의미를 부여하며 혼자 미래까지 상상하는 것.",
+        "advice": "올인하기 전에 한 발짝 물러서서 상대방이 먼저 다가오도록 유도하는 '밀당'이 시급합니다.",
+        "rx_keywords": [
+          "향수",
+          "스트레스 완화 캔들"
+        ],
+        "prescriptions": [
+          {
+            "title": "캘빈클라인뷰티 CK BE 오드뚜왈렛",
+            "tag": "맞춤 케어 · 향수",
+            "reason": "향수 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/G1eHbkeLzPSMhJwLG7heSbGKdhm-II-f0pW3ieAy4ImSbNWenislaYzGsbpENS8rAEEedl75hNTWi9D91JqFq_35TsjXHugitU_FqE2v_rJw1DGEF93_OS1ejYi6xsffqpLmHwS0VOh8ALiC99OrQamzKyUHXEqHskbGcFJqD5NTY3g5djnTnTpQ1TbpFK5n1d2Jnxd0ngmYOPGKTBMY1xajNhYn-aHorOZm8MyI7x42YniZ9PmczceD6QeV-TB8i9Nz9afjlTRpJ_lRdeCHDmKXTnPE8Kr6rYwVkCS_IX9eBLrOOXgjxRFvP8NkQC5LfCC17T_hO1Kck2SY-kCdTGLxqYtLWJvZod3qrz0oGM4F_E4uXG5PWW2G7VW7IYhuuQs9rGSVqbaejhRiujzWN6d1bny7sBmAmrFwp55uPAfn7G9uxuQdT2YQxRhaWiVY_7626Djf0EwdiiBNgaqVOvLUgfKHwXnVtXrY5UMlvinjOsOAmcy6EApmH5itaWBBaJZjyfafnJ0D3Fvq5eXYq96cOjUNg2eMjhw=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=7515522688&itemId=26528146977&vendorItemId=93660606312&traceid=V0-153-9a15a9c769c2e188&requestid=20261105023852092184822303&token=31850C%7CMIXED&pt=0&slot=1"
+          },
+          {
+            "title": "캔들백화점 시그니처 우드심지 대용량 캔들 향초 특별한 그라데이션, 제주비자, 1kg, 1개",
+            "tag": "맞춤 케어 · 스트레스 완화 캔들",
+            "reason": "스트레스 완화 캔들 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/dW5BefLy_06i9av4dXjTfhc5BDH5krnmskROLXkODmIqYWl7bMLMYlNVQDDp0YhXDakdkTTJZej2zGPwSyr6T83yYkbwPp5UrbjPBhoKek7AEmmys-H-uyg-khtt3zLVP7vb9qo_gu1OguFinW4sc5yL_c1IT6bSNcEccs-Z8PWHdkQIF7nY3erB0i41xqTTyNLjg3cs2gMPoxzsh7YerR49W4eFaF7Wr5xd4_WMlhAPC-qkTTbaAYDa6oH0YeREVVfxm4m0UaCh9PO8h933NFKskHQ1mqV17IKghTohNOX7W5AXiTmWKVgf1OvcBO_3_SZKbJvDq-zbEP7U4s50EX-kicjXqsOpdb1HH8YnAK1XYSX4FmPHA7MLx6mD3zGXuMrhlkEVZNEhpZ0IaWU2AuEVrrsdrQ5Xf-BRhled9824WmSYT0pr8UsjG8xUnGBG6MRYNYsfpVpMK5HJhby4m-bELpS8ifJvVQb64DypLGXNxWWTLx0GOdt0suR2OSnWD6X3H-GdFXfQ1VPm1X7e8PsQBnV_bMi3j1d8LsDm7w==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=7842714802&itemId=21542432371&vendorItemId=91853213081&traceid=V0-153-a27e99e70cc585be&clickBeacon=99c54960-d876-11f1-acef-adc7d416dcfc%7E3&requestid=20261105023852190275954676&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "드넓은 바다의 외로운 강태공 🎣",
+        "headline": "정신 차려요! 당신은 지금 깊은 어장 속의 월척일 뿐…",
+        "emoji": "🎣",
+        "tag": "확실한 어장",
+        "hashtags": [
+          "#어장관리",
+          "#정신차려",
+          "#을의연애",
+          "#탈출시급"
+        ],
+        "bars": [
+          20,
+          10,
+          95,
+          90
+        ],
+        "summary": "1. 상대방은 심심할 때 찾는 연락책 정도로 당신을 대하고 있습니다.\n2. 애매모호한 태도로 당신의 호감을 영리하게 이용하고 있어요.\n3. 내 시간과 감정을 지키기 위해 냉정한 손절이 필요한 시점입니다.",
+        "trap": "‘조금만 더 잘해주면 내 마음을 알아주겠지’라는 착각 속에 계속 머무는 것.",
+        "advice": "당신의 가치를 몰라주는 사람에게 더 이상 에너지를 쏟지 마세요. 더 멋진 사람이 기다리고 있어요!",
+        "rx_keywords": [
+          "마음의 안정을 주는 에세이",
+          "디저트 선물세트"
+        ],
+        "prescriptions": [
+          {
+            "title": "지금 어떤 마음일까?, 상품명",
+            "tag": "맞춤 케어 · 마음의 안정을 주는 에세이",
+            "reason": "마음의 안정을 주는 에세이 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/fsB9-MEZK9iRiHAZfj1uoP_nBbPoATDP-_XRWveMrncMQZOs8j9l5ytR6T7pCbnYOo_MlQCGBvnAelyAkmtnJ90HHaJWPGz4HQQU8t0uWp1NM_wyeeSU2gqcdoC2pHTi68XoIQNDW_8xdNdWU81dXwj0yC544v5eF31lCaealZV0FS9OSe-NbM1dJkqCdyY8-uZtgeHZNgstLFn606Ll-9b8HMMS_SrYVhYS4rJiGUrtjkeJ_-niJARQgQN7lIzext1aRG24aJBLdIMjyPLFYLW81QyDbirX6zZ0KqQF-DKoSIMQhP4wzFk7LlbWo_jwENwkynz2jMUNaSFC-_v2CVm9iJUu5ilVka984tCTM1dZ_jPlFL3bopPy-BhYv__ar1q3BM0mHIDMq02VGyBHWaBe0zHy6viPzxwvceUCnXtIsXXW4mt-NHVNggEHeSsXolhR1n2jOOeVty6OebRkFZsgUjwLE1IQ6UiNmDgJhCY6JocM-7XXODtampn5M9DnFtohSo7I4QRsOd4v9bgm",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9615392842&itemId=28710055803&vendorItemId=95618951279&traceid=V0-153-acb6609272780cf3&clickBeacon=99e1f920-d876-11f1-8815-e30978939ef2%7E3&requestid=20261105023852403292890936&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "수담한과 고급지함1호 예담 2단구성 한과 선물 세트, 1세트, 1kg",
+            "tag": "맞춤 케어 · 디저트 선물세트",
+            "reason": "디저트 선물세트 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/jn_3sJfUgWSlK7lUjlJwNxUYRr-OXs-x48GKCBMjVnkRhNZP3bGWcAa2HoVUg_V-2VV_xFInrQkJCBkNzL9qr0g3yw1qasFlUPUmuhmHScfPhv7jAnLrUr99YRnN2nwPsWWuZTHZY0LX4Um4xZ1hS6LO4XNfYtqLA3AIWU0WSt0mzdZ8xttsznapOdkrFrhkOn_42nUlAvwP1fOw_W4pKj1vjZJHEICiYXqRsbGgubcXR_icqZO46J7Q8xbbMFwOM8IDhUy1iZeUZ9qujnYYlNjeF43AAukUpjQvwTalcO1pEAL1SJ60DA3jnsvpJZ24cSj9K2tHzt4Gr_JwSKD7gDnyNBKimgfTb_t_aDU8Gv7AYA6Y8FESh9pH0HYLn2wwjDmP0KTiukw-sXTkliqn1yJ4X8E6Ic15PdBalIB8R7gqOeBgF29_6ABwU6f4meBuQMBe_LzEbnHryHL75LRAJbu7i9nfmrOwN61VNhWxk7c1K7hC1Z-daQ7xO9vfYXKgYJS2knBjxJ2Ctwf8dRO2fdl87_Hx_03ravj5I8BoKQ==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=7650136072&itemId=20352885066&vendorItemId=91471872453&traceid=V0-153-29a66c4743b6328f&clickBeacon=9a020440-d876-11f1-81a7-e3bd6a3076fe%7E3&requestid=20261105023852594110666226&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 0,
+    "created_at": "2026-11-05 02:38"
   }
 ];
