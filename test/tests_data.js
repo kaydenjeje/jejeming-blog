@@ -9488,5 +9488,209 @@ window.TESTS_DATABASE = [
     ],
     "participants": 0,
     "created_at": "2026-11-04 08:13"
+  },
+  {
+    "id": "is_it_thumb_or_fish_2026",
+    "category": "연애/관계",
+    "title": "이거 썸일까 어장일까? 1분 만에 끝내는 상대방 마음 판독기",
+    "subTitle": "<span>심장 쫄깃한 썸</span>, 과연 내 자리는 어디일까?",
+    "desc": "하루 종일 울리는 알림음에 설레기도 불안하기도 한 당신. 이 관계, 정말 사랑일까 아니면 나만 진심인 '어장'일까? 객관적인 데이터로 확인해 보세요.",
+    "emoji": "🎣",
+    "tag": "연애판독",
+    "viralBadge": "무료 심리테스트",
+    "metricLabels": [
+      "직관력",
+      "현실판단력",
+      "애정지수",
+      "자존감"
+    ],
+    "questions": [
+      {
+        "category": "연락 패턴",
+        "question": "카톡 답장은 오는데, 항상 대화가 끊길 즈음만 되면 묘하게 시간이 멈춘다(3시간 뒤 답장)?",
+        "a": "바쁜가 보다 하며 기다리다가 먼저 화제를 던짐",
+        "b": "나도 똑같이 텀을 두고 읽씹/안읽씹을 시전함",
+        "score": 1
+      },
+      {
+        "category": "약속 잡기",
+        "question": "데이트 약속을 잡을 때, 항상 '언제 시간 돼?'라고 묻기만 하고 구체적인 날짜는 내가 먼저 꺼내야 한다.",
+        "a": "주도적으로 약속을 정하는 게 마음 편함",
+        "b": "상대가 먼저 날짜를 말할 때까지 기다리거나 핑계를 댐",
+        "score": 1
+      },
+      {
+        "category": "SNS 활동",
+        "question": "내 스토리엔 반응이 없는데, 인스타 피드엔 1분 만에 하트 누르고 댓글까지 남긴다.",
+        "a": "그냥 내 사진이 별로였나? 하며 괜히 신경 쓰임",
+        "b": "남들 다 하는 SNS인데 별 의미 없다고 생각함",
+        "score": 1
+      },
+      {
+        "category": "호칭과 거리감",
+        "question": "둘이 있을 땐 설레게 굴지만, 지인들이 있는 자리에선 유독 선을 긋거나 '아는 동생/친구'라고 소개한다.",
+        "a": "단둘이 있을 때의 분위기를 믿고 싶음",
+        "b": "그 상황에서 바로 태도가 차가워짐",
+        "score": 1
+      },
+      {
+        "category": "미래 계획",
+        "question": "다음 주, 혹은 한 달 뒤의 먼 약속을 잡자고 하면 미묘하게 말을 돌리거나 '그때 봐봐'라고 한다.",
+        "a": "조금 서운하지만 일단 상황을 지켜봄",
+        "b": "확답 없으면 바로 마음 정리 모드",
+        "score": 1
+      },
+      {
+        "category": "고민 상담",
+        "question": "상대방이 자신의 연애 고민이나 이성 이야기를 나에게 거리낌 없이 한다.",
+        "a": "질투나지만 내 진심을 알아주길 바라며 들어줌",
+        "b": "상담해줄 가치도 없다고 느껴 정이 확 떨어짐",
+        "score": 1
+      },
+      {
+        "category": "스킨십/분위기",
+        "question": "취기가 살짝 올랐을 때 손을 잡거나 기대는 등 스킨십은 진한데, 맨정신엔 아무 일 없었다는 듯 행동한다.",
+        "a": "그 순간의 온기를 잊지 못해 자꾸 그 상황을 곱씹음",
+        "b": "다음 날 바로 단도직입적으로 물어봄",
+        "score": 1
+      },
+      {
+        "category": "최종 마음",
+        "question": "가끔 '이 사람이 나를 좋아하는 게 맞나?' 하는 의구심이 매일 밤 잠들기 전 든다.",
+        "a": "그럼에도 불구하고 먼저 연락하고 싶어짐",
+        "b": "확신이 없는 관계는 에너지만 낭비라고 생각함",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "도파민 중독 낚시터 VIP 🎣",
+        "headline": "지금 그 사람, 당신을 '소중한 옵션'으로 두고 있어요.",
+        "emoji": "🎣",
+        "tag": "어장주의보",
+        "hashtags": [
+          "#어장관리",
+          "#나만진심",
+          "#도파민중독",
+          "#정신차려"
+        ],
+        "bars": [
+          95,
+          20,
+          80,
+          10
+        ],
+        "summary": "상대방의 일시적인 친절을 사랑이라 착각하며 끊임없이 반응을 확인하고 있네요. 당신은 이미 그 사람의 어장에 길들여져 자존감이 조금 낮아진 상태입니다. 상대는 당신이 언제든 자신의 곁에 있을 거라 확신하고 있어요.",
+        "trap": "상대의 작은 다정함에 '이번엔 다를 거야'라고 희망 고문을 하는 것.",
+        "advice": "딱 3일만 연락을 끊어보세요. 진짜 인연이라면 상대가 먼저 불안해하며 다가올 것이고, 아니라면 당신의 가치를 알아보지 못하는 사람을 정리할 좋은 기회입니다.",
+        "rx_keywords": [
+          "자기계발서",
+          "향수"
+        ],
+        "prescriptions": [
+          {
+            "title": "조용히 이기는 말투의 기술 -싸우지 않고 원하는 것을 쉽게 얻는 법, 김범준, 유노북스",
+            "tag": "맞춤 케어 · 자기계발서",
+            "reason": "자기계발서 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/uT-qUzikH_5eANixuTQaCSp1ifIiXc8KoBDwWYwa0VFyoxN4-V84P1-tMCBmwqqdvXrLGTU88LcWNFk5aVA6g7CbaXcpZgxssx2TJiGsut1xWAKuRN1AFuqkjm7GXlU1gGRYspgHYuPiN7G9yJ5K_hQ2gszWdPDPVbNuXTL0CO0noPexWd2buvbt0p0AtMkF1MX-OXedHRoarToo2odhFYfdBHjEW7KSc4CPZr50j6brMesnopF3uKPGu1I9JRPEapRVsi5oeAh3IFiNZPUS9W_T7HPGMq_aJpnQqee8OjFHRTEdYwftifORt1oizBBwE4uoF3-Mxm30eNdq4CpK4Xnt4-BvvReN0QOuOmOUskltauB5fNQBOZs5f-g-B1be0bYf9SpsPXTtxwjt9PN2D0-R34HLpGAvdehCtSjStntqm4M4u0f9n52OXyAFEJP-8vWyphouDuxJAXS8tiLJ_VOsFuQjNSi8wpLUEpuXZgHWR1DHNbc-x0tNfwaNOPb_RLjgLWTW5YjwMKX3RPSbv2x1RZwPSflZ2yi8wNb6p1c=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9675059471&itemId=28928972699&vendorItemId=95860359055&traceid=V0-153-29e1d27af7af3775&clickBeacon=714b7b70-d80e-11f1-a8a9-53a067bf0992%7E3&requestid=20261104141316662265562777&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "아스파시아 포맨 블랙 오 드 퍼퓸",
+            "tag": "맞춤 케어 · 향수",
+            "reason": "향수 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/goRuS7QqAgSo9hzYgjRFixy0mPkBB1K9gJyz3H8pHCyFj_vEOAviGw_Ra-yWGjUvzfWIFIVwEilTO-loGe2zNbeZ4T-hoBuuNbp_TBwoExIRoX9R6PwD1Kcs4NaXdkmy6QykKTv5e3vexu4AtXIBTeNrAssYAyFJmDSu60SvuThsxtlnlq5FsAmSs39I7om9gF5JOAPwTDYs5OC4yriI3ZHlqj6fdoM1uTeNotq95yq6ooD_6aTDXDJqNIl0SyIOx6VtFPMeUdz-zkvpkRXevcOJbYR78enLkJzDjBo6Sm0uvp87IWDN6boZ8Oh2V2qDRjCmLx_u12qrH0CDqiWMcOiBdSOQRPz3Gk4HD2-mj7TN1iMZ2hR2h8b5s2kn8JPxLU62ybg6LCZwLUgiYsi5hj5iWmGCP3OjKxzT7Dx1nl5JzfDuC1kACdTEpLiTI-FOPz5ELWYoUSM3c_bwwXbi-nX39w8SmkW3TOJxDP6rq5PHtDg1MlQ39RJv2BL9oJOaRDuSP3q6REQ0z8_kNz_mHeLJfhJwU8D9HYTdzzFdps4dm6aVWmbeLvc=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=7352741676&itemId=9454180111&vendorItemId=95101145689&traceid=V0-153-f5e4ecd01219dcd7&requestid=20261104141316812288432592&token=31850C%7CGM&pt=0&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "밀당 감별사 ⚖️",
+        "headline": "썸의 경계에서 아슬아슬, 하지만 주도권은 당신에게!",
+        "emoji": "⚖️",
+        "tag": "썸타는중",
+        "hashtags": [
+          "#밀당고수",
+          "#썸타는중",
+          "#관망중",
+          "#신중함"
+        ],
+        "bars": [
+          60,
+          70,
+          50,
+          60
+        ],
+        "summary": "상대방의 마음을 어느 정도 읽고 있지만, 아직 확신이 부족해 거리를 두고 있군요. 당신은 감정에 휘둘리기보다 상대의 행동을 관찰하며 적정선을 지킬 줄 아는 스마트한 연애를 하고 있습니다.",
+        "trap": "너무 계산적으로 대응하다가 정말 잘 될 인연마저 차갑게 식어버리는 것.",
+        "advice": "조금 더 솔직해져도 괜찮아요. 가끔은 계산기 내려놓고 '보고 싶다'는 말 한마디를 먼저 던져보세요. 그게 상대의 확실한 답변을 이끌어낼 열쇠가 될 거예요.",
+        "rx_keywords": [
+          "커플팔찌",
+          "영화예매권"
+        ],
+        "prescriptions": [
+          {
+            "title": "띵니 [각인무료/오늘출발] 1+1 커플 각인팔찌 이니셜 팔찌 써지컬스틸 커플.우정 각인팔찌",
+            "tag": "맞춤 케어 · 커플팔찌",
+            "reason": "커플팔찌 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/fn88sIhs3Wo4V6GIfncch6mexnJIWTA8TcRraw_770MbS1k53-JXCmnaRSL75Z8QmT7VH3BatSUfuB-UW6ZySnm2l6BCcUEjkazqlGBWmIt76GpKb7jtA_psGS5U2PSL8uJOaOh1zi_qZZ7QbptaJTuBgIrkq7xtv0H2udS732NmGrg42vcvZeROOO2AsKiAiiQC-odD6jZCyxsKh7DYtnEU_YACK20oOU0LJ39aA1KTw1HSz19QnTwxEsKeCRBtEJD7FEB-RVYDxm_cR48V_xd-cMyJI31zlXQXSsqnLgRZC32UP4mTEJ4V1Es6YTpsOXIQHwdD3Zg8xDTmt47_qlObv7XVpi6xIktbEWqgC91qQ-6s3Blbzjf0J8pRBbKaBuqrI79t0tTCU9EYgpvmYXTXhuBgWzsvdRud1Qe2YvuHDZSh7JWexdyaJfGUmzt362lpmWLXqEWevjlVwT_2_8-u28YMcxA0z4ODmVex8ZHKzXUDwxBLoI2LBXGdYGABqrvTqr0acTtoPiAy8NdKutYM8pVCpu6xy7bh771O8Hvif6T8V__ScRNltsq4CUB1zhLlU1IngZyuZkVXynUmXOWfr3Ig9CQrLTQLGQ==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=6972692522&itemId=17011487790&vendorItemId=84187274497&traceid=V0-153-261168a02d6bf2fe&clickBeacon=717fd1e0-d80e-11f1-8d33-0969077d0d43%7E3&requestid=20261104141316975095474090&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "와우_CGV 영화관람권[G00000221861]",
+            "tag": "맞춤 케어 · 영화예매권",
+            "reason": "영화예매권 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/NCnekbdXNoLIjBKSNGrsmfea2uLrJlqt2lkzeQX3AYkYVGrbhVjdfqQwpBElgMTfsTlDL7mtqObNpcuTAX0Ul2vGyQjP9YmG1_AD5IowVNIS4kMr63hPgbNiLMz8v2vn_4IyKxP8yncZ9Pxvd86Lb89fbgXrvVDX51k_jun_3bh-tnGfcUP184cij5U5DK8WvMCaNo7JFm5JqfF83j3ZbrmDYPlZx-jYmlCBePVUj-UFiP1FecUH1DP9UYJjSeKz6PUNd2TlZpxeBYXTexVc6OkmVcrBeEzCQEPvyF3y4-0G1GOk9Akl8_A-zpdfZfL3SUA44GI8ag7YyGPyg22hElPqAJ8Z4LLI2nBaSaO8HNI0yBSoPdDxgOojcneFu5C5HmZUwqXxvh_yg33ahScyC8umJWlasHspysWKVCfdtafsrhsNcr9LP9I1l0WvCI0UjRh2rK1INHBPvEiiCmOB4qy4EgMGvkQrT4X4t-p51a983-ukS32Tx0RBbLBGEjFU6tdEK5VL0N_YCM9AX_zyii8Y0UFnh7xBgKjNv7--DU9yaI-djfeQIjh9",
+            "url": "https://link.coupang.com/re/AFFTDP?lptag=AF2740494&subid=blog0001&pageKey=10000010831631&vendorItemId=70000311662704&itemId=20002247574944&traceid=V0-153-6e7ed6aec53436e6&requestid=20261104141317132288432751&token=31850C%7CGM&pt=0&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "강철 멘탈 마이웨이 🛡️",
+        "headline": "이런 관계는 딱 질색, 당신은 진정한 사랑의 자격자!",
+        "emoji": "🛡️",
+        "tag": "칼같은판단",
+        "hashtags": [
+          "#인생은마이웨이",
+          "#감정낭비금지",
+          "#건강한연애",
+          "#사이다"
+        ],
+        "bars": [
+          20,
+          95,
+          30,
+          90
+        ],
+        "summary": "애매한 태도를 보이는 사람에겐 눈길조차 주지 않는군요. 시간과 감정을 소모하는 일을 싫어하며, 본인의 일상을 무엇보다 중요하게 생각합니다. 이런 당신의 당당함이 오히려 상대에게는 매력적으로 다가올 거예요.",
+        "trap": "너무 빨리 사람을 판단해버려, 사실은 수줍음이 많았던 진국인 상대를 놓칠 가능성.",
+        "advice": "당신의 판단력은 훌륭합니다. 하지만 조금만 더 여유를 가지고 상대의 '서툰 표현'을 지켜봐 주세요. 당신의 단단한 마음을 이해해 줄 사람은 분명히 나타날 거예요.",
+        "rx_keywords": [
+          "운동화",
+          "입욕제"
+        ],
+        "prescriptions": [
+          {
+            "title": "카노 남자 다이얼 운동화 가볍고 발편한 통기성 러닝화",
+            "tag": "맞춤 케어 · 운동화",
+            "reason": "운동화 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/dz57F-CpTjGsiH5Nd1Qfzjs9P3PrFLk5H1DnnJjSkesT7In04rqy-lv0HiQpgqjtJseqUkflgK9fR7GgYmZmQVUFUgKqhGz8fPBzx_Q7VDMvm81XSEKr9eleaOvxf--Zj7J5gjFO5lOux4fhdJVJcrPg32yUxSPbZ1UQ7Z23QN_qDRdp0psjGardg4VdESDZOZseM3XhnyySfIr3wEIXr31CP6Kk73Pt6e_LF980BeBO8QZSdqPmbFWCTsJpC9DaT-jwkwcZ-oiC65QY3uz9bZkmkZso_wOyxU6yuyQ6ZAkYrKsEDAjFeDfa3IKKK1HltuRyDBuUmLWW2VtbCx_8OiwTGQzJxvKm4dbO6Tb04wlmAFAY0_nMvfup3GKcj1PwNJGAC_TitrYP54pALPuzSRTKQPXEhnmau5xeQKNA2gnE5vjGcWi8LesY1Wp1u-j1qqO_0ocMJOtBdltbQareCYHN6p67WsHzwx6iIrbeB7knXrOfvCpBKqmpOoOjA6g1uTgs6BA4n5wZIpKVKAWP3YQ7wPSgG-mtRl6pB7JrEIYb-zHIYVP8ueFkvP0mo9fT9nOuinVtDwXfy6RlNUooby0BqbeiZ0LQN_mO",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9615336872&itemId=28709856297&vendorItemId=95623790759&traceid=V0-153-219faa6ad6fb53f4&clickBeacon=71a497f0-d80e-11f1-b85c-cc6a91a019a2%7E3&requestid=20261104141317262294672295&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "요이크 배스 솔트, 릴렉싱 라벤더, 1개, 450g",
+            "tag": "맞춤 케어 · 입욕제",
+            "reason": "입욕제 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/i9yeK1PYmuYya-lui84nyK2d4mZE6cq53xnKHOqUv36cS44FDMrAuAKVtwA-vStJPbPSarhfQ4muATiN486imUph1Jt_Z97fQHuO76jw_KXa_uxT2v24vSiTDjP6m2NrM4fRqCSh_5pOK0DPp7Mr3i1P789IFP9IiDgqp9SVQh8taOdvHggxGSj6bbscERk_hFO41P8jS_pNwfqmBKLTJXFt59aRMYVW0d5gB8w44-UOgg2bjufMjL8i6TBH2vSDSQdlck44EDD_wb4C4b9B74ltZYE6kvOW_0GSRXNdPikNbpJ5jaiOs3gthTr7j0yEkZ4YDvLu2e0cYIKGcxOvd9LYCsSFrs641tOb3u0jIrnziG9VxxTf-08cwaWVYC8BsR3gAask9k_kg-_syNWIX_Pag5csrrO02_pYnuZO5jDUIaqn0vYyHn8NGSkb6nyk76mqB8uLHTuVdWvqNUV22dTIOgnuHnzM0uJxkGZ4yadQPquvnT18x-OP4dAM7JJ1izAYPKuLlgiN4kkTZuEHPm8MT6kxJE2w0kNxrERS9Q==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9574302998&itemId=28578146400&vendorItemId=95612532817&traceid=V0-153-a94c063bc741f224&clickBeacon=71bed6b0-d80e-11f1-b534-5fab6a7b7206%7E3&requestid=20261104141317396207828579&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 0,
+    "created_at": "2026-11-04 14:13"
   }
 ];
