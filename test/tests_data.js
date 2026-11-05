@@ -10304,5 +10304,209 @@ window.TESTS_DATABASE = [
     ],
     "participants": 0,
     "created_at": "2026-11-05 09:39"
+  },
+  {
+    "id": "digital_dopamine_detox_3",
+    "category": "힐링/멘탈",
+    "title": "10분마다 폰 확인하는 나, 혹시 도파민 과부하? 디지털 디톡스 테스트",
+    "subTitle": "당신의 <span>뇌는 지금 안식 중</span>인가요, 아니면 <span>도파민 폭주 중</span>인가요?",
+    "desc": "쉴 틈 없이 울리는 알림, 습관처럼 켜는 쇼츠와 릴스. 혹시 내 뇌가 디지털 피로에 절여진 건 아닐까? 나의 도파민 의존도를 진단하고 잃어버린 평온을 찾아보세요.",
+    "emoji": "🧠",
+    "tag": "디지털 디톡스",
+    "viralBadge": "무료 심리테스트",
+    "metricLabels": [
+      "자극 추구력",
+      "집중력",
+      "정서적 여유",
+      "디지털 의존도"
+    ],
+    "questions": [
+      {
+        "category": "📱 아침 루틴",
+        "question": "눈 뜨자마자 가장 먼저 하는 일은?",
+        "a": "무의식적으로 스마트폰 알림부터 확인한다",
+        "b": "기지개를 켜거나 물을 한 잔 마신다",
+        "score": 1
+      },
+      {
+        "category": "☕ 휴식 시간",
+        "question": "잠깐의 커피 타임, 5분 동안 무엇을 하나요?",
+        "a": "습관적으로 쇼츠, 릴스, 인스타를 훑는다",
+        "b": "창밖을 보거나 멍하니 커피 향을 즐긴다",
+        "score": 1
+      },
+      {
+        "category": "🎧 멀티태스킹",
+        "question": "영상을 보거나 음악을 들을 때의 모습은?",
+        "a": "2배속으로 보거나 다른 일을 동시에 한다",
+        "b": "콘텐츠 하나에 온전히 집중해서 감상한다",
+        "score": 1
+      },
+      {
+        "category": "📩 연락 확인",
+        "question": "단톡방 알림이 울리면 어떻게 반응하나요?",
+        "a": "즉시 확인하지 않으면 불안해서 폰을 본다",
+        "b": "시간이 날 때 몰아서 확인해도 괜찮다",
+        "score": 1
+      },
+      {
+        "category": "🚶 이동 중",
+        "question": "대중교통을 이용할 때 당신의 모습은?",
+        "a": "폰 없이는 1분도 견디기 힘들다",
+        "b": "음악을 듣거나 생각에 잠기는 시간을 즐긴다",
+        "score": 1
+      },
+      {
+        "category": "🛌 취침 전",
+        "question": "자기 전 스마트폰 사용 시간은?",
+        "a": "눈꺼풀이 무거워질 때까지 폰을 보다 잠든다",
+        "b": "취침 30분 전에는 폰을 멀리 둔다",
+        "score": 1
+      },
+      {
+        "category": "⚡ 집중력",
+        "question": "업무나 공부 중, 갑자기 폰이 궁금해지면?",
+        "a": "참지 못하고 바로 확인한 뒤 흐름이 깨진다",
+        "b": "할 일을 다 마칠 때까지 꾹 참는다",
+        "score": 1
+      },
+      {
+        "category": "💬 고독함",
+        "question": "혼자 있는 시간이 생기면 가장 먼저 하는 것은?",
+        "a": "심심함을 달래려 SNS를 켠다",
+        "b": "온전히 나만의 시간을 즐기며 휴식한다",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "도파민 풀가동! 뇌 과부하 경보형 ⚡",
+        "headline": "잠깐의 정적도 허용 못 하는 당신, 뇌가 지금 비명 지르고 있어요!",
+        "emoji": "⚡",
+        "tag": "도파민 중독 수준",
+        "hashtags": [
+          "#도파민다이어트",
+          "#뇌휴식시급",
+          "#디지털단식",
+          "#오늘부터폰금지"
+        ],
+        "bars": [
+          95,
+          20,
+          10,
+          95
+        ],
+        "summary": "자극에 중독된 당신의 뇌는 지금 24시간 풀가동 중입니다. 작은 알림에도 예민하게 반응하고, 멈추면 불안한 상태죠. 스마트폰이 없으면 세상과 단절된 기분을 느끼고 있을 확률이 높습니다.",
+        "trap": "중요한 정보보다 뇌를 지치게 하는 불필요한 정보만 계속 흡수하게 됩니다.",
+        "advice": "딱 1시간만 '오프라인'으로 살아보세요. 처음엔 손이 떨리겠지만, 그 고비를 넘기면 훨씬 맑아진 머리를 느낄 수 있습니다.",
+        "rx_keywords": [
+          "타이머 자물쇠 박스",
+          "아날로그 다이어리"
+        ],
+        "prescriptions": [
+          {
+            "title": "꾸꾸리빙 자물쇠 상자 패브릭 리빙박스 사생활보호 보관함, 1개, (특대형)자물쇠포함",
+            "tag": "맞춤 케어 · 타이머 자물쇠 박스",
+            "reason": "타이머 자물쇠 박스 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/cH7HYbg2w-jp-AgPcDR4LWziZk4MkXEmMlkba48ntB5gpIeyiz_Z7-IcuHRnIENJJ6GDbsshLUN22BFlc7eZGeT_D06d8VVmPj40f8muq4CsUiM9jMwZLLLGGbOzJsyeH8fEYSLEsaCI2PMNM_8mcbmyviGYzDz2bpNJb2Vgd-k3-R9tvQMdIb4GONoIgaOossc3CFHsHSpwVK92DBi5wrExlcudwGP5BwHTqlcjC5og95ClKb_tyFsjtW51DIdFAAcNygRIrcx61PByDB5LnjRFKn18E8Y4cnUit7Yr3dP66f7wYgWANx95ZQBGr8i0-rpZSMjEKT2Efgvf9s5DCv-Ildlf98EmZzmy1IJji4WcMy7dKG427J6-JVtgLJ3-Jghfomp8GkG-893KQ1SeOvi4qk-D6dZn7LYn1F-AeJvlIkM5BitncUUwafNtND3ZM3muuaPosbwi4r-KkWnZce3f5E0qGfGxet2wjQwmgsehI1HSLQA2M7DNjsqNHnolOwq3nPlmDaJhmKuFg4-Pt8ho34m3HWC2-Q==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=8198659439&itemId=23491872822&vendorItemId=90518347877&traceid=V0-153-77d44e640350de14&clickBeacon=54206d40-d948-11f1-826f-5a7effdefe5a%7E3&requestid=20261106034009682108989428&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "모더너리 A5 하드커버 만년 다이어리, 딥 네이비, 1개",
+            "tag": "맞춤 케어 · 아날로그 다이어리",
+            "reason": "아날로그 다이어리 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/6I7EmjBTgVTYCzV06Ord5jrjNwKw1GATxNTxoZcbYMyeAR0-IAA8NJOqftoG098NddHfIvpfRHdFapwPMCvWDl0g6HiCjrGzhe7GT0K-gdl5l9tYKQDwjOc8SL0AgL1MzTdlLqc1WYr8pPiS5Zy-_Z5iO53XOdQvbIAW_CEV9R2bgGRannxK6j-2Q1odqqTHOS45xD4ec8Rkth-lCizfATWXCazA2z0ZlDJmsjVWT01nLxTriwEUB_ISiSnrhCubRWwzBnUxNJGFxmOoz3VNcFS6U4fkbefa2rKXAXFKThO5lA7MxGXmu6bOVThPitqL1nWhzguKw_tmlI_2VEnp2_ThahjAqkcXQq-WLrf0Is0XlzPHBm8H9LNv7eILWKiRz0oBtE0SFlrSJLudXioJuPOmdojPiOAB-7AHRJHdb27s305zrsRu4Bfi49dMtkk81IvXXF_vD7W_QPSfLFfAXHmQbnkVHjkSe2Z7trGE2GqXd2Mt9QVG_50qd4jkXcZz-6ZiCFCz55uRrllU_MPk",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9131402461&itemId=26868999503&vendorItemId=93838614451&traceid=V0-153-1820bd497c134ce8&clickBeacon=547d0c30-d948-11f1-aae3-49f0268bcbbe%7E3&requestid=20261106034010270231270604&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "일시 정지 필요한 방전 대기형 🔋",
+        "headline": "적당히 즐기는 줄 알았죠? 이미 디지털 피로도가 꽤 쌓였어요.",
+        "emoji": "🔋",
+        "tag": "디지털 피로 누적",
+        "hashtags": [
+          "#디지털디톡스",
+          "#나만의시간",
+          "#스마트폰줄이기",
+          "#휴식이필요해"
+        ],
+        "bars": [
+          60,
+          50,
+          40,
+          60
+        ],
+        "summary": "일상 속에서 폰을 자주 사용하지만, 스스로 조절하려는 노력을 하고 있네요. 하지만 집중력이 자주 흐트러지고, 왠지 모를 공허함이 밀려올 때가 많습니다. 지금이 딱 '디지털 거리두기'를 시작할 적기예요.",
+        "trap": "습관적으로 폰을 들었다가 1시간이 훌쩍 지나가는 '시간 도둑'을 자주 만납니다.",
+        "advice": "잠들기 1시간 전 스마트폰 금지 구역을 설정하세요. 블루라이트만 피해도 다음 날 컨디션이 확 달라집니다.",
+        "rx_keywords": [
+          "수면 안대",
+          "블루라이트 차단 안경"
+        ],
+        "prescriptions": [
+          {
+            "title": "컴포럽 프리미엄 암막 수면안대",
+            "tag": "맞춤 케어 · 수면 안대",
+            "reason": "수면 안대 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/8dRzfkg7NCJaeaBT8TCuIYD0jgmqZo_adYwT7emjkNXq4nI48NW5GnujWNmrjsJH2Q26_brgd746kQqDGKm1x0S_d3TQ20zbnhp9phF52wdYUgWULhgU6k0DTk3zUNv0UtiR9wM80Oui0I4pfHUtN6FLFKiorAus6eW_Dgu9y9D_dnSEwuFaH70duWQEcWG7o1_d461c3qyM9othFeDz3rhRqVUxDEQq6i0cvpDXZCpz7iLrXgpdut6J0_Rxw286d3t8Ob35viktTVs3iHsjJ-FDjK-qmOK-To8xYPT1a2wS5_xGzktR5sP2QXRi6T1Qhg8Y0jtpUcGF-uQvvemszWMllsp4laZpa8HB4ZzLvNp8tluYoECN9mJZXjamJUEgw4H_c8PE8WLnTmJv_tb6kpXEagzBMCL0sYhovxjT6FLOLzcGKGaeYpBuh2fJSEAQriOmvBqfysmbjgPXXvofLU1qy8HR8IFXnQmoBl8O_cpmFhGvCfrMT3CnVSPxOOH8Y8hRm0bpyClQWJX_4z5CMN0=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=5071236307&itemId=6862847936&vendorItemId=78103972659&traceid=V0-153-96f053e4a50c95de&clickBeacon=549946c0-d948-11f1-a38e-48650ba12879%7E3&requestid=20261106034010485221688438&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "NEXT EDGE 잘어울리는 블루라이트 차단 메탈 다각형 안경테 남여공용",
+            "tag": "맞춤 케어 · 블루라이트 차단 안경",
+            "reason": "블루라이트 차단 안경 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/ZZit66_xivejburzZfZVPNWfBcq42zZkLIhmxq9Q8Th9pfn6qFfiPe3-Cs4QKpw3dxpsfH5xIsHRoT09pWRBVH96huSli2BYkYkmB-mSjOCfXndTlTD_F9gWNywAOZ4XtxnrkrUV5GqGAeFqdapntDxXXtybsYDBfZx0D-gMNcs-azNGhKbqaCkmGpEWgipWbINyDM4tI0S8lJAJV_7EAFbYDpFJ2r_rGRg4bWtt47dmRAFJo32n02X115U_6tCDD9KJHxv0Tn-Fmxvv0jWhKHOGjBR-igR7xUAQG5LF1KDFQjAiVb24dGAEbNc7mO5jvqz3dwefsUGIlXmvoR7ZpMxqa1xCsZpW0D-MEljf1Wv5FpsIgfB80ycnp1MuTFsMux3FaP5vUW4ilJcn8RFvw7owsIrzRTJgl0ZGMFLdozUyVLUOqYEck1OuudPhK3KV477uEWpkMh_Cz9nKDJHEhvXPol72tGYU74HxdO-x8l4DcpgrfxHlDxZMnXe_42SDS7zn58F8SrYoMCfxUDs4dQqgfaRiu9tf_RNEXScHUasYqiOF_YKIdNA=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=8232666053&itemId=23696364514&vendorItemId=90980230850&traceid=V0-153-380c799232ae64c0&requestid=20261106034010624295929478&token=31850C%7CGM&pt=0&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "도파민 무소유! 평온한 숲속 수련형 🧘",
+        "headline": "당신이 바로 2026년의 참된 평화주의자! 뇌가 아주 쾌적합니다.",
+        "emoji": "🧘",
+        "tag": "멘탈 관리 마스터",
+        "hashtags": [
+          "#디지털미니멀리스트",
+          "#갓생러",
+          "#마음챙김",
+          "#도파민해방"
+        ],
+        "bars": [
+          20,
+          90,
+          95,
+          10
+        ],
+        "summary": "알림에 휘둘리지 않고 주체적으로 삶을 운영하고 있군요! 폰은 그저 도구일 뿐, 나를 지배하지 못하게 하는 당신의 단단함이 부럽습니다. 지금의 평온한 루틴을 계속 유지하세요.",
+        "trap": "가끔은 너무 정보가 차단되어 세상 돌아가는 이야기를 놓칠 수 있으니 적절한 교류는 필수!",
+        "advice": "당신의 평온함을 주변 사람들에게도 나눠주세요. 지친 친구들에게 당신의 '멍때리기 노하우'를 전수해주는 건 어떨까요?",
+        "rx_keywords": [
+          "명상 도구",
+          "친환경 인센스 스틱"
+        ],
+        "prescriptions": [
+          {
+            "title": "보노로 네팔 수제 미니 싱잉볼 명상 세트, 1세트, 미니 싱잉볼 세트",
+            "tag": "맞춤 케어 · 명상 도구",
+            "reason": "명상 도구 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/_K8V3_PxGIcoTce5_AM2jz1242_pbKSefT-UNhXFJJ7U5lujP21vLXKgQ3lJtXOL7zEg1b-adgsOH67X80V9m2QVX1eE2c7OcxvUU5Va6uSzj1TKYBH5rEASK5i2O89cBMBBOfP12VS3ThpALer95ayIm8KtU7zju2AA7NWM9DJT-H-6CP4GypeQIc6ZYGkQyngLyBqD7vaOSOMdKpsrz4ikY-58KraWl0y2ESMuV6G4vZAgOUVRyltXEDkMNMtX7eohmpa6gEPOqkLvVc367h_KrJPZbkEkuRV72kPtwwCxrO--hpVhDdheX2TuBUQuMQPcePTWXu9_pg4Okni4KjMdJAAzzPokl8pPKgZFd7pH0u4JnxXinucBeO8j3Pp5wVR04HAXvE6vshxNUIVCrx9taCkpyk5ziyYcoUNAi992YA4mbmk8aVTIcTmSLh4KMhdEQor3WY5dhdIAV0rOEj9Or5ZY7o-85Fu_V6YQ5hcBTWdZeIcjprXrN6I7xwqHOhEE1y71ZDWPivkU1hzpMNtJk-_7_thBysONci7Znz8=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9693445740&itemId=28992717799&vendorItemId=95921407648&traceid=V0-153-13833d140ff37a5d&clickBeacon=54d9d230-d948-11f1-8dae-252a077db984%7E3&requestid=20261106034010900108989621&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "나그참파코리아 인센스 스틱 기프트 7p 세트, 뉴트로",
+            "tag": "맞춤 케어 · 친환경 인센스 스틱",
+            "reason": "친환경 인센스 스틱 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/z2EKTYmGbnBzPsuBz3K4zqtwPJpy0YIU-z07itY7ha8ijgdRgFlxIzDj7KtwHkxrhyqPIrVKBpE96llnmpRoqDzpcsYz-0Ww3EAu3unmD2kURbbM_n-latNSpcNHHH77pFDRMvGfTTZFDNKj68KGXdJ1eTmMEVNw6RoudevLjIY0_KlN91PWrg3yTBMzLDUDeR9bUZ4XJ2yP1c9s_P-OIDr6uJhru6keUxPZ6kjZXvLWEFfQJ_M10nVkeuXHOjdDPeo-W5w4x3DxVLEOkwnsKbGLiDSNXjMjY0POmkBvmfF003vtGBY9Qbt7h_JvKc7IkPmWC5EbumQvKxr4Htwt8Ex1ymEeks3vnwEUDGEVyXF_LvbuFXnRfWtUlDD_xsll378LRX0sQEaTFJ-_b7EIj7FZoY_wlEOb8bsRWfjU8f6tmgJoiZiA7TfAqIlZ2Ee2qp5fTqhQNbdkTXdcgU_-jt8OemDKvWMFiWFtiAzemnY15TtSJe6whf-QuVT--uNVG8WDEhQZHaZeDoYufh8y",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=7158236058&itemId=14227448929&vendorItemId=81472750903&traceid=V0-153-7792643096f8c81c&clickBeacon=54fc9c70-d948-11f1-bf47-09ea94c2f06f%7E3&requestid=20261106034011122066660154&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 0,
+    "created_at": "2026-11-06 03:40"
   }
 ];
