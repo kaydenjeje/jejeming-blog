@@ -10100,5 +10100,209 @@ window.TESTS_DATABASE = [
     ],
     "participants": 0,
     "created_at": "2026-11-05 03:40"
+  },
+  {
+    "id": "money_mbti_2026_1",
+    "category": "소비/재테크",
+    "title": "짠테크 절약러 vs 감성 플렉스러! 나의 머니 MBTI 성향",
+    "subTitle": "지금 내 통장은 <span>텅장</span>일까 <span>통장</span>일까? 2026 머니 성향 테스트",
+    "desc": "매달 월급은 스쳐 지나가고, 내 소비 습관은 도무지 종잡을 수 없다면? 지금 당신의 돈을 대하는 진짜 성향을 확인해보세요!",
+    "emoji": "💰",
+    "tag": "소비성향",
+    "viralBadge": "무료 심리테스트",
+    "metricLabels": [
+      "플렉스지수",
+      "절약정신",
+      "미래설계력",
+      "감정소비"
+    ],
+    "questions": [
+      {
+        "category": "카페인 수혈",
+        "question": "출근길, 매일 마시는 커피 한 잔. 당신의 선택은?",
+        "a": "무조건 힙한 신상 카페! 비싸도 맛과 감성을 포기 못 해",
+        "b": "텀블러 챙겨서 편의점 커피나 회사 탕비실 이용함",
+        "score": 1
+      },
+      {
+        "category": "쇼핑 중독",
+        "question": "SNS 광고에 뜬 취향 저격 아이템, 가격대가 좀 있는데?",
+        "a": "오늘 안 사면 품절될 것 같아! 고민은 배송만 늦출 뿐, 바로 결제",
+        "b": "일단 장바구니에 담아두고 3일 뒤에 다시 확인한다",
+        "score": 1
+      },
+      {
+        "category": "점심 식사",
+        "question": "동료들이 '오늘 점심은 근사한 곳 가자'고 제안한다면?",
+        "a": "좋아! 맛있는 거 먹고 오후 기운 내야지, 쿨하게 결제!",
+        "b": "점심은 간단히 먹고 그 돈으로 저축하는 게 이득이지",
+        "score": 1
+      },
+      {
+        "category": "배달 음식",
+        "question": "퇴근 후 지친 몸, 배달 앱을 켰을 때 드는 생각은?",
+        "a": "오늘 고생한 나에게 주는 선물! 배달비 4천 원은 애교지",
+        "b": "배달비가 너무 아까워... 냉장고 뒤져서 간단히 먹는다",
+        "score": 1
+      },
+      {
+        "category": "재테크 관심",
+        "question": "주식이나 코인 정보가 단톡방에 올라올 때 당신은?",
+        "a": "일단 소액이라도 따라 해본다. 정보력은 곧 돈이니까!",
+        "b": "공부 안 된 투자는 위험해. 그냥 적금이나 예금이 최고",
+        "score": 1
+      },
+      {
+        "category": "경조사비",
+        "question": "이번 달 경조사가 3건이나 겹쳤다. 속마음은?",
+        "a": "어쩔 수 없지, 사람 관계가 돈보다 중요해! 무조건 참석",
+        "b": "이번 달 예산 초과인데... 최대한 조율하거나 비대면 송금함",
+        "score": 1
+      },
+      {
+        "category": "할인 쿠폰",
+        "question": "결제 직전, 500원 할인 쿠폰을 발견했다!",
+        "a": "그냥 귀찮아... 금액도 얼마 안 되는데 뭐",
+        "b": "개이득! 무조건 적용해야지, 10원도 소중해",
+        "score": 1
+      },
+      {
+        "category": "월급 관리",
+        "question": "드디어 월급날! 당신의 첫 번째 행동은?",
+        "a": "카드값 빠져나가고 남은 돈으로 사고 싶었던 것부터 결제!",
+        "b": "저축이랑 투자 예산부터 떼어놓고 남은 돈으로 생활한다",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "인생은 한 번뿐! 욜로 플렉스러 🥂",
+        "headline": "통장은 비어있어도 내 마음만은 이미 재벌 3세",
+        "emoji": "💸",
+        "tag": "충동파",
+        "hashtags": [
+          "#텅장메이커",
+          "#오늘만산다",
+          "#소확행",
+          "#카드값인생"
+        ],
+        "bars": [
+          95,
+          20,
+          30,
+          90
+        ],
+        "summary": "당신은 현재의 행복을 가장 중요하게 생각하는 감성 부자입니다. 소비가 곧 스트레스 해소이며, 예쁜 쓰레기를 모으는 데 탁월한 재능이 있네요. 통장 잔고보다 당신의 행복이 먼저라는 주의입니다.",
+        "trap": "나중에 감당 못 할 카드 명세서를 보고 '현타'가 올 수 있으니 주의하세요.",
+        "advice": "매달 월급의 딱 10%만 먼저 저축하는 '선저축 후지출' 시스템을 시도해보세요. 그것만으로도 마음이 한결 편안해질 거예요.",
+        "rx_keywords": [
+          "가계부 앱",
+          "저축 챌린지"
+        ],
+        "prescriptions": [
+          {
+            "title": "만년가계부 캐시북 다이어리 금전출납부 스프링 제본, 레드, 1개",
+            "tag": "맞춤 케어 · 가계부 앱",
+            "reason": "가계부 앱 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/bTQhyZwNDjyzjc40bUgllnDrPFsJbOOMDK67eQ8ppG6QislgLAy9ybeandUGdIOW4nTAJi5YKfkQAYFRmCmgr-9jf4g2hCEjffu75KLlDPB8EynOTQZ8NF7Th1vAN1AH9VRUZCYbpBzUrcjF35rwh-WlSja9UJ3CxFAQiyCBWcV92LYqTjgAz4cOR_-8LeSczxwGsX6CvKjY95S7CxlbEnc2-W6fUsE5DnWPxyHqkbLIqBLZ9g-h0VV60Sp5Zx-7ULHArs-q5PRK9MJTEOgMOWz61L7px-8r6HonFDqaUF2lgRb5kOC9yv3B-CeTxGpmZU-cUSm1ykZNwVsIZhpPBj-lBU4kFqhSOVlyLw6GK2a_meYznkKi003jtOVPZo9sKB69B9jLsS5hIvZtOrYxp46dJUhAoyaOk-kPPAwbvv5__NIKX_LEMiFMN2x4U0SCjN4VNBrnmV2qA7yx0LJrmwtyhLeLG16-bpHnlXxvpHhl29K_F3rrj3U6JRAjc43LHJSGuyRPP1sxn9KwrgRF3SPy1QmI8nXBgBpn7CxqXDu2A8JncoiAaqPUNEGer1T1VTmFYa1pSxZHhcPs20Ecm4_67ke111p4g4uV",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9609052061&itemId=28687620628&vendorItemId=92174229985&traceid=V0-153-9bd200e6d8b66866&clickBeacon=65cfbc40-d8b1-11f1-832c-f12640a0b269%7E3&requestid=20261105093945249050962449&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "제이팩토리 접착식 현금 opp 비닐 봉투",
+            "tag": "맞춤 케어 · 저축 챌린지",
+            "reason": "저축 챌린지 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/eieDHQYjFE1RezcTeh9A9oHG7WxS6R9z1oGQaf8JovZkGovgWp3fqrf_9viZLjPiARNZkHRXDnZ63M7i3bvIsZaycSUDVB7rIA7hWKm5_k_crtKD_5nt9SBlis7e4O9mhuTIfvL9gNC-DRbvCnR-ZjkoIokV-rsBFVosD45Hk71ZZcoFElIr82cjIjIW2Qsr9cw5mR_k_2C1-OsCMuzROLaUbX6xAdwC0zCRF0Yb7yAqmaU9iGErs3Dg3UddSPSu0djPQkNc8B1XZa2WUx74qwwebK-swdWzIEOYN4qNQT636TZco1-7bEX2cQpZ8BcEIY2YTRCxDEXIDs9i1wEiJw5_wXlo1kIOmvuOjf4ub87Yv8RsS3BlbJAN6Kys6JjRULIwLlLWBqnlDbsR3KD9hYGihRA_dknH5pGN8SG-aRC11evI_ew1MUq0reuI_5FYg0q3CWm4dYBwUuoSRZOi4q1X1h1pIE4w31jZYLY0qILJwE4UWw446kE-KSOyZLFFCGZyTxsWsWbwKS3iZ7I1zetu1BDIViMc",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=8622328427&itemId=25015015590&vendorItemId=92019916180&traceid=V0-153-b17aeb7c65f5d8d0&requestid=20261105093945568050095035&token=31850C%7CGM&pt=0&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "현실과 낭만 사이, 알뜰 밸런서 ⚖️",
+        "headline": "쓸 땐 쓰고 아낄 땐 아끼는 경제 관념 똑쟁이",
+        "emoji": "📈",
+        "tag": "중립파",
+        "hashtags": [
+          "#합리적소비",
+          "#가성비최고",
+          "#계획형",
+          "#슬기로운직장생활"
+        ],
+        "bars": [
+          60,
+          60,
+          65,
+          50
+        ],
+        "summary": "당신은 무조건적인 절약도, 무책임한 플렉스도 하지 않는 균형 감각의 소유자입니다. 상황에 맞춰 소비를 조절할 줄 아는 현명한 성향을 가졌군요.",
+        "trap": "가끔은 너무 계산하다가 정말 필요한 즐거움을 놓치고 후회할 때가 있네요.",
+        "advice": "가끔은 계획에 없던 작은 사치를 나에게 선물해보세요. 그 에너지가 다시 열심히 아낄 수 있는 원동력이 됩니다.",
+        "rx_keywords": [
+          "재테크 책",
+          "입욕제"
+        ],
+        "prescriptions": [
+          {
+            "title": "라오어의 미국주식 무한매수법: 레버리지가 아니면 평범한 인생을 바꿀 수 없다, 알키, 라오어",
+            "tag": "맞춤 케어 · 재테크 책",
+            "reason": "재테크 책 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/vt6S2IsEHnRuk6r2vrcP6KoJi2E35hx8VgWAXcdbj1vwapjG4pkxzpqGXUnn_SGC2vTlJfRsNS6zIQzCW7M8YeAXLQ41XoGVW7n2RXTPrRQbLcFGL5SaE4xP3YbNuFvUOaki9OZvrFCgnXLLH5pJR4T6YAFC9I2Nqqw1VHvlIkCOvE8VGWZiv3VUuQPQlxJOQRrthutyDzSxbT02YFKQ0QE2T1UKkKWyU9MALgu04tHFXoVzXd_2yHmlIa4zJRecu8Sx52aGbnOYyW_laM_n2z6bvFDTE_Bn-LN44Ni_HLt0VJP7yZhu06UeZIjTQjsgTWiud5sYRZk90hcWaDh063Pt4VUJNJWqVNvFLQT7ACrkT2Gle166TgXdYZrjszA2GK4xbfhkoAmoUKX7dBfAD3POifcZmUh7SXWY72tmW69-7ZFZw7tMbWp6umJFMi_f9xr1iBqygo650HKLHbeyR8h15wybPLhNnkmKK-BgC544iHBfX2pcYLc4AmuAa3u81GMTSSWiX0M=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=5623687854&itemId=9125697472&vendorItemId=76411789132&traceid=V0-153-6afc990e7d474942&clickBeacon=662c0d10-d8b1-11f1-8b9c-cbc9e7532351%7E3&requestid=20261105093945871008413821&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "바스로망 입욕제 히노끼",
+            "tag": "맞춤 케어 · 입욕제",
+            "reason": "입욕제 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/mIblfdQTievt31SEmMZTJSr57JfMFpoVURoSMORjeE9jTKHqv3a3lM8gjgKfgXpj1egciX2lBl5Rv-lHPb5Yke8Ys9Mf_oqIF_8foqZQjZJ6I6gldhAeO9DMQc3AZqNzh2jPXau4Yg7XRf-Z351fmaNimCqyXoC82s5cqPIoRERcCPlhejppuXrWqzXjE0udNDedUvyt_ArbizYAVc9gZcgSqrW6B33zW1nEUqVr_-qRXq9WVQMhkpM40oU-2eRQXSN_qeuahp2FXW6UFZLSxNIdsM7RIupZEdz-MkRs2lomNouiCE2F4svSpGPcQ6UDS1YoJyEAqsdHre8din5Kdvl9xruNRnTwfnwbH3bSTJgPuj0TlVMcm3Zxsobo7YFmjj-l-Mxyd0CLyMpjsYag-VbyzYOS6WF9bOggHeyUfGQZIsL7IcILZbu_KgB5uGYx8Ll92RILcRCAMA25sxYtwuyCgLUzD0_xcnA6P2d_yh29dVAEHpmNI8Oyll9nP3xpjU2naehfZlP9928wokvXiJo3MB2H",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=7152046383&itemId=25634610077&vendorItemId=3000092072&traceid=V0-153-97f57cdb03a44c0b&requestid=20261105093946089232426882&token=31850C%7CGM&pt=0&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "내일의 부를 쌓는, 짠테크 요정 🧚",
+        "headline": "통장 이자가 나를 숨 쉬게 하는 진정한 경제 독립군",
+        "emoji": "💰",
+        "tag": "절약파",
+        "hashtags": [
+          "#티끌모아태산",
+          "#재테크만렙",
+          "#짠테크",
+          "#미래형인간"
+        ],
+        "bars": [
+          10,
+          95,
+          90,
+          20
+        ],
+        "summary": "당신은 돈을 쓰는 즐거움보다 돈이 불어나는 숫자를 보는 희열을 즐기는 진정한 고수입니다. 불필요한 지출은 0으로 만들고 목표를 위해 꾸준히 달리는 인내심의 아이콘이네요.",
+        "trap": "너무 아끼기만 하다가 인생의 소중한 경험을 놓치고 있지는 않은지 돌아보세요.",
+        "advice": "당신의 성실함은 최고예요! 조금만 여유를 가지고 '행복 예산'을 따로 책정해 삶의 질을 높여보는 건 어떨까요?",
+        "rx_keywords": [
+          "경제 신문",
+          "영양제"
+        ],
+        "prescriptions": [
+          {
+            "title": "세상을 보는 눈을 넓히는 똑똑한 초등신문 + 아홉 살에 시작하는 똑똑한 초등신문, 책장속북스, 신효원",
+            "tag": "맞춤 케어 · 경제 신문",
+            "reason": "경제 신문 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/0j3JzbnIYlXHwPIn0hxs0oD3Z5yCKsPo7X522Cg7bBKRGydx-T0KW5b0huwINkrRrdnt_5slmq_MLjjY9j3g1ylGlnDng4gNkXKUOwB1x-hy5exgKrUxNxfqGzpdvUO4CluUlz6Xa0NVTl92fjXeIMGgqD_a4xZjh84EuM0z9iddENLlIRJ9TFOprBaMol8uvk8DIDyX_HR9KP1Zb1B7MJRsSLssZ_MXTTrU7jmCSn74sCPzg6z9KV34n8mmgE-X13-zHOMLCfnyXfKrw9UOBtukSKft3SGA4hWtNpJNtiaWPevcB7xVlCQf87BpOPs3ZXZTDcHdzEr-wpu3W3rd37cTBvvRL6rVUjSsvbZzBGGbERJCUOdvr3fWqhta4DrnfnAP2pS-oGGDcjDNPyyQcbnrK2qmCSKF66NJUgR1VktoQ9reICaVm4K4YvFDtCMCnFkdHZ4lcs6Cc7YahW0xsTSmNER5C8H-S6biaAUCPoYI4zMsZFVSmXiUqOLGtFJpBwBCTE7OnUX_HHjCM1ss3g==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=8206629679&itemId=23542520672&vendorItemId=90557661091&traceid=V0-153-4ec2f094860337ea&clickBeacon=66701af0-d8b1-11f1-8d9f-743c87fdf02f%7E3&requestid=20261105093946353239225290&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "데이팩 올인원 멀티팩 유산균+오메가+루테인+멀티비타민+미네랄, 30회분, 4개",
+            "tag": "맞춤 케어 · 영양제",
+            "reason": "영양제 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/raO7KfMoUHgvaip1rahlBzdUd_vbUegnngbvmHf2KfcEivMQpM3hUsxdWdOSTL8YXHq5d6AyWvucB9gco2atYaNz5AycamF9aUkzLe_X39DzzHNsWJyK0eeK2sy_4YFcostlr7gpx9BOt_R92Oj3ziw4Kfxm03CZ8sLPh3THTGYIbcQUwlFDKqmSfYUjzHiQaiInT7M2YgNWfFGWcviryLeus0H7OHr8qCy63t_p2R98F1I4Ktt8HPxkBWUDCnRNujYEcqjJR6ejmrYUy74rQN2nKs3NKw1yuTXoGl6veapBTEDiC70_f18DX8pmyo9AqITXoR-uHl5_S3rih5I6RPkgx2jhWWWb8vzAdP4vbhW0JcG7pltOh0xWxTcbMqyZdf_lcZeLJ9U71JFBHfQMQscemesicMIelB34RJWJut9qbmPkF5Zfw0qvE9a5o8fgWbrqe6hUBV9GfaYMjLykKBodDYQ2X5VRYaWNw8nICxqIfLYDxtR3MWuLc9F3L4aG4bsXRvbtdgprnUeRtkox8Zf9tbxm4LNCeTJUiiSYO3EV",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=7470478223&itemId=19747398407&vendorItemId=94417405155&traceid=V0-153-7a732214a675292c&clickBeacon=669a8650-d8b1-11f1-aaf0-4319a3d4a667%7E3&requestid=20261105093946708292898861&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 0,
+    "created_at": "2026-11-05 09:39"
   }
 ];
