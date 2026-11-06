@@ -10916,5 +10916,209 @@ window.TESTS_DATABASE = [
     ],
     "participants": 0,
     "created_at": "2026-11-06 15:40"
+  },
+  {
+    "id": "office_villain_survival_test_1",
+    "category": "직장/성장",
+    "title": "사회생활 만렙 직장인! 나의 오피스 빌런 대처력 테스트",
+    "subTitle": "내 옆자리 <span>빌런</span>, 당신은 어떻게 대처하고 있나요?",
+    "desc": "매일 마주치는 빌런들과의 전쟁! 당신은 멘탈을 지키는 '철벽 방어형'인가요, 아니면 속으로 삭이는 '보살형'인가요? 퇴근길 정산해 보는 나의 생존 지수!",
+    "emoji": "🏢",
+    "tag": "직장인멘탈",
+    "viralBadge": "무료 심리테스트",
+    "metricLabels": [
+      "방어력",
+      "사회화",
+      "평정심",
+      "공감력"
+    ],
+    "questions": [
+      {
+        "category": "소통",
+        "question": "회식 자리, 상사가 했던 말 또 하기 시작했다. 당신의 반응은?",
+        "a": "속으로 숫자를 세며 영혼 없이 리액션만 한다.",
+        "b": "눈을 반짝이며 '와 정말요? 처음 듣는 얘긴데요?'라고 맞장구친다.",
+        "score": 1
+      },
+      {
+        "category": "업무",
+        "question": "퇴근 직전, 상사가 '이거 간단한 거니까 금방 하겠지?'라며 일을 던졌다.",
+        "a": "입술을 꽉 깨물고 '네...'라고 답한 뒤 속으로 욕 한 바가지.",
+        "b": "당당하게 '내일 아침 1순위로 처리하겠습니다'라고 말한다.",
+        "score": 1
+      },
+      {
+        "category": "환경",
+        "question": "옆자리 동료가 키보드를 쾅쾅 치며 한숨을 쉰다.",
+        "a": "예민해져서 나도 모르게 의자를 뒤로 뺀다.",
+        "b": "이어폰을 끼고 내 세상으로 들어간다.",
+        "score": 1
+      },
+      {
+        "category": "협업",
+        "question": "내가 한 일을 마치 본인이 한 것처럼 포장하는 팀원 발견!",
+        "a": "바로 다음 회의 때 은근슬쩍 내 지분을 언급한다.",
+        "b": "성공적인 결과가 중요하니 일단 참고 넘어간다.",
+        "score": 1
+      },
+      {
+        "category": "감정",
+        "question": "회사에서 화가 나는 일이 생겼을 때 나의 행동은?",
+        "a": "단톡방에 빌런 뒷담화를 길게 적어 보낸다.",
+        "b": "화장실에 가서 찬물로 세수하고 심호흡한다.",
+        "score": 1
+      },
+      {
+        "category": "관계",
+        "question": "사적인 질문을 계속 던지는 오지랖 상사, 어떻게 할까?",
+        "a": "웃으면서 대충 둘러대며 화제를 돌린다.",
+        "b": "딱 선을 그으며 비즈니스 매너를 유지한다.",
+        "score": 1
+      },
+      {
+        "category": "회복",
+        "question": "퇴근길, 오늘 하루를 생각하면 떠오르는 감정은?",
+        "a": "'내일도 출근해야 해...'라는 공포와 짜증.",
+        "b": "'오늘도 나 자신 고생했다'라는 뿌듯함.",
+        "score": 1
+      },
+      {
+        "category": "태도",
+        "question": "만약 타임머신이 있다면 직장생활 중 무엇을 바꾸고 싶나?",
+        "a": "참지 말고 그때 그 빌런에게 한마디 할걸!",
+        "b": "아무것도! 그 경험 덕분에 지금의 내가 있다.",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "🔥 멘탈 강화형 '강철 유리멘탈'",
+        "headline": "속은 타들어 가지만 겉은 평온한 프로 사회인",
+        "emoji": "🛡️",
+        "tag": "참을인_세번이면_퇴근",
+        "hashtags": [
+          "#직장인스타그램",
+          "#멘탈관리",
+          "#회사생활",
+          "#나만참으면됨"
+        ],
+        "bars": [
+          95,
+          60,
+          40,
+          70
+        ],
+        "summary": "빌런을 마주해도 겉으로는 평온을 유지하지만, 퇴근 후 침대에 쓰러져야 안심하는 타입입니다. 인내심이 깊지만, 스트레스가 몸에 쌓이고 있으니 주의가 필요해요.",
+        "trap": "모든 불만을 속으로 삭이다가 어느 날 갑자기 퇴사하고 싶어지는 '급발진' 위험이 있습니다.",
+        "advice": "참는 것만이 능사가 아니에요. 나만의 스트레스 해소 창구를 만들거나, 가끔은 정중하게 거절하는 연습을 해보세요.",
+        "rx_keywords": [
+          "입욕제",
+          "감정일기장"
+        ],
+        "prescriptions": [
+          {
+            "title": "바스로망 입욕제 히노끼",
+            "tag": "맞춤 케어 · 입욕제",
+            "reason": "입욕제 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/PBSStMxl5-rp8nDkPPOhW1OVy8N8YWBpYD7C8KXG642XsZoqXmMEyziWBsDyYiwamArnTBVT8RFGYuu2tl24_3RJ9wuIErc_Y2x4e2hkI-ybUTCbOQtHsYZWCUcB6SmHxIqFXDpFxELmE0b-MoGjpD5-GfmhgPWQXSG_ELLuYM7OzA5bpWdA2cz84qk5aIEDDlTxhYZlj3vkOJG2KMsLquScI4szYfhTYWQ0AeRUsGgr7O7t_sGGHR-5NhMIij7KTXCOST19WKCKW_MI9bVkmPScRLVWSyHoRWccmOhUQ2krEI8BfjQA5J_7KpiQlk3ROBfQMEVlmqcfP2PpFG3wE8quMGgzsFV6EbXyUnu56kwqGUA0GIMddr-cp1ygJwCFIoTf08oSSUFIZuWydbKj7nOhqvekH0oY8EOd9UJG-v2Qp69AchgEfbXXbKvgWs17ruJA_qcoU8tnydRJOf4BFvM0o751Y3pU2U4jWWicIMThFtJtYyWWjopko4246bZNL17kDIOpcBYN5juuM4Cf1_GZ2m89J1r2",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=7152046383&itemId=25634610077&vendorItemId=3000092072&traceid=V0-153-97f57cdb03a44c0b&requestid=20261107034101172129066332&token=31850C%7CMIXED&pt=0&slot=1"
+          },
+          {
+            "title": "[인싸이트] 안녕! 오늘의 마음 청소년용(매일매일 기록하는 감정 노트)",
+            "tag": "맞춤 케어 · 감정일기장",
+            "reason": "감정일기장 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/Va3cZuNAQTWOdqFGVTkvbwJJ4ohxrsky_URuE5vdBG8XxEkWXPgUSxRHNLYUNl2YPiuuygxiaOuTbN_lBenlOO_EAk9JhSourHK4OLo4o18U5GWOObVYwR0BJzrRdDEzaRkz0JDrJ0jsZQ90dghMQ5jRBBgaiztWlb7TuPbCU0Y--Ejk4_jhjc_DVPUsrZamUYYyfCAOybKD2j5PhX3EwDOfc-Q-OMlbXrDgVvt2ibrVM7B_Oz33oWawxy3k4WN6JlfpXmx0sEiEkXdQxcXhbDkiqnGiDp4c7455RHQvyua1OP4CRwqGYhQKY6nrZr18tXx_qNfxvI5nCuiyMFxX5R4OYcMtXq7BZuCvIlfjK2NFbM-Fmfa7dbCfDQn6QGChi-7_dRSWXlgOaupfMPnhkBZmiL7-ip8A3p6w3wuO-4Z5sYv5rNwI9rKLNmFeOiw309i6YWO7O4y3h2r0HLFOqKzfS1v7EdqBLXwjwBPDJsizliabav1mqJ4KJB--01vkOPaz0wS1E5AFTI7PS_YWEeJjhxAEPOPCkyH5W74hmw==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9126550902&itemId=26849840910&vendorItemId=94482543774&traceid=V0-153-9e318d5deda476be&clickBeacon=9d699e80-da11-11f1-b598-130584ac7b1b%7E3&requestid=20261107034101439129066404&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "⚖️ 평화주의자 '워라밸 수호자'",
+        "headline": "빌런은 무시하고 내 삶에 집중하는 영리한 전략가",
+        "emoji": "🧘",
+        "tag": "빌런_따위_관심없음",
+        "hashtags": [
+          "#워라밸",
+          "#갓생",
+          "#직장인생존",
+          "#평화주의"
+        ],
+        "bars": [
+          60,
+          80,
+          90,
+          50
+        ],
+        "summary": "회사와 나를 철저히 분리합니다. 빌런의 무례함에 일일이 반응하지 않고 무시의 기술을 시전하는 당신, 회사에서 가장 스트레스를 덜 받는 타입입니다.",
+        "trap": "너무 무관심한 나머지 팀 분위기나 업무 흐름을 놓쳐 오해를 살 수 있으니 주의하세요.",
+        "advice": "당신의 평온함은 큰 무기입니다. 가끔은 주변 동료들에게 따뜻한 관심을 조금 더 보여주면 완벽한 사회생활이 될 거예요.",
+        "rx_keywords": [
+          "노이즈캔슬링_헤드셋",
+          "허브티"
+        ],
+        "prescriptions": [
+          {
+            "title": "블라우풍트 ANC 노이즈캔슬링 HIFI 블루투스 6.0 헤드셋, BLP-BH251KOB, 블랙, 80시간, 멀티단자, 블랙, BLP-BH251KOB",
+            "tag": "맞춤 케어 · 노이즈캔슬링_헤드셋",
+            "reason": "노이즈캔슬링_헤드셋 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/sX5q0ozOk8z3GUsbsUq9ksVkgZlF1t9rrYagndcOvmvWp565KncfB0fKRx5582knn3EwLK4Z83PITnguKPQL3G2O7qUHgh8cuVlpkbEz7pxmUCmt5A9akWFfM-_5TLvG13AqgGFnK8G5I8B_5PTu9GSiUGCSpDRr5pQZYuAHVkjRoXsALxKP4HobmCkbPYH1k30h4MUtJwgx2MAzN5jrs6KnhYLQnDLkWWFD-1k4Hm35rTX9_2I2FDvcQHTKd2GyEQljDSp6F0OdfETXrRwDeEassdacVIblQDAH7vNUKoNGghdhs_dVK14DkJhIyAMtxLo2GCti53aiDRJZU5CrbifH2SRtQa44FMEsAst86o797y6tGLH0IYiNGPmJnFxF37bsGpoJeMPYLdiW6it8BH1gfIMnCpC-jPs1PwUQvcb4QrFfGhcBFjUY7j84GjZJ_f9sPkCxid3e1WE_ewC_3XeO2G_8-LVKUPzfEEQE8DYYHF6PLO3-ljQhfgwGR15auPA1oBgO_w5xIeg7AXe3Vi7jDB1Ix2wG6584A0WB6rkC",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=8538599709&itemId=24719435577&vendorItemId=91728694367&traceid=V0-153-17d57af7ce0711b0&clickBeacon=9d934690-da11-11f1-9d9d-f5898a689082%7E3&requestid=20261107034101679050091852&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "티젠 캐모마일차 티백",
+            "tag": "맞춤 케어 · 허브티",
+            "reason": "허브티 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/v2haoXfQGGZfXBF8v0IwUfXMl8zSrenQ5L_EaDpUc7K4QekStGEd7aTkMm5Gyrf8X3d3qUlQsS81uwJnKwZ2YnYbqt_okHv43X2sXCSTVgzSorJxVB7ms70eF72utwmh_8qGku17uANXaNnkLTJ6KTfus93X94K7gRDKsj6qCBNzajAVDKx3uPMUtWl0bnuwFgRomsgw-MxMVDIk9PL_3FYU7EENjWYe6hnEOZISnLqYFH-S03GalU9C0iuVGdt-khWCUPO3EmkiL_mrlsdmwhMxXrVskZ4ciME90Wv4VtRVWOjzapq_XCvm5g30wP-975W3yTUQozbUzYERPSdmD3yHBc-QXgD7XjfSTklA6NkVMlrpxfeNf6J1RTauIlF6r4NoBZSx0grutiP8xEdc5bGFg8lBlJMTzRgHytTzasInXmdjrs8sMZzJEYZ_wWaDwRlLRxvTDxTa2r8n2Mp_8426Cbts6lNsn6KwBco7gg9ZVGAxEMlcz3h53k3ymNLHkg7bK-kellbP9svEsVwnuHPqvwZvWGmc_RGtijT8cuicR9ovBYAhkQ==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=6174334233&itemId=12074715506&vendorItemId=79346681909&traceid=V0-153-74f7242eb5662b72&requestid=20261107034101884133069104&token=31850C%7CMIXED&pt=0&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "🚀 성취지향형 '빌런 브레이커'",
+        "headline": "빌런을 내 성장 동력으로 삼는 에너지 폭발가",
+        "emoji": "⚡",
+        "tag": "내가_곧_능력치",
+        "hashtags": [
+          "#커리어우먼",
+          "#직장인성장",
+          "#빌런제거",
+          "#에너지뿜뿜"
+        ],
+        "bars": [
+          50,
+          95,
+          60,
+          90
+        ],
+        "summary": "빌런이 나타나면 오히려 전투력이 상승합니다. 자신의 업무 능력으로 빌런의 입을 다물게 만드는 스타일로, 주변의 신뢰를 한 몸에 받는 실력자입니다.",
+        "trap": "혼자 너무 앞서 나가면 동료들이 다가오기 힘들어할 수 있어요. 가끔은 '빈틈'을 보여주는 것도 매력 포인트랍니다.",
+        "advice": "당신의 실력은 의심할 여지가 없어요. 주변 동료들에게 조금만 더 부드러운 화법을 쓴다면, 당신은 곧 조직의 핵심 인재가 될 거예요.",
+        "rx_keywords": [
+          "스마트워치",
+          "영양제"
+        ],
+        "prescriptions": [
+          {
+            "title": "블라우풍트 스마트 워치, 골드, 5cm, 블루투스",
+            "tag": "맞춤 케어 · 스마트워치",
+            "reason": "스마트워치 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/EF1ktkRwnrkANoXPEM541ojh6pchys9_BDzK3aVWj48sj1yeiOaoVvzGum7BiZCKHxCHG36O_Ayx9VEYQC9OVnai2ZOho2PGcVaYdfZ_RzVqXRO4bXS7LxGBm6_mPtadouBNhhgtP_LnxWb0w67a1b2IKvnXNUGJp0F1Ya03-mC1Jb-ZbYUeFaKxR7qpTdsx2pbUnFQlkMCst_XSiLhqGxLMfkuRzUOmFZPdvVvJYO5ca6UeSRrDw-P_s1Y8zYwcj334d81LKfcL5vjRwoZWxuK_ZnwhKR__bjo1GXVBsQ0ZZb4JzQ4UrcRPOO37uNLm9DKFfxF1gKMMGnJjV32ZGQ67GvaEVRGJPn95D-RFi1iLHulgMPBmpMfaG9irIYxVYSHq904f8LgaJthC-JoveTITHJIcMOToxMIk9kYVs9Z11h9VK7ZmCN68PWpmN9-fHVNbUXc7Uup52gbscaKPdhfwTUtMP4EAb4ufb_2IhyBCmrONo9iMlf-SlRNDJGtyaykISDEPmj6j-FZ09OfzbpLqsNLUk8g__OyiA7XSVJH6iFoT_M2WnxNumj9UwBh94rdmxJfIIu4Gr0yM",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9369570888&itemId=27807617019&vendorItemId=94767497124&traceid=V0-153-87651e3b1eefcf57&clickBeacon=9dc37e50-da11-11f1-8662-66cd3a4fad5e%7E3&requestid=20261107034102049093937881&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "종근당 정품 칼슘 앤 마그네슘 비타민D 아연",
+            "tag": "맞춤 케어 · 영양제",
+            "reason": "영양제 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/aNmXmAm_wMHxFUWZaA7IE_1X3A3Fr6uNtCeSTdDSJL7BdxyM2jJsQ-1qYgkSqAUtsgAsH5bIRRkiozX49gq7OO0A1gBxB2M2_jd86op9qR4WvRBV3H5ZnaRXphiPPIZ7ahItOU0b06k-YtFQ3gJxAsZQqYlDXE-W__lo7Y01pvd3JhG7CpZi2tUZKZFAzzvEf9GP7OU3JUy30h8wZMuaJLIurslliQXBKSAPfoifP1C4YncugPmrOgTM2BsM8_YqDhrfgZ45Z9hw2biru3e7Av21fkIDcYy3NFWGFPYoQ9H28LRJyiLHQAicGbuabZ3kJAEtHJ6yZuP6y1jfqHb96XNh5iTw3iN2A12Rm00IFFL9ONhLqZ1CCt2rREKMVKs_j_rfQ_Xnu_pGDLOcwp1UO502CRrzw9iMbjhEPGCjw27MQ7TiJqCFMTptzy0fVWb_ANQjbds-yP7EnT1FnojPULtDRWIiF1DpgySrICdzNIWq_cxListGZWt2p0wQAA2s4Fl8GmnnlEfv61_YroobJLSnhtx1_yj1",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=5545887952&itemId=24051000514&vendorItemId=3549112936&traceid=V0-153-d8d2afb094956f36&requestid=20261107034102225018924518&token=31850C%7CGM&pt=0&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 0,
+    "created_at": "2026-11-07 03:41"
   }
 ];
