@@ -10508,5 +10508,209 @@ window.TESTS_DATABASE = [
     ],
     "participants": 0,
     "created_at": "2026-11-06 03:40"
+  },
+  {
+    "id": "is_it_thumb_or_fish_2026_1",
+    "category": "연애/관계",
+    "title": "이거 썸일까 어장일까? 1분 만에 끝내는 상대방 마음 판독기",
+    "subTitle": "지금 그 사람, <span>진심일까 빌런일까?</span> 썸 판독 완료",
+    "desc": "하루 종일 답장만 기다리는 당신, 혹시 나만 진심인가요? 8가지 상황으로 알아보는 그 사람의 진짜 속마음, 지금 바로 확인해보세요.",
+    "emoji": "🎣",
+    "tag": "연애심리",
+    "viralBadge": "무료 심리테스트",
+    "metricLabels": [
+      "직관력",
+      "희망회로",
+      "객관성",
+      "단호함"
+    ],
+    "questions": [
+      {
+        "category": "연락 빈도",
+        "question": "연락 잘 하다가도 갑자기 12시간 넘게 읽씹(혹은 안읽씹)하는 경우가 잦다.",
+        "a": "무슨 일 있나 걱정하며 선톡을 보낸다.",
+        "b": "나도 똑같이 읽씹하며 내 할 일을 한다.",
+        "score": 1
+      },
+      {
+        "category": "데이트",
+        "question": "약속을 잡을 때, '우리 언제 볼까?'라는 말에 확실한 날짜를 말하지 않고 '다음에 보자'고 한다.",
+        "a": "그럼 언제쯤 괜찮냐고 구체적인 일정을 묻는다.",
+        "b": "그래, 나중에 보자며 쿨하게 대화를 끊는다.",
+        "score": 1
+      },
+      {
+        "category": "스킨십/분위기",
+        "question": "둘이 있을 땐 세상 다정한데, 술자리나 친구들과 함께 있을 땐 나를 모르는 사람처럼 대한다.",
+        "a": "단둘이 있을 때의 모습이 진짜라 믿으며 참는다.",
+        "b": "사람들 앞에서 거리를 두는 태도에 정이 뚝 떨어진다.",
+        "score": 1
+      },
+      {
+        "category": "공유",
+        "question": "그 사람이 본인의 일상(오늘 먹은 것, 회사 썰 등)을 자주 공유한다.",
+        "a": "나에게 마음이 있다는 확실한 시그널이라 생각한다.",
+        "b": "그냥 심심해서 나를 '대나무 숲'으로 쓰는 거라 생각한다.",
+        "score": 1
+      },
+      {
+        "category": "칭찬",
+        "question": "외모나 옷차림에 대한 칭찬을 자주 하지만, 정작 내 고민이나 가치관에 대해서는 대충 듣는 느낌이다.",
+        "a": "칭찬해주는 것만으로도 좋아서 더 잘 보이고 싶다.",
+        "b": "내면을 궁금해하지 않는 모습에 가벼운 관계라고 느낀다.",
+        "score": 1
+      },
+      {
+        "category": "미래",
+        "question": "다음에 우리 여기 가보자고 말하지만, 실제로 예약하거나 구체적인 계획을 세우진 않는다.",
+        "a": "언젠간 가겠지 싶어 그 말을 계속 곱씹는다.",
+        "b": "빈말인 걸 알기에 먼저 데이트 제안을 하지 않는다.",
+        "score": 1
+      },
+      {
+        "category": "타이밍",
+        "question": "상대방이 밤 10시가 넘어서만 '뭐해?'라고 연락하는 경우가 많다.",
+        "a": "밤에 생각나는 사람이 나라는 것에 설렌다.",
+        "b": "심심해서 찔러보는 거라 판단하고 답장을 늦게 한다.",
+        "score": 1
+      },
+      {
+        "category": "직감",
+        "question": "솔직히 내 직감은 '이 사람은 어장인 것 같다'고 말하고 있다.",
+        "a": "아니야, 내가 오해하는 걸 거야라며 부정한다.",
+        "b": "내 직감은 틀린 적이 없으니 마음을 정리하려 한다.",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "희망회로 무한가동형 🎢",
+        "headline": "본인이 어장의 '물고기'인 걸 부정하고 싶으시군요.",
+        "emoji": "🎢",
+        "tag": "짝사랑유발자",
+        "hashtags": [
+          "#희망회로",
+          "#어장탈출시급",
+          "#나만진심",
+          "#정신차려"
+        ],
+        "bars": [
+          20,
+          95,
+          10,
+          30
+        ],
+        "summary": "상대방의 사소한 행동 하나에 의미를 부여하며 혼자 연애 중이시네요. 상대는 당신의 애정을 알고 즐기고 있을 확률이 90%입니다. 지금 당장 연락을 끊어보세요, 그쪽에서 먼저 연락이 온다면 다행이지만 아니라면 당신은 그냥 '심심풀이'일 뿐입니다.",
+        "trap": "상대의 다정한 한마디에 모든 의심이 눈 녹듯 사라지는 '병'에 걸림.",
+        "advice": "핸드폰을 내려놓고 친구들과 여행을 떠나세요. 세상은 넓고 당신의 가치를 알아주는 사람은 따로 있습니다.",
+        "rx_keywords": [
+          "디톡스차",
+          "액티브웨어"
+        ],
+        "prescriptions": [
+          {
+            "title": "김소형 원방 공비슬림티 호박팥차 옥수수염차 모로오렌지 티백, 1.5g, 50개입, 1개",
+            "tag": "맞춤 케어 · 디톡스차",
+            "reason": "디톡스차 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/qfRm_biaso3ZM67Sqa3QkPj4_4qxo7XDlWHAMWPIUmmtjRFSqEXaqOvTmbOFHve1iTIhp-1OP6MQBPzZJhxarERHTB5ZASOEZTiILpw3NOlf7lh_vD6UFGoeov58SwRxd94JT-TeXh39PlQEL_qWA_3PtwgNFZoU4DP75iGqvn0oocvg9ak4UjUoO6yrM4XgcNa9hMAsvN1gscFVGBYpEVq9-qySnffm2jID5lviTQXt17nIgBbxx2C1T9KFet9TntkJE3uJWM7i-BPKglQY1SzEtiNco4KEnAy2JF9ps49XGdxAkxiPQ8eCvz7xOvBTqgP8q_lbwaijQv7Yg3ipDB7z8DGz_8VXh-J1l4r9wXyHZKv3L5FlsoGgfw6tUQnO__8cFVzKIj4Vx4o5dz_wvMpF1LLTLSmGuVhfuhjh3mr7RNFi5x_2KRJPJY5MHcoLoYIT8P8zE7O5DXNYG2ZzmyFhmi_7BlOviHh5M4gR2VzI6lD8s1RwOWrENGaW-I_KlpIeKooodjvX9wn4PWo2UfMiyDl_BTdE1DYxcGRs-otn",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=7872099715&itemId=23266762154&vendorItemId=90300510733&traceid=V0-153-3927ca77b37ac04d&clickBeacon=a4c3f820-d97a-11f1-9823-90c498a36644%7E3&requestid=20261106094019809281180759&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "르포스 남자 내복 액티브히트 기모 발열내의 세트",
+            "tag": "맞춤 케어 · 액티브웨어",
+            "reason": "액티브웨어 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/oKTQRXU74saoRVQRoGv2duv-b7UqyB7VqT4VNA10ae42SaJ80oxwKKDFJ7HV_ulYjuU1oU15QXs0MFFe0H9NgwZAkzYmXun_n0lR8PEX6JyS7xyRQkEo1liOB2uec6UOmmVlw94PeEpVMilNTZWfuENtlgkmfi_fOQbbiyl9G8tdajIGhhRP8HzlvakUS1r1o47FqdiyNlyaPi40KnSz4ztlhtemj6NfrHlnkyFz3i2s-C2vokIgRw286RsdsWSUhkWUV7jQPoeYu_AfwuDlfmqqhiOFQoAm9Vmar57l8nTEZxMq_kLEhQIvQfMUoNkHwtfRhT5uXguqKXECwlWwz0YvDvxyy7N9xe2vWoPH5g05p265-_MQlLGX99nvNe-TRZgO-ic13AN97FSpySsoXTylukuj_YxMQpti3SFVnYRDTLIYHLY48WlqYRqknsBI-bDY_nkqspSyV_SF-Hog9bWsMAJLO-E6ROrYNB-MLzHvxvj6Ra8Xn2dJ80lBPNdEL2uauHe1IssuIrSG4fvNC9F0HBZY4rV1O_UvhXrW4YrDKk6s5yqB1Q==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9162048366&itemId=26988951491&vendorItemId=93957712209&traceid=V0-153-b88a7b1917a6275b&requestid=20261106094020011168289607&token=31850C%7CGM&pt=0&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "간 보는 중 눈치게임형 👁️",
+        "headline": "썸인지 어장인지 헷갈리지만, 나도 만만치 않게 재는 중!",
+        "emoji": "👁️",
+        "tag": "현실주의자",
+        "hashtags": [
+          "#밀당고수",
+          "#눈치싸움",
+          "#적당한거리",
+          "#플러팅"
+        ],
+        "bars": [
+          60,
+          50,
+          70,
+          60
+        ],
+        "summary": "상대의 의중을 파악하려 노력하지만, 나 역시 상처받기 싫어서 벽을 세우고 계시네요. 두 분은 지금 '누가 먼저 고백하나' 게임 중입니다. 조금만 더 진솔하게 다가가면 연인이 될 수 있지만, 이대로라면 금방 식어버릴 거예요.",
+        "trap": "너무 계산적인 태도가 상대에게 '나를 별로 안 좋아하나?'라는 오해를 줄 수 있음.",
+        "advice": "가끔은 져주는 척, 용기 내어 진심을 살짝 보여주세요. 승패보다 중요한 건 당신의 마음이니까요.",
+        "rx_keywords": [
+          "무드등",
+          "커플링(참고용)"
+        ],
+        "prescriptions": [
+          {
+            "title": "도르리 우디 LED 무드등 인테리어 조명 테이블 램프 수면등 취침등 수유등 신생아 침대, 단일상품",
+            "tag": "맞춤 케어 · 무드등",
+            "reason": "무드등 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/y43pqjujEaXRoaT9y7VkQPGcz93o2q1sXj51MZyHtJkPtjdPrEmjOuS1SYaNDOnRW3UIq7QUyt4R1pR_0CQBKZV4IBtMWPHRtAU3xQi0S5qeu4fsLzaDjWvflJbbCMTHnSV3WxlQkk3S0S1w6CU7NA1-3oP0H1NoGuY1heEepTgiT3vR5s6N13JhidSSBa7vxV4ytblQmdh14QDEEGMnrrGyGiMYMLPmFv1nWT95CVzdeQ1sMb2_7WkrDkN6VLxY1ORnMAxuL_WXEa4crlysQa1nP5Q6lHQAOKBhKgZX-ToEsvZd43FLMj9t1DqBGqIUP_Vst_jr7BI6kv2wknIr2etiEms_61ycpbk2_wpR7fTrllHunQeQ08tsynaytQi1ll5DgiEuNaSKrJOKGgFZrz2Jl2-mqw_tNZ6yLGIpKFMNx6DkZOGFC6T0gSRbYxo6027uI04zD6i8BAwvvOVxOBxHAEXbrzgQVcqvGHOqV5NI50ptBZQ9G2wjjJwnF35hpP_icFBxFwpak8ccIIj69oKZO_5EXLrs2u7xZA9dK2U=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=8801501956&itemId=25629072676&vendorItemId=94986790156&traceid=V0-153-ea122434335fb642&clickBeacon=a4fcbb60-d97a-11f1-bdc5-7f04c59e4e68%7E3&requestid=20261106094020175066664159&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "전선풀링기 선통기 와이어 케이블 회전대 드럼 포설",
+            "tag": "맞춤 케어 · 커플링(참고용)",
+            "reason": "커플링(참고용) 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/yXrgHCyp4cN-Ot3TyXWgODo9FtmZAbP3l5ffWV-GNdVxekPbai4bRAzPgCTgyq76jvJleRAYLRsvVhokTxwZm2ST3iAhfDYhaSKFV645bt_zS4GoOrgi1uprykUuWT0OyWLHkoTBHqReSsJ-p4_FNyMZMAZT7AdDomxMrJNxGaXElBcFuN1Ezqxeo796mB-X_qZ862mXJ0c2KF991CPcFOPB7SlZzck4hqAUuTPka3W7R7RlWBD0766lyt3Mca9JtlZNAgLxk76jA795nYaPiQBjoj5fEoQ4PcTlcprLuo9KwG-bntrTd8VTlD0lL1GaIdkjhIF2GseWtLT0dPlLjfH5Z6j1G7nVLqyE8PxFq3RPg8_O_6ACqNeyz5Qt5xhpM5M2YxqCwi66Xgmr122Q1NAWgLa1NDNQEeHVRxgu53RO9v36XMSFDglDusfK-YZM-lo3jdtzV11_hDPpxJrzp0-xuSoEA08pQisCsbuA8hegKGSngh6AMwhreZVZ664iUrwwnJPyckJd5qhW2PkE3OoHyOoT2Bw5sDPePjX3f4VeFY-4tKJ_VQ==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9151251268&itemId=26885235534&vendorItemId=93897441976&traceid=V0-153-934bf2d2c975f302&requestid=20261106094020390169843886&token=31850C%7CGM&pt=0&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "철벽 수비대장님 🛡️",
+        "headline": "어장 관리 따위 절대 허용하지 않는 당신, 갓생러!",
+        "emoji": "🛡️",
+        "tag": "연애고수",
+        "hashtags": [
+          "#칼차단",
+          "#갓생러",
+          "#연애판독기",
+          "#자존감뿜뿜"
+        ],
+        "bars": [
+          90,
+          10,
+          95,
+          95
+        ],
+        "summary": "상대의 애매한 태도를 1초 만에 캐치하고 바로 손절할 준비가 되어 있네요. 당신은 연애의 감정보다 자신의 일상과 자존감이 더 소중한 사람입니다. 이런 당신에게 다가올 사람은 진심인 사람뿐일 거예요.",
+        "trap": "가끔 너무 단호해서 진짜 좋은 사람마저 놓칠까 봐 걱정돼요.",
+        "advice": "가끔은 조금 무장해제해도 괜찮아요. 당신의 단단함이 때로는 타인에게는 차가운 벽으로 보일 수 있거든요.",
+        "rx_keywords": [
+          "입욕제",
+          "와인잔"
+        ],
+        "prescriptions": [
+          {
+            "title": "요이크 배스 솔트, 릴렉싱 라벤더, 1개, 450g",
+            "tag": "맞춤 케어 · 입욕제",
+            "reason": "입욕제 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/l5nfXipdO3-miDpRlwYReg3EY2Rdldhsicb97gHlcyZ9xS-0IZilJHyr-yN8wzM5mwRc3bvtDXwuirTE-QjRASxsAq2hmmcVar2SlrxRXoUxB04z246oTXd9OIf3lRodXjFguPeaGseqeqVzONkRPvGw690M3ogxKcdYoBmEKKf0BrCMoa_zBr7H1MSRui9uayDU-Gq_gIpKc66zzBJ2E1uvuH6WTsdqSgL8tneh1tUuPtG24qsUnmhqODu9Bc0_pIG5UfTgs-ASDDHrGMJmPv8iOK67edd3omDiKJhqvPFN11TuOtR215_jwBIIMvD_dNaT8DqIXyNvdmJO_ifMATRlvppuA-IQeuMEA-hJ2bsIRmB8pAI7MrQqOwqgfa_mKewNaAi1K0grRYRpvJmnkleqzgxWhyjuUoO-GD-_fz8dH3kPUrHYuJFKbBbbBu7dFOQiDHmvTQvPT820YaTzUYx66DLJsKplOOsFAB8ZayVzL6xh3I8dcAr-ZY1Xxj_mI_kJz2_HpEALWYvL6uH5v78Dpt-aNJ88TdOF-HLTGrwo",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9574302998&itemId=28578146400&vendorItemId=95612532817&traceid=V0-153-a94c063bc741f224&clickBeacon=a5462070-d97a-11f1-9241-9b0a45a71a9e%7E3&requestid=20261106094020610086037477&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "[레만글라스] 시네르지 52CL 유니버셜 와인잔 세트 2P, 2개, 520ml",
+            "tag": "맞춤 케어 · 와인잔",
+            "reason": "와인잔 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/86nzrEaRoXMW7kqp874KuYouTZb9yyeDU8DSdq4QppS8lzN4TJAvwWMZqFXBRJJKZB4f_IWt9NxmMf1_Mm_MUl0bsw1G9LxmnN-2OuVtECyzWXZqvewQ9bttck0xjkK_O4jHVrmJuoKBgW1HxPPvQdCf60XPZyB_Hs8zSsO394IX49j45P-OgfrufakBDmhewaKAfJbIs7DZ7NoNij25b8mLZOQ8cxGPRx4HNy9X4Ao3VxMIRDFLIuicfpql0ThZqgpp6FOYlmbHQoAORzfV9Iwcfj1PfKL6L9lrUR5Lq572zMx1Ci_Kz3n2-d1DTAg-TOFAHiNRksA3gpcm_yCMJHTNxTcnz_QJ2OLZ9IFC60RY-uQaxjCmhWUbkpmXBgqKumcGQwNryIis7IKNOdSgAGptC3JOKCiDNVA1wFkbbxkG0bSfDg2h3FzYHZh31hkTw8CkqXgK3raZpCMQKvdx1twD_iwln-TUWbbLeUb5YHhlvpwQLOjkjM8p1Gn4U0f0dtglE8IefChiwTGYYBa3AiIMpo8xPNH9daEifLozPA==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=5585146057&itemId=21499901158&vendorItemId=87682912829&traceid=V0-153-5af1e5c0099e23ea&clickBeacon=a560fb70-d97a-11f1-bc3a-8c4994165a02%7E3&requestid=20261106094020827262638610&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 0,
+    "created_at": "2026-11-06 09:40"
   }
 ];
