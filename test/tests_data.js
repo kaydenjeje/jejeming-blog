@@ -10712,5 +10712,209 @@ window.TESTS_DATABASE = [
     ],
     "participants": 0,
     "created_at": "2026-11-06 09:40"
+  },
+  {
+    "id": "office_villain_survival_test",
+    "category": "직장/성장",
+    "title": "사회생활 만렙 직장인! 나의 오피스 빌런 대처력 테스트",
+    "subTitle": "지금 당신의 <span>멘탈 방어력</span>은 몇 점인가요?",
+    "desc": "팀장님의 급발진부터 회식 강요까지, 당신은 과연 어떤 스타일의 생존자일까요?\n직장인이라면 100% 공감할 실전 상황 속 당신의 본모습을 확인해보세요!",
+    "emoji": "🛡️",
+    "tag": "직장생존",
+    "viralBadge": "무료 심리테스트",
+    "metricLabels": [
+      "멘탈 내구도",
+      "사회화 지수",
+      "팩폭 회피력",
+      "직장 생존력"
+    ],
+    "questions": [
+      {
+        "category": "업무 지시",
+        "question": "퇴근 직전, 상사가 '급한 건데 이거 오늘 안으로 좀 해줄 수 있지?'라며 업무를 준다면?",
+        "a": "속으로 욕하면서 일단 받는다(하지만 일 처리는 늦게 함)",
+        "b": "현재 진행 중인 업무 리스트를 보여주며 우선순위 조정을 요청한다",
+        "score": 1
+      },
+      {
+        "category": "회식 자리",
+        "question": "회식 자리에서 상사가 건배사를 시키거나 장기자랑을 요구한다면?",
+        "a": "어색하게 웃으며 일단 분위기를 맞추느라 영혼을 털린다",
+        "b": "정중하지만 단호하게 '못한다'고 거절하거나 화제를 돌린다",
+        "score": 1
+      },
+      {
+        "category": "메신저 빌런",
+        "question": "주말이나 퇴근 후, 업무 단톡방에 상사가 '?'만 남긴 메시지가 올라왔다면?",
+        "a": "심장이 덜컥 내려앉아 바로 답변을 고민하며 폰을 놓지 못한다",
+        "b": "월요일 아침에 확인하자 생각하고 무음 처리 후 휴대폰을 덮는다",
+        "score": 1
+      },
+      {
+        "category": "업무 실수",
+        "question": "내 잘못이 아닌데 팀 동료의 실수로 내 일까지 늘어났다면?",
+        "a": "괜히 미움받기 싫어서 내가 다 커버하고 묵묵히 야근한다",
+        "b": "명확하게 업무 범위를 구분하고 상대에게 정중히 수정을 요구한다",
+        "score": 1
+      },
+      {
+        "category": "감정 쓰레기통",
+        "question": "평소 나를 괴롭히던 동료가 갑자기 우울하다며 1시간째 하소연한다면?",
+        "a": "들어주다 보면 나까지 기가 빨려 저녁에 뻗어버린다",
+        "b": "업무 집중 시간을 이유로 적절히 끊고 내 할 일에 집중한다",
+        "score": 1
+      },
+      {
+        "category": "피드백",
+        "question": "상사가 논리 없이 내 결과물을 비난하기만 한다면?",
+        "a": "자존감이 깎여서 퇴근길에 코인 노래방을 찾는다",
+        "b": "비판의 근거가 무엇인지 구체적인 수정 방향을 되묻는다",
+        "score": 1
+      },
+      {
+        "category": "점심 메뉴",
+        "question": "매일 메뉴 결정권이 없는 상황, 상사가 오늘도 '아무거나'를 시전한다면?",
+        "a": "검색창에 '직장인 점심 메뉴'를 검색하며 결정 장애로 고통받는다",
+        "b": "미리 생각해둔 메뉴 2가지를 제시하고 둘 중 고르게 한다",
+        "score": 1
+      },
+      {
+        "category": "퇴사 고민",
+        "question": "회사가 너무 싫어서 퇴사를 고민 중인데, 동료가 '요즘 다 힘들어~'라고 한다면?",
+        "a": "맞다며 같이 뒷담화를 하며 스트레스를 푼다",
+        "b": "그건 그들의 사정이고, 나는 나의 미래를 위해 계획을 세운다",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "영혼까지 탈탈 털리는 프로희생러 🫠",
+        "headline": "착한 사람 증후군, 이제는 본인부터 챙기세요!",
+        "emoji": "🫠",
+        "tag": "평화주의자",
+        "hashtags": [
+          "#직장인공감",
+          "#내멘탈지켜",
+          "#착한아이증후군",
+          "#힐링필요"
+        ],
+        "bars": [
+          30,
+          40,
+          20,
+          35
+        ],
+        "summary": "남의 눈치를 보느라 정작 당신의 에너지는 바닥난 상태예요. 거절이 어려운 당신은 회사에서 가장 믿음직한 사람이지만, 그만큼 가장 먼저 방전되는 타입입니다.",
+        "trap": "모든 오피스 빌런이 당신을 '만만한 해결사'로 찍어두었을 확률 200%",
+        "advice": "오늘부터 '안 됩니다', '지금은 곤란해요'라는 말을 연습해보세요. 당신은 소중합니다.",
+        "rx_keywords": [
+          "입욕제",
+          "마음 챙김 도서"
+        ],
+        "prescriptions": [
+          {
+            "title": "요이크 배스 솔트, 릴렉싱 라벤더, 1개, 450g",
+            "tag": "맞춤 케어 · 입욕제",
+            "reason": "입욕제 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/HzlZFupC3k9HKQuJH6I4G5NmSPYVYpqJMwZPTVF25-154GdDkUkyn_0b5A5vEhTmFL2j_kk3iJvCh-EJB1O-1_mG7iMjt93VU__lmMl2AVra2S1Zy9PzsJiYkvFCZTwRUVCtG6BWhzeUmuGa5qsEot3CBJsoT4pM4JByVIo5nU5iarH4dOvrp-nni-wD3Ds_lbAaZTToQ-1FnW0eMgU8BvojoPxQod0rdT7hcoz5r3uz6fH7YOQ5jdRF4aCYmo0SXxyVhxN3n6WM6I51uR2uatNUoM-MTPDpw0oFNEkKvybCP38qTMFyEBZHSAI5nj221kfwKyWmfx58Djub6YNa1j5z07zmDXmSZs3liGDCVJR3_3-H2mpEjVD4wFJgkfGBZk7J2abykF0Bo7A8yQE8aF4AnpIAFpqfKckI2lz7wtr0D4_XGmzuivyXipfympI86-nsX4TGgsQG2_GLL_1QeCVYVpYaDn1uHJBoLoIS1k8CeH-Qv5N_WTB-VsjB-N21HPnMa4MJ3nPoORxxpIeJZJNQJlCw8cvyYudln3tOcw==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9574302998&itemId=28578146400&vendorItemId=95612532817&traceid=V0-153-a94c063bc741f224&clickBeacon=fa9fb950-d9ac-11f1-8fc1-a8af98c931a6%7E3&requestid=20261106154038699008260609&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "마음챙김 : 뇌를 재설계하는 자기연민 수행",
+            "tag": "맞춤 케어 · 마음 챙김 도서",
+            "reason": "마음 챙김 도서 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/8ZvL0auqnB8rK-mT8ZcXzQRIComqoV336gQPNoJ9O4d9T5FRsV9mi4EcZlQZjbmcUJlVR_LbgzHsb5-ccyez69Wbmw3RfRJ27Pm13xC8adeGsKC6Kdb0Nq3CYyN9ahTS22IlRXmRkAg0xXfAnkYXXN1wcJsRvWbDdeR1_Osx0vkYNBxwvK_Qvx8Ib4qkOAqIMJhhZYcg23QXPBD7fQgmKLxsHLL4dhBQ4Jl8wkgJrEv822C0DmezMrH7zey5jScDK-zEZ6SasHow9ndS5ROfZBApcfdrJWffMjTZ9yo_talIc2ymnzHp3uVZwbWYa7VBj2xd_DTy4VkYCz_-2tSwFdKLozBle0NxAsEscP4sdIB3-sxvFjaTaLEwYyrJwcEFFnfYsxZScrkOOidAzFNpzL0K7sFTtD1vAMvGpopjMpzyZH-oClp2T-k3R724p2ePcTYp0_4fjHylXpuZYdP6VUzKBKJRTjvfm8i6CSUlsZ3IjecMqfF3QHAQ0YXJKpWy08fGaaTUrb4_cdwUTzjcaMbK9eOUSpBsuG9pyDGmTgVIeA7IcNrP",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=4758852834&itemId=6061878219&vendorItemId=94450356568&traceid=V0-153-9f318dbe034e6db9&requestid=20261106154038863063684018&token=31850C%7CGM&pt=0&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "일희일비 요동치는 감정 시소형 🎢",
+        "headline": "빌런의 페이스에 말려들지 마세요!",
+        "emoji": "🎢",
+        "tag": "감정기복",
+        "hashtags": [
+          "#직장인생존기",
+          "#내마음의평화",
+          "#적당한거리두기",
+          "#오늘도출근"
+        ],
+        "bars": [
+          60,
+          65,
+          50,
+          60
+        ],
+        "summary": "평소엔 잘 지내다가도 특정 빌런만 나타나면 평정심이 깨지는 타입이에요. 상황에 따라 현명하게 대처하다가도 가끔 욱하는 감정을 참기 힘들어하네요.",
+        "trap": "친절과 단호함 사이에서 줄타기를 하다가 가끔 의도치 않게 빌런과 정면충돌할 위험이 있어요.",
+        "advice": "화가 날 때는 3초만 쉬고 '이 또한 지나가리라'를 외치세요. 감정적 거리두기가 핵심입니다.",
+        "rx_keywords": [
+          "노이즈캔슬링 헤드셋",
+          "허브티"
+        ],
+        "prescriptions": [
+          {
+            "title": "보스 QC 울트라 블루투스 헤드폰 2세대, 블랙, 단일상품",
+            "tag": "맞춤 케어 · 노이즈캔슬링 헤드셋",
+            "reason": "노이즈캔슬링 헤드셋 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/7sK786YrntzKTsMy7vhsRSjsnqNXRV1_c2vQJ_XRSlNKdH1E_4OSWIL5hLNXpQZMgEXpwQ3ZWvVqAwDB2R3vrf_gCb0cQ-U9PKLXzTcaR_yQzSqHXtlA5C6qbNMbcC0JkIbhrsJQf8t6RcLf6k4mJy9omAF6o1oVg-Ay0OZWZVuoI0N1B2Wiy6PHq5dwFqLP37TlQ0JHBYuLABu2Ymj7bny28xSePXwCJALABSDeZ5qKZ1UfK4zNw0mLEiTCmwd6gsfFQ1mPwYPaRFEURRgYMKU1Kvxe8igUbzLjF_QshqjibzzzuWBlGazmrnavQ59BL2jPVTQAXJMI6agtvIR4r7f59nlfrVPjQ9S4n_ao3c73Zeru1aYQa_crc-QaT2SMmjQhFgoQa1mFvYD9tXrZkaPrIstPJM03mk94qkDdizz-uhOr8R4Uy6NfGPE4hxlV8JY4EJRKpapOPT_np-88fT53dT_O4WilQqKDXrTcGG9Y2x3IGdlzB1y5TeRW9K_2Zr_flR_GSCkNNcNgeoiH-EhvOa5Yg-nBHTBe9SkaBOk=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9153372586&itemId=26955551491&vendorItemId=94677026963&traceid=V0-153-867a14311f68e928&clickBeacon=fadcc250-d9ac-11f1-9915-7f1c974b127e%7E3&requestid=20261106154039098320935840&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "이너블릭 캐모마일 차, 1.5g, 100개입, 1개",
+            "tag": "맞춤 케어 · 허브티",
+            "reason": "허브티 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/kEqXaWRdEwscHaqIkFLKd33RTrwk-6Sat4mhEqtfWL-gSVvJMARUXqJuyxNgbH_EJI3xqRenhPltZMeRDsSoPBtiBaOCbnpMbFxErBui7NIGzZOR8TOL_3V_7mHDQhm6ro1lK3SmK53Dd2SnoUus4Hjx7UaphMQRnK9RqlU3c1EGpDGWQ0OzOfU_OPSSxbysbfjxbtoanniUCF0w7a0CFP2JofgEYVBKTT_9lIpo_FICCfRaoh0fWWtTbn50YfcirMniyA00RDVEQ1eqtnryBoZxsT5MpLJYU6_KUSrur8eVpLv4qU6xKuiXkYf7tISkYkCcc6_WbR93OzGwJlkceya2h4D6lUaKMRhu8VFjmZ19m5GpFPAkl3xh5eW43L8oNCd_Jn3kHng8x03bEAZx3vTi_zc79YSHStRllhG5RxhMICerQ1bXJTTw0d_EG7cE2sRRS2yr5tOFHrT2q-kiFUOYBgY9sU2cSUPKlfKmb7Y9RHl8fe_ul35xhsq-nzkKDpr7k7_qSlH0E2WbheNvyqG3NjPHPPvebnJJGoI=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=7507905250&itemId=20067032362&vendorItemId=77790716710&traceid=V0-153-3161d60186063ae6&clickBeacon=fafd90c0-d9ac-11f1-84ea-0df7cafbd4d9%7E3&requestid=20261106154039301221218911&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "철벽 수비 만렙 마이웨이형 🛡️",
+        "headline": "당신이 진정한 사회생활의 고수입니다!",
+        "emoji": "🛡️",
+        "tag": "만렙직장인",
+        "hashtags": [
+          "#사회생활만렙",
+          "#직장인생존",
+          "#칼퇴요정",
+          "#멘탈갑"
+        ],
+        "bars": [
+          95,
+          90,
+          85,
+          95
+        ],
+        "summary": "자신의 페이스를 완벽하게 유지하며 빌런들의 도발을 우아하게 받아치는 능력자! 업무와 사생활의 선을 지키는 당신은 이미 오피스 생존 전문가입니다.",
+        "trap": "너무 철벽을 치다 보면 동료들 사이에서 '차갑다'는 오해를 살 수 있으니 가끔은 가벼운 스몰토크도 섞어보세요.",
+        "advice": "지금처럼 자기 중심을 잃지 않는 태도가 최고의 커리어 관리가 될 거예요.",
+        "rx_keywords": [
+          "데스크테리어 굿즈",
+          "프리미엄 커피"
+        ],
+        "prescriptions": [
+          {
+            "title": "명탐정 코난 100만 달러의 오색성 캐릭터 아크릴 스탠드 데스크테리어 1개",
+            "tag": "맞춤 케어 · 데스크테리어 굿즈",
+            "reason": "데스크테리어 굿즈 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/gpw6gxGrS1sDpiMygqnlA64u1xPYZMdot1iWq8zkQvpdJGq1Da6khFvc_cgPYcJSbmH2VDu7SqmrVIhldoxFd7NzSaAx9_PfHeXuLCbzvLEgff4_D6HDX0NlLnJps-XVWdcTKychndn1qzi6InsBXdBsdj9U3LcxoY5-p-K5zxkd5tMyTEqW8PObl6AvftLuQP5Vzr23ytJ4LJm3zFJEFRDTzE3zoIKGNos9VMqel1oc2rcr2lwNCMsiL8bfPoxFDyHZ7yYz_LjNZjnaIsfL1nCsX8-4TPkxo_mbFbc4KnbqbZbQKcwhhZCAKzPr7R3iGnbp4V9r6Zs8H-xffE5RsbAhs_tDJU7Z27icpyMmRRTEIXsMMQ4NLvLIgWCsOSFRMdBiyl0fKI89JHHBnYPeomhuQOWgeJzaWuJYa4XQefa3wRDqEXp0QrfmZFClJvScnSe5j61VcDvYKPqiVVe0ju6ZhopU_YgTeWxlDOdSLmuVV208kd2UUy53MJkZXVPfCqF0Qct1Afw43xc-4CnSztQL5AutaTKZbPwiUJ9lCg7qMHD4vXUaIPk=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9803710019&itemId=29357427322&vendorItemId=96270264542&traceid=V0-153-4479ce9d211c2b9c&requestid=20261106154039461108986300&token=31850C%7CGM&pt=0&slot=1"
+          },
+          {
+            "title": "보난자커피 싱글 오리진 파우더 원두커피스틱, 2g, 1개, 10개입",
+            "tag": "맞춤 케어 · 프리미엄 커피",
+            "reason": "프리미엄 커피 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/bL9BD2Ktod4yGm7ubAVCJcupBui1h0ksRSAAR8ZV6I3Xc17c_COEm_754J0coHDbTqODR0Um_Z5ZwHWUTvD1yu56EuzuYfnpCjquTvZtG7p4SGLBa2TIFRG-McKeeWkgtIpTinQ6vESxjKWS2OrXV2Ni7p9YnJLq-uMYjLhfoZvqbAnwVRmFGkYBkXrzVFfcrHdpjr9Xq2gRSJUrvu1UPuFFZ0wnxHnjkD1ERTux_o8XCl35Oi_8fFk3eZvgjH9T5DoIHjJ_M-8poEFNrr6K4FkLY3D3UjH-m4QgdNTaKLdrUUnRb36bBMQ64sY8A-ipdJSuHd8SCE8uSBRAvgfgKv07UeneZfcM-hteTvalVKQK0kLlcD61LVpItsyyLd1Mt_52v9HrWaHWydQDw2XHWL_uGagm0FuPv-8yAs1jDDA7doAeRNv1pubRRv4pMy0nij1zDOvcOAg8kG7Qqggh8cWjq0kt4cbAWTeT3r-YCRbXWi6STRm4SblZzQ2YTpiT7BADYPKxiKdZpnhEHWUVTysLg-FBQNY-G31ixBH97dpX0AzGmdl6c-zi-MilzWaYeXMDsg4lRZ6BpoX3",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=8563918099&itemId=24803618908&vendorItemId=91811292575&traceid=V0-153-9a1efb8de278eca1&clickBeacon=fb3ac0d0-d9ac-11f1-857f-f715ca7026bd%7E3&requestid=20261106154039705257708356&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 0,
+    "created_at": "2026-11-06 15:40"
   }
 ];
