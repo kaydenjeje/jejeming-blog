@@ -11120,5 +11120,200 @@ window.TESTS_DATABASE = [
     ],
     "participants": 0,
     "created_at": "2026-11-07 03:41"
+  },
+  {
+    "id": "homebody_level_2026",
+    "category": "라이프",
+    "title": "주말에 집 밖을 안 나가요! 나의 집순이/집돌이 칩거 레벨 테스트",
+    "subTitle": "나만의 <span>방구석 세계관</span>은 몇 단계일까?",
+    "desc": "금요일 밤부터 일요일 밤까지, 당신은 얼마나 완벽하게 세상과 단절하시나요?\n지금 바로 칩거 레벨을 확인하고 친구들에게 공유해보세요!",
+    "emoji": "🏠",
+    "tag": "집순이·집돌이",
+    "viralBadge": "무료 심리테스트",
+    "metricLabels": [
+      "사회성",
+      "에너지",
+      "안정감",
+      "도파민"
+    ],
+    "questions": [
+      {
+        "category": "약속 잡기",
+        "question": "다음 주말, 갑작스러운 친구의 번개 모임 제안! 나의 마음은?",
+        "a": "무조건 거절 각, 일단 약속 없는 상태를 사수한다.",
+        "b": "오랜만에 나갈까? 날씨 보고 고민해 본다.",
+        "score": 1
+      },
+      {
+        "category": "외출 준비",
+        "question": "밖에 나가려면 씻고 옷 입고 화장해야 함. 이 과정을 떠올렸을 때 나의 심정은?",
+        "a": "상상만 해도 피곤해, 그냥 집에 있는 게 이득이다.",
+        "b": "귀찮지만, 나가서 놀 생각하면 할 만하다.",
+        "score": 1
+      },
+      {
+        "category": "배달 음식",
+        "question": "배달 음식을 시켰는데 현관문 앞에 두고 가달라는 메시지를 남겼나?",
+        "a": "당연히 노크도 금지, 배달원과 마주치지 않는 것이 핵심.",
+        "b": "딱히 신경 쓰지 않는다. 직접 받을 때도 있다.",
+        "score": 1
+      },
+      {
+        "category": "주말 루틴",
+        "question": "주말 아침, 눈을 떴을 때 가장 먼저 하는 행동은?",
+        "a": "침대 밖으로 나오지 않고 스마트폰으로 숏폼 무한 시청.",
+        "b": "커피 한 잔 내려 마시거나 가볍게 집 정리를 시작함.",
+        "score": 1
+      },
+      {
+        "category": "생필품 조달",
+        "question": "생필품이 다 떨어졌다. 내일 나갈 것인가, 오늘 시킬 것인가?",
+        "a": "오늘 안으로 도착하는 새벽 배송을 이용해 끝까지 안 나감.",
+        "b": "겸사겸사 동네 편의점이나 마트에 직접 다녀온다.",
+        "score": 1
+      },
+      {
+        "category": "휴식 스타일",
+        "question": "진정한 휴식은 무엇이라고 생각하는가?",
+        "a": "아무도 방해하지 않는 집 안에서 나만의 세계에 몰입하기.",
+        "b": "핫플레이스 카페나 전시회 등 외부 자극을 통해 리프레시하기.",
+        "score": 1
+      },
+      {
+        "category": "연락 대기",
+        "question": "친구가 밖에서 찍은 풍경 사진을 보냈다. 나의 답변은?",
+        "a": "와 예쁘다(속마음: 난 안 나가서 다행이다).",
+        "b": "우와 어디야? 나도 다음에 거긴 가보고 싶다.",
+        "score": 1
+      },
+      {
+        "category": "자아 성찰",
+        "question": "내가 집 밖을 안 나가는 가장 큰 이유는?",
+        "a": "밖에 나가면 기가 빨려서, 내 에너지는 집에서만 충전됨.",
+        "b": "그냥 그날그날 상황에 따라 다른 편.",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "방구석 은둔의 고수 🛡️",
+        "headline": "집 밖은 위험해! 나가면 병이 나는 프로 집순이",
+        "emoji": "🛡️",
+        "tag": "집콕 만렙",
+        "hashtags": [
+          "#집순이 #홈바디 #나가지마 #내방이천국"
+        ],
+        "bars": [
+          10,
+          20,
+          95,
+          80
+        ],
+        "summary": "당신에게 집은 물리적 공간을 넘어선 완벽한 우주입니다. 외부 세계는 당신의 소중한 에너지를 뺏어가는 불청객일 뿐이죠. 오늘도 침대라는 요새 안에서 평화로운 칩거 생활을 즐기세요.",
+        "trap": "비타민 D 부족과 근육 퇴화, 가끔은 햇볕을 쐬지 않으면 식물이 될지도 모릅니다.",
+        "advice": "딱 10분만 집 주변 한 바퀴를 돌아보세요. 바람을 쐬는 것이 사실은 엄청난 에너지 충전법일 수도 있어요.",
+        "rx_keywords": [
+          "비타민D 영양제",
+          "암막 커튼"
+        ],
+        "prescriptions": [
+          {
+            "title": "비타민마을 활성화 와이즈 비타민d 3000IU 초소형캡슐, 90정, 2개",
+            "tag": "맞춤 케어 · 비타민D 영양제",
+            "reason": "비타민D 영양제 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/WDmxSUEzVKzVIEK7WNF8eygAOMzZA66rKiFKSvLhKoHkq4ger0aTHUnXFL88jOnGgeADjdqRNpVFxImLUP55aqp4mUdbjx5e9dpnXb8iK28-7zPKEXOiIZJq1CRLiotCxvBzFr-S23FTYomMh1YLUXy1fmt9J3YdojvMdbf9ouwk52RPTbYTiWY0JA9S6EuD6umEX1R7YhM5R7xf1_2RmEWXioZLEDlhADytM0fB35H_oTwRC2OD9QQ3PfkitD_zJyaJSb5NVqDvf_nYtWA_U3QyVFFHaq1pSpUw8SakxguLSgO7TMiQIaQAepGJsGXjnS5imW-2Do1ljExbb7LWj4M4iXKssH5Rtv9uBmjWs6AS8WG8TndzXj3zLWJzHdxoIfLQOfltj0Qia9vuDRQiaj9lsE_WT3cgctwx7arKtCp33luZYftz8fBrbkZLVcnkxFGteKBMr0Ti8X5PFggOe9qZ-w8cp2VkEzGQEMWRnOMQ93P2bXjoPFkdbIerC8KeG5EHh-OwMe4bsBIAkfTARg08d3x1WeubaynVj2vtfTSSOiaTfeaDdib5lrlA7rZaUfSMZyj6lOiKw8ls3Z-3QkTZX0ms7RyHPkZIXxo=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=7121743283&itemId=29237880297&vendorItemId=96156531399&traceid=V0-153-08e605bb1ac7e2c2&clickBeacon=ec2110d0-da43-11f1-9cb8-fd80e18c5023%7E3&requestid=20261107094108288208731419&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "코멧 홈 단열 아일렛 암막 커튼",
+            "tag": "맞춤 케어 · 암막 커튼",
+            "reason": "암막 커튼 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/QOy6WgMnHUgMJ5J7QM7ljmZhNoaCqH0PgpyCvgZlQb2efxdUGiVOsLGcgFOd8Yi7KW5ir5Ovo-7r2_EVu56eniigYbVbVZZ7OKDAwZJx4gp14ZkqoTODYRGEsjdy59kItA5xb-y-4SbXgmq8LskOcNzQ845jDFXJC8qbUcDKgY3U_92W47i2kDGqRL12KK7zaHsXSiWaZHata9CEEYKzsNbA6Uz85Axv7EAsC5gUl0RsVGPNobw_2m3XRXxg-oBKWATCQWDS2Do911N8S8w0t7_lAXgh3A_TJ7gpdzpPcQcVOtgxptLl8amI5PzGqtojNxeUjpcqQ7TCNNTtWYuI7-uHth_CcjIEvk0bCI_p9-uR3QeedNTqY5h7F_tYlpDRiLHmcI5V0WlGLoEcytCkKUmfb2znsAJRdyBU-AG398QCZAlzxkEQ0AOorJJ1y9J_64K0FUzGFpAlWYWqJjwqnUkmJMiWAZSTrcxZVQLGY98rP7jmC9A5CVB2HWrfPmfEX8z4KzrXtnWxrOyn85cnPFZ5M0mCJRUU3MUaIxtEyk4u_uzpsep2JTguvc8m63Fk",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=180352941&itemId=536034177&vendorItemId=84147374823&traceid=V0-153-d32e09ffcc978ae2&requestid=20261107094108570322000355&token=31850C%7CGM&pt=0&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "선택적 외출러 🛋️",
+        "headline": "나갈 땐 나가고 쉴 땐 쉬는 똑똑한 칩거족",
+        "emoji": "🛋️",
+        "tag": "균형 잡힌 생활",
+        "hashtags": [
+          "#적당히쉬자 #워라밸 #집순이그램 #내일은나가볼까"
+        ],
+        "bars": [
+          50,
+          60,
+          70,
+          50
+        ],
+        "summary": "집에서 쉬는 것도 좋지만, 재밌는 일 앞에서는 벌떡 일어날 수 있는 유연한 성향입니다. 칩거와 외출 사이에서 완벽한 밸런스를 찾고 있네요.",
+        "trap": "가끔 귀차니즘이 승리해 무기력한 주말을 보내면 죄책감을 느낄 수도 있습니다.",
+        "advice": "이미 충분히 잘하고 있어요! 스스로를 너무 다그치지 말고, 쉬고 싶은 날엔 죄책감 없이 푹 쉬어보세요.",
+        "rx_keywords": [
+          "블루투스 스피커",
+          "다이어리"
+        ],
+        "prescriptions": [
+          {
+            "title": "비파노 휴대용 생활방수 TWS 블루투스 스피커 플러스, 블랙, HB-08",
+            "tag": "맞춤 케어 · 블루투스 스피커",
+            "reason": "블루투스 스피커 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/Vqfi9c85JEZyodRhVjUz0giT0-oBP0J4U6og98ZLx3NdGONIXf7to7Z2M3khXFw_TKyON1oygtZMSC1EL6uR10r4VFEYuYog7FEjQiK0jSXaVfiAfL3N2l8aXHnEk5qblSSqio_wxCdjZNI2Q9K9Lx8jE8uNNdBp5Gi2MMGY7S9CQNw4-UeYmjPLEEaCx4Q7b1spRu4IMQfuckrAeHuwou0SggdaL9voqwLXwmhh3aX17_JZEEnlWcRiruZiAOm7wSlGL95S7gD1m46meW0g0yxfs8V2gZxVhg7vCv29e9jrBVIwEJVnY21YzVw20VN4aeOKP7TR5ly3RSeGi9N3yQ0Kn_iZCMlVNmejmLRGmHoVY6eH6GFC44gmvHGibgrCkbM0z0wrcNE5WgGMnT_kMaM5auZTtdyLPdEcnmxUjYHmOLWO97XRhDBmVjCancSyjAz2PSSx6UzcQvl-csrTRR8d3EuU2zpHO07Zcs2HP-SJKqSaHf5J44A0AKjHLhgeY2msZUQLueWeFoJI5ji287xQo1TZa3908y7oqsDQsLoUhw2NpFIFYVtdBUPpiMSBqFCWQSvL1FRB1gGED_xYHw_ekHXHzxcp-DY4",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9574091760&itemId=28577452809&vendorItemId=95709439488&traceid=V0-153-ede280e6b4fa4e31&clickBeacon=ec776e30-da43-11f1-a5ac-7d578136c7f5%7E3&requestid=20261107094108860221211113&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "리드홈 하드케이스 만년 다이어리 노트북",
+            "tag": "맞춤 케어 · 다이어리",
+            "reason": "다이어리 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/Y4KhKBaPkGpYsSxIY2CtQCOJZSS6ApcbApDKFIF4vN8MyCqeMlH6QogH6D0jaAJxwuTtWZM6vv4_IEUFWXwWKnp5JjPYDP9yzLdCwKRCvIqfnCHej3Rc44qdyplJp4mvnGal26RromX2d-L7H2vDVKLKeX-Smw9Cc3ne6B60JoM9TlhoGb9y1h_8R43G5ynpP9PvmzLVQfZV0KV4L-KzNRdbRZoVLJFu8WP6GocLiKc-p_opgGbkTv4y1Krb4bQVPVBoD6DYWlFNIBK4E69SwjyFcCjCvk-UE3cuEjr1bx-Z3adfzAqb-y9Z3awdauup_tspEyLp3IkvPhIHiTJd_1Um7RFxoKwBDdDyi_ccvxTk1kZgU8Y2DeaYp8meQQ9IOgdDKHXOzxjXijGt3TujaHvRXdMWcgIk0rqRUpCXotmuOOlHcH57X_7l4YqV7jr9ek0N3ZcQMPhL-fNGZRhKtDY0CPMtai06SP33LXO2Dh9MlrMFMbFxoQ-hM5S9SMTF4jaJ2Pf1D9HUhrPjpxAEbBkMNrGMvuSk",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=8533672347&itemId=24702436418&vendorItemId=91712054731&traceid=V0-153-c607100ef22e9eff&requestid=20261107094109159181024784&token=31850C%7CGM&pt=0&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "프로 바깥순이/돌이 🏃",
+        "headline": "집에 있으면 몸에 가시가 돋는 활동파",
+        "emoji": "🏃",
+        "tag": "활동형 인간",
+        "hashtags": [
+          "#밖이좋아 #프로활동러 #인싸체질 #에너지뿜뿜"
+        ],
+        "bars": [
+          90,
+          95,
+          30,
+          40
+        ],
+        "summary": "주말에 집에 있는 것을 '시간 낭비'라고 생각하시나요? 당신은 사람들과 어울리고 새로운 경험을 할 때 비로소 살아있음을 느끼는 에너자이저입니다.",
+        "trap": "항상 밖으로만 돌다 보면 정작 나 자신을 돌볼 '쉼표'를 놓치기 쉽습니다.",
+        "advice": "가끔은 완벽하게 혼자 있는 시간을 가져보세요. 그 고요함 속에서만 얻을 수 있는 새로운 영감이 있을 거예요.",
+        "rx_keywords": [
+          "러닝화",
+          "휴대용 보조배터리"
+        ],
+        "prescriptions": [
+          {
+            "title": "SNRD 런닝화 SN192",
+            "tag": "맞춤 케어 · 러닝화",
+            "reason": "러닝화 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/-7qZBxSzYA-WbLzT-41S3qDXhfTn-X8dk3_5OY5ZHFfJ8KPylFxVaGeB3JCTPDOYlRgBDwf3Lm7pRMAEXTyZq1MkcYhIHrNwg86Owh_XLPlCijzJwetkntH55LEW8qqHC6RQlg3CQWyxGnvD13iIeyLHuXHeo5aXQAgXiPHJH7NCDnv1cmM83njYlqwK15m69oc9Orj4yMBx2P6KhfnCur5VHfvqodv4aY2_k0ZgJIRlBnJ9c_ph6OkFFnDAZl8tU04RvUbbTddeBtSg4iKgkSpNFEGCZk7vj7lSBk_MbPT-Jxp6M4JknkFJb6mknaXO5aOprZVZB7AhSnaXcjd1tAUw3fjWZAEG0Quc902LH6OnuPm5GX_HwoqNVEbmy5iRcZdzCYU77NiarQ3bdW3rguyY67AwKipCLTeMcZ_7c_qm705llp3quHJntZMFDceF8OnkNprEoDPpBmx84d8zs976RSvvRiesDjuiHPZmDMX-QnRTHR_ioWlVrUMfoWu7_iqn4uO0zk7_Uv5aRUrctcqBlCQE59KA-VA03DEJ4XJDbvpyjQ8bO4lCxJI0GjHCgRlSoxpGVrYfC5VHwSgUGUguDZWSvZC3xn_gnQLla7wvf4Vf",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=140376536&itemId=409052895&vendorItemId=93477903655&traceid=V0-153-68ff5dac68beee24&requestid=20261107094109518221688858&token=31850C%7CGM&pt=0&slot=1"
+          },
+          {
+            "title": "PIUJJA 대용량 보조배터리 30000mAh 고속충전 PD 22.5W 잔량표시 멀티단자, 블랙, T13",
+            "tag": "맞춤 케어 · 휴대용 보조배터리",
+            "reason": "휴대용 보조배터리 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/rr8r5NOajANuViOirmc8un43SkT64inQI0pFtFV_APw4KBd8OZvogsqqUT5pjkI3qwgBcvn_sjDJdo3tuA02iVjv8PXNzjBdUpzTdo__FEdOzLd1jRwhiZoc8VYRR6RnMD4D5EEIw-jTVnglN4_Jw6pVR8F8tj5WnS3uMf8Kf7m-XPl1qrOiUO1QOdowhQ2jXPZXbSq9XHMmMp_WKA8JBhJiEBp83MIsHFeuiLA5SajixCVhlT_-tH9iRlD27v3mfulcdWk0HzEtq90bH9QOxPTEF-WAKq1XKiViBzziQH54R8n-8SYR1Vi1u8keMpLGUX75m0UT-ZNQocVprgQfFTrkPOH-yiRhiLAPUdx_JJ6DKiN0JJWUyBW4kUxip6c1weTc8FR6h8QvUO3Bc76Fod4bAowoRN32WeUQYtrIpljb2enlb7wf-ZGsm2-roTA7xHUGhsxMvEwHnvWgeI5gHEBCWfgfK5HSoXajNqpuaFM7djBOPbEwSmCdvwKFgTtCl8n6voRMhPcPBiYG_KC8ZECLbDMH9mfienpUyEmcwQ==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9702197318&itemId=29024083808&vendorItemId=95951706562&traceid=V0-153-46433733ae9fe546&clickBeacon=ed0137a0-da43-11f1-85d7-16b54a8db100%7E3&requestid=20261107094109781129068849&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 0,
+    "created_at": "2026-11-07 09:41"
   }
 ];
