@@ -11315,5 +11315,209 @@ window.TESTS_DATABASE = [
     ],
     "participants": 0,
     "created_at": "2026-11-07 09:41"
+  },
+  {
+    "id": "love_obsession_meter_2026",
+    "category": "연애/관계",
+    "title": "내 연애를 망치는 질투와 소유욕? 나의 연애 집착도 테스트",
+    "subTitle": "혹시 나도 <span>연애 블랙홀</span>? 당신의 소유욕 농도를 확인하세요",
+    "desc": "사랑이라 믿었던 감정이 독이 되고 있진 않나요? 일상 속 8가지 상황으로 알아보는 나의 연애 집착 수치 테스트!",
+    "emoji": "🖤",
+    "tag": "연애심리",
+    "viralBadge": "무료 심리테스트",
+    "metricLabels": [
+      "질투 농도",
+      "통제 욕구",
+      "불안 수치",
+      "자존감 지수"
+    ],
+    "questions": [
+      {
+        "category": "SNS 활동",
+        "question": "애인이 인스타그램에 올린 풍경 사진, 댓글에 모르는 사람이 달린 걸 봤다. 나의 반응은?",
+        "a": "누구인지 프로필을 타고 들어가 스토리를 샅샅이 뒤져본다.",
+        "b": "좋아요만 누르고 누구인지 딱히 궁금해하지 않는다.",
+        "score": 1
+      },
+      {
+        "category": "답장 패턴",
+        "question": "분명 읽었는데 답장이 30분째 없다. 그런데 다른 SNS에 접속한 게 보인다면?",
+        "a": "왜 답장은 안 하면서 SNS를 하는지 따져 묻고 싶어 속이 타들어 간다.",
+        "b": "무슨 바쁜 일이 있겠거니, 하던 일을 계속한다.",
+        "score": 1
+      },
+      {
+        "category": "친구 관계",
+        "question": "애인이 이성 친구와 밥을 먹는다고 한다. 내 기분은?",
+        "a": "이해는 하지만 하루 종일 기분이 찜찜하고 신경이 쓰인다.",
+        "b": "그럴 수 있지, 맛있는 거 먹고 오라고 응원해준다.",
+        "score": 1
+      },
+      {
+        "category": "데이트 계획",
+        "question": "주말에 애인과 데이트하고 싶은데, 애인이 친구 모임에 가겠다고 한다. 나의 대응은?",
+        "a": "서운함을 티 내며 내 기분을 맞춰주길 바라는 마음이 든다.",
+        "b": "알겠다고 하고 나도 나의 개인적인 시간을 즐길 계획을 세운다.",
+        "score": 1
+      },
+      {
+        "category": "과거 회상",
+        "question": "애인의 과거 연애사나 전 애인 이야기가 나오면?",
+        "a": "나보다 더 사랑했을까 봐 괜히 화가 나고 비교하게 된다.",
+        "b": "그건 과거일 뿐, 지금 내 옆에 있는 사람이니 상관없다.",
+        "score": 1
+      },
+      {
+        "category": "표현의 방식",
+        "question": "나는 사랑하는 사람에게 나의 일거수일투족을 공유하고 싶다.",
+        "a": "그렇다. 내가 그러는 만큼 상대방도 나의 모든 것을 공유해주길 바란다.",
+        "b": "아니다. 각자의 사생활은 존중받아야 한다고 생각한다.",
+        "score": 1
+      },
+      {
+        "category": "심리적 거리",
+        "question": "애인이 '혼자만의 시간이 필요해'라고 말할 때의 느낌은?",
+        "a": "혹시 나한테 마음이 식었나? 덜컥 겁이 나고 불안하다.",
+        "b": "지쳤나 보다. 푹 쉬라고 따뜻하게 다독여준다.",
+        "score": 1
+      },
+      {
+        "category": "연애관",
+        "question": "나에게 사랑이란 무엇인가?",
+        "a": "상대방과 하나가 되어 무엇이든 함께하는 운명 공동체.",
+        "b": "서로의 삶을 응원하며 든든하게 곁을 지켜주는 동반자.",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "연애 블랙홀, 집착 대마왕 🌪️",
+        "headline": "사랑이 아니라 감옥을 짓고 계시네요!",
+        "emoji": "🌪️",
+        "tag": "집착주의보",
+        "hashtags": [
+          "#연애블랙홀",
+          "#집착금지",
+          "#나부터사랑하기",
+          "#거리가필요해"
+        ],
+        "bars": [
+          95,
+          98,
+          90,
+          40
+        ],
+        "summary": "상대방의 모든 것을 알아야 안심이 되는 당신, 연애가 곧 인생의 전부가 되어버렸군요. 당신의 소유욕이 애인에게는 숨 막히는 압박으로 다가올 수 있어요. 너무 깊게 빠지면 스스로도 지치고 상대도 멀어집니다.",
+        "trap": "상대의 자유를 뺏는 순간 사랑은 의무가 됩니다.",
+        "advice": "애인이 없는 시간에 나만의 취미를 하나 만들어보세요. 당신의 세상이 애인 외의 것들로 채워질 때, 비로소 건강한 사랑이 시작됩니다.",
+        "rx_keywords": [
+          "컬러링북",
+          "요가 매트"
+        ],
+        "prescriptions": [
+          {
+            "title": "NICEROSE 성인용 컬러링북 꽃 테마 색칠공부 창의력 향상 스트레스 해소를 위한 컬러링 꽃다발 색칠하기 책",
+            "tag": "맞춤 케어 · 컬러링북",
+            "reason": "컬러링북 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/ttXOydtNmwnxDrPGti_Sr_G-vet3yWCJ2ekjLezOPD0U33Ltt8qIc9Nu8sVhhVIt8qFhHNAuXMqWLSQ_F8KDLP-QKt0cSqm4D2Nl8WidzL0vqMkTSQBzlRs4eTqIwlqbgY2WQCWnBzNi50y-qu3aqFCQU3L7W3_2GB-VeYD7Hr6fpfUdEFtaVll_syJpNEJkgV9WhlTJvUk8JiEDEkNF8G_qslUYtZadUth6neE39sLucVsiitwV7-FIBEA8mLTn6OzJTLHv-I89KUhwdfbOKrZuz-MfANEV2Pt5TxM7pJChz9HDmItUFjTIzulumjopwO_b_9PplyVd6y30BrKb5mto5ytnbQPCzO2HI5f05G3krulGzY0tDVMH0sRF0f02-KzML5QXglDPSZMgxRlnkjtKGMIfaViHCkoIAylnMAVG6fJ1STKAOhdnh90p8LVJejyPcOSc3MkRTuJNh74I7mufVwmW17g6S_wFoQd3Dn2sJdDyeQLfDE6-B2DqpamUKv_HqRoAoEBYfAWyUT0nhXu3OElGOHH3L8xomF2j4Q==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=8403825057&itemId=24293802170&vendorItemId=91248645176&traceid=V0-153-2eb935c920960552&clickBeacon=51226240-da76-11f1-8149-2d9f72f54f47%7E3&requestid=20261107154152640129067870&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "코멧 NBR 10mm 요가매트",
+            "tag": "맞춤 케어 · 요가 매트",
+            "reason": "요가 매트 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/yxw3AXTmaS7izl4QywC4EmM0QrQ9EBbqlGgws9W0ru0s_WEum1Rq1UvoUzWf-rkanGyLIQpQTLlOw1jzjniY8f64MhJIqBKG0LEXte-74PSAAm7uZqffnTF8MOJc-NudBGQ_gnTOn4TFryfTJKr-cuWT1QSRQaQryGefCDP5o4eCeS_q0YofFoTwF8FbA71tQT8SJ8j4AgO6UXaRyfqIwssWfpb-yBwf-6_Lhnz0CGZ7Rt5PQuHVzM4AlPCtQZI8miE86uPmaoNN8TsKlXZQtKY7mHypaQgTqlxqCCt3Go1LSalgru_yqRSyl7vl_7TbKwVAo1lN5gKEGHKX0_xk96UXkqwjpodCABe0XKXW_I4sJHpDnVAKHKMS_U2I1fOGisnTmxE80TAJMffofj-Le8RFv2ncNd9vBaYf0S-_-IOOHuAn1EL83WajptoiTxHQ8s1K3snISbMGWhhZ9ICA39NLqUef89KDCEnGdyo5w48CvBO2JCRccUBJqT9Ke1apSqQIbHXm0XGVCi_qwvWLCPn-JgrIc-pd19k=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=172134026&itemId=492137516&vendorItemId=4246583386&traceid=V0-153-d7cfd075635f6f1a&requestid=20261107154152848032086444&token=31850C%7CMIXED&pt=0&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "츤데레 탐색자, 적정거리 유지러 🧐",
+        "headline": "가끔은 서운하지만, 그래도 꽤 성숙한 연애 중!",
+        "emoji": "🧐",
+        "tag": "안정적인연애",
+        "hashtags": [
+          "#적정거리",
+          "#성숙한연애",
+          "#오늘도맑음",
+          "#질투는약간만"
+        ],
+        "bars": [
+          50,
+          40,
+          55,
+          70
+        ],
+        "summary": "가끔 불쑥 올라오는 불안감이 있지만, 스스로 금방 다스릴 줄 아는 현명한 타입이에요. 질투를 느끼는 건 당신이 상대를 그만큼 아낀다는 증거겠죠? 하지만 너무 참기만 하면 나중에 폭발할 수 있으니 주의하세요.",
+        "trap": "서운함을 꾹 참다가 쌓아두면 오해가 깊어집니다.",
+        "advice": "가끔은 솔직하게 '나 지금 좀 질투나!'라고 귀엽게 고백해보세요. 그게 오히려 더 큰 신뢰를 쌓는 지름길이 될 거예요.",
+        "rx_keywords": [
+          "디퓨저",
+          "감정 일기장"
+        ],
+        "prescriptions": [
+          {
+            "title": "헤트라스 대용량 디퓨저",
+            "tag": "맞춤 케어 · 디퓨저",
+            "reason": "디퓨저 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/HmyaNjRpP7um16G3Hl-bU_J_QJzya8Rw6r7yYMuKIm_R5gEtjA1gXkf6MNz2HyoJCU2UCuETpGbaGQnHettwF0J8iNkwpmMVPkTWZCj_EzQ_mogonSDOm6phWw66WipKQxxxoqix8Ex21oIgxU0LcJCVW5eKA4RcxlaQ41F6cxXTTpNTvEnB7YpeZvnaV9di0M8XEv9X672-kIj6yaMJAgVvfir-Z7K4bEUhFUHQgIyJ8k4ycET4WsDkvv-VxrXUb-20mBs_OzdxwBuXXXWqQnHReL4UHVmDwXtpmJSvenN4T3Mm4lqRis_x-LsnkN_Bq5qzDesI-l2NK_y2Y9vHX8C1yCo-1hSwP54QnBgs1OARezNdIZ0wXcEuDKG5UhpL0ufqghBbfVNHBQPeAG4yVacGN2H_DMCUYBlx6VTRGVASrulFCg71v3pwgRPirTqHUjSWT0AxJUMRG6q_iKd5fXz06t9iQ7zGGYB2qxmXGkV2g6irzB_cboVDNhsLbq6UYQGukY0xhW2rNh0Qur4I3r2in0o9xwBx",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=6991217590&itemId=24809129025&vendorItemId=81740760139&traceid=V0-153-30192501060a4ba3&requestid=20261107154153082108965013&token=31850C%7CGM&pt=0&slot=1"
+          },
+          {
+            "title": "슈퍼쌤 이네쌤 감정 일기장, 냥이, 5개",
+            "tag": "맞춤 케어 · 감정 일기장",
+            "reason": "감정 일기장 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/wYPZ4NyTOVd1coz9wUrlu2A4pIIHfUsHuHQ8FgrlZd-U-S3ynwBczPN0ZFy0xVnh0AQxuU_-CwLU4SPwrgHk_49SNND5ZuaHG-GAZ0pJ3U7iv0rTErH4M-3cmvD6K8l6lO1dMDVVELHRxgZ_mTY7sVa0hWHTgbKE_VN0fIWk442YallLNCu_kiexDdBILZkPjjCCwqPrVNjsPZH9ja-OSEuDFzIIDvQhu5ZyWct4fPt8kWXKs4lINpCppifPUFg-Ro1d1pYXDpz3T4ijQ82uvwn37LbEwlQMnv5orbZuw-ZQTPNZfZD1VE54YlLGYjlJXyikpcgUIZYgR5RMg4IAkOjKyQ7Xdbz53-uoufqQSWZlKpQ65OFwA9_ULzTboRRT-B0jkgXTTFSGpU60Fj_iufYX31-4wCYnKJdYvHInz1LSp_U8XUbKKI-MzdsfJFmjFlmGfYI7Z8AXhGzvkP6N7J9RnmcrcXo11dSFem4ACKEqUm25XgWdNTxrqmsCTbEp3ireciR45a-vjzHxsNJEag==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=7388075560&itemId=19095778799&vendorItemId=90117305088&traceid=V0-153-7e7cd83ce54afd68&clickBeacon=519680d0-da76-11f1-83fc-975847fca3e7%7E3&requestid=20261107154153341054023422&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "여유만만, 쿨내 진동 연애 마스터 🧊",
+        "headline": "당신의 쿨함이 상대방에겐 감동이 됩니다!",
+        "emoji": "🧊",
+        "tag": "쿨워터향",
+        "hashtags": [
+          "#연애마스터",
+          "#쿨내진동",
+          "#자존감뿜뿜",
+          "#완벽한신뢰"
+        ],
+        "bars": [
+          20,
+          15,
+          25,
+          95
+        ],
+        "summary": "자존감이 높고 상대방을 온전히 믿어주는 당신은 최고의 연애 파트너입니다. 당신의 쿨한 태도는 애인에게 엄청난 정서적 안정감을 주죠. 가끔은 너무 쿨해서 상대가 서운해하지 않는지만 체크해보세요!",
+        "trap": "너무 쿨해서 상대를 '나를 안 사랑하나?' 오해하게 만들 수 있어요.",
+        "advice": "당신의 여유로운 마음은 참 소중해요. 가끔은 당신도 상대를 의지하고 있음을 따뜻한 말 한마디로 표현해보세요. 훨씬 더 깊은 관계로 발전할 거예요.",
+        "rx_keywords": [
+          "커플 팔찌",
+          "입욕제"
+        ],
+        "prescriptions": [
+          {
+            "title": "써지컬스틸 CAWAI 이니셜 각인팔찌 치매팔찌 우정 커플팔찌 배회방지",
+            "tag": "맞춤 케어 · 커플 팔찌",
+            "reason": "커플 팔찌 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/vLMebbOJDrysaGBVvNMmZcnzzJ76WKE91PyVJ51GCfzPaujKwPVjvHEcldIY_xK09PUGvI9r3GO_uWGtdhy_LVseVZs8bnYK4zjQjf7SBmqKHH5_4cWeLRty9OKbta5tpR80HZKvQSGOi1QK5Pbv5fi9FgdZrWLpwT4QotzUmCoxQrg3iU9biZ9POZhvdsn3fPnvnlojD-5WTtA0_E3mwN-NLD7yv5RspQQ0R0CRIoGU9_Ia-6SIVn3nddsdhZM4Es2WU9_C8vRs6fy69vY_R2RyTb5yvTbSa27IG0GmyjZLUJucSgeAE7yjcqQhKdYpoPl2RGzV3Mru46-dxWPYbXaxkPdOdzey5pJUJJ1-nfcwK2c9-n3wGESSXoWZwXBtcfDcQkxo3X34eJfclcTdc-jNdU13wsmmgEEnNkXd4HRgIyaHna7XA7Gr-sqV5oSZGCAUYgZYhy1F7KeGl-6amimNgknecxj1wlUnKdCyMHcsAfVjgnIad0_Ohynh2owPS0UyicXdoTNLKVI0J6ZUphpmohh_e10O3Fmywc8WpsNMxpIjYbC6Ms63qg-QueeCASzde2QvgTtx35CHYkAmPgIgC-09qtw7MOwx3M62JLdvj2Akomk7BvlL6_QoCUH_XYNzmqsKIVRb20LKkyg=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=5763408574&itemId=9768384436&vendorItemId=77052039367&traceid=V0-153-8517ccacceb8bba3&clickBeacon=51be5420-da76-11f1-85fe-db896d408f1e%7E3&requestid=20261107154153607295043025&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "바스로망 입욕제 히노끼",
+            "tag": "맞춤 케어 · 입욕제",
+            "reason": "입욕제 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/bPZ4CC3S0_vOGUWabAtPCcXw9Kk5QR3Q6j_F4JnyxJrK7GTJhme6uXhCvxgP6BaVKRg6RgFdxjRdmaDXUV08buRlND-IXTJA8rmewyfpOPgW_zmdDBSf5_ultSaPwmHNGa1PraO4_KF0ytG90gBGHhApsgx7BU2Gjyo7pENEKeXkN8qe2LVMe_M3aKdCh0ihRJ0kFcjxqAO5HEe6nkuwkwSDNdwzgURHddkMxrF0QKliX8QTAzR6zPOy6kmwObGn9GPtZDv6r0AAfJoss-zVa9wicxBSDNiUk3diTtibInek6IYeVjMRLW2x2JeL-N6zyZ_qOYI3K8Eq3xZbTsydzYLLnllfzCcvfenjcrLkT_RVFP4rQmN69MeaTdiWqoBtkOeDM4Lb0oyEWKjz6nDFo262uKPnsvGrv97RzG1frR4yJqLuuRVVIkKqqHmzbQ4U0DG_h4CsZ_XbS4lWk7ZKPbA9FTGB55VNWSi-fvW0OaYajNaBMTcBthZlyBIjGXsh1RQODlbe827ld5QcmLvgXnai2B6rGQSt8g==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=7152046383&itemId=25634610077&vendorItemId=3000092072&traceid=V0-153-97f57cdb03a44c0b&requestid=20261107154153911050094609&token=31850C%7CMIXED&pt=0&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 0,
+    "created_at": "2026-11-07 15:41"
   }
 ];
