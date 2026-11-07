@@ -11519,5 +11519,209 @@ window.TESTS_DATABASE = [
     ],
     "participants": 0,
     "created_at": "2026-11-07 15:41"
+  },
+  {
+    "id": "digital_detox_dopamine_1",
+    "category": "힐링/멘탈",
+    "title": "10분마다 폰 확인하는 나, 혹시 도파민 과부하? 디지털 디톡스 테스트",
+    "subTitle": "10분마다 손이 가는 <span>스마트폰</span>, 당신의 뇌는 지금 <span>비상事態</span>에 놓여 있습니다.",
+    "desc": "알람 없는데도 습관적으로 폰을 켜는 당신. 혹시 도파민이 과부하 상태인가요? 8가지 일상 상황으로 당신의 디지털 중독 지수를 정확히 진단해 드립니다.",
+    "emoji": "📱",
+    "tag": "도파민·디지털 디톡스",
+    "viralBadge": "무료 심리테스트",
+    "metricLabels": [
+      "도파민 의존도",
+      "집중력 소진",
+      "현실 소외감",
+      "디지털 피로도"
+    ],
+    "questions": [
+      {
+        "category": "🛏️ 아침 기상",
+        "question": "알람이 울렸는데 눈은 뜨지 않은 채로 먼저 손을 뻗어 보는 것은?",
+        "a": "스마트폰 화면을 확인하며 오늘의 알람/메시지 체크",
+        "b": "아래를 향해 팔을 뻗어 알람 시계(또는 벽)를 확인",
+        "score": 1
+      },
+      {
+        "category": "🚇 출퇴근길",
+        "question": "지하철 좌석에 앉은 직후, 주머니에서 폰을 꺼내서 하는 첫 행동은?",
+        "a": "SNS 피드나 커뮤니티를 무의식적으로 스크롤",
+        "b": "이어폰을 끼고 음악/오디오클립을 듣거나 눈을 감고 휴식",
+        "score": 1
+      },
+      {
+        "category": "📂 업무 중",
+        "question": "업무에 집중하고 있는데 갑자기 알림이 울렸다. 당신의 반응은?",
+        "a": "알림 내용을 확인하고 '답장'을 바로 치기 시작함",
+        "b": "알림을 무시하고 현재 업무를 완료한 뒤 나중에 확인",
+        "score": 1
+      },
+      {
+        "category": "🍽️ 식사 시간",
+        "question": "혼밥을 하거나 가족과 식사 중, 스마트폰과의 거리는?",
+        "a": "음식 앞이나 손이 닿는 곳에 두고 틈날 때마다 확인",
+        "b": "주머니에 넣거나 테이블 옆에 두고 식사에만 집중",
+        "score": 1
+      },
+      {
+        "category": "💬 대화 중",
+        "question": "친구나 동료와 진지한 대화를 나누고 있을 때, 폰이 진동했다면?",
+        "a": "가방에서 폰을 꺼내서 '누가 온 거지?' 하고 바로 확인",
+        "b": "상대의 말을 끝까지 듣고 대화를 마친 후에 확인",
+        "score": 1
+      },
+      {
+        "category": "🛌 취침 전",
+        "question": "이불에 누워서 잠들기 전, 폰을 내려놓을 때의 기분은?",
+        "a": "아직 안 본 영상이나 글이 남아있어 아쉬워서 다시 켜게 됨",
+        "b": "폰을 멀리 두고 눈을 감으면 곧바로 잠이 옴",
+        "score": 1
+      },
+      {
+        "category": "📵 심리적 공백",
+        "question": "폰이 없거나 배터리가 5% 미만인 상황에서 느끼는 감정은?",
+        "a": "불안해서 계속 주머니를 만지작거리거나 초조함",
+        "b": "오히려 마음이 편안해지고 주변 소리에 집중",
+        "score": 1
+      },
+      {
+        "category": "👀 무의식적 습관",
+        "question": "화면은 켜져 있는데 실제로 보고 있는지, 무의식적으로만 손이 가는 경우는?",
+        "a": "화면을 보고 있지만 내용은 기억나지 않을 정도로 스크만 함",
+        "b": "의도적으로 필요한 정보만 검색하거나 조회 후 종료",
+        "score": 1
+      }
+    ],
+    "results": [
+      {
+        "minScore": 6,
+        "name": "도파민 해저드 모드 🚨",
+        "headline": "뇌가 '더, 더!'를 외치고 있는 당신, 지금 즉시 브레이크를 밟으세요.",
+        "emoji": "🔥",
+        "tag": "급성 도파민 과부하",
+        "hashtags": [
+          "#도파민중독",
+          "#디지털디톡스",
+          "#집중력회복",
+          "#뇌파마"
+        ],
+        "bars": [
+          95,
+          90,
+          85,
+          98
+        ],
+        "summary": "당신의 뇌는 이미 '즉각적 보상'에 길들여져 일상적인 자극에는 반응하지 않습니다. 폰을 켜는 행위 자체가 습관이 아닌 '의사'가 되어버렸고, 비자극적인 시간조차 견디지 못하는 상태입니다. 이는 단순한 게으름이 아니라 신경학적 과부하 신호입니다. 지금 이 순간에도 당신의 집중력은 미세하게 균열이 가고 있습니다.",
+        "trap": "잠시 쉬었다가 '조금만 더'를 외치며 다시 폰으로 돌아가는 패턴. 이 '조금만'이 당신의 청춘을 갉아먹는 가장 큰 함정입니다.",
+        "advice": "오늘 밤, 폰을 거실이나 주방에 두고 침실에는 물병만 가져가 보세요. 처음 3일은 고통스럽지만, 4일 차부터는 잃어버린 '침묵의 가치'를 돌아옵니다. 당신의 뇌는 회복력이 있습니다.",
+        "rx_keywords": [
+          "디지털 디톡스 앱",
+          "명상 타이머"
+        ],
+        "prescriptions": [
+          {
+            "title": "AHC 리뉴에이지 토탈 4종 + 아이크림 20ml 기프트 세트",
+            "tag": "맞춤 케어 · 디지털 디톡스 앱",
+            "reason": "디지털 디톡스 앱 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/ZVdEHlQMOe2xSYtsZbaDUOacgtRoaA5VSL8mXwaEDuiBiukg0VruX99oUDcuhBt7ImwM4ZyP4iXRWZshzHJBftIp9sHvl_kAeb4jYo19AJQLSxb6-mMNGQILvVmwXHPz3Eqdj_gnEqyF1tD2017VJhKYBxLMhJuKm3T9Bo1Q3tt01PBOcuxgee8TN3bosiSuW71tpHvmiXi7tCfY-r7K0EPPqGeCcaFXo-AXqVBg5IgucqnvPyAHFeHgaxt3lu99PfeL8JK-pT-x1txUcdazsdDy_CrbvREkyDtAM96hT5PX_TqGuWqBAOT4jarPXFoyLj_xh8LNuchxP-gpXVnDtlrAEiUshmjillfvySvdPGx_L97OxnS1HwRLBJSS46Fk_9IyfPsfjT1pmZhN5BV68JUAgcfp14xgGod3vZ9NvAgANKxbfQDt6MCK2VyoZPV5q2Ul_ErUSDYH7DDtOv4OGNLFcpGRmuDPmcpqNlQpX9GIxhuH1BlgEUVrDGZrio6T6zXjbGr8vILXMRSNRd1MRc6jiiIcExiLxX6G7nKi-n4R2rdpEO2gFLYlwTpbc31hETuks9_Mqxunnuiyk6VOYo91eSsddw==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=6460642556&itemId=14059332783&vendorItemId=70557700633&traceid=V0-153-50114576a730d9e1&pt=0&requestid=20261108001726849316330137&slot=1"
+          },
+          {
+            "title": "하이쉬 무소음 뽀모도로 공부 타이머 시계 V7, 1개, 올리브그린",
+            "tag": "맞춤 케어 · 명상 타이머",
+            "reason": "명상 타이머 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/EnTposLsQiyCPsmREliBNFBxajYza5TL9BAyE7QLJVmvggdfmeIpL_kA-fYBeI9TnVWpGd8P4zcm2da2k1_FA4yFi0gmjzmUrEVDfcV0m_YaTfzD3laJPgVt05ixj_IWp2DuvwuAbsJEhYlpOSjbkrzyXPA0WKCobjUwD4CSs4jnX8vWgmom4-zfIjQyYPwREEEDv3F3yyajjJFUMXGk7McUDl8l7FAA78QEvE2IEtgkDJwnWYhDQ3e7HJvoNIUGAAA4KGjMELtYiSw9rcAOOy3DCkKIFcKUmBvEzFhH47L7T5GD2xsRZ_LDmC8OzmXiY1H5sbuNpO2y1vGIRPithzlYYfpFymRlxgQHzBIqfAjNpdSAKzHq7hCMKA1ZnTJ8nTulJMw5_QBHlCpXXhTJ3ArqDrVcF0j2Z7OoC8MtlQf3NuFyb8Y5bnDQf5djeSRui7EgpU8YDkPLOGQLcNM7y3hdjTi9A77s5bu8G8PU-mg11OkSvC0A_14ZprTEGYaGAeSETHLRHhsF9vpEmlPFDAzDUrVJhr9sw2RLJsGCKg==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9153187017&itemId=26954738518&vendorItemId=93923785245&traceid=V0-153-2a01a4b4abfb8280&clickBeacon=577b5d20-dabe-11f1-a427-98a17a31a531%7E3&requestid=20261108001726989275683865&token=31850C%7CMIXED&pt=1&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 3,
+        "name": "발신제한 중독자 📶",
+        "headline": "현실은 뒤로하고, 화면 속 세상에만 발이 묶여 있는 당신.",
+        "emoji": "📡",
+        "tag": "만성적 주의 편향",
+        "hashtags": [
+          "#폰중독",
+          "#현실도피",
+          "#집중력저하",
+          "#디지털바비"
+        ],
+        "bars": [
+          70,
+          65,
+          75,
+          80
+        ],
+        "summary": "당신은 폰이 없으면 숨이 막힐 정도는 아니지만, '확인 욕구'가 항상 30% 정도는 채워져 있습니다. 대화 중에도, 식사 중에도 뇌의 한 구석은 '알림이 올까?'를 스캔하고 있습니다. 이로 인해 현실에서 오는 작은 성취감은 희미해지고, 화면 속 타인의 화려한 삶만 선명하게 보이는 착시가 생겼습니다. 당신의 감수성은 디지털 노이즈에 묻혀가고 있습니다.",
+        "trap": "'나는 폰을 잘 안 하는데'라고 방심하는 것. 습관적 확인 주기가 점점 짧아지며, 실제 중요한 알림을 놓치는 순간 '왜 안 왔지?' 하는 불필요한 스트레스를 받는 함정입니다.",
+        "advice": "주 1회, '디지털 프리 데이'를 지정해 보세요. 하루 종일 카메라나 SNS 앱만 삭제(또는 비활성화)하고, 종이에 하루를 기록해 보세요. 현실의 온도를 다시 느끼는 법을 배울 것입니다.",
+        "rx_keywords": [
+          "종이 다이어리",
+          "아날로그 필기구"
+        ],
+        "prescriptions": [
+          {
+            "title": "고양이의 작은 하루 (미니 다이어리), 1개, cookie meow",
+            "tag": "맞춤 케어 · 종이 다이어리",
+            "reason": "종이 다이어리 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/T-0z5HJKTSy1Nm5fT6Cno_dKGhd3_8opgkT_NBw56KMb9MXtTdtqkUcCS2fC64WUmyak6Fr_4taPxzK7d-V6_FGSF2B7u6MS83gVkjQKTHBm5uwaUPTzcnkQ9rmgVYqsE6vRlKR2Fae_akPlHm3D9quQjpz050CXcE3i5UJkcikmeK7GU3J6_DhwGnNhNpssV_oVotXNQSnVJgblvnrfw4S0yPKJqas55TSVNlV-p5DoT1yRB3eas3hEYiT_J4GP1O-4kDjZt_uRAEFVGGUdNoiFaSvOnocxjtQNT3b7155wOut0E9zJoGEOSThcR6VTQXakKxY_lbRZUIO8_wHqf3Kl5x0n7_UbM8yg4WuMHsT7dmpSYl3u5DQHV03zDxZEpW0ITPJ3AZXN_T2W-fGrtw7o5n84fQDG_BoSlhqHaEY8bjdv8cEA7sBVSKNVTkSW190dyBFlHorweCAqPCQWd140PgOhk-qbx-ZUEDIz3iSoUqg-ZvKbT0-CnphCTAYsZsmn0hwT6WBQGzrJSxldI9-q3MlPKYggXiX8rzUqoVth5pV40tzchPqXO8NzWH0uMMmwLeG-Vbd4_vkyPNezvSUsolF1XOKftmnXiR4=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9769555244&itemId=29241875372&vendorItemId=96160354437&traceid=V0-153-14d72d084bf6ed1c&clickBeacon=57aa8370-dabe-11f1-9b2e-8833b2acc1b6%7E3&requestid=20261108001727324032088363&token=31850C%7CMIXED&pt=1&slot=1"
+          },
+          {
+            "title": "뽀띠나 빨강색 PARKER 파카 클래식 볼펜 체인 고급 멀티펜 펜촉 펜 필기구 졸업 입학 취업 축하 생일 선물 서명 싸인 손글씨 교정 펜슬 캘리그라피 명품펜 세필 아날로그",
+            "tag": "맞춤 케어 · 아날로그 필기구",
+            "reason": "아날로그 필기구 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/nVnhlKnbWm7e6TDlnTEiJyVojbenNSPzmBEtP6f5t9lR_f6mmY859XrBQBsq1iQ1mtiTbm7B4ULRX6yw2ad2t3nqgMJ3CaXkEKppuR0bRKWFZPyvadqBH2Dqyr9gVaTot6wHkkF9Yvvw6Ev0NB4XfxJUhl_E6CP9_0xICkaObzULu-SsOkbdHx2zi5cGB77XFioxrlNFvfs3-4WWwmahGBF1wJZlMrTS8uhlVEN91f1LNxBEmZQfL_8Hu9q8Fo1qrxUeYB7fxhT-AQPhg3wqjz6LS03fi9tQ-TIYbzRsJN0vRXqLKUSBwgF_c0wRLm73kAcDiQWFI-icUpv1RpDZSq65kkpweSITImONENy1m6PEfnvRM-cm5dQs0PVvW-Tj_1orSM2HV_D-ynNADIch0uHtXA5Tp0_jnDYAfDyvGcOuKKxK06bAi5GKUC9nNjrwc4BKWCdPvRAJF_8FgGJCaPre_iCVfxEg2Dda_lORaG9Da0S1qU7W3B-w4sZaWV9M3DNeiHfGVpUulqv0CdvpsP1N7AgN96NuKOVoPvDu_3jEmZuIuCRL",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=5522487482&itemId=8641833687&vendorItemId=78633982323&traceid=V0-153-2c6224c7171bb822&requestid=20261108001727873050093169&token=31850C%7CGM&pt=0&slot=1"
+          }
+        ]
+      },
+      {
+        "minScore": 0,
+        "name": "오프라인 명상가 🧘‍♀️",
+        "headline": "알림이 없어도 평온한 당신, 이미 디지털 디톡스를 실천하고 있네요.",
+        "emoji": "🌿",
+        "tag": "디지털 균형형",
+        "hashtags": [
+          "#디지털균형",
+          "#마인드풀니스",
+          "#현실지향",
+          "#힐링라이프"
+        ],
+        "bars": [
+          20,
+          15,
+          10,
+          5
+        ],
+        "summary": "당신은 스마트폰을 '도구'로 사용하고, '주인'으로 섬기지 않는 드문 존재입니다. 알림이 울려도 그것이 내 삶과 상관없는 것인지, 지금 처리해야 할 일인지를 냉철하게 판단합니다. 덕분에 당신은 현실의 사람들과 깊은 유대감을 형성하고, 자기 내면의 목소리를 들을 줄 압니다. 당신의 멘탈은 가장 건강한 상태입니다.",
+        "trap": "자신의 디지털 해소를 너무 당연시하다가, 주변 사람들의 중독된 모습을 과하게 판단하거나 비판하는 '디지털 우월주의'에 빠지는 것. 공감과 함께 부드럽게 조언하는 것이 좋습니다.",
+        "advice": "여유가 있다면, 당신의 '디지털 디톡스 비법'을 주변 친구들에게 공유해 보세요. 당신의 평온함이 누군가에게는 큰 희망이 될 수 있습니다. 현재 유지하되, 새로운 아날로그 취미를 시작해 보세요.",
+        "rx_keywords": [
+          "실내 화분",
+          "향수 캔들"
+        ],
+        "prescriptions": [
+          {
+            "title": "석화 사막의장미 두꺼운 몸통 아데니움 오베숨 바오밥나무 실내식물",
+            "tag": "맞춤 케어 · 실내 화분",
+            "reason": "실내 화분 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/vCdDwq-lfARnyDalvKVBO__40jCNmX_e9l8RtalLJai6I4AzhDFG9NUQcO2tfecqW8gk2BjOla0hS_32yPFsbJa8vJ0NVm4sW_KIVt7smqpzHYLX-mwznOliIK-dh9dhCC1gngoZF3odP64nsC0IoXV98B0h9bJ8fyly9z-qxNeyf4bSCVZvnohZv6RDrnqLgvwhPk1-AczoJLvJBW-UWB2cV4F9sjl-Jt8F_CYpXqyscCjU6zxyMbvOlnopZSYW3n50loy4Hg89q_kux6GV8cqDqpqkJBVBtcFXbGeR7EGVOED9K--LgKISusq5_EseWmNQEVnjzpG0OsUY26krK_MsKTQhbZXDTzC0oFUnSYPmP2g2Oc2pKyydvrRkxPYpnNeIGIVH-tPNZRlR6WJE73cxxxM-YgYzSTBI9O4AA_GTwrclohJ5P7sMF7WDP9w0AazHACi2PeEjKRBE8Jw2JsAC0HAB9f4HvB2y3d_0de5nPa0r-2XjwE1grWwtKPbLPxkI9M096_zPZ5pUGvv5rh-b-7QjJAx8rbKNCOp2q6gG8Spt3Fim0zo=",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=9649964486&itemId=28842056291&vendorItemId=95776154831&traceid=V0-153-0c45c93880d63288&requestid=20261108001728498168967007&token=31850C%7CGM&pt=0&slot=1"
+          },
+          {
+            "title": "르미에 라지자 캔들",
+            "tag": "맞춤 케어 · 향수 캔들",
+            "reason": "향수 캔들 케어로 지친 일상에 소소한 활력과 안정을 선물해보세요.",
+            "image": "https://ads-partners.coupang.com/image1/0PtWVLKgmH4C3-qp0LgdUaddGxYp7jPPV_rItEqIjmWLDQYUlEpXD_xqf6pHaw6vNbsCqzTi-r_IQbRUiEDVpPq4IpTbP9hC8UqwV2E8Z5RiwEdtMt5Fh5zhF9Xl227ko5gWP8JzJe4BFuvd89XGX-6idzfl5kv-TZzvAXuiqLojGl-MymGSX_gHiVCw29Cm5uSvJ7eF5oXsjmxFDnp6Fk1IgXI1WkDaNA4qcKN6GGX65KapQM-ABfUeikMIorVSBDoXAR0k5an2TqSM1dEk2xT1YDlhcMhJoVYG7giZhrcp-OYvy-r2J7oP70nBoHns7EU6fIIn6JRwnO_0wyZnVbkhhdRvAEwKDlAbp1HaohAOXDzGqNol8kKBWWHZ71FVxstJ9s6OPSJb4ky3kUJYn7DC9Ask1XNyfzSPtN1AbVE7Lq-i_LMrza2IPPHG5QzH9k-8d0QbHe-HVOvr2QR7zgp4nQVbo8KNwN3RV6QDqEH204yXhrHjgbFojBi6uvSEjv9JMkxBduvGnZ0ZTgnXfVEeIhb4_dRwhC6h7xGZ1X-F1D4zeh313e0uLTZXlMMB5EoIJaBzAQd2tXdGy_gaKXFg1w==",
+            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2740494&subid=blog0001&pageKey=6102014865&itemId=24428606594&vendorItemId=93407822094&traceid=V0-153-0b4dd8ee23a5facc&requestid=20261108001728804255310420&token=31850C%7CGM&pt=0&slot=1"
+          }
+        ]
+      }
+    ],
+    "participants": 0,
+    "created_at": "2026-11-08 00:17"
   }
 ];
